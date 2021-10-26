@@ -13,6 +13,7 @@ let cs = {
     "Weekly": "Týdně",
     "Day": "Den",
     "Daily": "Denně",
+    "Card": "el simple"
     "Agenda": "Denní program",
     "Navigation Buttons": "Navigační tlačítka",
     "Today": "Dnes",
