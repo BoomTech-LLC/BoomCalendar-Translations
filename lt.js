@@ -206,6 +206,7 @@ let lt = {
   Tooltip: "Patarimas",
   Popup: "POPUP",
   None: "Nė vienas",
+  "Search for events" : "Ieškokite įvykių",
   "Show Category": "Parodyti kategoriją",
   "Header Align": "Antraštė",
   "Show Time": "Pasirodymas",
