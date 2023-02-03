@@ -206,7 +206,7 @@ let lt = {
   Tooltip: "Patarimas",
   Popup: "POPUP",
   None: "Nė vienas",
-  "Search for events" : "Ieškokite įvykių",
+  "Search for events": "Ieškokite įvykių",
   "Show Category": "Parodyti kategoriją",
   "Header Align": "Antraštė",
   "Show Time": "Pasirodymas",
@@ -376,5 +376,6 @@ let lt = {
     "Praneškite renginių kūrėjams apie svečią",
   "Send event creators notification emails as soon as guests register for their events":
     "Siųskite renginių kūrėjų pranešimų el. Laiškus, kai tik svečiai užsiregistruos į savo renginius",
+  Register: "Registruotis",
 };
 export default lt;
