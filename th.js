@@ -418,6 +418,10 @@ let th = {
  "14 days after event ends" : "14 วันหลังจากเหตุการณ์สิ้นสุดลง",
  "30 days after event ends" : "30 วันหลังจากเหตุการณ์สิ้นสุดลง",
  "Menu" : "เมนู",
- "No event for selected date" : "ไม่มีเหตุการณ์สำหรับวันที่ที่เลือก"
+ "No event for selected date" : "ไม่มีเหตุการณ์สำหรับวันที่ที่เลือก",
+ "Month" : "เดือน",
+ "Day" : "วัน",
+ "Week" : "สัปดาห์",
+ "view" : "ดู"
 }
 export default th

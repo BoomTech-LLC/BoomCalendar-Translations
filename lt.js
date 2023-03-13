@@ -376,6 +376,10 @@ let lt = {
     "Praneškite renginių kūrėjams apie svečią",
   "Send event creators notification emails as soon as guests register for their events":
     "Siųskite renginių kūrėjų pranešimų el. Laiškus, kai tik svečiai užsiregistruos į savo renginius",
-  Register: "Registruotis",
-};
-export default lt;
+  Register: "Registruotis",,
+ "Month" : "Mėnuo",
+ "Day" : "Diena",
+ "Week" : "Savaitė",
+ "view" : "vaizdas"
+}
+export default lt

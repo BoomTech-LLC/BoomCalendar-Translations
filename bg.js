@@ -417,6 +417,10 @@ let bg = {
  "14 days after event ends" : "14 дни след приключване на събитието",
  "30 days after event ends" : "30 дни след приключване на събитието",
  "Menu" : "Меню",
- "No event for selected date" : "Няма събитие за избрана дата"
+ "No event for selected date" : "Няма събитие за избрана дата",
+ "Month" : "Месец",
+ "Day" : "Ден",
+ "Week" : "Седмица",
+ "view" : "Преглед"
 }
 export default bg

@@ -418,6 +418,10 @@ let lv = {
  "14 days after event ends" : "14 dienas pēc notikuma beigām",
  "30 days after event ends" : "30 dienas pēc notikuma beigām",
  "Menu" : "Ēdienkarte",
- "No event for selected date" : "Nav notikumu atlasītajam datumam"
+ "No event for selected date" : "Nav notikumu atlasītajam datumam",
+ "Month" : "Mēnesis",
+ "Day" : "Diena",
+ "Week" : "Nedēļa",
+ "view" : "skats"
 }
 export default lv

@@ -413,6 +413,10 @@ let vi = {
  "14 days after event ends" : "14 ngày sau khi sự kiện kết thúc",
  "30 days after event ends" : "30 ngày sau khi sự kiện kết thúc",
  "Menu" : "Thực đơn",
- "No event for selected date" : "Không có sự kiện nào cho ngày được chọn"
+ "No event for selected date" : "Không có sự kiện nào cho ngày được chọn",
+ "Month" : "Tháng",
+ "Day" : "Ngày",
+ "Week" : "Tuần",
+ "view" : "xem"
 }
 export default vi

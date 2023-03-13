@@ -417,6 +417,10 @@ let fi = {
  "14 days after event ends" : "14 päivää tapahtuman päättymisen jälkeen",
  "30 days after event ends" : "30 päivää tapahtuman päättymisen jälkeen",
  "Menu" : "Valikko",
- "No event for selected date" : "Ei tapahtumaa valitulle päivälle"
+ "No event for selected date" : "Ei tapahtumaa valitulle päivälle",
+ "Month" : "Kuukausi",
+ "Day" : "Päivä",
+ "Week" : "Viikko",
+ "view" : "näkymä"
 }
 export default fi

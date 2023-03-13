@@ -418,6 +418,10 @@ let no = {
  "14 days after event ends" : "14 dager etter at hendelsen slutter",
  "30 days after event ends" : "30 dager etter at hendelsen er slutt",
  "Menu" : "Meny",
- "No event for selected date" : "Ingen hendelse for valgt dato"
+ "No event for selected date" : "Ingen hendelse for valgt dato",
+ "Month" : "Måned",
+ "Day" : "Dag",
+ "Week" : "Uke",
+ "view" : "utsikt"
 }
 export default no

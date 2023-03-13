@@ -417,6 +417,10 @@ let cs = {
  "14 days after event ends" : "14 dní po skončení události",
  "30 days after event ends" : "30 dní po skončení události",
  "Menu" : "Jídelní lístek",
- "No event for selected date" : "Žádná událost pro vybrané datum"
+ "No event for selected date" : "Žádná událost pro vybrané datum",
+ "Month" : "Měsíc",
+ "Day" : "Den",
+ "Week" : "Týden",
+ "view" : "Pohled"
 }
 export default cs

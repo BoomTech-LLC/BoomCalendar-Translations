@@ -451,5 +451,9 @@ let fr = {
   "30 days after event ends": "30 jours après la fin de l'événement",
   Menu: "Menu",
   "No event for selected date": "Aucun événement pour la date sélectionnée",
+  Month: "Mois",
+  Day: "Jour",
+  Week: "Semaine",
+  view: "voir",
 };
-export default fr
+export default fr;

@@ -423,6 +423,10 @@ let sv = {
  "14 days after event ends" : "14 dagar efter evenemangets slut",
  "30 days after event ends" : "30 dagar efter evenemangets slut",
  "Menu" : "Meny",
- "No event for selected date" : "Inget evenemang för valt datum"
+ "No event for selected date" : "Inget evenemang för valt datum",
+ "Month" : "Månad",
+ "Day" : "Dag",
+ "Week" : "Vecka",
+ "view" : "se"
 }
 export default sv

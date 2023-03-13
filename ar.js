@@ -417,6 +417,10 @@ let ar = {
  "14 days after event ends" : "14 يومًا بعد انتهاء الحدث",
  "30 days after event ends" : "30 يومًا بعد انتهاء الحدث",
  "Menu" : "قائمة الطعام",
- "No event for selected date" : "لا يوجد حدث للتاريخ المحدد"
+ "No event for selected date" : "لا يوجد حدث للتاريخ المحدد",
+ "Month" : "شهر",
+ "Day" : "يوم",
+ "Week" : "أسبوع",
+ "view" : "منظر"
 }
 export default ar

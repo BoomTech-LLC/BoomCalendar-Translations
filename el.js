@@ -417,6 +417,10 @@ let el = {
  "14 days after event ends" : "14 ημέρες μετά το τέλος της εκδήλωσης",
  "30 days after event ends" : "30 ημέρες μετά το τέλος της εκδήλωσης",
  "Menu" : "Μενού",
- "No event for selected date" : "Δεν υπάρχει συμβάν για επιλεγμένη ημερομηνία"
+ "No event for selected date" : "Δεν υπάρχει συμβάν για επιλεγμένη ημερομηνία",
+ "Month" : "Μήνας",
+ "Day" : "Ημέρα",
+ "Week" : "Εβδομάδα",
+ "view" : "θέα"
 }
 export default el
