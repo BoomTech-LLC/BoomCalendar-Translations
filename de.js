@@ -421,6 +421,7 @@ let de = {
  "Month" : "Monat",
  "Day" : "Tag",
  "Week" : "Woche",
- "view" : "Sicht"
+ "view" : "Sicht",
+ "List" : "Aufführen"
 }
 export default de

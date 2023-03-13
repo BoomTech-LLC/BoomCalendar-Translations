@@ -421,6 +421,7 @@ let cs = {
  "Month" : "Měsíc",
  "Day" : "Den",
  "Week" : "Týden",
- "view" : "Pohled"
+ "view" : "Pohled",
+ "List" : "Seznam"
 }
 export default cs

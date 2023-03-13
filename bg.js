@@ -421,6 +421,7 @@ let bg = {
  "Month" : "Месец",
  "Day" : "Ден",
  "Week" : "Седмица",
- "view" : "Преглед"
+ "view" : "Преглед",
+ "List" : "Списък"
 }
 export default bg

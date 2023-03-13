@@ -422,6 +422,7 @@ let lv = {
  "Month" : "Mēnesis",
  "Day" : "Diena",
  "Week" : "Nedēļa",
- "view" : "skats"
+ "view" : "skats",
+ "List" : "Saraksts"
 }
 export default lv

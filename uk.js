@@ -422,6 +422,7 @@ let uk = {
  "Month" : "Місяць",
  "Day" : "День",
  "Week" : "Тиждень",
- "view" : "переглянути"
+ "view" : "переглянути",
+ "List" : "Список"
 }
 export default uk

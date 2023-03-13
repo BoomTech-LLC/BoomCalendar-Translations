@@ -422,6 +422,7 @@ let he = {
  "Month" : "חוֹדֶשׁ",
  "Day" : "יְוֹם",
  "Week" : "שָׁבוּעַ",
- "view" : "נוף"
+ "view" : "נוף",
+ "List" : "רשימה"
 }
 export default he

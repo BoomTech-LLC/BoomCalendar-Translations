@@ -421,6 +421,7 @@ let fi = {
  "Month" : "Kuukausi",
  "Day" : "Päivä",
  "Week" : "Viikko",
- "view" : "näkymä"
+ "view" : "näkymä",
+ "List" : "Lista"
 }
 export default fi

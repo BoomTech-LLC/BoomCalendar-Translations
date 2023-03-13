@@ -422,6 +422,7 @@ let th = {
  "Month" : "เดือน",
  "Day" : "วัน",
  "Week" : "สัปดาห์",
- "view" : "ดู"
+ "view" : "ดู",
+ "List" : "รายการ"
 }
 export default th

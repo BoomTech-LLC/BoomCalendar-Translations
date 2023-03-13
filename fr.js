@@ -455,5 +455,6 @@ let fr = {
   Day: "Jour",
   Week: "Semaine",
   view: "voir",
+  List: "Liste",
 };
 export default fr;

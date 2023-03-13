@@ -422,6 +422,7 @@ let nl = {
  "Month" : "Maand",
  "Day" : "Dag",
  "Week" : "Week",
- "view" : "weergave"
+ "view" : "weergave",
+ "List" : "Lijst"
 }
 export default nl

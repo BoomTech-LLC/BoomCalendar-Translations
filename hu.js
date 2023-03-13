@@ -419,6 +419,7 @@ let hu = {
  "Month" : "Hónap",
  "Day" : "Nap",
  "Week" : "Hét",
- "view" : "Kilátás"
+ "view" : "Kilátás",
+ "List" : "Lista"
 }
 export default hu

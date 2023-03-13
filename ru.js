@@ -422,6 +422,7 @@ let ru = {
  "Month" : "Месяц",
  "Day" : "День",
  "Week" : "Неделя",
- "view" : "вид"
+ "view" : "вид",
+ "List" : "Список"
 }
 export default ru

@@ -417,6 +417,7 @@ let vi = {
  "Month" : "Tháng",
  "Day" : "Ngày",
  "Week" : "Tuần",
- "view" : "xem"
+ "view" : "xem",
+ "List" : "Danh sách"
 }
 export default vi

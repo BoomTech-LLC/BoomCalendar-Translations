@@ -422,6 +422,7 @@ let fa = {
  "Month" : "ماه",
  "Day" : "روز",
  "Week" : "هفته",
- "view" : "چشم انداز"
+ "view" : "چشم انداز",
+ "List" : "لیست"
 }
 export default fa

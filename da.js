@@ -421,6 +421,7 @@ let da = {
  "Month" : "Måned",
  "Day" : "Dag",
  "Week" : "Uge",
- "view" : "udsigt"
+ "view" : "udsigt",
+ "List" : "Liste"
 }
 export default da

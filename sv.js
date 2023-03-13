@@ -427,6 +427,7 @@ let sv = {
  "Month" : "Månad",
  "Day" : "Dag",
  "Week" : "Vecka",
- "view" : "se"
+ "view" : "se",
+ "List" : "Lista"
 }
 export default sv

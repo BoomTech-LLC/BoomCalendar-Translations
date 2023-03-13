@@ -422,6 +422,7 @@ let zh = {
  "Month" : "月",
  "Day" : "天",
  "Week" : "星期",
- "view" : "看法"
+ "view" : "看法",
+ "List" : "列表"
 }
 export default zh

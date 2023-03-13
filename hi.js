@@ -422,6 +422,7 @@ let hi = {
  "Month" : "महीना",
  "Day" : "दिन",
  "Week" : "सप्ताह",
- "view" : "देखना"
+ "view" : "देखना",
+ "List" : "सूची"
 }
 export default hi

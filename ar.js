@@ -421,6 +421,7 @@ let ar = {
  "Month" : "شهر",
  "Day" : "يوم",
  "Week" : "أسبوع",
- "view" : "منظر"
+ "view" : "منظر",
+ "List" : "قائمة"
 }
 export default ar

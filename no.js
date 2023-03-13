@@ -422,6 +422,7 @@ let no = {
  "Month" : "Måned",
  "Day" : "Dag",
  "Week" : "Uke",
- "view" : "utsikt"
+ "view" : "utsikt",
+ "List" : "Liste"
 }
 export default no

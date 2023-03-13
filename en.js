@@ -417,6 +417,7 @@ let en = {
  "Month" : "Month",
  "Day" : "Day",
  "Week" : "Week",
- "view" : "view"
+ "view" : "view",
+ "List" : "List"
 }
 export default en

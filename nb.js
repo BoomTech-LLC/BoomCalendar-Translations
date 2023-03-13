@@ -360,5 +360,6 @@ let nb = {
   Week: "Uke",
   Day: "Dag",
   view: "utsikt",
+  List: "Liste",
 };
 export default nb;

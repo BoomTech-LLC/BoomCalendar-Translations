@@ -422,6 +422,7 @@ let tr = {
  "Month" : "Ay",
  "Day" : "Gün",
  "Week" : "Hafta",
- "view" : "görüş"
+ "view" : "görüş",
+ "List" : "Liste"
 }
 export default tr

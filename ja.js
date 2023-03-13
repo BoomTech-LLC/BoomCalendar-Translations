@@ -422,6 +422,7 @@ let ja = {
  "Month" : "月",
  "Day" : "日",
  "Week" : "週",
- "view" : "意見"
+ "view" : "意見",
+ "List" : "リスト"
 }
 export default ja

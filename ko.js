@@ -422,6 +422,7 @@ let ko = {
  "Month" : "월",
  "Day" : "낮",
  "Week" : "주",
- "view" : "보다"
+ "view" : "보다",
+ "List" : "목록"
 }
 export default ko

@@ -414,6 +414,7 @@ let it = {
  "Month" : "Mese",
  "Day" : "Giorno",
  "Week" : "Settimana",
- "view" : "visualizzazione"
+ "view" : "visualizzazione",
+ "List" : "Elenco"
 }
 export default it

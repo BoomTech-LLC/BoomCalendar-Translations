@@ -381,5 +381,6 @@ let lt = {
   Day: "Diena",
   Week: "Savaitė",
   view: "vaizdas",
+  List: "Sąrašas",
 };
 export default lt;

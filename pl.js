@@ -422,6 +422,7 @@ let pl = {
  "Month" : "Miesiąc",
  "Day" : "Dzień",
  "Week" : "Tydzień",
- "view" : "pogląd"
+ "view" : "pogląd",
+ "List" : "Lista"
 }
 export default pl

@@ -421,6 +421,7 @@ let el = {
  "Month" : "Μήνας",
  "Day" : "Ημέρα",
  "Week" : "Εβδομάδα",
- "view" : "θέα"
+ "view" : "θέα",
+ "List" : "Λίστα"
 }
 export default el
