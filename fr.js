@@ -455,8 +455,8 @@ let fr = {
   Day: "Jour",
   Week: "Semaine",
   view: "voir",
-  List: "Liste",,
- "Year" : "Année",
- "Yearly Style" : "Style annuel"
-}
-export default fr
+  List: "Liste",
+  Year: "Année",
+  "Yearly Style": "Style annuel",
+};
+export default fr;
