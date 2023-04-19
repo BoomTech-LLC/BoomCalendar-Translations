@@ -423,6 +423,10 @@ let lv = {
  "Day" : "Diena",
  "Week" : "Nedēļa",
  "view" : "skats",
- "List" : "Saraksts"
+ "List" : "Saraksts",
+ "Year" : "Gads",
+ "Yearly" : "Ikgadējs",
+ "Year view header" : "Gada skata galvene",
+ "Yearly Style" : "Ikgadējā stils"
 }
 export default lv

@@ -423,6 +423,10 @@ let zh = {
  "Day" : "天",
  "Week" : "星期",
  "view" : "看法",
- "List" : "列表"
+ "List" : "列表",
+ "Year" : "年",
+ "Yearly" : "每年",
+ "Year view header" : "年度视图标题",
+ "Yearly Style" : "年度风格"
 }
-export default zh
+export default zh-cn

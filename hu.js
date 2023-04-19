@@ -420,6 +420,8 @@ let hu = {
  "Day" : "Nap",
  "Week" : "Hét",
  "view" : "Kilátás",
- "List" : "Lista"
+ "List" : "Lista",
+ "Year" : "Év",
+ "Yearly Style" : "Évi stílus"
 }
 export default hu

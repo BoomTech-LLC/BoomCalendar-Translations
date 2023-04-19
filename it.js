@@ -415,6 +415,10 @@ let it = {
  "Day" : "Giorno",
  "Week" : "Settimana",
  "view" : "visualizzazione",
- "List" : "Elenco"
+ "List" : "Elenco",
+ "Year" : "Anno",
+ "Yearly" : "Annuale",
+ "Year view header" : "Testa di visualizzazione dell'anno",
+ "Yearly Style" : "Stile annuale"
 }
 export default it

@@ -423,6 +423,10 @@ let ja = {
  "Day" : "日",
  "Week" : "週",
  "view" : "意見",
- "List" : "リスト"
+ "List" : "リスト",
+ "Year" : "年",
+ "Yearly" : "毎年",
+ "Year view header" : "年のビューヘッダー",
+ "Yearly Style" : "毎年恒例のスタイル"
 }
 export default ja

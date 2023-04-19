@@ -422,6 +422,11 @@ let de = {
  "Day" : "Tag",
  "Week" : "Woche",
  "view" : "Sicht",
- "List" : "Aufführen"
+ "List" : "Aufführen",
+ "Year" : "Jahr",
+ "Year" : "Jahr",
+ "Yearly" : "Jährlich",
+ "Year view header" : "JAHRE View Header",
+ "Yearly Style" : "Jährlicher Stil"
 }
 export default de

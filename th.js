@@ -423,6 +423,9 @@ let th = {
  "Day" : "วัน",
  "Week" : "สัปดาห์",
  "view" : "ดู",
- "List" : "รายการ"
+ "List" : "รายการ",
+ "Yearly" : "ทุกปี",
+ "Year view header" : "ส่วนหัวดูปี",
+ "Yearly Style" : "สไตล์รายปี"
 }
 export default th

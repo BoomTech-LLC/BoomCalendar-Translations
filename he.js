@@ -423,6 +423,10 @@ let he = {
  "Day" : "יְוֹם",
  "Week" : "שָׁבוּעַ",
  "view" : "נוף",
- "List" : "רשימה"
+ "List" : "רשימה",
+ "Year" : "שָׁנָה",
+ "Yearly" : "שְׁנָתִי",
+ "Year view header" : "כותרת תצוגת שנה",
+ "Yearly Style" : "סגנון שנתי"
 }
 export default he

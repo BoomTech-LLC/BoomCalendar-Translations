@@ -418,6 +418,10 @@ let en = {
  "Day" : "Day",
  "Week" : "Week",
  "view" : "view",
- "List" : "List"
+ "List" : "List",
+ "Year" : "Year",
+ "Yearly" : "Yearly",
+ "Year view header" : "Year view header",
+ "Yearly Style" : "Yearly Style"
 }
 export default en

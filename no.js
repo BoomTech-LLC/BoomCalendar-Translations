@@ -423,6 +423,8 @@ let no = {
  "Day" : "Dag",
  "Week" : "Uke",
  "view" : "utsikt",
- "List" : "Liste"
+ "List" : "Liste",
+ "Year" : "År",
+ "Yearly Style" : "Årlig stil"
 }
 export default no

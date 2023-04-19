@@ -422,6 +422,11 @@ let cs = {
  "Day" : "Den",
  "Week" : "Týden",
  "view" : "Pohled",
- "List" : "Seznam"
+ "List" : "Seznam",
+ "Year" : "Rok",
+ "Year" : "Rok",
+ "Yearly" : "Roční",
+ "Year view header" : "Roční záhlaví zobrazení",
+ "Yearly Style" : "Roční styl"
 }
 export default cs

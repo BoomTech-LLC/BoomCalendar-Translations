@@ -422,6 +422,11 @@ let da = {
  "Day" : "Dag",
  "Week" : "Uge",
  "view" : "udsigt",
- "List" : "Liste"
+ "List" : "Liste",
+ "Year" : "År",
+ "Year" : "År",
+ "Yearly" : "Årligt",
+ "Year view header" : "År Vis header",
+ "Yearly Style" : "Årlig stil"
 }
 export default da

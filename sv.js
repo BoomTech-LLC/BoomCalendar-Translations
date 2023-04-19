@@ -428,6 +428,8 @@ let sv = {
  "Day" : "Dag",
  "Week" : "Vecka",
  "view" : "se",
- "List" : "Lista"
+ "List" : "Lista",
+ "Year" : "År",
+ "Yearly Style" : "Årstil"
 }
 export default sv

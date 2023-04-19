@@ -423,6 +423,8 @@ let nl = {
  "Day" : "Dag",
  "Week" : "Week",
  "view" : "weergave",
- "List" : "Lijst"
+ "List" : "Lijst",
+ "Year" : "Jaar",
+ "Yearly Style" : "Jaarlijkse stijl"
 }
 export default nl

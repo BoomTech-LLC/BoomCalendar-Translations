@@ -423,6 +423,10 @@ let tr = {
  "Day" : "Gün",
  "Week" : "Hafta",
  "view" : "görüş",
- "List" : "Liste"
+ "List" : "Liste",
+ "Year" : "Yıl",
+ "Yearly" : "Yıllık",
+ "Year view header" : "Yıl Görünümü Başlığı",
+ "Yearly Style" : "Yıllık Stil"
 }
 export default tr
