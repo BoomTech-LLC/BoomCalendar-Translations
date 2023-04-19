@@ -418,6 +418,10 @@ let vi = {
  "Day" : "Ngày",
  "Week" : "Tuần",
  "view" : "xem",
- "List" : "Danh sách"
+ "List" : "Danh sách",
+ "Year" : "Năm",
+ "Yearly" : "Hàng năm",
+ "Year view header" : "Tiêu đề xem năm",
+ "Yearly Style" : "Phong cách hàng năm"
 }
 export default vi

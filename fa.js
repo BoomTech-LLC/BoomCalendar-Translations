@@ -423,6 +423,10 @@ let fa = {
  "Day" : "روز",
  "Week" : "هفته",
  "view" : "چشم انداز",
- "List" : "لیست"
+ "List" : "لیست",
+ "Year" : "سال",
+ "Yearly" : "سالانه",
+ "Year view header" : "هدر نمای سال",
+ "Yearly Style" : "سبک سالانه"
 }
 export default fa

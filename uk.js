@@ -423,6 +423,10 @@ let uk = {
  "Day" : "День",
  "Week" : "Тиждень",
  "view" : "переглянути",
- "List" : "Список"
+ "List" : "Список",
+ "Year" : "Рік",
+ "Yearly" : "Щорічно",
+ "Year view header" : "Рік перегляду заголовок",
+ "Yearly Style" : "Щорічний стиль"
 }
 export default uk

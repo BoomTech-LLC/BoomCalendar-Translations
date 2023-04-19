@@ -423,6 +423,10 @@ let hi = {
  "Day" : "दिन",
  "Week" : "सप्ताह",
  "view" : "देखना",
- "List" : "सूची"
+ "List" : "सूची",
+ "Year" : "वर्ष",
+ "Yearly" : "सालाना",
+ "Year view header" : "वर्ष का दृश्य हैडर",
+ "Yearly Style" : "वार्षिक शैली"
 }
 export default hi

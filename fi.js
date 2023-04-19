@@ -422,6 +422,10 @@ let fi = {
  "Day" : "Päivä",
  "Week" : "Viikko",
  "view" : "näkymä",
- "List" : "Lista"
+ "List" : "Lista",
+ "Year" : "Vuosi",
+ "Yearly" : "Vuosittain",
+ "Year view header" : "Vuodenäkymäotsikko",
+ "Yearly Style" : "Vuosittainen tyyli"
 }
 export default fi

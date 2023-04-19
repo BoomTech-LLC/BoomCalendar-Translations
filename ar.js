@@ -422,6 +422,11 @@ let ar = {
  "Day" : "يوم",
  "Week" : "أسبوع",
  "view" : "منظر",
- "List" : "قائمة"
+ "List" : "قائمة",
+ "Year" : "سنة",
+ "Year" : "سنة",
+ "Yearly" : "سنوي",
+ "Year view header" : "رأس السنة عرض",
+ "Yearly Style" : "الأسلوب السنوي"
 }
 export default ar

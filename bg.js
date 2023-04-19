@@ -422,6 +422,11 @@ let bg = {
  "Day" : "Ден",
  "Week" : "Седмица",
  "view" : "Преглед",
- "List" : "Списък"
+ "List" : "Списък",
+ "Year" : "Година",
+ "Year" : "Година",
+ "Yearly" : "Годишно",
+ "Year view header" : "Година Преглед на заглавката",
+ "Yearly Style" : "Годишен стил"
 }
 export default bg

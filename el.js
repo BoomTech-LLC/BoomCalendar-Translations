@@ -422,6 +422,10 @@ let el = {
  "Day" : "Ημέρα",
  "Week" : "Εβδομάδα",
  "view" : "θέα",
- "List" : "Λίστα"
+ "List" : "Λίστα",
+ "Year" : "Ετος",
+ "Yearly" : "Ετήσια",
+ "Year view header" : "Κεφαλίδα προβολής έτους",
+ "Yearly Style" : "Ετήσιο στυλ"
 }
 export default el

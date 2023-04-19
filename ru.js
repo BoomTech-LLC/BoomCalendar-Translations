@@ -423,6 +423,10 @@ let ru = {
  "Day" : "День",
  "Week" : "Неделя",
  "view" : "вид",
- "List" : "Список"
+ "List" : "Список",
+ "Year" : "Год",
+ "Yearly" : "Ежегодно",
+ "Year view header" : "Год просмотра заголовок",
+ "Yearly Style" : "Годовой стиль"
 }
 export default ru

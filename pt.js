@@ -423,6 +423,10 @@ let pt = {
  "Day" : "Dia",
  "Week" : "Semana",
  "view" : "visualizar",
- "List" : "Lista"
+ "List" : "Lista",
+ "Year" : "Ano",
+ "Yearly" : "Anual",
+ "Year view header" : "Ano Visualize cabeçalho",
+ "Yearly Style" : "Estilo anual"
 }
 export default pt

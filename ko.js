@@ -423,6 +423,9 @@ let ko = {
  "Day" : "낮",
  "Week" : "주",
  "view" : "보다",
- "List" : "목록"
+ "List" : "목록",
+ "Year" : "년도",
+ "Yearly" : "매년",
+ "Year view header" : "연도 뷰 헤더"
 }
 export default ko

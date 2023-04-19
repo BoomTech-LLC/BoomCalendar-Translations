@@ -423,6 +423,10 @@ let pl = {
  "Day" : "Dzień",
  "Week" : "Tydzień",
  "view" : "pogląd",
- "List" : "Lista"
+ "List" : "Lista",
+ "Year" : "Rok",
+ "Yearly" : "Rocznie",
+ "Year view header" : "Rok widok na nagłówek",
+ "Yearly Style" : "Coroczny styl"
 }
 export default pl
