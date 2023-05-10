@@ -462,4 +462,4 @@ let zh = {
   "Year view header": "年度视图标题",
   "Yearly Style": "年度风格",
 };
-export default zh - cn;
+export default zh;
