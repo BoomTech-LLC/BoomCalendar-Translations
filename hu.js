@@ -188,7 +188,6 @@ let hu = {
   Less: "Kevésbé",
   Register: "Regisztráció",
   Card: "Kártya",
-
   Guests: "Vendégek",
   unlimited: "korlátlan",
   "Show more": "Mutass többet",
@@ -371,13 +370,10 @@ let hu = {
   "Oops! Something went wrong": "Hoppá!Valami elromlott",
   "We are sorry this event has already taken place":
     "Sajnáljuk, hogy ez az esemény már megtörtént",
-  "Back to calendar": "Vissza a naptárhoz",
+  "Back to calendar": "Vissza a naptárba",
   "This field is required": "Ez a mező kötelező",
   Phone: "Telefon",
   "Number field": "Számmező",
-  Option: "választási lehetőség",
-  "Check Box": "Jelölőnégyzet",
-  "Single Choice": "Egyetlen választás",
   "Please provide a valid email": "Kérjük, adjon meg érvényes e -mailt",
   "Select at least one option": "Válasszon legalább egy lehetőséget",
   "Choose tickets to see total value":
@@ -392,15 +388,9 @@ let hu = {
   "Sold Out": "Elkelt",
   "Tickets are available": "Jegyek elérhetők",
   "Sales End": "Értékesítési cél",
-  "Buy tickets": "Jegyeket vesz",
   "Availible from": "elérhető ekkortól",
   "Go to Orders": "Menjen a megrendelésekre",
   "Go to Details": "Lépjen a részletekre",
-  "Group ticket": "Csoportjegy",
-  Name: "Név",
-  Price: "Ár",
-  "Order by": "Rendezés",
-  "Order ID": "Rendelés azonosító",
   "Group ticket": "Csoportjegy",
   Name: "Név",
   Price: "Ár",
@@ -445,8 +435,6 @@ let hu = {
   "Ticket ID": "Jegy -azonosító",
   "If you have any questions contact to organizer":
     "Ha bármilyen kérdése van, vegye fel a kapcsolatot a szervezővel",
-  "If you have any questions contact to organizer":
-    "Ha bármilyen kérdése van, vegye fel a kapcsolatot a szervezővel",
   "As soon as event ends": "Amint az esemény véget ér",
   "1 day after event ends": "1 nappal az esemény vége után",
   "7 days after event ends": "7 nappal az esemény vége után",
@@ -454,12 +442,88 @@ let hu = {
   "30 days after event ends": "30 nappal az esemény vége után",
   Menu: "Menü",
   "No event for selected date": "Nincs esemény a kiválasztott dátumra",
-  Month: "Hónap",
-  Day: "Nap",
-  Week: "Hét",
   view: "Kilátás",
   List: "Lista",
   Year: "Év",
   "Yearly Style": "Évi stílus",
+  "There are no events": "Nincsenek események",
+  Autotranslation: "Autotranszláció",
+  "Once enabled, your calendar widget will be translated based on the website’s language. *note that as long as calendar title, and descriptions are inputted texts they can not be translated.":
+    "Ha engedélyezve van, a naptári widget a webhely nyelvén alapul.* Ne feledje, hogy mindaddig, amíg a naptár címe, és a leírások be vannak adva szövegek, amelyeket nem lehet lefordítani.",
+  "Note on mobile": "Megjegyzés a mobilon",
+  "Turn off or change the text of the “No events” bar on mobile version of calendar":
+    "Kapcsolja ki vagy módosítsa a 'Nincs esemény' sáv szövegét a naptár mobil verzióján",
+  Autodeletion: "Autodelezés",
+  "Enabling the option, will automatically remove your past events from the calendar.":
+    "Az opció engedélyezése automatikusan eltávolítja a múltbeli eseményeket a naptárból.",
+  "This does not apply to repeating events!":
+    "Ez nem vonatkozik az események megismétlésére!",
+  "Notify event creators about the guest":
+    "Értesítse a felhasználókat a vendégről",
+  "Send event creators notification emails as soon as guests register for their events":
+    "Küldje el az eseménykészítők értesítési e-mailjeit, amint a vendégek regisztrálnak az eseményeikre",
+  "List View Type": "Lista nézet típusa",
+  Yearly: "Évi",
+  "Year view header": "Év nézet fejléc",
+  "Description font": "Leírás betűtípus",
+  Connect: "csatlakozzon",
+  "You have no events": "आपका कोई कार्यक्रम नहीं है",
+  Synchronize: "सिंक्रनाइज़",
+  "Google Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
+    "A Google Naptár Sync lehetővé teszi az események és munkamenetek integrálását a Boom naptárával.",
+  "Outlook Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
+    "Az Outlook Naptár szinkronizálása lehetővé teszi az események és munkamenetek integrálását a Boom naptárral.",
+  "Your message has been sent successfully!":
+    "आपका संदेश सफलतापूर्वक प्रेषित किया गया!",
+  "There are no synchronized calendars": "Nincsenek szinkronizált naptárak",
+  "to view more than 7 events": "több mint 7 esemény megtekintéséhez",
+  "Mobile app": "Mobil alkalmazás",
+  "Admin Account": "व्यवस्थापक लेखा",
+  Password: "Jelszó",
+  "Second User": "दूसरा उपयोगकर्ता",
+  Edit: "Szerkesztés",
+  "Guest limit": "Vendégkorlát",
+  "All-day": "Egész nap",
+  "All the local settings are (automatically) based on your language. If your language is on the list, there 's no need to customize this section.":
+    "Az összes helyi beállítás (automatikus) az Ön nyelvén alapul.Ha a nyelved a listán szerepel, nincs szükség a szakasz testreszabására.",
+  available: "elérhető",
+  next: "következő",
+  Tickets: "Jegyek",
+  Quantity: "Mennyiség",
+  "Promo code": "Promóciós kód",
+  "Select a payment method": "Válassz fizetési módot",
+  Fee: "Díj",
+  Book: "Könyv",
+  "All the tickets have been sold out": "Minden jegyet elfogyott",
+  "Choose at least one ticket": "Válasszon legalább egy jegyet",
+  "First choose ticket": "Először válasszon jegyet",
+  "Please fill out your personal information.":
+    "Kérjük, töltse ki személyes adatait.",
+  "To make a successful purchase, please select your preferred payment method and enter the promo code for discounted tickets.":
+    "A sikeres vásárláshoz válassza ki a kívánt fizetési módot, és írja be a kedvezményes jegyek promóciós kódját.",
+  "Credit/Debit card": "Hitel- / betéti kártya",
+  "print here.": "Nyomtatás itt.",
+  "QR code for all tickets": "QR-kód minden jegyhez",
+  Duration: "Időtartam",
+  "Full Name": "Teljes név",
+  "Ticket id": "Jegyazonosító",
+  "Group id": "Csoportazonosító",
+  "Choose your ticket.": "Válassza ki a jegyét.",
+  "Fill out your personal information.": "Töltse ki személyes adatait.",
+  "Add the payment details.": "Adja hozzá a fizetési adatokat.",
+  "To be determined": "Meg kell határozni",
+  "You can find your e-tickets attached to the email or":
+    "Megtalálhatja az e-mailhez csatolt e-jegyeket, vagy",
+  "print here": "Nyomtatás itt",
+  "Full name": "Teljes név",
+  "Group ID": "Csoportazonosító",
+  "to Book": "foglalni",
+  "Unfortunately, your card has been declined":
+    "Sajnos a kártyáját elutasították",
+  "Thank you for your purchase!": "Köszönjük a vásárlást!",
+  "Find your printable e-tickets attached to the confirmation email":
+    "Keresse meg a megerősítő e-mailhez csatolt nyomtatható e-jegyeket",
+  Confirm: "megerősít",
 };
+
 export default hu;

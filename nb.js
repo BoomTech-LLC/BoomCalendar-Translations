@@ -356,9 +356,6 @@ let nb = {
   "There are no events added": "Det er ingen hendelser lagt til",
   "Location: To be determined": "Sted: For å bli bestemt",
   "No events for selected date": "Ingen hendelser for valgt dato",
-  Month: "Måned",
-  Week: "Uke",
-  Day: "Dag",
   view: "utsikt",
   List: "Liste",
 };

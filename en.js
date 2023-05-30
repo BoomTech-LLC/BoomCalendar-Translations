@@ -230,7 +230,6 @@ let en = {
   More: "More",
   Less: "Less",
   Register: "Register",
-
   Guests: "Guests",
   unlimited: "unlimited",
   "Show more": "Show more",
@@ -325,7 +324,7 @@ let en = {
   "Show Skeleton on mobile": "Show Skeleton on mobile",
   "Start 7-day Business trial": "Start 7-day Business trial",
   "Enjoy all the Unlimiited features, such as Sell tickets, Registration, Visitor event add-ons.":
-    "Enjoy all the Unlimiited features, such as Sell tickets, Registration, Visitor event add-ons.",
+    "Enjoy all the Unlimited features, such as Sell tickets, Registration, Visitor event add-ons.",
   "Please note: At the end of the trial period, you will be returned to your existing subscription plan.":
     "Please note: At the end of the trial period, you will be returned to your existing subscription plan.",
   "Not Now": "Not Now",
@@ -370,9 +369,6 @@ let en = {
   "This field is required": "This field is required",
   Phone: "Phone",
   "Number field": "Number field",
-  Option: "Option",
-  "Check Box": "Check Box",
-  "Single Choice": "Single Choice",
   "Please provide a valid email": "Please provide a valid email",
   "Select at least one option": "Select at least one option",
   "Choose tickets to see total value": "Choose tickets to see total value",
@@ -386,15 +382,9 @@ let en = {
   "Sold Out": "Sold Out",
   "Tickets are available": "Tickets are available",
   "Sales End": "Sales End",
-  "Buy tickets": "Buy tickets",
   "Availible from": "Available from",
   "Go to Orders": "Go to Orders",
   "Go to Details": "Go to Details",
-  "Group ticket": "Group ticket",
-  Name: "Name",
-  Price: "Price",
-  "Order by": "Order by",
-  "Order ID": "Order ID",
   "Group ticket": "Group ticket",
   Name: "Name",
   Price: "Price",
@@ -439,8 +429,6 @@ let en = {
   "Ticket ID": "Ticket ID",
   "If you have any questions contact to organizer":
     "If you have any questions contact to organizer",
-  "If you have any questions contact to organizer":
-    "If you have any questions contact to organizer",
   "As soon as event ends": "As soon as event ends",
   "1 day after event ends": "1 day after event ends",
   "7 days after event ends": "7 days after event ends",
@@ -448,14 +436,86 @@ let en = {
   "30 days after event ends": "30 days after event ends",
   Menu: "Menu",
   "No event for selected date": "No event for selected date",
-  Month: "Month",
-  Day: "Day",
-  Week: "Week",
   view: "view",
   List: "List",
   Year: "Year",
   Yearly: "Yearly",
   "Year view header": "Year view header",
   "Yearly Style": "Yearly Style",
+  "There are no events": "There are no events",
+  Autotranslation: "Autotranslation",
+  "Once enabled, your calendar widget will be translated based on the website’s language. *note that as long as calendar title, and descriptions are inputted texts they can not be translated.":
+    "Once enabled, your calendar widget will be translated based on the website’s language. *note that as long as calendar title, and descriptions are inputted texts they can not be translated.",
+  "Note on mobile": "Note on mobile",
+  "Turn off or change the text of the “No events” bar on mobile version of calendar":
+    "Turn off or change the text of the “No events” bar on mobile version of calendar",
+  Autodeletion: "Autodeletion",
+  "Enabling the option, will automatically remove your past events from the calendar.":
+    "Enabling the option, will automatically remove your past events from the calendar.",
+  "This does not apply to repeating events!":
+    "This does not apply to repeating events!",
+  "Notify event creators about the guest":
+    "Notify event creators about the guest",
+  "Send event creators notification emails as soon as guests register for their events":
+    "Send event creators notification emails as soon as guests register for their events",
+  "List View Type": "List View Type",
+  "Description font": "Description font",
+  Connect: "Connect",
+  "You have no events": "You have no events",
+  Synchronize: "Synchronize",
+  "Google Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
+    "Google Calendar sync allows you to integrate your events and sessions with your Boom Calendar.",
+  "Outlook Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
+    "Outlook Calendar sync allows you to integrate your events and sessions with your Boom Calendar.",
+  "Your message has been sent successfully!":
+    "Your message has been sent successfully!",
+  "There are no synchronized calendars": "There are no synchronized calendars",
+  "to view more than 7 events": "to view more than 7 events",
+  "Mobile app": "Mobile app",
+  "Admin Account": "Admin Account",
+  Password: "Password",
+  "Second User": "Second User",
+  Edit: "Edit",
+  "Guest limit": "Guest limit",
+  "All the local settings are (automatically) based on your language. If your language is on the list, there 's no need to customize this section.":
+    "All the local settings are (automatically) based on your language. If your language is on the list, there 's no need to customize this section.",
+  available: "available",
+  next: "next",
+  Tickets: "Tickets",
+  Quantity: "Quantity",
+  "Promo code": "Promo code",
+  "Select a payment method": "Select a payment method",
+  Fee: "Fee",
+  Book: "Book",
+  "All the tickets have been sold out": "All the tickets have been sold out",
+  "Choose at least one ticket": "Choose at least one ticket",
+  "First choose ticket": "First choose ticket",
+  "Please fill out your personal information.":
+    "Please fill out your personal information.",
+  "To make a successful purchase, please select your preferred payment method and enter the promo code for discounted tickets.":
+    "To make a successful purchase, please select your preferred payment method and enter the promo code for discounted tickets.",
+  "Credit/Debit card": "Credit/Debit card",
+  "print here.": "print here.",
+  "QR code for all tickets": "QR code for all tickets",
+  Duration: "Duration",
+  "Full Name": "Full Name",
+  "Ticket id": "Ticket id",
+  "Group id": "Group id",
+  "Choose your ticket.": "Choose your ticket.",
+  "Fill out your personal information.": "Fill out your personal information.",
+  "Add the payment details.": "Add the payment details.",
+  "To be determined": "To be determined",
+  "You can find your e-tickets attached to the email or":
+    "You can find your e-tickets attached to the email or",
+  "print here": "print here",
+  "Full name": "Full name",
+  "Group ID": "Group ID",
+  "to Book": "Book",
+  "Unfortunately, your card has been declined":
+    "Unfortunately, your card has been declined",
+  "Thank you for your purchase!": "Thank you for your purchase!",
+  "Find your printable e-tickets attached to the confirmation email":
+    "Find your printable e-tickets attached to the confirmation email",
+  Confirm: "Confirm",
 };
 export default en;

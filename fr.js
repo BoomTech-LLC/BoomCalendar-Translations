@@ -191,8 +191,7 @@ let fr = {
   More: "Plus",
   Less: "Moins",
   Register: "S'inscrire",
-  Card: "Liste",
-
+  Card: "Carte",
   Guests: "Invités",
   unlimited: "illimité",
   "Show more": "Montre plus",
@@ -374,14 +373,11 @@ let fr = {
   "Share Event": "Événement de partage",
   "Oops! Something went wrong": "Oops!Quelque chose s'est mal passé",
   "We are sorry this event has already taken place":
-    "Nous sommes désolés cet événement a déjà eu lieu",
+    "Nous sommes désolés que cet événement a déjà eu lieu",
   "Back to calendar": "Retour au calendrier",
   "This field is required": "Ce champ est requis",
   Phone: "Téléphoner",
   "Number field": "Champ de numéro",
-  Option: "Option",
-  "Check Box": "Cocher",
-  "Single Choice": "Choix unique",
   "Please provide a valid email": "Veuillez fournir un e-mail valide",
   "Select at least one option": "Sélectionnez au moins une option",
   "Sold Out": "Épuisé",
@@ -393,11 +389,6 @@ let fr = {
     "Vous recevrez bientôt un message de confirmation de l'inscription réussie à votre adresse e-mail.Vous pouvez également vérifier les détails de votre commande ci-dessous.",
   "Go to Orders": "Aller aux commandes",
   "Go to Details": "Aller aux détails",
-  "Group ticket": "Billet de groupe",
-  Name: "Nom",
-  Price: "Prix",
-  "Order by": "Commandé par",
-  "Order ID": "numéro de commande",
   "Group ticket": "Billet de groupe",
   Name: "Nom",
   Price: "Prix",
@@ -442,8 +433,6 @@ let fr = {
   "Ticket ID": "ID de billets",
   "If you have any questions contact to organizer":
     "Si vous avez des questions, contactez l'organisateur",
-  "If you have any questions contact to organizer":
-    "Si vous avez des questions, contactez l'organisateur",
   "As soon as event ends": "Dès que l'événement se termine",
   "1 day after event ends": "1 jour après l'événement se termine",
   "7 days after event ends": "7 jours après la fin de l'événement",
@@ -451,12 +440,96 @@ let fr = {
   "30 days after event ends": "30 jours après la fin de l'événement",
   Menu: "Menu",
   "No event for selected date": "Aucun événement pour la date sélectionnée",
-  Month: "Mois",
-  Day: "Jour",
-  Week: "Semaine",
   view: "voir",
   List: "Liste",
   Year: "Année",
   "Yearly Style": "Style annuel",
+  Upgrade: "Améliorer",
+  "There are no events": "Il n'y a pas d'événements",
+  Ascending: "Ascendant",
+  Descending: "Descendant",
+  "Open Add-ons Store": "Ouvrir la boutique de modules complémentaires",
+  "Use the Add-ons to install advanced features on your calendars, making them more functional!":
+    "Utilisez les modules complémentaires pour installer des fonctionnalités avancées sur vos calendriers et les rendre plus fonctionnels !",
+  Autotranslation: "Autotranslation",
+  "Once enabled, your calendar widget will be translated based on the website’s language. *note that as long as calendar title, and descriptions are inputted texts they can not be translated.":
+    "Une fois activé, votre widget de calendrier sera traduit en fonction de la langue du site Web.* Notez que tant que le titre du calendrier et les descriptions sont des textes saisis, ils ne peuvent pas être traduits.",
+  "Note on mobile": "Note sur mobile",
+  "Turn off or change the text of the “No events” bar on mobile version of calendar":
+    "Éteignez ou changez le texte de la barre «Aucun événement» sur la version mobile du calendrier",
+  Autodeletion: "Autodélétion",
+  "Enabling the option, will automatically remove your past events from the calendar.":
+    "L'activation de l'option supprimera automatiquement vos événements passés du calendrier.",
+  "This does not apply to repeating events!":
+    "Cela ne s'applique pas aux événements de répétition!",
+  "Notify event creators about the guest":
+    "Informer les utilisateurs de l'invité",
+  "Send event creators notification emails as soon as guests register for their events":
+    "Envoyez des e-mails de notification aux créateurs d'événements dès que les invités s'inscrivent à leurs événements",
+  "List View Type": "Type de vue de liste",
+  "Description font": "Police de description",
+  Connect: "relier",
+  "You have no events": "Vous n'avez aucun événement",
+  Synchronize: "Synchroniser",
+  "Google Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
+    "Google Calendar Sync vous permet d'intégrer vos événements et vos sessions avec votre calendrier de boom.",
+  "Outlook Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
+    "La synchronisation du calendrier Outlook vous permet d'intégrer vos événements et sessions à votre calendrier Boom.",
+  "Your message has been sent successfully!":
+    "Votre message a été envoyé avec succès!",
+  "There are no synchronized calendars":
+    "Il n'y a pas de calendriers synchronisés",
+  "to view more than 7 events": "pour voir plus de 7 événements",
+  "Mobile app": "נייד App.",
+  "Admin Account": "Compte administrateur",
+  Password: "סיסמה",
+  "Second User": "Deuxième utilisateur",
+  Edit: "Éditer",
+  "Guest limit": "Limite d'invité",
+  "All the local settings are (automatically) based on your language. If your language is on the list, there 's no need to customize this section.":
+    "Tous les paramètres locaux sont (automatiquement) en fonction de votre langue.Si votre langue figure sur la liste, il n'est pas nécessaire de personnaliser cette section.",
+  available: "disponible",
+  next: "suivante",
+  Tickets: "Des billets",
+  Quantity: "Quantité",
+  "Promo code": "Code promo",
+  "Select a payment method": "Choisissez une méthode de paiement",
+  Fee: "Frais",
+  Book: "Livre",
+  "All the tickets have been sold out": "Tous les billets ont été vendus",
+  "Choose at least one ticket": "Choisissez au moins un billet",
+  "First choose ticket": "Premier billet de choix",
+  "Please fill out your personal information.":
+    "S'il vous plaît remplir vos informations personnelles.",
+  "To make a successful purchase, please select your preferred payment method and enter the promo code for discounted tickets.":
+    "Pour effectuer un achat réussi, veuillez sélectionner votre mode de paiement préféré et saisir le code promotionnel pour les billets à prix réduit.",
+  "Choose payment method": "Choisissez le mode de paiement",
+  "Credit/Debit card": "Carte de crédit / débit",
+  "print here.": "Imprimez ici.",
+  "QR code for all tickets": "QR code pour tous les billets",
+  Duration: "Durée",
+  "Full Name": "Nom et prénom",
+  Total: "Le total",
+  "Ticket id": "ID de billets",
+  "Group id": "ID de groupe",
+  "Choose your ticket.": "Choisissez votre billet.",
+  "Fill out your personal information.":
+    "Remplissez vos informations personnelles.",
+  "Add the payment details.": "Ajouter les détails du paiement.",
+  "To be determined": "Être déterminé",
+  Pay: "Payer",
+  Free: "Libérer",
+  "You can find your e-tickets attached to the email or":
+    "Vous pouvez trouver vos billets électroniques attachés à l'e-mail ou",
+  "print here": "imprimer ici",
+  "Full name": "Nom et prénom",
+  "Group ID": "ID de groupe",
+  "to Book": "réserver",
+  "Unfortunately, your card has been declined":
+    "Malheureusement, votre carte a été refusée",
+  "Thank you for your purchase!": "Merci pour votre achat!",
+  "Find your printable e-tickets attached to the confirmation email":
+    "Trouvez vos couvertures électroniques imprimables jointes à l'e-mail de confirmation",
+  Confirm: "Confirmer",
 };
 export default fr;
