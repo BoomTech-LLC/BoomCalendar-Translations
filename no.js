@@ -425,6 +425,10 @@ let no = {
  "view" : "utsikt",
  "List" : "Liste",
  "Year" : "År",
- "Yearly Style" : "Årlig stil"
+ "Yearly Style" : "Årlig stil",
+ "Yearly Style" : "Årlig stil",
+ "Year" : "År",
+ "Yearly" : "Årlig",
+ "Year view header" : "År visningshode"
 }
 export default no

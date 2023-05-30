@@ -427,6 +427,10 @@ let zh = {
  "Year" : "年",
  "Yearly" : "每年",
  "Year view header" : "年度视图标题",
- "Yearly Style" : "年度风格"
+ "Yearly Style" : "年度风格",
+ "Yearly Style" : "年度风格",
+ "Year" : "年",
+ "Yearly" : "每年",
+ "Year view header" : "年度视图标题"
 }
 export default zh-cn

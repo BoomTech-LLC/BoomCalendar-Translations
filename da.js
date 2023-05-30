@@ -427,6 +427,10 @@ let da = {
  "Year" : "År",
  "Yearly" : "Årligt",
  "Year view header" : "År Vis header",
- "Yearly Style" : "Årlig stil"
+ "Yearly Style" : "Årlig stil",
+ "Yearly Style" : "Årlig stil",
+ "Year" : "År",
+ "Yearly" : "Årligt",
+ "Year view header" : "År Vis header"
 }
 export default da

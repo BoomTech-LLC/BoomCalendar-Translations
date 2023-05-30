@@ -427,6 +427,10 @@ let tr = {
  "Year" : "Yıl",
  "Yearly" : "Yıllık",
  "Year view header" : "Yıl Görünümü Başlığı",
- "Yearly Style" : "Yıllık Stil"
+ "Yearly Style" : "Yıllık Stil",
+ "Yearly Style" : "Yıllık Stil",
+ "Year" : "Yıl",
+ "Yearly" : "Yıllık",
+ "Year view header" : "Yıl Görünümü Başlığı"
 }
 export default tr

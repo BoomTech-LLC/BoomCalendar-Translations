@@ -427,6 +427,10 @@ let fa = {
  "Year" : "سال",
  "Yearly" : "سالانه",
  "Year view header" : "هدر نمای سال",
- "Yearly Style" : "سبک سالانه"
+ "Yearly Style" : "سبک سالانه",
+ "Yearly Style" : "سبک سالانه",
+ "Year" : "سال",
+ "Yearly" : "سالانه",
+ "Year view header" : "هدر نمای سال"
 }
 export default fa

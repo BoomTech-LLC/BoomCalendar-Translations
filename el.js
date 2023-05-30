@@ -426,6 +426,10 @@ let el = {
  "Year" : "Ετος",
  "Yearly" : "Ετήσια",
  "Year view header" : "Κεφαλίδα προβολής έτους",
- "Yearly Style" : "Ετήσιο στυλ"
+ "Yearly Style" : "Ετήσιο στυλ",
+ "Yearly Style" : "Ετήσιο στυλ",
+ "Year" : "Ετος",
+ "Yearly" : "Ετήσια",
+ "Year view header" : "Κεφαλίδα προβολής έτους"
 }
 export default el

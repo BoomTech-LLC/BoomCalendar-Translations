@@ -430,6 +430,10 @@ let sv = {
  "view" : "se",
  "List" : "Lista",
  "Year" : "År",
- "Yearly Style" : "Årstil"
+ "Yearly Style" : "Årstil",
+ "Yearly Style" : "Årstil",
+ "Year" : "År",
+ "Yearly" : "Årlig",
+ "Year view header" : "Årsvyrubrik"
 }
 export default sv

@@ -427,6 +427,10 @@ let uk = {
  "Year" : "Рік",
  "Yearly" : "Щорічно",
  "Year view header" : "Рік перегляду заголовок",
- "Yearly Style" : "Щорічний стиль"
+ "Yearly Style" : "Щорічний стиль",
+ "Yearly Style" : "Щорічний стиль",
+ "Year" : "Рік",
+ "Yearly" : "Щорічно",
+ "Year view header" : "Рік перегляду заголовок"
 }
 export default uk

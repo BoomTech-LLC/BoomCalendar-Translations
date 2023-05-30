@@ -425,6 +425,10 @@ let nl = {
  "view" : "weergave",
  "List" : "Lijst",
  "Year" : "Jaar",
- "Yearly Style" : "Jaarlijkse stijl"
+ "Yearly Style" : "Jaarlijkse stijl",
+ "Yearly Style" : "Jaarlijkse stijl",
+ "Year" : "Jaar",
+ "Yearly" : "Jaarlijks",
+ "Year view header" : "Jaaroverzicht header"
 }
 export default nl

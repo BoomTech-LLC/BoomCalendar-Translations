@@ -427,6 +427,10 @@ let de = {
  "Year" : "Jahr",
  "Yearly" : "Jährlich",
  "Year view header" : "JAHRE View Header",
- "Yearly Style" : "Jährlicher Stil"
+ "Yearly Style" : "Jährlicher Stil",
+ "Yearly Style" : "Jährlicher Stil",
+ "Year" : "Jahr",
+ "Yearly" : "Jährlich",
+ "Year view header" : "JAHRE View Header"
 }
 export default de

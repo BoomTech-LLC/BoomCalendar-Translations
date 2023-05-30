@@ -427,6 +427,10 @@ let hi = {
  "Year" : "वर्ष",
  "Yearly" : "सालाना",
  "Year view header" : "वर्ष का दृश्य हैडर",
- "Yearly Style" : "वार्षिक शैली"
+ "Yearly Style" : "वार्षिक शैली",
+ "Yearly Style" : "वार्षिक शैली",
+ "Year" : "वर्ष",
+ "Yearly" : "सालाना",
+ "Year view header" : "वर्ष का दृश्य हैडर"
 }
 export default hi

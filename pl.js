@@ -427,6 +427,10 @@ let pl = {
  "Year" : "Rok",
  "Yearly" : "Rocznie",
  "Year view header" : "Rok widok na nagłówek",
- "Yearly Style" : "Coroczny styl"
+ "Yearly Style" : "Coroczny styl",
+ "Yearly Style" : "Coroczny styl",
+ "Year" : "Rok",
+ "Yearly" : "Rocznie",
+ "Year view header" : "Rok widok na nagłówek"
 }
 export default pl

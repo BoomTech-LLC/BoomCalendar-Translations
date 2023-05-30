@@ -426,6 +426,10 @@ let fi = {
  "Year" : "Vuosi",
  "Yearly" : "Vuosittain",
  "Year view header" : "Vuodenäkymäotsikko",
- "Yearly Style" : "Vuosittainen tyyli"
+ "Yearly Style" : "Vuosittainen tyyli",
+ "Yearly Style" : "Vuosittainen tyyli",
+ "Year" : "Vuosi",
+ "Yearly" : "Vuosittain",
+ "Year view header" : "Vuodenäkymäotsikko"
 }
 export default fi

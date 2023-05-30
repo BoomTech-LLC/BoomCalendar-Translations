@@ -422,6 +422,10 @@ let hu = {
  "view" : "Kilátás",
  "List" : "Lista",
  "Year" : "Év",
- "Yearly Style" : "Évi stílus"
+ "Yearly Style" : "Évi stílus",
+ "Yearly Style" : "Évi stílus",
+ "Year" : "Év",
+ "Yearly" : "Évi",
+ "Year view header" : "Év nézet fejléc"
 }
 export default hu

@@ -422,6 +422,10 @@ let en = {
  "Year" : "Year",
  "Yearly" : "Yearly",
  "Year view header" : "Year view header",
- "Yearly Style" : "Yearly Style"
+ "Yearly Style" : "Yearly Style",
+ "Yearly Style" : "Yearly Style",
+ "Year" : "Year",
+ "Yearly" : "Yearly",
+ "Year view header" : "Year view header"
 }
 export default en

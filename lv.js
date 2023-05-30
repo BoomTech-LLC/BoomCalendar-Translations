@@ -427,6 +427,10 @@ let lv = {
  "Year" : "Gads",
  "Yearly" : "Ikgadējs",
  "Year view header" : "Gada skata galvene",
- "Yearly Style" : "Ikgadējā stils"
+ "Yearly Style" : "Ikgadējā stils",
+ "Yearly Style" : "Ikgadējā stils",
+ "Year" : "Gads",
+ "Yearly" : "Ikgadējs",
+ "Year view header" : "Gada skata galvene"
 }
 export default lv

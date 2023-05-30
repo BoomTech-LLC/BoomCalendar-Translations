@@ -427,6 +427,10 @@ let ja = {
  "Year" : "年",
  "Yearly" : "毎年",
  "Year view header" : "年のビューヘッダー",
- "Yearly Style" : "毎年恒例のスタイル"
+ "Yearly Style" : "毎年恒例のスタイル",
+ "Yearly Style" : "毎年恒例のスタイル",
+ "Year" : "年",
+ "Yearly" : "毎年",
+ "Year view header" : "年のビューヘッダー"
 }
 export default ja

@@ -427,6 +427,10 @@ let cs = {
  "Year" : "Rok",
  "Yearly" : "Roční",
  "Year view header" : "Roční záhlaví zobrazení",
- "Yearly Style" : "Roční styl"
+ "Yearly Style" : "Roční styl",
+ "Yearly Style" : "Roční styl",
+ "Year" : "Rok",
+ "Yearly" : "Roční",
+ "Year view header" : "Roční záhlaví zobrazení"
 }
 export default cs

@@ -427,6 +427,10 @@ let ru = {
  "Year" : "Год",
  "Yearly" : "Ежегодно",
  "Year view header" : "Год просмотра заголовок",
- "Yearly Style" : "Годовой стиль"
+ "Yearly Style" : "Годовой стиль",
+ "Yearly Style" : "Годовой стиль",
+ "Year" : "Год",
+ "Yearly" : "Ежегодно",
+ "Year view header" : "Год просмотра заголовок"
 }
 export default ru

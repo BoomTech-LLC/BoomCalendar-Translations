@@ -426,6 +426,10 @@ let es = {
  "Year" : "Año",
  "Yearly" : "Anual",
  "Year view header" : "Encabezado de vista anual",
- "Yearly Style" : "Estilo anual"
+ "Yearly Style" : "Estilo anual",
+ "Yearly Style" : "Estilo anual",
+ "Year" : "Año",
+ "Yearly" : "Anual",
+ "Year view header" : "Encabezado de vista anual"
 }
 export default es

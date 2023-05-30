@@ -422,6 +422,10 @@ let vi = {
  "Year" : "Năm",
  "Yearly" : "Hàng năm",
  "Year view header" : "Tiêu đề xem năm",
- "Yearly Style" : "Phong cách hàng năm"
+ "Yearly Style" : "Phong cách hàng năm",
+ "Yearly Style" : "Phong cách hàng năm",
+ "Year" : "Năm",
+ "Yearly" : "Hàng năm",
+ "Year view header" : "Tiêu đề xem năm"
 }
 export default vi

@@ -427,6 +427,10 @@ let he = {
  "Year" : "שָׁנָה",
  "Yearly" : "שְׁנָתִי",
  "Year view header" : "כותרת תצוגת שנה",
- "Yearly Style" : "סגנון שנתי"
+ "Yearly Style" : "סגנון שנתי",
+ "Yearly Style" : "סגנון שנתי",
+ "Year" : "שָׁנָה",
+ "Yearly" : "שְׁנָתִי",
+ "Year view header" : "כותרת תצוגת שנה"
 }
 export default he

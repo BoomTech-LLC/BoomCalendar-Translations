@@ -427,6 +427,10 @@ let pt = {
  "Year" : "Ano",
  "Yearly" : "Anual",
  "Year view header" : "Ano Visualize cabeçalho",
- "Yearly Style" : "Estilo anual"
+ "Yearly Style" : "Estilo anual",
+ "Yearly Style" : "Estilo anual",
+ "Year" : "Ano",
+ "Yearly" : "Anual",
+ "Year view header" : "Ano Visualize cabeçalho"
 }
 export default pt

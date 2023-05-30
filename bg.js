@@ -427,6 +427,10 @@ let bg = {
  "Year" : "Година",
  "Yearly" : "Годишно",
  "Year view header" : "Година Преглед на заглавката",
- "Yearly Style" : "Годишен стил"
+ "Yearly Style" : "Годишен стил",
+ "Yearly Style" : "Годишен стил",
+ "Year" : "Година",
+ "Yearly" : "Годишно",
+ "Year view header" : "Година Преглед на заглавката"
 }
 export default bg

@@ -427,6 +427,10 @@ let ar = {
  "Year" : "سنة",
  "Yearly" : "سنوي",
  "Year view header" : "رأس السنة عرض",
- "Yearly Style" : "الأسلوب السنوي"
+ "Yearly Style" : "الأسلوب السنوي",
+ "Yearly Style" : "الأسلوب السنوي",
+ "Year" : "سنة",
+ "Yearly" : "سنوي",
+ "Year view header" : "رأس السنة عرض"
 }
 export default ar

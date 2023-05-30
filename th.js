@@ -426,6 +426,10 @@ let th = {
  "List" : "รายการ",
  "Yearly" : "ทุกปี",
  "Year view header" : "ส่วนหัวดูปี",
- "Yearly Style" : "สไตล์รายปี"
+ "Yearly Style" : "สไตล์รายปี",
+ "Yearly Style" : "สไตล์รายปี",
+ "Year" : "ปี",
+ "Yearly" : "ทุกปี",
+ "Year view header" : "ส่วนหัวดูปี"
 }
 export default th
