@@ -356,7 +356,6 @@ let vi = {
   "Stop repeating on this date": "Ngừng lặp lại vào ngày này",
   "Exclude this date": "Loại trừ ngày này",
   "Location is going to be announced": "Vị trí sẽ được công bố",
-  "Location is going to be announced": "Vị trí sẽ được công bố",
   "Fill your personal information": "Điền thông tin cá nhân của bạn",
   "Check Box": "Hộp kiểm",
   "Single Choice": "Sự lựa chọn đơn lẻ",
@@ -369,9 +368,6 @@ let vi = {
   "This field is required": "Trường này được yêu cầu",
   Phone: "Điện thoại",
   "Number field": "Trường số",
-  Option: "Quyền mua",
-  "Check Box": "Hộp kiểm",
-  "Single Choice": "Sự lựa chọn đơn lẻ",
   "Please provide a valid email": "Vui lòng cung cấp một email hợp lệ",
   "Select at least one option": "Chọn ít nhất một tùy chọn",
   "Choose tickets to see total value": "Chọn vé để xem tổng giá trị",
@@ -385,15 +381,9 @@ let vi = {
   "Sold Out": "Bán hết",
   "Tickets are available": "Vé có sẵn",
   "Sales End": "Kết thúc bán hàng",
-  "Buy tickets": "Mua vé",
   "Availible from": "Có sẵn từ",
   "Go to Orders": "Đi đến đơn đặt hàng",
   "Go to Details": "Đi đến chi tiết",
-  "Group ticket": "Vé nhóm",
-  Name: "Tên",
-  Price: "Giá bán",
-  "Order by": "Đặt bởi",
-  "Order ID": "ID đặt hàng",
   "Group ticket": "Vé nhóm",
   Name: "Tên",
   Price: "Giá bán",
@@ -438,8 +428,6 @@ let vi = {
   "Ticket ID": "ID vé",
   "If you have any questions contact to organizer":
     "Nếu bạn có bất kỳ câu hỏi nào liên hệ với người tổ chức",
-  "If you have any questions contact to organizer":
-    "Nếu bạn có bất kỳ câu hỏi nào liên hệ với người tổ chức",
   "As soon as event ends": "Ngay khi sự kiện kết thúc",
   "1 day after event ends": "1 ngày sau khi sự kiện kết thúc",
   "7 days after event ends": "7 ngày sau khi sự kiện kết thúc",
@@ -447,14 +435,26 @@ let vi = {
   "30 days after event ends": "30 ngày sau khi sự kiện kết thúc",
   Menu: "Thực đơn",
   "No event for selected date": "Không có sự kiện nào cho ngày được chọn",
-  Month: "Tháng",
-  Day: "Ngày",
-  Week: "Tuần",
   view: "xem",
   List: "Danh sách",
   Year: "Năm",
   Yearly: "Hàng năm",
   "Year view header": "Tiêu đề xem năm",
   "Yearly Style": "Phong cách hàng năm",
+  Autotranslation: "Autotranslation.",
+  "Once enabled, your calendar widget will be translated based on the website’s language. *note that as long as calendar title, and descriptions are inputted texts they can not be translated.":
+    "Sau khi bật, tiện ích lịch của bạn sẽ được dịch dựa trên ngôn ngữ của trang web.* Lưu ý rằng miễn là tiêu đề lịch, và các mô tả được nhập các văn bản mà chúng không thể được dịch.",
+  "Note on mobile": "Lưu ý trên điện thoại di động",
+  "Turn off or change the text of the “No events” bar on mobile version of calendar":
+    "Tắt hoặc thay đổi văn bản của thanh 'Không có sự kiện' trên phiên bản Lịch di động",
+  Autodeletion: "TỰ ĐỘNG",
+  "Enabling the option, will automatically remove your past events from the calendar.":
+    "Kích hoạt tùy chọn, sẽ tự động xóa các sự kiện trước đây của bạn khỏi lịch.",
+  "This does not apply to repeating events!":
+    "Điều này không áp dụng cho các sự kiện lặp lại!",
+  "Notify event creators about the guest": "Thông báo cho người dùng về khách",
+  "Send event creators notification emails as soon as guests register for their events":
+    "Gửi email thông báo cho người tạo sự kiện ngay khi khách đăng ký sự kiện của họ",
+  "List View Type": "Loại xem danh sách",
 };
 export default vi;

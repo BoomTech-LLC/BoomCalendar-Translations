@@ -170,7 +170,7 @@ let sv = {
   Sun: "Sön",
   Mon: "Mån",
   Sat: "Lör",
-  Default: "Förinställt",
+  Default: "Standard",
   "Select custom design style for your calendar.":
     "Välj och anpassa kalenders design.",
   Style: "Stil",
@@ -236,7 +236,6 @@ let sv = {
   More: "Mer",
   Less: "Mindre",
   Register: "Registrera",
-
   Guests: "Gäster",
   unlimited: "obegränsat",
   "Show more": "Visa mer",
@@ -378,14 +377,11 @@ let sv = {
   "Share Event": "Delaevenemang",
   "Oops! Something went wrong": "hoppsan!Något gick fel",
   "We are sorry this event has already taken place":
-    "Vi är ledsna att denna händelse redan har ägt rum",
+    "Vi är ledsna att den här händelsen redan har ägt rum",
   "Back to calendar": "Tillbaka till kalendern",
   "This field is required": "Detta fält krävs",
   Phone: "Telefon",
   "Number field": "Nummerfält",
-  Option: "Alternativ",
-  "Check Box": "Kryssruta",
-  "Single Choice": "Enskilda val",
   "Please provide a valid email": "Var god ange en giltig e-postadress",
   "Select at least one option": "Välj minst ett alternativ",
   "Choose tickets to see total value":
@@ -400,15 +396,9 @@ let sv = {
   "Sold Out": "Utsåld",
   "Tickets are available": "Biljetter finns tillgängliga",
   "Sales End": "Försäljningsslut",
-  "Buy tickets": "Köpa biljetter",
   "Availible from": "Tillgänglig från",
   "Go to Orders": "Gå till order",
   "Go to Details": "Gå till detaljer",
-  "Group ticket": "Gruppbiljett",
-  Name: "namn",
-  Price: "Pris",
-  "Order by": "Sortera efter",
-  "Order ID": "Beställnings -ID",
   "Group ticket": "Gruppbiljett",
   Name: "namn",
   Price: "Pris",
@@ -453,8 +443,6 @@ let sv = {
   "Ticket ID": "Biljett -ID",
   "If you have any questions contact to organizer":
     "Om du har några frågor Kontakt till arrangören",
-  "If you have any questions contact to organizer":
-    "Om du har några frågor Kontakt till arrangören",
   "As soon as event ends": "Så snart händelsen slutar",
   "1 day after event ends": "1 dag efter evenemanget slutar",
   "7 days after event ends": "7 dagar efter evenemangets slut",
@@ -462,12 +450,90 @@ let sv = {
   "30 days after event ends": "30 dagar efter evenemangets slut",
   Menu: "Meny",
   "No event for selected date": "Inget evenemang för valt datum",
-  Month: "Månad",
-  Day: "Dag",
-  Week: "Vecka",
   view: "se",
   List: "Lista",
   Year: "År",
   "Yearly Style": "Årstil",
+  "There are no events": "Det finns inga händelser",
+  Autotranslation: "Autotranslation",
+  "Once enabled, your calendar widget will be translated based on the website’s language. *note that as long as calendar title, and descriptions are inputted texts they can not be translated.":
+    "När den är aktiverad kommer din kalender widget att översättas baserat på webbplatsens språk.* Observera att så länge kalendertitel och beskrivningar är inmatade texter kan de inte översättas.",
+  "Note on mobile": "Obs på mobilen",
+  "Turn off or change the text of the “No events” bar on mobile version of calendar":
+    "Stäng av eller ändra texten på 'No Events' -fältet på mobilversion av kalendern",
+  Autodeletion: "Autodeletion",
+  "Enabling the option, will automatically remove your past events from the calendar.":
+    "Aktivera alternativet tar automatiskt bort dina tidigare händelser från kalendern.",
+  "This does not apply to repeating events!":
+    "Detta gäller inte för upprepande händelser!",
+  "Notify event creators about the guest": "Meddela användare om gästen",
+  "Send event creators notification emails as soon as guests register for their events":
+    "Skicka e-postmeddelanden om evenemangsskapare så snart gästerna registrerar sig för sina evenemang",
+  "List View Type": "Listvy typ",
+  Yearly: "Årlig",
+  "Year view header": "Årsvyrubrik",
+  "Description font": "Teckensnitt - Beskrivning ",
+  Connect: "ansluta",
+  "You have no events": "Du har inga händelser",
+  Synchronize: "Synkronisera",
+  "Google Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
+    "Med Google Kalender-synkronisering kan du integrera dina händelser och sessioner med din Boom-kalender.",
+  "Outlook Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
+    "Outlook Calendar Sync tillåter dig att integrera dina evenemang och sessioner med din bomkalender.",
+  "Your message has been sent successfully!":
+    "Ditt meddelande har skickats framgångsrikt!",
+  "There are no synchronized calendars":
+    "Det finns inga synkroniserade kalendrar",
+  "to view more than 7 events": "För att se mer än 7 händelser",
+  "Mobile app": "Mobil app",
+  "Admin Account": "Adminkonto",
+  Password: "Lösenord",
+  "Second User": "Andra användare",
+  Edit: "Redigera",
+  "Guest limit": "Gästgräns",
+  "Monthly view": "Månadsvisning",
+  "Set Proportions": "Ställ in proportioner",
+  "All the local settings are (automatically) based on your language. If your language is on the list, there 's no need to customize this section.":
+    "Alla lokala inställningar är (automatiskt) baserat på ditt språk.Om ditt språk är på listan, är det inte nödvändigt att anpassa det här avsnittet.",
+  "Hosting events that last all day? This lets you show them on your calendar.":
+    "Hosting händelser som varar hela dagen?Detta låter dig visa dem på din kalender.",
+  available: "tillgängligt",
+  next: "Nästa",
+  Tickets: "Biljetter",
+  Quantity: "Kvantitet",
+  "Promo code": "Rabattkod",
+  "Select a payment method": "Välj en betalningsmetod",
+  Fee: "Avgift",
+  Book: "bok",
+  "All the tickets have been sold out": "Alla biljetter har sålts ut",
+  "Choose at least one ticket": "Välj minst en biljett",
+  "First choose ticket": "Välj först biljett",
+  "Please fill out your personal information.":
+    "Vänligen fyll i din personliga information.",
+  "To make a successful purchase, please select your preferred payment method and enter the promo code for discounted tickets.":
+    "För att göra ett framgångsrikt köp, välj önskad betalningsmetod och ange promo-koden för rabatterade biljetter.",
+  "Credit/Debit card": "Kredit / Betalkort",
+  "print here.": "Skriv ut här.",
+  "QR code for all tickets": "QR-kod för alla biljetter",
+  Duration: "Varaktighet",
+  "Full Name": "Fullständiga namn",
+  "Ticket id": "Biljett ID",
+  "Group id": "Grupp id",
+  "Choose your ticket.": "Välj din biljett.",
+  "Fill out your personal information.": "Fyll i din personliga information.",
+  "Add the payment details.": "Lägg till betalningsuppgifterna.",
+  "To be determined": "Att vara bestämd",
+  "You can find your e-tickets attached to the email or":
+    "Du kan hitta dina e-biljetter bifogade e-postmeddelandet eller",
+  "print here": "Skriv ut här",
+  "Full name": "Fullständiga namn",
+  "Group ID": "Grupp id",
+  "to Book": "att boka",
+  "Unfortunately, your card has been declined":
+    "Tyvärr har ditt kort blivit avvisat",
+  "Thank you for your purchase!": "Tack för ditt köp!",
+  "Find your printable e-tickets attached to the confirmation email":
+    "Hitta dina utskrivbara e-biljetter kopplade till bekräftelsemailen",
+  Confirm: "Bekräfta",
 };
 export default sv;

@@ -376,11 +376,27 @@ let lt = {
     "Praneškite renginių kūrėjams apie svečią",
   "Send event creators notification emails as soon as guests register for their events":
     "Siųskite renginių kūrėjų pranešimų el. Laiškus, kai tik svečiai užsiregistruos į savo renginius",
-  Register: "Registruotis",
-  Month: "Mėnuo",
-  Day: "Diena",
-  Week: "Savaitė",
   view: "vaizdas",
   List: "Sąrašas",
+  "List View Type": "Sąrašo rodinio tipas",
+  Year: "Metai",
+  Cash: "Grynieji pinigai",
+  "Credit/Debit card": "Kredito / debeto kortelė",
+  Total: "Iš viso",
+  "Total:": "Iš viso:",
+  Confirm: "Patvirtinti",
+  "You can find your e-tickets attached to the email or":
+    "Savo elektroninius bilietus galite rasti prie el. laiško arba",
+  "Full name": "Pilnas vardas",
+  Data: "Duomenys",
+  "Data:": "Duomenys:",
+  Duration: "Trukmė",
+  "print here.": "spausdinti čia.",
+  "Group ID": "Grupės ID",
+  available: "prieinama",
+  "Fill out your personal information.":
+    "Užpildykite savo asmeninę informaciją.",
+  "Add the payment details.": "Pridėkite mokėjimo informaciją.",
+  "Choose your ticket.": "Pasirinkite savo bilietą.",
 };
 export default lt;

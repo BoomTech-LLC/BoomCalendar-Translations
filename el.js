@@ -152,7 +152,7 @@ let el = {
   "Week Starts On": "Εβδομάδα ξεκινά",
   "Agenda Style": "Ατζέντα στυλ",
   Classic: "Κλασσικός",
-  Modern: "Μοντέρνο",
+  Modern: "Modern",
   "Agenda Header": "Ημερολόγιο ημερήσιας διάταξης",
   "Upcoming Events": "Επερχόμενα γεγονότα",
   "Agenda Event Limit": "Όριο εκδήλωσης ατζέντας",
@@ -374,14 +374,11 @@ let el = {
   "Share Event": "Εκδήλωση κοινής χρήσης",
   "Oops! Something went wrong": "Ωχ!Κάτι πήγε στραβά",
   "We are sorry this event has already taken place":
-    "Λυπούμαστε που έχει ήδη πραγματοποιηθεί αυτή η εκδήλωση",
+    "Λυπούμαστε που αυτό το γεγονός έχει ήδη πραγματοποιηθεί",
   "Back to calendar": "Επιστροφή στο ημερολόγιο",
   "This field is required": "Αυτό το πεδίο απαιτείται",
   Phone: "Τηλέφωνο",
   "Number field": "Πεδίο αριθμού",
-  Option: "Επιλογή",
-  "Check Box": "Πλαίσιο ελέγχου",
-  "Single Choice": "Μεμονωμένη επιλογή",
   "Please provide a valid email": "Δώστε ένα έγκυρο email",
   "Select at least one option": "Επιλέξτε τουλάχιστον μία επιλογή",
   "Choose tickets to see total value":
@@ -396,15 +393,9 @@ let el = {
   "Sold Out": "Εξαντλημένα",
   "Tickets are available": "Τα εισιτήρια είναι διαθέσιμα",
   "Sales End": "Λήξη πωλήσεων",
-  "Buy tickets": "Αγορά εισιτηρίων",
   "Availible from": "διαθέσιμο από",
   "Go to Orders": "Μεταβείτε στις παραγγελίες",
   "Go to Details": "Μεταβείτε στις λεπτομέρειες",
-  "Group ticket": "Ομαδικό εισιτήριο",
-  Name: "Ονομα",
-  Price: "Τιμή",
-  "Order by": "Ταξινόμηση κατά",
-  "Order ID": "Αριθμός Παραγγελίας",
   "Group ticket": "Ομαδικό εισιτήριο",
   Name: "Ονομα",
   Price: "Τιμή",
@@ -414,7 +405,7 @@ let el = {
   Fees: "Αμοιβές",
   "Enter promo code": "Εισαγάγετε τον κωδικό προώθησης",
   Apply: "Ισχύουν",
-  "Promo Code": "Προώθηση",
+  "Promo Code": "Κωδικός προώθησης",
   Cash: "Μετρητά",
   "You can find your e-tickets attached to your email or download them":
     "Μπορείτε να βρείτε τα e-tickets σας συνδεδεμένα με το email σας ή να τα κατεβάσετε",
@@ -449,8 +440,6 @@ let el = {
   "Ticket ID": "Αναγνωριστικό εισιτηρίου",
   "If you have any questions contact to organizer":
     "Εάν έχετε οποιεσδήποτε ερωτήσεις επικοινωνήστε με τον διοργανωτή",
-  "If you have any questions contact to organizer":
-    "Εάν έχετε οποιεσδήποτε ερωτήσεις επικοινωνήστε με τον διοργανωτή",
   "As soon as event ends": "Μόλις τελειώσει η εκδήλωση",
   "1 day after event ends": "1 ημέρα μετά το τέλος της εκδήλωσης",
   "7 days after event ends": "7 ημέρες μετά το τέλος της εκδήλωσης",
@@ -458,14 +447,88 @@ let el = {
   "30 days after event ends": "30 ημέρες μετά το τέλος της εκδήλωσης",
   Menu: "Μενού",
   "No event for selected date": "Δεν υπάρχει συμβάν για επιλεγμένη ημερομηνία",
-  Month: "Μήνας",
-  Day: "Ημέρα",
-  Week: "Εβδομάδα",
   view: "θέα",
   List: "Λίστα",
   Year: "Ετος",
   Yearly: "Ετήσια",
   "Year view header": "Κεφαλίδα προβολής έτους",
   "Yearly Style": "Ετήσιο στυλ",
+  "There are no events": "Δεν υπάρχουν εκδηλώσεις",
+  Autotranslation: "Αυτόματη κατάσταση",
+  "Once enabled, your calendar widget will be translated based on the website’s language. *note that as long as calendar title, and descriptions are inputted texts they can not be translated.":
+    "Μόλις ενεργοποιηθεί, το widget του ημερολογίου σας θα μεταφραστεί με βάση τη γλώσσα του ιστότοπου.* Σημειώστε ότι όσο ο τίτλος του Ημερολογίου και οι περιγραφές εισάγονται κείμενα που δεν μπορούν να μεταφραστούν.",
+  "Note on mobile": "Σημείωση στο κινητό",
+  "Turn off or change the text of the “No events” bar on mobile version of calendar":
+    "Απενεργοποιήστε ή αλλάξτε το κείμενο του μπαρ 'No Events' στην κινητή έκδοση του ημερολογίου",
+  Autodeletion: "Αυτοπεποίθηση",
+  "Enabling the option, will automatically remove your past events from the calendar.":
+    "Η ενεργοποίηση της επιλογής, θα καταργήσει αυτόματα τα παρελθόντα σας συμβάντα από το ημερολόγιο.",
+  "This does not apply to repeating events!":
+    "Αυτό δεν ισχύει για επαναλαμβανόμενα γεγονότα!",
+  "Notify event creators about the guest":
+    "Ενημερώστε τους χρήστες για τον επισκέπτη",
+  "Send event creators notification emails as soon as guests register for their events":
+    "Στείλτε μηνύματα ηλεκτρονικού ταχυδρομείου ειδοποίησης δημιουργών συμβάντων μόλις οι επισκέπτες εγγραφούν στις εκδηλώσεις τους",
+  "List View Type": "Τύπος προβολής λίστας",
+  "Description font": "Γραμματοσειρά περιγραφής",
+  Connect: "verbinden",
+  "You have no events": "Δεν έχετε εκδηλώσεις",
+  Synchronize: "Συγχρονίζω",
+  "Google Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
+    "Ο συγχρονισμός Ημερολογίου Google σάς επιτρέπει να ενσωματώσετε τις εκδηλώσεις και τις περιόδους σύνδεσης στο Ημερολόγιο Boom.",
+  "Outlook Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
+    "Το Outlook Calendar Sync σας επιτρέπει να ενσωματώσετε τα συμβάντα και τις συνεδρίες σας με το ημερολόγιο έκρηξης.",
+  "Your message has been sent successfully!":
+    "Το μήνυμά σας έχει σταλεί με επιτυχία!",
+  "There are no synchronized calendars":
+    "Δεν υπάρχουν συγχρονισμένα ημερολόγια",
+  "to view more than 7 events": "Um mehr als 7 Ereignisse anzuzeigen",
+  "Mobile app": "Εφαρμογή για κινητό",
+  "Admin Account": "Admin-Konto",
+  Password: "Κωδικός πρόσβασης",
+  "Second User": "Δεύτερο χρήστη",
+  Edit: "Επεξεργασία",
+  "Guest limit": "Όριο επισκεπτών",
+  "All the local settings are (automatically) based on your language. If your language is on the list, there 's no need to customize this section.":
+    "Όλες οι τοπικές ρυθμίσεις είναι (αυτόματα) με βάση τη γλώσσα σας.Εάν η γλώσσα σας βρίσκεται στη λίστα, δεν χρειάζεται να προσαρμόσετε αυτήν την ενότητα.",
+  available: "διαθέσιμος",
+  next: "Επόμενο",
+  Tickets: "Εισιτήρια",
+  Quantity: "Ποσότητα",
+  "Promo code": "Κωδικός προώθησης",
+  "Select a payment method": "Επιλέξτε μια μέθοδο πληρωμής",
+  Fee: "Τέλη",
+  Book: "Βιβλίο",
+  "All the tickets have been sold out": "Όλα τα εισιτήρια έχουν εξαντληθεί",
+  "Choose at least one ticket": "Επιλέξτε τουλάχιστον ένα εισιτήριο",
+  "First choose ticket": "Πρώτα επιλέξτε το εισιτήριο",
+  "Please fill out your personal information.":
+    "Συμπληρώστε τα προσωπικά σας στοιχεία.",
+  "To make a successful purchase, please select your preferred payment method and enter the promo code for discounted tickets.":
+    "Για να κάνετε μια επιτυχημένη αγορά, επιλέξτε την προτιμώμενη μέθοδο πληρωμής και εισάγετε τον κωδικό προώθησης για προεξοφλημένα εισιτήρια.",
+  "Credit/Debit card": "Πιστωτική / Χρεωστική Κάρτα",
+  "print here.": "Εκτυπώστε εδώ.",
+  "QR code for all tickets": "QR κώδικα για όλα τα εισιτήρια",
+  Duration: "Διάρκεια",
+  "Full Name": "Πλήρες όνομα",
+  "Ticket id": "Αναγνωριστικό εισιτηρίου",
+  "Group id": "Ομαδική ταυτότητα",
+  "Choose your ticket.": "Επιλέξτε το εισιτήριό σας.",
+  "Fill out your personal information.":
+    "Συμπληρώστε τα προσωπικά σας στοιχεία.",
+  "Add the payment details.": "Προσθέστε τα στοιχεία πληρωμής.",
+  "To be determined": "Να καθοριστεί",
+  "You can find your e-tickets attached to the email or":
+    "Μπορείτε να βρείτε τα ηλεκτρονικά σας εισιτήρια που συνδέονται με το μήνυμα ηλεκτρονικού ταχυδρομείου ή",
+  "print here": "Εκτύπωση εδώ",
+  "Full name": "Πλήρες όνομα",
+  "Group ID": "Ομαδική ταυτότητα",
+  "to Book": "να κάνετε κράτηση",
+  "Unfortunately, your card has been declined":
+    "Δυστυχώς, η κάρτα σας έχει μειωθεί",
+  "Thank you for your purchase!": "Σας ευχαριστούμε για την αγορά σας!",
+  "Find your printable e-tickets attached to the confirmation email":
+    "Βρείτε τα εκτυπώσιμα e-εισιτήρια που συνδέονται με το email επιβεβαίωσης",
+  Confirm: "Επιβεβαιώνω",
 };
 export default el;
