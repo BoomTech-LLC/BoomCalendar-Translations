@@ -644,5 +644,7 @@ let sr = {
   Friday: "Петак",
   Saturday: "У суботу",
   Sunday: "Недеља",
+  "Yearly view": "Годишњи поглед",
+  Ascending: "На врһу",
 };
 export default sr;

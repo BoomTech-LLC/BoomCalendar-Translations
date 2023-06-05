@@ -643,5 +643,7 @@ let hi = {
   Friday: "शुक्रवार",
   Saturday: "शनिवार",
   Sunday: "रविवार",
+  "Yearly view": "वार्षिक दृश्य",
+  Ascending: "आरोही",
 };
 export default hi;

@@ -649,5 +649,7 @@ let cy = {
   Friday: "Dydd Gwener",
   Saturday: "Dydd Sadwrn",
   Sunday: "Sul",
+  Ascending: "Esgynnol",
+  "Yearly view": "Golygfa flynyddol",
 };
 export default cy;

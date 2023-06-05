@@ -646,6 +646,7 @@ let sq = {
   Friday: "E premte",
   Saturday: "E shtunë",
   Sunday: "E diel",
+  "Yearly view": "Pamja vjetore",
+  Ascending: "Ngjitës",
 };
-
 export default sq;

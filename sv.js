@@ -655,5 +655,7 @@ let sv = {
   Friday: "fredag",
   Saturday: "Lördag",
   Sunday: "Söndag",
+  Ascending: "Stigande",
+  "Yearly view": "Torsdag",
 };
 export default sv;

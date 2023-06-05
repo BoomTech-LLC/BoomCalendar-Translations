@@ -638,5 +638,7 @@ let he = {
   Friday: "יוֹם שִׁישִׁי",
   Saturday: "יום שבת",
   Sunday: "יוֹם רִאשׁוֹן",
+  "Yearly view": "מבט שנתי",
+  Ascending: "יוֹם שֵׁנִי",
 };
 export default he;

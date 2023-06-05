@@ -644,5 +644,7 @@ let be = {
   Friday: "Пятніца",
   Saturday: "Субота",
   Sunday: "Нядзеля",
+  "Yearly view": "Штогадовы погляд",
+  Ascending: "Узыходзячы",
 };
 export default be;

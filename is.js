@@ -645,5 +645,7 @@ let is = {
   Friday: "Föstudag",
   Saturday: "Laugardag",
   Sunday: "Sunnudagur",
+  "Yearly view": "Árlega skoðun",
+  Ascending: "Stígandi",
 };
 export default is;

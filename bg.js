@@ -645,5 +645,7 @@ let bg = {
   Friday: "Петък",
   Saturday: "Събота",
   Sunday: "Неделя",
+  "Yearly view": "Годишен изглед",
+  Ascending: "Възходящ",
 };
 export default bg;

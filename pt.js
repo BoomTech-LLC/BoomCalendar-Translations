@@ -645,5 +645,7 @@ let pt = {
   Friday: "Sexta-feira",
   Saturday: "Sábado",
   Sunday: "Domingo",
+  "Yearly view": "Visualização anual",
+  Ascending: "Ascendente",
 };
 export default pt;

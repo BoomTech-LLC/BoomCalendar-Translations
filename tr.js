@@ -645,6 +645,7 @@ let tr = {
   Friday: "Cuma",
   Saturday: "Cumartesi",
   Sunday: "Pazar",
+  "Yearly view": "Yıllık Görüntü",
+  Ascending: "Yükselen",
 };
-
 export default tr;

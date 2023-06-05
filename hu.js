@@ -644,6 +644,7 @@ let hu = {
   Friday: "péntek",
   Saturday: "szombat",
   Sunday: "vasárnap",
+  "Yearly view": "Éves nézet",
+  Ascending: "Uzlazni",
 };
-
 export default hu;

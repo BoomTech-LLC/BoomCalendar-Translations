@@ -646,5 +646,7 @@ let mk = {
   Friday: "Петок",
   Saturday: "Сабота",
   Sunday: "Недела",
+  "Yearly view": "Годишен поглед",
+  Ascending: "Растечки",
 };
 export default mk;

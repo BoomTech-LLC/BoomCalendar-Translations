@@ -641,6 +641,7 @@ let th = {
   Friday: "วันศุกร์",
   Saturday: "วันเสาร์",
   Sunday: "วันอาทิตย์",
+  "Yearly view": "มุมมองประจำปี",
+  Ascending: "จากน้อยไปมาก",
 };
-
 export default th;

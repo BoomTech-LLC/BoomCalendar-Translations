@@ -647,5 +647,7 @@ let mn = {
   Friday: "Баасан гариг",
   Saturday: "Бямба гараг",
   Sunday: "Ням гариг",
+  "Yearly view": "Жилд харах",
+  Ascending: "Даваа гариг",
 };
 export default mn;

@@ -645,6 +645,7 @@ let lv = {
   Friday: "Piektdiena",
   Saturday: "Sestdiena",
   Sunday: "Svētdiena",
+  "Yearly view": "Ikgadējā skats",
+  Ascending: "Augošs",
 };
-
 export default lv;

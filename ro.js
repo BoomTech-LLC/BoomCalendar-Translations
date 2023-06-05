@@ -646,5 +646,7 @@ let ro = {
   Friday: "vineri",
   Saturday: "sâmbătă",
   Sunday: "duminică",
+  "Yearly view": "Visualização anual",
+  Ascending: "vineri",
 };
 export default ro;

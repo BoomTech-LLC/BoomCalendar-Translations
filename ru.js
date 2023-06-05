@@ -647,5 +647,7 @@ let ru = {
   Friday: "Пятница",
   Saturday: "Суббота",
   Sunday: "Воскресенье",
+  "Yearly view": "Ежегодный вид",
+  Ascending: "Восходящий",
 };
 export default ru;

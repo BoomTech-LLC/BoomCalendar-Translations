@@ -642,5 +642,7 @@ let ko = {
   Friday: "금요일",
   Saturday: "토요일",
   Sunday: "일요일",
+  "Yearly view": "연간 견해",
+  Ascending: "오름차순",
 };
 export default ko;

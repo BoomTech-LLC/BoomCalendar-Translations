@@ -645,5 +645,7 @@ let da = {
   Friday: "Fredag",
   Saturday: "lørdag",
   Sunday: "Søndag",
+  "Yearly view": "Årlig udsigt",
+  Ascending: "Stigende",
 };
 export default da;

@@ -649,6 +649,7 @@ let de = {
   Friday: "Freitag",
   Saturday: "Samstag",
   Sunday: "Sonntag",
+  "Yearly view": "Jährliche Sicht",
+  Ascending: "Aufsteigend",
 };
-
 export default de;

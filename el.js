@@ -650,5 +650,7 @@ let el = {
   Friday: "Παρασκευή",
   Saturday: "Σάββατο",
   Sunday: "Κυριακή",
+  "Yearly view": "Ετήσια άποψη",
+  Ascending: "Ανερχόμενος",
 };
 export default el;

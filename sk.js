@@ -645,5 +645,7 @@ let sk = {
   Friday: "Piatok",
   Saturday: "Sobota",
   Sunday: "Nedeľa",
+  "Yearly view": "Utorok",
+  Ascending: "Vzostupný",
 };
 export default sk;
