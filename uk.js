@@ -644,6 +644,7 @@ let uk = {
   Friday: "П’ятниця",
   Saturday: "Субота",
   Sunday: "Неділя",
+  "Yearly view": "Щорічний перегляд",
+  Ascending: "Висхід",
 };
-
 export default uk;

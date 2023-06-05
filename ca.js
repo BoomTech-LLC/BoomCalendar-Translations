@@ -653,5 +653,7 @@ let ca = {
   Friday: "Divendres",
   Saturday: "Dissabte",
   Sunday: "Diumenge",
+  "Yearly view": "Vista anual",
+  Ascending: "Ascendent",
 };
 export default ca;

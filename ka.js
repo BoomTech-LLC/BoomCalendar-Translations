@@ -645,5 +645,7 @@ let ka = {
   Friday: "პარასკევი",
   Saturday: "შაბათი",
   Sunday: "კვირა",
+  Ascending: "აწევა",
+  "Yearly view": "კვირა",
 };
 export default ka;

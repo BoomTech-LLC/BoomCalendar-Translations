@@ -643,5 +643,7 @@ let eu = {
   Friday: "Ostiral",
   Saturday: "Larunbat",
   Sunday: "Igande",
+  Ascending: "Goranzko",
+  "Yearly view": "Urteko ikuspegia",
 };
 export default eu;

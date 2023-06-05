@@ -645,5 +645,7 @@ let no = {
   Friday: "fredag",
   Saturday: "lørdag",
   Sunday: "søndag",
+  "Yearly view": "Årlig utsikt",
+  Ascending: "Stigende",
 };
 export default no;

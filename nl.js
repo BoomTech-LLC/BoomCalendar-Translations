@@ -644,6 +644,7 @@ let nl = {
   Friday: "Vrijdag",
   Saturday: "Zaterdag",
   Sunday: "Zondag",
+  "Yearly view": "Jaarlijkse weergave",
+  Ascending: "Stijgend",
 };
-
 export default nl;

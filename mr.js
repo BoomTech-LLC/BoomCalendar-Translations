@@ -645,5 +645,7 @@ let mr = {
   Friday: "शुक्रवार",
   Saturday: "शनिवार",
   Sunday: "रविवारी",
+  "Yearly view": "वार्षिक दृश्य",
+  Ascending: "चढत्या",
 };
 export default mr;

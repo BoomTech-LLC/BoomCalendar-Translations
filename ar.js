@@ -635,5 +635,7 @@ let ar = {
   Friday: "جمعة",
   Saturday: "السبت",
   Sunday: "الأحد",
+  Ascending: "تصاعدي",
+  "Yearly view": "تصاعدي",
 };
 export default ar;

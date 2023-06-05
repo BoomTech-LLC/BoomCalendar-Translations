@@ -644,5 +644,7 @@ let ja = {
   Friday: "金曜日",
   Saturday: "土曜日",
   Sunday: "日曜日",
+  "Yearly view": "毎年の見解",
+  Ascending: "上昇",
 };
 export default ja;

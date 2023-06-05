@@ -643,5 +643,8 @@ let it = {
   Friday: "Venerdì",
   Saturday: "Sabato",
   Sunday: "Domenica",
+  "Yearly view": "Vista annuale",
+  "Yearly view": "Vista annuale",
+  Ascending: "Ascendente",
 };
 export default it;

@@ -198,13 +198,14 @@ let hy = {
   "Enable Search": "Միացնել որոնումը",
   "+ Add Event": " + Ավելացնել իրադարձություն",
   "Manage and Sync": "Կառավարեք եւ համաժամեցրեք",
-  "Show event details as...": "Ուցադրել իրադարձության մանրամասները, ինչպես ...",
+  "Show event details as...":
+    "Ցուցադրել իրադարձության մանրամասները, ինչպես ...",
   Tooltip: "Փաստաթղթեր",
   Popup: "Թռուցիկ",
   None: "Ոչ ոք",
   "Show Category": "Second ուցադրել կատեգորիա",
   "Header Align": "Վերնագիր",
-  "Show Time": "Show ույց տալ ժամանակը",
+  "Show Time": "Ցույց տալ ժամանակը",
   "Hours in Weekly/Daily View": "Ժամեր ամեն շաբաթ / ամենօրյա տեսարանում",
   "Share Events": "ԿԻՍՎԵԼ Իրադարձություններ",
   Shadow: "Ստվեր",
@@ -229,7 +230,7 @@ let hy = {
   Dark: "Մութ",
   Aubergine: "Սմբուկ",
   "Map Header": "Քարտեզի վերնագիր",
-  "Show Title in mobile": "Show ուցադրել վերնագիրը բջջայինում",
+  "Show Title in mobile": "Ցուցադրել վերնագիրը բջջայինում",
   "Card View": "Քարտի դիտում",
   "Card background color": "Քարտի ֆոնի գույնը",
   "Title font": "Վերնագրի տառատեսակ",
@@ -282,7 +283,7 @@ let hy = {
   "Header align": "Վերնագիր",
   Footer: "Ոտնաթաթ",
   "Categories Filter": "Կատեգորիաներ Զտիչ",
-  "Show only upcoming": "Only ուցադրել միայն առաջիկա",
+  "Show only upcoming": "Ցուցադրել միայն առաջիկա",
   "Card(s) in a row": "Քարտ (ներ) անընդմեջ",
   "Space between cards": "Տիեզերք քարտերի միջեւ",
   "Shown events limit": "Sh ուցադրված իրադարձությունների սահմանը",
@@ -328,7 +329,7 @@ let hy = {
   "Permit your users to print your Boom Event Calendar in any date range.":
     "Թույլ տվեք ձեր օգտագործողներին տպել ձեր Boom իրադարձության օրացույցը ցանկացած ամսաթվերի սահմաններում:",
   "Show Title on mobile": "Title ույց տալ վերնագիրը բջջայինով",
-  "Show Skeleton on mobile": "Show ույց տալ կմախքը բջջայինի վրա",
+  "Show Skeleton on mobile": "Ցույց տալ կմախքը բջջայինի վրա",
   "Start 7-day Business trial": "Սկսեք 7-օրյա բիզնեսի դատավարությունը",
   "Enjoy all the Unlimiited features, such as Sell tickets, Registration, Visitor event add-ons.":
     "Վայելեք բոլոր անսահմանափակ առանձնահատկությունները, ինչպիսիք են վաճառքի տոմսերը, գրանցումը, այցելուի միջոցառման հավելումները:",
@@ -349,7 +350,7 @@ let hy = {
   top: "գագաթ",
   bottom: "հատակից",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda and Card views only":
-    "Show ուցադրել կատեգորիայի զտիչը օրացույցի վերեւում կամ ներքեւում: Պարամետրերը վերաբերում են միայն օրակարգի եւ քարտի դիտումներին",
+    "Ցուցադրել կատեգորիայի զտիչը օրացույցի վերեւում կամ ներքեւում: Պարամետրերը վերաբերում են միայն օրակարգի եւ քարտի դիտումներին",
   "Processing your events": "Ձեր իրադարձությունների վերամշակում",
   "Search for events": "Իրադարձություններ որոնում",
   "There are no events added": "Չկան ավելացված իրադարձություններ",
@@ -620,7 +621,7 @@ let hy = {
   "In The Circle": "Շրջանակում",
   "Timeline Header": "Ժամկետային վերնագիր",
   Timeline: "Ժամանակացույց",
-  "Show only upcoming": "Only ուցադրել միայն առաջիկա",
+  "Show only upcoming": "Ցուցադրել միայն առաջիկա",
   "Order by": "Պատվիրեք ըստ",
   "Timeline Event Limit": "Ժամկետային իրադարձության սահմանը",
   "Allow visitor to add event to local Calnedars: Google, Yahoo, Outlook, ICalendar.":
@@ -645,5 +646,8 @@ let hy = {
   Friday: "Ուրբաթ",
   Saturday: "Շաբաթ",
   Sunday: "Կիրակի",
+  "Yearly view": "Տարեկան դիտում",
+  "Yearly view": "Տարեկան դիտում",
+  Ascending: "Բարձրացող",
 };
 export default hy;

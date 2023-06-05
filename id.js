@@ -644,5 +644,6 @@ let id = {
   Friday: "Jumat",
   Saturday: "Sabtu",
   Sunday: "Minggu",
+  "Yearly view": "Tampilan tahunan",
 };
 export default id;

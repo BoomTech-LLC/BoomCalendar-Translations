@@ -644,5 +644,7 @@ let ms = {
   Friday: "Jumaat",
   Saturday: "Sabtu",
   Sunday: "Ahad",
+  "Yearly view": "Pandangan tahunan",
+  Ascending: "Selasa",
 };
 export default ms;

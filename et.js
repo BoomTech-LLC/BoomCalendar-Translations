@@ -642,5 +642,7 @@ let et = {
   Friday: "Reede",
   Saturday: "Laupäev",
   Sunday: "Pühapäev",
+  "Yearly view": "Iga -aastane vaade",
+  Ascending: "Martes",
 };
 export default et;

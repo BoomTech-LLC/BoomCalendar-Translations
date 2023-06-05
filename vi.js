@@ -575,5 +575,7 @@ let vi = {
   Friday: "Thứ sáu",
   Saturday: "Thứ bảy",
   Sunday: "Chủ nhật",
+  "Yearly view": "Xem hàng năm",
+  Ascending: "Tăng dần",
 };
 export default vi;

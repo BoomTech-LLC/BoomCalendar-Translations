@@ -645,5 +645,7 @@ let fi = {
   Friday: "perjantai",
   Saturday: "Lauantai",
   Sunday: "sunnuntai",
+  "Yearly view": "Vuosittainen näkymä",
+  Ascending: "Nouseva",
 };
 export default fi;

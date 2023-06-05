@@ -629,6 +629,7 @@ let zh = {
   Friday: "星期五",
   Saturday: "周六",
   Sunday: "星期日",
+  "Yearly view": "年度视图",
+  Ascending: "上升",
 };
-
-export default zh;
+export default zh - cn;

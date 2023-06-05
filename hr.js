@@ -644,5 +644,7 @@ let hr = {
   Friday: "petak",
   Saturday: "subota",
   Sunday: "nedjelja",
+  Ascending: "Uzlazni",
+  "Yearly view": "Godišnji pogled",
 };
 export default hr;

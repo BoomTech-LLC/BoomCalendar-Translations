@@ -642,5 +642,7 @@ let fa = {
   Friday: "جمعه",
   Saturday: "شنبه",
   Sunday: "یکشنبه",
+  "Yearly view": "نمای سالانه",
+  Ascending: "صعودی",
 };
 export default fa;

@@ -646,5 +646,7 @@ let cs = {
   Friday: "pátek",
   Saturday: "sobota",
   Sunday: "Neděle",
+  "Yearly view": "Roční pohled",
+  Ascending: "Vzestupné",
 };
 export default cs;

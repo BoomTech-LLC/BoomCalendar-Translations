@@ -651,5 +651,7 @@ let fr = {
   Friday: "Vendredi",
   Saturday: "Samedi",
   Sunday: "Dimanche",
+  "Yearly view": "Vue annuelle",
+  Ascending: "Nouseva",
 };
 export default fr;
