@@ -647,7 +647,14 @@ let hy = {
   Saturday: "Շաբաթ",
   Sunday: "Կիրակի",
   "Yearly view": "Տարեկան դիտում",
-  "Yearly view": "Տարեկան դիտում",
   Ascending: "Բարձրացող",
+  "Show event time next to title":
+    "Show ուցադրել իրադարձության ժամանակը վերնագրի կողքին",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Կարգավորեք իրադարձության ամսաթիվը եւ ժամանակը օգտագործողի տեղական ժամանակին, հիմնվելով իրենց ժամային գոտու վրա:",
+  "Display the time zone alongside the event date.":
+    "Display ուցադրել Ժամկետային գոտին իրադարձության ամսաթվի կողքին:",
+  "Show event time next to title":
+    "Show ուցադրել իրադարձության ժամանակը վերնագրի կողքին",
 };
 export default hy;
