@@ -520,7 +520,6 @@ let he = {
   "Find your printable e-tickets attached to the confirmation email":
     "מצא את הכרטיסים האלקטרוניים הניתנים להדפסה שלך המצורפים לדואל האישור",
   Confirm: "לְאַשֵׁר",
-
   "Add event": "הוסף אירוע",
   Events: "אירועים",
   "Event details": "פרטי האירוע",
