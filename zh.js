@@ -632,4 +632,4 @@ let zh = {
   "Yearly view": "年度视图",
   Ascending: "上升",
 };
-export default zh - cn;
+export default zh;
