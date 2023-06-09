@@ -645,5 +645,31 @@ let hi = {
   Sunday: "रविवार",
   "Yearly view": "वार्षिक दृश्य",
   Ascending: "आरोही",
+  "Show event time next to title": "टाइटल के बगल में इवेंट टाइम दिखाएं",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "घटना की तारीख और समय को उपयोगकर्ता के स्थानीय समय के लिए उनके समय क्षेत्र के आधार पर समायोजित करें।",
+  "Display the time zone alongside the event date.":
+    "ईवेंट तिथि के साथ समय क्षेत्र प्रदर्शित करें।",
+  "Show event time next to title": "टाइटल के बगल में इवेंट टाइम दिखाएं",
+  "Time Zone": "समय क्षेत्र",
+  "Upload Image": "तस्विर अपलोड करना",
+  "Choose a Category": "कोई श्रेणी चुनें",
+  "Color you have chosen will not be shown as you choose category":
+    "आपके द्वारा चुने गए रंग को नहीं दिखाया जाएगा क्योंकि आप श्रेणी चुनते हैं",
+  Website: "वेबसाइट",
+  Next: "अगला",
+  Save: "बचाना",
+  "Last Name": "उपनाम",
+  "Personal Info": "व्यक्तिगत जानकारी",
+  Back: "पीछे",
+  "This field is required": "यह फ़ील्ड आवश्यक है",
+  "Your event has been submitted": "आपका ईवेंट सबमिट किया गया है",
+  "Enter a location": "एक स्थान दर्ज करें",
+  "Display the time zone alongside the event date.":
+    "ईवेंट तिथि के साथ समय क्षेत्र प्रदर्शित करें।",
+  Home: "घर",
+  "Side By Side Event Limit": "साइड बाय साइड इवेंट लिमिट",
+  "Mobille App": "मोबिल ऐप",
+  category: "वर्ग",
 };
 export default hi;

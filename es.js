@@ -647,5 +647,31 @@ let es = {
   Sunday: "Domingo",
   "Yearly view": "Vista anual",
   Ascending: "Martes",
+  "Show event time next to title": "Mostrar tiempo del evento junto al título",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Ajuste la fecha y hora del evento a la hora local del usuario en función de su zona horaria.",
+  "Display the time zone alongside the event date.":
+    "Muestre la zona horaria junto con la fecha del evento.",
+  "Show event time next to title": "Mostrar tiempo del evento junto al título",
+  "Time Zone": "Zona horaria",
+  "Upload Image": "Cargar imagen",
+  "Choose a Category": "Elige una categoría",
+  "Color you have chosen will not be shown as you choose category":
+    "El color que ha elegido no se mostrará según elija la categoría",
+  Website: "Sitio web",
+  Next: "Próximo",
+  Save: "Ahorrar",
+  "Last Name": "Apellido",
+  "Personal Info": "Información personal",
+  Back: "Atrás",
+  "This field is required": "Este campo es obligatorio",
+  "Your event has been submitted": "Su evento ha sido enviado",
+  "Enter a location": "Ingrese una ubicación",
+  "Display the time zone alongside the event date.":
+    "Muestre la zona horaria junto con la fecha del evento.",
+  Home: "Hogar",
+  "Side By Side Event Limit": "Límite de eventos lado a lado",
+  "Mobille App": "Aplicación Mobille",
+  category: "categoría",
 };
 export default es;

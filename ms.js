@@ -646,5 +646,31 @@ let ms = {
   Sunday: "Ahad",
   "Yearly view": "Pandangan tahunan",
   Ascending: "Selasa",
+  "Show event time next to title": "Tunjukkan masa acara di sebelah tajuk",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Laraskan tarikh dan masa acara ke masa tempatan pengguna berdasarkan zon waktu mereka.",
+  "Display the time zone alongside the event date.":
+    "Paparkan zon waktu bersama tarikh acara.",
+  "Show event time next to title": "Tunjukkan masa acara di sebelah tajuk",
+  "Time Zone": "Zon masa",
+  "Upload Image": "Muat naik gambar",
+  "Choose a Category": "Pilih Kategori",
+  "Color you have chosen will not be shown as you choose category":
+    "Warna yang anda pilih tidak akan ditunjukkan semasa anda memilih kategori",
+  Website: "Laman web",
+  Next: "Seterusnya",
+  Save: "Simpan",
+  "Last Name": "Nama terakhir",
+  "Personal Info": "Maklumat peribadi",
+  Back: "Kembali",
+  "This field is required": "Bidang ini diperlukan",
+  "Your event has been submitted": "Acara anda telah dihantar",
+  "Enter a location": "Masukkan lokasi",
+  "Display the time zone alongside the event date.":
+    "Paparkan zon waktu bersama tarikh acara.",
+  Home: "Rumah",
+  "Side By Side Event Limit": "Had acara bersebelahan",
+  "Mobille App": "Aplikasi Mobille",
+  category: "kategori",
 };
 export default ms;

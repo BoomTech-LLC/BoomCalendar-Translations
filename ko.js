@@ -644,5 +644,31 @@ let ko = {
   Sunday: "일요일",
   "Yearly view": "연간 견해",
   Ascending: "오름차순",
+  "Show event time next to title": "타이틀 옆에 이벤트 시간을 표시하십시오",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "이벤트 날짜와 시간을 시간대에 따라 사용자의 현지 시간으로 조정하십시오.",
+  "Display the time zone alongside the event date.":
+    "이벤트 날짜와 함께 시간대를 표시하십시오.",
+  "Show event time next to title": "타이틀 옆에 이벤트 시간을 표시하십시오",
+  "Time Zone": "시간대",
+  "Upload Image": "이미지 업로드",
+  "Choose a Category": "카테고리를 선택하십시오",
+  "Color you have chosen will not be shown as you choose category":
+    "선택한 색상은 카테고리를 선택할 때 표시되지 않습니다.",
+  Website: "웹 사이트",
+  Next: "다음",
+  Save: "구하다",
+  "Last Name": "성",
+  "Personal Info": "개인적인 정보",
+  Back: "뒤쪽에",
+  "This field is required": "이 필드가 필요합니다",
+  "Your event has been submitted": "귀하의 이벤트가 제출되었습니다",
+  "Enter a location": "위치를 입력하십시오",
+  "Display the time zone alongside the event date.":
+    "이벤트 날짜와 함께 시간대를 표시하십시오.",
+  Home: "집",
+  "Side By Side Event Limit": "나란히 이벤트 한도",
+  "Mobille App": "Mobille 앱",
+  category: "범주",
 };
 export default ko;

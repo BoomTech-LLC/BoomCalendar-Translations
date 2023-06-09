@@ -647,5 +647,31 @@ let sk = {
   Sunday: "Nedeľa",
   "Yearly view": "Utorok",
   Ascending: "Vzostupný",
+  "Show event time next to title": "Zobraziť čas udalosti najbližšie k titulu",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Upravte dátum a čas udalosti miestnemu času používateľa na základe časového pásma.",
+  "Display the time zone alongside the event date.":
+    "Zobraziť časové pásmo spolu s dátumom udalosti.",
+  "Show event time next to title": "Zobraziť čas udalosti najbližšie k titulu",
+  "Time Zone": "Časové pásmo",
+  "Upload Image": "Nahrať obrázok",
+  "Choose a Category": "Vyberte kategóriu",
+  "Color you have chosen will not be shown as you choose category":
+    "Farba, ktorú ste si vybrali, sa nezobrazí, keď si vyberiete kategóriu",
+  Website: "Webová stránka",
+  Next: "Ďalšie",
+  Save: "Uložiť",
+  "Last Name": "Priezvisko",
+  "Personal Info": "Osobné informácie",
+  Back: "späť",
+  "This field is required": "Toto pole je potrebné",
+  "Your event has been submitted": "Vaša udalosť bola odoslaná",
+  "Enter a location": "Zadajte miesto",
+  "Display the time zone alongside the event date.":
+    "Zobraziť časové pásmo spolu s dátumom udalosti.",
+  Home: "Domov",
+  "Side By Side Event Limit": "Limit udalosti vedľa seba",
+  "Mobille App": "Aplikácia Mobille",
+  category: "kategória",
 };
 export default sk;

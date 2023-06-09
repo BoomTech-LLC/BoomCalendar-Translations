@@ -32,7 +32,8 @@ let hy = {
   "You can give visitors a more consistent experience by showing the same number of weeks(6) at a time.":
     "Այցելուներին կարող եք ավելի կայուն փորձ տալ, միանգամից նույնքան շաբաթներ (6) ցույց տալով:",
   "Fixed Weekly Layout": "Հաստատուն շաբաթական դասավորություն",
-  back: "ետեվ",
+  back: "Հետ",
+  Back: "Հետ",
   Row: "Թիավարում",
   "Hours in Weekly View": "Ժամեր շաբաթական տեսանկյունից",
   "Hours in Daily View": "Ժամեր ամենօրյա տեսանկյունից",
@@ -163,9 +164,9 @@ let hy = {
   "Hosting events that last all day? This lets you show them on your calendar.":
     "Հոստինգի իրադարձություններ, որոնք տեւում են ամբողջ օրը: Սա ձեզ հնարավորություն է տալիս ցույց տալ դրանք ձեր օրացույցում:",
   "24 hours": "24 ժամ",
-  Sat: "Կից",
-  Sun: "Արեւ",
-  Mon: "Երկերես",
+  Sat: "Շբթ",
+  Sun: "Կրկ",
+  Mon: "Երկ",
   Default: "Թերություն",
   "Select custom design style for your calendar.":
     "Ընտրեք ձեր օրացույցի համար պատրաստված ձեւավորման ոճը:",
@@ -187,7 +188,7 @@ let hy = {
   Map: "Քարտեզ",
   "Calendar view": "Օրացույցի դիտում",
   "Add Event": "Ավելացնել իրադարձություն",
-  Uncategorised: "Uncategorised",
+  Uncategorised: "Չդասակարգված",
   More: "Ավելի շատ",
   Less: "Ավելի քիչ",
   Register: "Ռեստ",
@@ -251,10 +252,9 @@ let hy = {
   "Organizer website": "Կազմակերպչի կայք",
   "Personal info": "Անձնական տեղեկություն",
   "First name": "Անուն",
-  "Last name": "Ազգանուն",
+  "Last Name": "Ազգանուն",
   "Email Address": "Էլեկտրոնային հասցե",
   "Additional Notes": "լրացուցիչ նշումներ",
-  Back: "Ետեվ",
   Save: "Խնայել",
   Next: "Հաջորդ",
   "Your event has been submitted": "Ձեր իրադարձությունը ներկայացվել է",
@@ -328,7 +328,7 @@ let hy = {
   "Print Button": "Տպել կոճակը",
   "Permit your users to print your Boom Event Calendar in any date range.":
     "Թույլ տվեք ձեր օգտագործողներին տպել ձեր Boom իրադարձության օրացույցը ցանկացած ամսաթվերի սահմաններում:",
-  "Show Title on mobile": "Title ույց տալ վերնագիրը բջջայինով",
+  "Show Title on mobile": "Ցույց տալ վերնագիրը բջջայինով",
   "Show Skeleton on mobile": "Ցույց տալ կմախքը բջջայինի վրա",
   "Start 7-day Business trial": "Սկսեք 7-օրյա բիզնեսի դատավարությունը",
   "Enjoy all the Unlimiited features, such as Sell tickets, Registration, Visitor event add-ons.":
@@ -361,7 +361,7 @@ let hy = {
   "Edit original event": "Խմբագրել բնօրինակ իրադարձությունը",
   "Copy event": "Պատճենել իրադարձություն",
   "Copy as new event": "Պատճենել որպես նոր իրադարձություն",
-  "Delete event": "Delete նջել իրադարձությունը",
+  "Delete event": "Ջնջել իրադարձությունը",
   "Stop repeating on this date": "Դադարեք կրկնել այս ամսաթվին",
   "Exclude this date": "Բացառեք այս ամսաթիվը",
   "Location is going to be announced": "Տեղադրությունը կհայտարարվի",
@@ -458,7 +458,6 @@ let hy = {
   "Note on mobile": "Նշում բջջայինում",
   "Turn off or change the text of the “No events” bar on mobile version of calendar":
     "Անջատեք կամ փոխեք «Ոչ իրադարձություններ» բարի տեքստը Օրացույցի բջջային տարբերակի վրա",
-  Autodeletion: "Նուտոդիլածություն",
   "Enabling the option, will automatically remove your past events from the calendar.":
     "Ընտրանքների միացումը, ավտոմատ կերպով կվերացնի ձեր անցյալի իրադարձությունները օրացույցից:",
   "This does not apply to repeating events!":
@@ -570,7 +569,6 @@ let hy = {
   Past: "Անցյալ",
   All: "Բոլորը",
   Upcoming: "Գալիք",
-  Uncategorised: "Uncategorised",
   "Date Ascending": "Ամսաթիվ աճող",
   "Date Descending": "Ամսաթիվը իջնում ​​է",
   "Title by A-Z": "Վերնագիր A-Z- ի կողմից",
@@ -580,7 +578,7 @@ let hy = {
 
   "Auto-Convert Date & Time": "Ավտոմատ փոխարկել ամսաթիվը եւ ժամանակը",
   TimeZone: "Ժամային գոտի",
-  Autodeletion: "Նուտոդիլածություն",
+  Autodeletion: "Ավտոմատ ջնջում",
   "Layout Settings": "Դասավորության կարգավորումներ",
   "Yeatly view": "Yeatly դիտում",
   "Monthly view header": "Ամսվա դիտման վերնագիր",
@@ -649,12 +647,40 @@ let hy = {
   "Yearly view": "Տարեկան դիտում",
   Ascending: "Բարձրացող",
   "Show event time next to title":
-    "Show ուցադրել իրադարձության ժամանակը վերնագրի կողքին",
+    "Ցուցադրել իրադարձության ժամանակը վերնագրի կողքին",
   "Adjust the event date and time to the user's local time based on their time zone.":
     "Կարգավորեք իրադարձության ամսաթիվը եւ ժամանակը օգտագործողի տեղական ժամանակին, հիմնվելով իրենց ժամային գոտու վրա:",
   "Display the time zone alongside the event date.":
     "Display ուցադրել Ժամկետային գոտին իրադարձության ամսաթվի կողքին:",
   "Show event time next to title":
-    "Show ուցադրել իրադարձության ժամանակը վերնագրի կողքին",
+    "Ցուցադրել իրադարձության ժամանակը վերնագրի կողքին",
+  "Show event time next to title":
+    "Ցուցադրել իրադարձության ժամանակը վերնագրի կողքին",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Կարգավորեք իրադարձության ամսաթիվը եւ ժամանակը օգտագործողի տեղական ժամանակին, հիմնվելով իրենց ժամային գոտու վրա:",
+  "Display the time zone alongside the event date.":
+    "Ցուցադրել Ժամկետային գոտին իրադարձության ամսաթվի կողքին:",
+  "Show event time next to title":
+    "Ցուցադրել իրադարձության ժամանակը վերնագրի կողքին",
+  "Time Zone": "Ժամային գոտի",
+  "Upload Image": "Վերբեռնեք պատկերը",
+  "Choose a Category": "Ընտրեք կատեգորիա",
+  "Color you have chosen will not be shown as you choose category":
+    "Ընտրած գույնը չի ցուցադրվի որպես կատեգորիա",
+  Website: "Կայք",
+  Next: "Հաջորդ",
+  Save: "Պահպանել",
+  "Last Name": "Ազգանուն",
+  "Personal Info": "Անձնական տեղեկություն",
+  Back: "Հետ",
+  "This field is required": "Այս դաշտը պարտադիր է",
+  "Your event has been submitted": "Ձեր իրադարձությունը ներկայացվել է",
+  "Enter a location": "Մուտքագրեք գտնվելու վայրը",
+  "Display the time zone alongside the event date.":
+    "Ցուցադրել Ժամկետային գոտին իրադարձության ամսաթվի կողքին:",
+  Home: "տուն",
+  "Side By Side Event Limit": "Կողք կողքի իրադարձության սահմանաչափը",
+  "Mobille App": "Mobile հավելված",
+  category: "Կատեգորիա",
 };
 export default hy;

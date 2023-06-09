@@ -648,5 +648,31 @@ let ro = {
   Sunday: "duminică",
   "Yearly view": "Visualização anual",
   Ascending: "vineri",
+  "Show event time next to title": "Afișați ora evenimentului lângă titlu",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Reglați data și ora evenimentului la ora locală a utilizatorului în funcție de fusul orar.",
+  "Display the time zone alongside the event date.":
+    "Afișați fusul orar alături de data evenimentului.",
+  "Show event time next to title": "Afișați ora evenimentului lângă titlu",
+  "Time Zone": "Fus orar",
+  "Upload Image": "Incarca imaginea",
+  "Choose a Category": "Alege o categorie",
+  "Color you have chosen will not be shown as you choose category":
+    "Culoarea pe care ați ales -o nu va fi afișată pe măsură ce alegeți categoria",
+  Website: "Site -ul web",
+  Next: "Următorul",
+  Save: "Salvați",
+  "Last Name": "Nume",
+  "Personal Info": "Informatie personala",
+  Back: "Înapoi",
+  "This field is required": "Acest câmp este obligatoriu",
+  "Your event has been submitted": "Evenimentul dvs. a fost trimis",
+  "Enter a location": "Introduceți o locație",
+  "Display the time zone alongside the event date.":
+    "Afișați fusul orar alături de data evenimentului.",
+  Home: "Acasă",
+  "Side By Side Event Limit": "Limita evenimentului cot la cot",
+  "Mobille App": "Aplicația Mobille",
+  category: "categorie",
 };
 export default ro;

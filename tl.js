@@ -611,5 +611,33 @@ let tl = {
     "Ipakita ang time zone sa tabi ng petsa ng kaganapan.",
   "Show event time next to title":
     "Ipakita ang oras ng kaganapan sa tabi ng pamagat",
+  "Show event time next to title":
+    "Ipakita ang oras ng kaganapan sa tabi ng pamagat",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Ayusin ang petsa ng kaganapan at oras sa lokal na oras ng gumagamit batay sa kanilang time zone.",
+  "Display the time zone alongside the event date.":
+    "Ipakita ang time zone sa tabi ng petsa ng kaganapan.",
+  "Show event time next to title":
+    "Ipakita ang oras ng kaganapan sa tabi ng pamagat",
+  "Time Zone": "Time zone",
+  "Upload Image": "Mag -upload ng imahe",
+  "Choose a Category": "Pumili ng isang kategorya",
+  "Color you have chosen will not be shown as you choose category":
+    "Ang kulay na napili mo ay hindi maipakita habang pinili mo ang kategorya",
+  Website: "Website",
+  Next: "Susunod",
+  Save: "I -save",
+  "Last Name": "Huling pangalan",
+  "Personal Info": "Personal na impormasyon",
+  Back: "Balik",
+  "This field is required": "Kinakailangan ang patlang na ito",
+  "Your event has been submitted": "Ang iyong kaganapan ay isinumite",
+  "Enter a location": "Magpasok ng isang lokasyon",
+  "Display the time zone alongside the event date.":
+    "Ipakita ang time zone sa tabi ng petsa ng kaganapan.",
+  Home: "Home",
+  "Side By Side Event Limit": "Sa tabi -tabi ng limitasyon ng kaganapan",
+  "Mobille App": "MOBILLE app",
+  category: "kategorya",
 };
 export default tl;

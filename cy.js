@@ -651,5 +651,31 @@ let cy = {
   Sunday: "Sul",
   Ascending: "Esgynnol",
   "Yearly view": "Golygfa flynyddol",
+  "Show event time next to title": "Dangos amser digwyddiad nesaf at y teitl",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Addaswch ddyddiad ac amser y digwyddiad i amser lleol y defnyddiwr yn seiliedig ar eu parth amser.",
+  "Display the time zone alongside the event date.":
+    "Arddangos y parth amser ochr yn ochr â dyddiad y digwyddiad.",
+  "Show event time next to title": "Dangos amser digwyddiad nesaf at y teitl",
+  "Time Zone": "Parth Amser",
+  "Upload Image": "Llwythwch ddelwedd",
+  "Choose a Category": "Dewiswch gategori",
+  "Color you have chosen will not be shown as you choose category":
+    "Ni fydd lliw rydych chi wedi'i ddewis yn cael ei ddangos wrth i chi ddewis categori",
+  Website: "Gwefan",
+  Next: "Nesaf",
+  Save: "Hiachasit",
+  "Last Name": "Enw olaf",
+  "Personal Info": "Gwybodaeth Bersonol",
+  Back: "Yn ôl",
+  "This field is required": "Mae angen y maes hwn",
+  "Your event has been submitted": "Mae eich digwyddiad wedi'i gyflwyno",
+  "Enter a location": "Mynd i mewn i leoliad",
+  "Display the time zone alongside the event date.":
+    "Arddangos y parth amser ochr yn ochr â dyddiad y digwyddiad.",
+  Home: "Nghartrefi",
+  "Side By Side Event Limit": "Terfyn digwyddiad ochr yn ochr",
+  "Mobille App": "Ap Mobille",
+  category: "Categori",
 };
 export default cy;

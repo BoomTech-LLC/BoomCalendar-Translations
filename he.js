@@ -640,5 +640,31 @@ let he = {
   Sunday: "יוֹם רִאשׁוֹן",
   "Yearly view": "מבט שנתי",
   Ascending: "יוֹם שֵׁנִי",
+  "Show event time next to title": "הצג זמן אירוע הבא לכותרת",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "התאם את תאריך האירוע והשעה לזמן המקומי של המשתמש על סמך אזור הזמן שלהם.",
+  "Display the time zone alongside the event date.":
+    "הצג את אזור הזמן לצד תאריך האירוע.",
+  "Show event time next to title": "הצג זמן אירוע הבא לכותרת",
+  "Time Zone": "אזור זמן",
+  "Upload Image": "העלאת תמונה",
+  "Choose a Category": "בחר קטגוריה",
+  "Color you have chosen will not be shown as you choose category":
+    "צבע שבחרת לא יוצג כפי שתבחר בקטגוריה",
+  Website: "אתר אינטרנט",
+  Next: "הַבָּא",
+  Save: "להציל",
+  "Last Name": "שם משפחה",
+  "Personal Info": "מידע אישי",
+  Back: "חזור",
+  "This field is required": "זהו שדה חובה",
+  "Your event has been submitted": "האירוע שלך הוגש",
+  "Enter a location": "הזן מיקום",
+  "Display the time zone alongside the event date.":
+    "הצג את אזור הזמן לצד תאריך האירוע.",
+  Home: "בית",
+  "Side By Side Event Limit": "מגבלת אירוע זה לצד זה",
+  "Mobille App": "אפליקציית Mobille",
+  category: "קטגוריה",
 };
 export default he;

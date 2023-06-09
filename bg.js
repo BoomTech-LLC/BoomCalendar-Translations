@@ -647,5 +647,33 @@ let bg = {
   Sunday: "Неделя",
   "Yearly view": "Годишен изглед",
   Ascending: "Възходящ",
+  "Show event time next to title":
+    "Показване на времето за събитие до заглавието",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Регулирайте датата и часа на събитието към местното време на потребителя въз основа на тяхната часова зона.",
+  "Display the time zone alongside the event date.":
+    "Показвайте часовата зона заедно с датата на събитието.",
+  "Show event time next to title":
+    "Показване на времето за събитие до заглавието",
+  "Time Zone": "Часова зона",
+  "Upload Image": "Качи изображение",
+  "Choose a Category": "Избери категория",
+  "Color you have chosen will not be shown as you choose category":
+    "Цветът, който сте избрали, няма да бъде показан, както избирате категория",
+  Website: "Уебсайт",
+  Next: "Следващия",
+  Save: "Запазете",
+  "Last Name": "Фамилия",
+  "Personal Info": "Лична информация",
+  Back: "Назад",
+  "This field is required": "Това поле е задължително",
+  "Your event has been submitted": "Вашето събитие е изпратено",
+  "Enter a location": "Въведете място",
+  "Display the time zone alongside the event date.":
+    "Показвайте часовата зона заедно с датата на събитието.",
+  Home: "У дома",
+  "Side By Side Event Limit": "Ограничение на събитията един до друг",
+  "Mobille App": "App Mobille",
+  category: "категория",
 };
 export default bg;

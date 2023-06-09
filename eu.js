@@ -645,5 +645,33 @@ let eu = {
   Sunday: "Igande",
   Ascending: "Goranzko",
   "Yearly view": "Urteko ikuspegia",
+  "Show event time next to title":
+    "Erakutsi gertaera-denbora izenburuaren ondoan",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Egokitu gertaeraren data eta ordua erabiltzailearen tokira beren ordu-eremuan oinarrituta.",
+  "Display the time zone alongside the event date.":
+    "Bistaratu ordu-eremua gertaeraren datarekin batera.",
+  "Show event time next to title":
+    "Erakutsi gertaera-denbora izenburuaren ondoan",
+  "Time Zone": "Ordu eremu",
+  "Upload Image": "Kargatu irudia",
+  "Choose a Category": "Aukeratu kategoria bat",
+  "Color you have chosen will not be shown as you choose category":
+    "Aukeratu duzun kolorea ez da kategoria aukeratzen duzunean erakutsiko",
+  Website: "Ordeinu",
+  Next: "Gero",
+  Save: "Aurreztu",
+  "Last Name": "Abizena",
+  "Personal Info": "Informazio pertsonala",
+  Back: "Bizkar",
+  "This field is required": "Eremu hau derrigorrezkoa da",
+  "Your event has been submitted": "Zure gertaera aurkeztu da",
+  "Enter a location": "Sartu kokapen bat",
+  "Display the time zone alongside the event date.":
+    "Bistaratu ordu-eremua gertaeraren datarekin batera.",
+  Home: "Etxe",
+  "Side By Side Event Limit": "Alboko gertaeren mugaren arabera",
+  "Mobille App": "Mobille aplikazioa",
+  category: "kategoria",
 };
 export default eu;

@@ -652,5 +652,31 @@ let el = {
   Sunday: "Κυριακή",
   "Yearly view": "Ετήσια άποψη",
   Ascending: "Ανερχόμενος",
+  "Show event time next to title": "Εμφάνιση χρόνου εκδήλωσης δίπλα στον τίτλο",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Ρυθμίστε την ημερομηνία και την ώρα του συμβάντος στην τοπική ώρα του χρήστη με βάση τη ζώνη ώρας τους.",
+  "Display the time zone alongside the event date.":
+    "Εμφανίστε τη ζώνη ώρας παράλληλα με την ημερομηνία της εκδήλωσης.",
+  "Show event time next to title": "Εμφάνιση χρόνου εκδήλωσης δίπλα στον τίτλο",
+  "Time Zone": "Ζώνη ώρας",
+  "Upload Image": "Μεταφορτώστε την εικόνα",
+  "Choose a Category": "Επιλέξτε μια κατηγορία",
+  "Color you have chosen will not be shown as you choose category":
+    "Το χρώμα που έχετε επιλέξει δεν θα εμφανιστεί καθώς επιλέγετε κατηγορία",
+  Website: "Δικτυακός τόπος",
+  Next: "Επόμενο",
+  Save: "Αποθηκεύσετε",
+  "Last Name": "Επίθετο",
+  "Personal Info": "Προσωπικές πληροφορίες",
+  Back: "Πίσω",
+  "This field is required": "Αυτό το πεδίο απαιτείται",
+  "Your event has been submitted": "Η εκδήλωσή σας έχει υποβληθεί",
+  "Enter a location": "Εισαγάγετε μια τοποθεσία",
+  "Display the time zone alongside the event date.":
+    "Εμφανίστε τη ζώνη ώρας παράλληλα με την ημερομηνία της εκδήλωσης.",
+  Home: "Σπίτι",
+  "Side By Side Event Limit": "Όριο συμβάντος δίπλα στο πλάι",
+  "Mobille App": "Εφαρμογή Mobille",
+  category: "κατηγορία",
 };
 export default el;

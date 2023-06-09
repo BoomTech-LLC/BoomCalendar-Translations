@@ -644,5 +644,31 @@ let et = {
   Sunday: "Pühapäev",
   "Yearly view": "Iga -aastane vaade",
   Ascending: "Martes",
+  "Show event time next to title": "Kuva sündmuse aeg pealkirja kõrval",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Reguleerige sündmuse kuupäeva ja kellaaega kasutaja kohaliku ajaga vastavalt nende ajavööndile.",
+  "Display the time zone alongside the event date.":
+    "Kuvage ajavöönd sündmuse kuupäeva kõrval.",
+  "Show event time next to title": "Kuva sündmuse aeg pealkirja kõrval",
+  "Time Zone": "Ajavöönd",
+  "Upload Image": "Lae pilt üles",
+  "Choose a Category": "Valige kategooria",
+  "Color you have chosen will not be shown as you choose category":
+    "Värvi, mille olete valitud, ei kuvata kategooria valitud",
+  Website: "Veebisait",
+  Next: "Järgmine",
+  Save: "Kokkuhoid",
+  "Last Name": "Perekonnanimi",
+  "Personal Info": "Personaalne informatsioon",
+  Back: "tagasi",
+  "This field is required": "Selle välja täitmine on kohustuslik",
+  "Your event has been submitted": "Teie üritus on esitatud",
+  "Enter a location": "Sisestage asukoht",
+  "Display the time zone alongside the event date.":
+    "Kuvage ajavöönd sündmuse kuupäeva kõrval.",
+  Home: "Kodu",
+  "Side By Side Event Limit": "Kõrvuti sündmuste piir",
+  "Mobille App": "Mobille'i rakendus",
+  category: "kategooria",
 };
 export default et;

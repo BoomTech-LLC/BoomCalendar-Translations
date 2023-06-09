@@ -647,5 +647,31 @@ let no = {
   Sunday: "søndag",
   "Yearly view": "Årlig utsikt",
   Ascending: "Stigende",
+  "Show event time next to title": "Vis hendelsestid ved siden av tittelen",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Juster hendelsesdatoen og tid til brukerens lokale tid basert på tidssonen.",
+  "Display the time zone alongside the event date.":
+    "Vis tidssonen ved siden av hendelsesdatoen.",
+  "Show event time next to title": "Vis hendelsestid ved siden av tittelen",
+  "Time Zone": "Tidssone",
+  "Upload Image": "Last opp bilde",
+  "Choose a Category": "Velg en kategori",
+  "Color you have chosen will not be shown as you choose category":
+    "Farge du har valgt vil ikke bli vist når du velger kategori",
+  Website: "Nettsted",
+  Next: "Neste",
+  Save: "Lagre",
+  "Last Name": "Etternavn",
+  "Personal Info": "Personlig informasjon",
+  Back: "Tilbake",
+  "This field is required": "Dette feltet er obligatorisk",
+  "Your event has been submitted": "Arrangementet ditt er sendt inn",
+  "Enter a location": "Skriv inn et sted",
+  "Display the time zone alongside the event date.":
+    "Vis tidssonen ved siden av hendelsesdatoen.",
+  Home: "Hjem",
+  "Side By Side Event Limit": "Side om side hendelsesgrense",
+  "Mobille App": "Mobille -app",
+  category: "kategori",
 };
 export default no;

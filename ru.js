@@ -649,5 +649,31 @@ let ru = {
   Sunday: "Воскресенье",
   "Yearly view": "Ежегодный вид",
   Ascending: "Восходящий",
+  "Show event time next to title": "Показать время события рядом с заголовком",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Отрегулируйте дату и время события в локальное время пользователя в зависимости от их часового пояса.",
+  "Display the time zone alongside the event date.":
+    "Отобразить часовой пояс вместе с датой события.",
+  "Show event time next to title": "Показать время события рядом с заголовком",
+  "Time Zone": "Часовой пояс",
+  "Upload Image": "Загрузить изображение",
+  "Choose a Category": "Выберите категорию",
+  "Color you have chosen will not be shown as you choose category":
+    "Цвет, который вы выбрали",
+  Website: "Веб-сайт",
+  Next: "Следующий",
+  Save: "Сохранять",
+  "Last Name": "Фамилия",
+  "Personal Info": "Личная информация",
+  Back: "Назад",
+  "This field is required": "Это поле обязательно к заполнению",
+  "Your event has been submitted": "Ваше мероприятие было представлено",
+  "Enter a location": "Введите место",
+  "Display the time zone alongside the event date.":
+    "Отобразить часовой пояс вместе с датой события.",
+  Home: "Дом",
+  "Side By Side Event Limit": "Бок рядом с ограничением события",
+  "Mobille App": "Mobille App",
+  category: "категория",
 };
 export default ru;

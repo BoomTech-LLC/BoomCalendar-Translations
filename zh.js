@@ -631,5 +631,29 @@ let zh = {
   Sunday: "星期日",
   "Yearly view": "年度视图",
   Ascending: "上升",
+  "Show event time next to title": "显示标题旁边的活动时间",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "根据其时区将事件日期和时间调整为用户本地时间。",
+  "Display the time zone alongside the event date.": "在活动日期旁边显示时区。",
+  "Show event time next to title": "显示标题旁边的活动时间",
+  "Time Zone": "时区",
+  "Upload Image": "上传图片",
+  "Choose a Category": "选择一个类别",
+  "Color you have chosen will not be shown as you choose category":
+    "选择类别时，您选择的颜色不会显示",
+  Website: "网站",
+  Next: "下一个",
+  Save: "节省",
+  "Last Name": "姓",
+  "Personal Info": "个人信息",
+  Back: "后退",
+  "This field is required": "此字段是必需的",
+  "Your event has been submitted": "您的活动已提交",
+  "Enter a location": "输入位置",
+  "Display the time zone alongside the event date.": "在活动日期旁边显示时区。",
+  Home: "家",
+  "Side By Side Event Limit": "并排事件限制",
+  "Mobille App": "Mobille应用程序",
+  category: "类别",
 };
-export default zh;
+export default zh - cn;

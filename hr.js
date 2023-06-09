@@ -646,5 +646,31 @@ let hr = {
   Sunday: "nedjelja",
   Ascending: "Uzlazni",
   "Yearly view": "Godišnji pogled",
+  "Show event time next to title": "Prikaži vrijeme događaja pored naslova",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Prilagodite datum i vrijeme događaja na lokalno vrijeme korisnika na temelju njihove vremenske zone.",
+  "Display the time zone alongside the event date.":
+    "Prikažite vremensku zonu uz datum događaja.",
+  "Show event time next to title": "Prikaži vrijeme događaja pored naslova",
+  "Time Zone": "Vremenska zona",
+  "Upload Image": "Učitaj sliku",
+  "Choose a Category": "Odaberite kategoriju",
+  "Color you have chosen will not be shown as you choose category":
+    "Boja koju ste odabrali neće biti prikazano kad odaberete kategoriju",
+  Website: "Web stranica",
+  Next: "Sljedeći",
+  Save: "Uštedjeti",
+  "Last Name": "Prezime",
+  "Personal Info": "Osobne informacije",
+  Back: "leđa",
+  "This field is required": "ovo polje je obavezno",
+  "Your event has been submitted": "Vaš je događaj podnesen",
+  "Enter a location": "Unesite mjesto",
+  "Display the time zone alongside the event date.":
+    "Prikažite vremensku zonu uz datum događaja.",
+  Home: "Dom",
+  "Side By Side Event Limit": "Granica događaja radno uz drugo",
+  "Mobille App": "Mobille App",
+  category: "kategorija",
 };
 export default hr;

@@ -647,5 +647,31 @@ let fi = {
   Sunday: "sunnuntai",
   "Yearly view": "Vuosittainen näkymä",
   Ascending: "Nouseva",
+  "Show event time next to title": "Näytä tapahtuma -aika otsikon vieressä",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Säädä tapahtuman päivämäärä ja aika käyttäjän paikalliseen aikaan heidän aikavyöhykkeensä perusteella.",
+  "Display the time zone alongside the event date.":
+    "Näytä aikavyöhyke tapahtuman päivämäärän rinnalla.",
+  "Show event time next to title": "Näytä tapahtuma -aika otsikon vieressä",
+  "Time Zone": "Aikavyöhyke",
+  "Upload Image": "Lataa kuva",
+  "Choose a Category": "Valitse kategoria",
+  "Color you have chosen will not be shown as you choose category":
+    "Valitsemasi väriä ei näytetä, kun valitset luokan",
+  Website: "Verkkosivusto",
+  Next: "Seuraava",
+  Save: "Tallentaa",
+  "Last Name": "Sukunimi",
+  "Personal Info": "Henkilökohtaiset tiedot",
+  Back: "Takaisin",
+  "This field is required": "Tämä kenttä pitää täyttää",
+  "Your event has been submitted": "Tapahtumasi on lähetetty",
+  "Enter a location": "Syötä sijainti",
+  "Display the time zone alongside the event date.":
+    "Näytä aikavyöhyke tapahtuman päivämäärän rinnalla.",
+  Home: "Koti",
+  "Side By Side Event Limit": "Vierekkäin tapahtumaraja",
+  "Mobille App": "Mobille -sovellus",
+  category: "kategoria",
 };
 export default fi;

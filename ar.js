@@ -637,5 +637,31 @@ let ar = {
   Sunday: "الأحد",
   Ascending: "تصاعدي",
   "Yearly view": "تصاعدي",
+  "Show event time next to title": "عرض وقت الحدث بجوار العنوان",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "اضبط تاريخ الحدث والوقت على الوقت المحلي للمستخدم بناءً على منطقتهم الزمنية.",
+  "Display the time zone alongside the event date.":
+    "عرض المنطقة الزمنية إلى جانب تاريخ الحدث.",
+  "Show event time next to title": "عرض وقت الحدث بجوار العنوان",
+  "Time Zone": "وحدة زمنية",
+  "Upload Image": "تحميل الصور",
+  "Choose a Category": "اختر فئة",
+  "Color you have chosen will not be shown as you choose category":
+    "لن يتم عرض اللون الذي اخترته أثناء اختيار الفئة",
+  Website: "موقع إلكتروني",
+  Next: "التالي",
+  Save: "يحفظ",
+  "Last Name": "اسم العائلة",
+  "Personal Info": "معلومات شخصية",
+  Back: "مرة أخرى",
+  "This field is required": "هذه الخانة مطلوبه",
+  "Your event has been submitted": "تم تقديم الحدث الخاص بك",
+  "Enter a location": "أدخل موقع",
+  "Display the time zone alongside the event date.":
+    "عرض المنطقة الزمنية إلى جانب تاريخ الحدث.",
+  Home: "بيت",
+  "Side By Side Event Limit": "حد الحدث جنبًا إلى جنب",
+  "Mobille App": "تطبيق Mobille",
+  category: "فئة",
 };
 export default ar;

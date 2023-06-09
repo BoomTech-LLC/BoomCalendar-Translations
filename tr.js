@@ -647,5 +647,33 @@ let tr = {
   Sunday: "Pazar",
   "Yearly view": "Yıllık Görüntü",
   Ascending: "Yükselen",
+  "Show event time next to title":
+    "Başlığın yanındaki etkinlik zamanını göster",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Etkinlik tarihini ve saatini saat dilimlerine göre kullanıcının yerel saatine göre ayarlayın.",
+  "Display the time zone alongside the event date.":
+    "Etkinlik tarihinin yanında saat dilimini görüntüleyin.",
+  "Show event time next to title":
+    "Başlığın yanındaki etkinlik zamanını göster",
+  "Time Zone": "Saat dilimi",
+  "Upload Image": "Fotoğraf yükleniyor",
+  "Choose a Category": "Bir kategori seçin",
+  "Color you have chosen will not be shown as you choose category":
+    "Seçtiğiniz renk kategoriyi seçerken gösterilmeyecek",
+  Website: "İnternet sitesi",
+  Next: "Sonraki",
+  Save: "Kaydetmek",
+  "Last Name": "Soy isim",
+  "Personal Info": "Kişisel bilgi",
+  Back: "Geri",
+  "This field is required": "Bu alan gereklidir",
+  "Your event has been submitted": "Etkinliğiniz gönderildi",
+  "Enter a location": "Bir Konum girin",
+  "Display the time zone alongside the event date.":
+    "Etkinlik tarihinin yanında saat dilimini görüntüleyin.",
+  Home: "Ev",
+  "Side By Side Event Limit": "Yan yana olay sınırı",
+  "Mobille App": "Mobille uygulaması",
+  category: "kategori",
 };
 export default tr;

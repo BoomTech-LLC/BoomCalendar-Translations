@@ -648,5 +648,31 @@ let cs = {
   Sunday: "Neděle",
   "Yearly view": "Roční pohled",
   Ascending: "Vzestupné",
+  "Show event time next to title": "Zobrazit čas události vedle názvu",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Upravte datum a čas události na místní čas uživatele na základě jejich časového pásma.",
+  "Display the time zone alongside the event date.":
+    "Zobrazit časové pásmo vedle data události.",
+  "Show event time next to title": "Zobrazit čas události vedle názvu",
+  "Time Zone": "Časové pásmo",
+  "Upload Image": "Nahrát obrázek",
+  "Choose a Category": "Vyberte kategorii",
+  "Color you have chosen will not be shown as you choose category":
+    "Barva, kterou jste vybrali, se při výběru kategorie nezobrazí",
+  Website: "webová stránka",
+  Next: "další",
+  Save: "Uložit",
+  "Last Name": "Příjmení",
+  "Personal Info": "Osobní informace",
+  Back: "Zpět",
+  "This field is required": "Toto pole je povinné",
+  "Your event has been submitted": "Vaše událost byla předložena",
+  "Enter a location": "Zadejte umístění",
+  "Display the time zone alongside the event date.":
+    "Zobrazit časové pásmo vedle data události.",
+  Home: "Domov",
+  "Side By Side Event Limit": "Limit událostí vedle sebe",
+  "Mobille App": "Aplikace MoBille",
+  category: "kategorie",
 };
 export default cs;

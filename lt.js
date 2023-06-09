@@ -517,5 +517,31 @@ let lt = {
   Friday: "Penktadienis",
   Saturday: "Šeštadienis",
   Sunday: "Sekmadienis",
+  "Show event time next to title": "Rodyti įvykio laiką šalia pavadinimo",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Remdamiesi jų laiko juosta, sureguliuokite įvykio datą ir laiką pagal vartotojo vietos laiką.",
+  "Display the time zone alongside the event date.":
+    "Parodykite laiko juostą kartu su įvykio data.",
+  "Show event time next to title": "Rodyti įvykio laiką šalia pavadinimo",
+  "Time Zone": "Laiko zona",
+  "Upload Image": "Įkelti paveikslėlį",
+  "Choose a Category": "Pasirinkite kategoriją",
+  "Color you have chosen will not be shown as you choose category":
+    "Pasirinkta spalva nebus rodoma, kai pasirenkate kategoriją",
+  Website: "Interneto svetainė",
+  Next: "Kitas",
+  Save: "Sutaupyti",
+  "Last Name": "Pavardė",
+  "Personal Info": "Asmeninė informacija",
+  Back: "Atgal",
+  "This field is required": "Šį lauką būtina užpildyti",
+  "Your event has been submitted": "Jūsų renginys buvo pateiktas",
+  "Enter a location": "Įveskite vietą",
+  "Display the time zone alongside the event date.":
+    "Parodykite laiko juostą kartu su įvykio data.",
+  Home: "Namai",
+  "Side By Side Event Limit": "Viršutinio įvykio riba",
+  "Mobille App": "„Mobille“ programa",
+  category: "Kategorija",
 };
 export default lt;
