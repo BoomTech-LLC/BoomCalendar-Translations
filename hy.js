@@ -191,7 +191,7 @@ let hy = {
   Uncategorised: "Չդասակարգված",
   More: "Ավելի շատ",
   Less: "Ավելի քիչ",
-  Register: "Ռեստ",
+  Register: "Գրանցվել",
   Card: "Քարտ",
   Guests: "Հյուրեր",
   unlimited: "անսահմանափակ",
