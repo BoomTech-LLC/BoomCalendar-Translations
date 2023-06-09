@@ -647,5 +647,31 @@ let lv = {
   Sunday: "Svētdiena",
   "Yearly view": "Ikgadējā skats",
   Ascending: "Augošs",
+  "Show event time next to title": "Izrādes notikumu laiks blakus nosaukumam",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Pielāgojiet notikuma datumu un laiku lietotāja vietējam laikam, pamatojoties uz viņu laika joslu.",
+  "Display the time zone alongside the event date.":
+    "Parādiet laika joslu līdzās notikuma datumam.",
+  "Show event time next to title": "Izrādes notikumu laiks blakus nosaukumam",
+  "Time Zone": "Laika zona",
+  "Upload Image": "Augšupielādēt attēlu",
+  "Choose a Category": "Izvēlieties kategoriju",
+  "Color you have chosen will not be shown as you choose category":
+    "Izvēlētā krāsa netiks parādīta, kā izvēlaties kategoriju",
+  Website: "Vietne",
+  Next: "Nākamais",
+  Save: "Ietaupīt",
+  "Last Name": "Uzvārds",
+  "Personal Info": "Personiskā informācija",
+  Back: "Aizmugure",
+  "This field is required": "Šis lauks ir obligāts",
+  "Your event has been submitted": "Jūsu pasākums ir iesniegts",
+  "Enter a location": "Ievadiet vietu",
+  "Display the time zone alongside the event date.":
+    "Parādiet laika joslu līdzās notikuma datumam.",
+  Home: "Mājas",
+  "Side By Side Event Limit": "Sānu notikumu ierobežojums",
+  "Mobille App": "Mobille lietotne",
+  category: "kategorija",
 };
 export default lv;

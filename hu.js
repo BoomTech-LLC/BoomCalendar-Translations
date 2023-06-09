@@ -646,5 +646,31 @@ let hu = {
   Sunday: "vasárnap",
   "Yearly view": "Éves nézet",
   Ascending: "Uzlazni",
+  "Show event time next to title": "Mutassa meg az eseményidőt a cím mellett",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Állítsa be az esemény dátumát és időt a felhasználó helyi időpontjába az időzónájuk alapján.",
+  "Display the time zone alongside the event date.":
+    "Jelenítse meg az időzónát az esemény dátuma mellett.",
+  "Show event time next to title": "Mutassa meg az eseményidőt a cím mellett",
+  "Time Zone": "Időzóna",
+  "Upload Image": "Feltöltés kép",
+  "Choose a Category": "Válasszon kategóriát",
+  "Color you have chosen will not be shown as you choose category":
+    "A választott színt nem jelenik meg a kategória választásakor",
+  Website: "Weboldal",
+  Next: "Következő",
+  Save: "Megment",
+  "Last Name": "Vezetéknév",
+  "Personal Info": "Személyes adatok",
+  Back: "Vissza",
+  "This field is required": "Ez a mező kötelező",
+  "Your event has been submitted": "Az eseményedet benyújtották",
+  "Enter a location": "Írjon be egy helyet",
+  "Display the time zone alongside the event date.":
+    "Jelenítse meg az időzónát az esemény dátuma mellett.",
+  Home: "itthon",
+  "Side By Side Event Limit": "Egymás melletti eseménykorlátozás",
+  "Mobille App": "Mobille alkalmazás",
+  category: "kategória",
 };
 export default hu;

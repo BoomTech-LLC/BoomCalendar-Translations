@@ -646,5 +646,31 @@ let ja = {
   Sunday: "日曜日",
   "Yearly view": "毎年の見解",
   Ascending: "上昇",
+  "Show event time next to title": "タイトルの次のイベント時間を表示します",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "タイムゾーンに基づいて、ユーザーの現地時間にイベントの日付と時刻を調整します。",
+  "Display the time zone alongside the event date.":
+    "イベント日と一緒にタイムゾーンを表示します。",
+  "Show event time next to title": "タイトルの次のイベント時間を表示します",
+  "Time Zone": "タイムゾーン",
+  "Upload Image": "画像をアップロードします",
+  "Choose a Category": "カテゴリを選択",
+  "Color you have chosen will not be shown as you choose category":
+    "選択した色は、カテゴリを選択するときに表示されません",
+  Website: "Webサイト",
+  Next: "次",
+  Save: "保存",
+  "Last Name": "苗字",
+  "Personal Info": "個人情報",
+  Back: "戻る",
+  "This field is required": "この項目は必須です",
+  "Your event has been submitted": "あなたのイベントが提出されました",
+  "Enter a location": "場所を入力します",
+  "Display the time zone alongside the event date.":
+    "イベント日と一緒にタイムゾーンを表示します。",
+  Home: "家",
+  "Side By Side Event Limit": "並んでイベントの制限",
+  "Mobille App": "Mobilleアプリ",
+  category: "カテゴリー",
 };
 export default ja;

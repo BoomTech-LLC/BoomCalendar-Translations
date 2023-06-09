@@ -646,5 +646,31 @@ let nl = {
   Sunday: "Zondag",
   "Yearly view": "Jaarlijkse weergave",
   Ascending: "Stijgend",
+  "Show event time next to title": "Toon evenemententijd naast de titel",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Pas de datum en tijd van de gebeurtenis aan op de lokale tijd van de gebruiker op basis van hun tijdzone.",
+  "Display the time zone alongside the event date.":
+    "Geef de tijdzone weer naast de evenementdatum.",
+  "Show event time next to title": "Toon evenemententijd naast de titel",
+  "Time Zone": "Tijdzone",
+  "Upload Image": "Afbeelding uploaden",
+  "Choose a Category": "Kies een categorie",
+  "Color you have chosen will not be shown as you choose category":
+    "Kleur die je hebt gekozen, wordt niet getoond als je categorie kiest",
+  Website: "Website",
+  Next: "Volgende",
+  Save: "Redden",
+  "Last Name": "Achternaam",
+  "Personal Info": "Persoonlijke informatie",
+  Back: "Rug",
+  "This field is required": "dit veld is verplicht",
+  "Your event has been submitted": "Uw evenement is ingediend",
+  "Enter a location": "Voer een locatie in",
+  "Display the time zone alongside the event date.":
+    "Geef de tijdzone weer naast de evenementdatum.",
+  Home: "Thuis",
+  "Side By Side Event Limit": "Limiet bij zij aan zij",
+  "Mobille App": "Mobille -app",
+  category: "categorie",
 };
 export default nl;

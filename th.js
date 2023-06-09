@@ -643,5 +643,31 @@ let th = {
   Sunday: "วันอาทิตย์",
   "Yearly view": "มุมมองประจำปี",
   Ascending: "จากน้อยไปมาก",
+  "Show event time next to title": "แสดงเวลาเหตุการณ์ถัดจากชื่อเรื่อง",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "ปรับวันที่และเวลาเหตุการณ์ตามเวลาท้องถิ่นของผู้ใช้ตามเขตเวลาของพวกเขา",
+  "Display the time zone alongside the event date.":
+    "แสดงโซนเวลาควบคู่ไปกับวันที่จัดกิจกรรม",
+  "Show event time next to title": "แสดงเวลาเหตุการณ์ถัดจากชื่อเรื่อง",
+  "Time Zone": "เขตเวลา",
+  "Upload Image": "อัพโหลดรูปภาพ",
+  "Choose a Category": "เลือกหมวดหมู่",
+  "Color you have chosen will not be shown as you choose category":
+    "สีที่คุณเลือกจะไม่แสดงในขณะที่คุณเลือกหมวดหมู่",
+  Website: "เว็บไซต์",
+  Next: "ต่อไป",
+  Save: "บันทึก",
+  "Last Name": "นามสกุล",
+  "Personal Info": "ข้อมูลส่วนตัว",
+  Back: "กลับ",
+  "This field is required": "ต้องการฟิลด์นี้",
+  "Your event has been submitted": "งานของคุณถูกส่งไปแล้ว",
+  "Enter a location": "ป้อนตำแหน่ง",
+  "Display the time zone alongside the event date.":
+    "แสดงโซนเวลาควบคู่ไปกับวันที่จัดกิจกรรม",
+  Home: "บ้าน",
+  "Side By Side Event Limit": "ขีด จำกัด เหตุการณ์เคียงข้างกัน",
+  "Mobille App": "แอพ Mobille",
+  category: "หมวดหมู่",
 };
 export default th;

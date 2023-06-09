@@ -655,5 +655,33 @@ let ca = {
   Sunday: "Diumenge",
   "Yearly view": "Vista anual",
   Ascending: "Ascendent",
+  "Show event time next to title":
+    "Mostra el temps d'esdeveniment al costat del títol",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Ajusteu la data i l'hora de l'esdeveniment a l'hora local de l'usuari en funció de la seva zona horària.",
+  "Display the time zone alongside the event date.":
+    "Mostra la zona horària al costat de la data de l'esdeveniment.",
+  "Show event time next to title":
+    "Mostra el temps d'esdeveniment al costat del títol",
+  "Time Zone": "Fus horari",
+  "Upload Image": "Pengeu la imatge",
+  "Choose a Category": "Trieu una categoria",
+  "Color you have chosen will not be shown as you choose category":
+    "El color que heu triat no es mostrarà a mesura que escolliu la categoria",
+  Website: "Lloc web",
+  Next: "Pròxim",
+  Save: "Estalviar",
+  "Last Name": "Cognom",
+  "Personal Info": "Informació personal",
+  Back: "Enrere",
+  "This field is required": "Aquest camp és obligatori",
+  "Your event has been submitted": "El vostre esdeveniment s'ha enviat",
+  "Enter a location": "Introduïu una ubicació",
+  "Display the time zone alongside the event date.":
+    "Mostra la zona horària al costat de la data de l'esdeveniment.",
+  Home: "Casa",
+  "Side By Side Event Limit": "Límit de l'esdeveniment de costat a costat",
+  "Mobille App": "Aplicació de Mobille",
+  category: "categoria",
 };
 export default ca;

@@ -637,5 +637,31 @@ let en = {
   Sunday: "Sunday",
   "Yearly view": "Yearly view",
   Ascending: "Ascending",
+  "Show event time next to title": "Show event time next to title",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Adjust the event date and time to the user's local time based on their time zone.",
+  "Display the time zone alongside the event date.":
+    "Display the time zone alongside the event date.",
+  "Show event time next to title": "Show event time next to title",
+  "Time Zone": "Time Zone",
+  "Upload Image": "Upload Image",
+  "Choose a Category": "Choose a Category",
+  "Color you have chosen will not be shown as you choose category":
+    "Color you have chosen will not be shown as you choose category",
+  Website: "Website",
+  Next: "Next",
+  Save: "Save",
+  "Last Name": "Last Name",
+  "Personal Info": "Personal Info",
+  Back: "Back ",
+  "This field is required": "This field is required",
+  "Your event has been submitted": "Your event has been submitted",
+  "Enter a location": "Enter a location",
+  "Display the time zone alongside the event date.":
+    "Display the time zone alongside the event date.",
+  Home: "Home",
+  "Side By Side Event Limit": "Side By Side Event Limit",
+  "Mobille App": "Mobille App",
+  category: "category",
 };
 export default en;

@@ -646,5 +646,31 @@ let uk = {
   Sunday: "Неділя",
   "Yearly view": "Щорічний перегляд",
   Ascending: "Висхід",
+  "Show event time next to title": "Показати час події поруч із назвою",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Відрегулюйте дату та час події до місцевого часу користувача на основі їх часового поясу.",
+  "Display the time zone alongside the event date.":
+    "Відобразити часовий пояс поряд з датою події.",
+  "Show event time next to title": "Показати час події поруч із назвою",
+  "Time Zone": "Часовий пояс",
+  "Upload Image": "Завантажити зображення",
+  "Choose a Category": "Виберіть категорію",
+  "Color you have chosen will not be shown as you choose category":
+    "Вибраний вами колір не буде показаний, коли ви вибрали категорію",
+  Website: "Веб -сайт",
+  Next: "Наступний",
+  Save: "Заощадити",
+  "Last Name": "Прізвище",
+  "Personal Info": "Особиста інформація",
+  Back: "Спинка",
+  "This field is required": "Це поле є обов'язковим",
+  "Your event has been submitted": "Ваша подія подано",
+  "Enter a location": "Введіть місце розташування",
+  "Display the time zone alongside the event date.":
+    "Відобразити часовий пояс поряд з датою події.",
+  Home: "Домашній",
+  "Side By Side Event Limit": "Порядна межа події",
+  "Mobille App": "Додаток Mobille",
+  category: "категорія",
 };
 export default uk;

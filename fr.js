@@ -653,5 +653,33 @@ let fr = {
   Sunday: "Dimanche",
   "Yearly view": "Vue annuelle",
   Ascending: "Nouseva",
+  "Show event time next to title":
+    "Afficher l'heure de l'événement à côté du titre",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Ajustez la date et l'heure de l'événement à l'heure locale de l'utilisateur en fonction de son fuseau horaire.",
+  "Display the time zone alongside the event date.":
+    "Affichez le fuseau horaire le long de la date de l'événement.",
+  "Show event time next to title":
+    "Afficher l'heure de l'événement à côté du titre",
+  "Time Zone": "Fuseau horaire",
+  "Upload Image": "Télécharger l'image",
+  "Choose a Category": "Choisissez une catégorie",
+  "Color you have chosen will not be shown as you choose category":
+    "La couleur que vous avez choisie ne sera pas affichée lorsque vous choisissez la catégorie",
+  Website: "Site Internet",
+  Next: "Suivant",
+  Save: "Sauvegarder",
+  "Last Name": "Nom de famille",
+  "Personal Info": "Informations personnelles",
+  Back: "Dos",
+  "This field is required": "Ce champ est obligatoire",
+  "Your event has been submitted": "Votre événement a été soumis",
+  "Enter a location": "Entrez un emplacement",
+  "Display the time zone alongside the event date.":
+    "Affichez le fuseau horaire le long de la date de l'événement.",
+  Home: "Maison",
+  "Side By Side Event Limit": "Limite d'événement côte à côte",
+  "Mobille App": "Application Mobille",
+  category: "catégorie",
 };
 export default fr;

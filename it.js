@@ -646,5 +646,33 @@ let it = {
   "Yearly view": "Vista annuale",
   "Yearly view": "Vista annuale",
   Ascending: "Ascendente",
+  "Show event time next to title":
+    "Mostra il tempo dell'evento accanto al titolo",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Regola la data e l'ora dell'evento all'ora locale dell'utente in base al proprio fuso orario.",
+  "Display the time zone alongside the event date.":
+    "Visualizza il fuso orario insieme alla data dell'evento.",
+  "Show event time next to title":
+    "Mostra il tempo dell'evento accanto al titolo",
+  "Time Zone": "Fuso orario",
+  "Upload Image": "Carica immagine",
+  "Choose a Category": "Scegli una categoria",
+  "Color you have chosen will not be shown as you choose category":
+    "Il colore che hai scelto non verrà mostrato quando scegli la categoria",
+  Website: "Sito web",
+  Next: "Prossimo",
+  Save: "Salva",
+  "Last Name": "Cognome",
+  "Personal Info": "Informazioni personali",
+  Back: "Indietro",
+  "This field is required": "Questo campo è obbligatorio",
+  "Your event has been submitted": "Il tuo evento è stato inviato",
+  "Enter a location": "Immettere una posizione",
+  "Display the time zone alongside the event date.":
+    "Visualizza il fuso orario insieme alla data dell'evento.",
+  Home: "Casa",
+  "Side By Side Event Limit": "Limite di evento side by side",
+  "Mobille App": "App Mobille",
+  category: "categoria",
 };
 export default it;

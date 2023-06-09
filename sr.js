@@ -646,5 +646,31 @@ let sr = {
   Sunday: "Недеља",
   "Yearly view": "Годишњи поглед",
   Ascending: "На врһу",
+  "Show event time next to title": "Покажите време догађаја поред наслова",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Подесите датум и време догађаја у локално време корисника на основу њиһове временске зоне.",
+  "Display the time zone alongside the event date.":
+    "Прикажите временску зону поред датума догађаја.",
+  "Show event time next to title": "Покажите време догађаја поред наслова",
+  "Time Zone": "Временска зона",
+  "Upload Image": "Учитај слику",
+  "Choose a Category": "Одабрати категорију",
+  "Color you have chosen will not be shown as you choose category":
+    "Боја коју сте одабрали неће се приказати док одаберете категорију",
+  Website: "Веб сајт",
+  Next: "Следећи",
+  Save: "сачувати",
+  "Last Name": "Презиме",
+  "Personal Info": "Лични подаци",
+  Back: "Назад",
+  "This field is required": "Поље је обавезно",
+  "Your event has been submitted": "Ваш догађај је поднесен",
+  "Enter a location": "Унесите локацију",
+  "Display the time zone alongside the event date.":
+    "Прикажите временску зону поред датума догађаја.",
+  Home: "Кућа",
+  "Side By Side Event Limit": "Страна граница са бочним догађајима",
+  "Mobille App": "Мобилле Апп",
+  category: "категорија",
 };
 export default sr;

@@ -647,5 +647,31 @@ let mr = {
   Sunday: "रविवारी",
   "Yearly view": "वार्षिक दृश्य",
   Ascending: "चढत्या",
+  "Show event time next to title": "शीर्षकाच्या पुढे इव्हेंट वेळ दर्शवा",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "त्यांच्या टाइम झोनच्या आधारे वापरकर्त्याच्या स्थानिक वेळेमध्ये इव्हेंटची तारीख आणि वेळ समायोजित करा.",
+  "Display the time zone alongside the event date.":
+    "कार्यक्रमाच्या तारखेसह टाइम झोन प्रदर्शित करा.",
+  "Show event time next to title": "शीर्षकाच्या पुढे इव्हेंट वेळ दर्शवा",
+  "Time Zone": "वेळ क्षेत्र",
+  "Upload Image": "प्रतिमा अपलोड करा",
+  "Choose a Category": "एक श्रेणी निवडा",
+  "Color you have chosen will not be shown as you choose category":
+    "आपण निवडलेला रंग दर्शविला जाणार नाही",
+  Website: "संकेतस्थळ",
+  Next: "पुढे",
+  Save: "जतन करा",
+  "Last Name": "आडनाव",
+  "Personal Info": "वैयक्तिक माहिती",
+  Back: "मागे",
+  "This field is required": "हे क्षेत्र आवश्यक आहे",
+  "Your event has been submitted": "आपला कार्यक्रम सबमिट केला गेला आहे",
+  "Enter a location": "एक स्थान प्रविष्ट करा",
+  "Display the time zone alongside the event date.":
+    "कार्यक्रमाच्या तारखेसह टाइम झोन प्रदर्शित करा.",
+  Home: "मुख्यपृष्ठ",
+  "Side By Side Event Limit": "साइड बाय साइड इव्हेंट मर्यादा",
+  "Mobille App": "मोबिल अॅप",
+  category: "वर्ग",
 };
 export default mr;

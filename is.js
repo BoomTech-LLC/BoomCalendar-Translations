@@ -647,5 +647,31 @@ let is = {
   Sunday: "Sunnudagur",
   "Yearly view": "Árlega skoðun",
   Ascending: "Stígandi",
+  "Show event time next to title": "Sýna viðburðartíma við hliðina á titli",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Aðlagaðu dagsetningu og tíma atburðarins að staðartíma notandans út frá tímabelti þeirra.",
+  "Display the time zone alongside the event date.":
+    "Birtu tímabeltið samhliða viðburðinum.",
+  "Show event time next to title": "Sýna viðburðartíma við hliðina á titli",
+  "Time Zone": "Tímabelti",
+  "Upload Image": "Hlaða mynd",
+  "Choose a Category": "Veldu flokk",
+  "Color you have chosen will not be shown as you choose category":
+    "Litur sem þú hefur valið verður ekki sýndur þar sem þú velur flokk",
+  Website: "Vefsíðu",
+  Next: "Næst",
+  Save: "Vista",
+  "Last Name": "Eftirnafn",
+  "Personal Info": "Persónulegar upplýsingar",
+  Back: "Aftur",
+  "This field is required": "Þetta reit er krafist",
+  "Your event has been submitted": "Viðburðurinn þinn hefur verið lagður inn",
+  "Enter a location": "Sláðu inn staðsetningu",
+  "Display the time zone alongside the event date.":
+    "Birtu tímabeltið samhliða viðburðinum.",
+  Home: "Heim",
+  "Side By Side Event Limit": "Hlið við hlið atburðarmörk",
+  "Mobille App": "MOMILLE APP",
+  category: "Flokkur",
 };
 export default is;

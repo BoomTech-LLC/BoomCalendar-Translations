@@ -577,5 +577,33 @@ let vi = {
   Sunday: "Chủ nhật",
   "Yearly view": "Xem hàng năm",
   Ascending: "Tăng dần",
+  "Show event time next to title":
+    "Hiển thị thời gian sự kiện bên cạnh tiêu đề",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Điều chỉnh ngày và thời gian sự kiện theo thời gian địa phương của người dùng dựa trên múi giờ của họ.",
+  "Display the time zone alongside the event date.":
+    "Hiển thị múi giờ cùng với ngày sự kiện.",
+  "Show event time next to title":
+    "Hiển thị thời gian sự kiện bên cạnh tiêu đề",
+  "Time Zone": "Múi giờ",
+  "Upload Image": "Tải lên hình ảnh",
+  "Choose a Category": "Chọn một danh mục",
+  "Color you have chosen will not be shown as you choose category":
+    "Màu sắc bạn đã chọn sẽ không được hiển thị khi bạn chọn danh mục",
+  Website: "Trang mạng",
+  Next: "Kế tiếp",
+  Save: "Cứu",
+  "Last Name": "Họ",
+  "Personal Info": "Thông tin cá nhân",
+  Back: "Mặt sau",
+  "This field is required": "Trường này được yêu cầu",
+  "Your event has been submitted": "Sự kiện của bạn đã được gửi",
+  "Enter a location": "Nhập địa điểm",
+  "Display the time zone alongside the event date.":
+    "Hiển thị múi giờ cùng với ngày sự kiện.",
+  Home: "Trang chủ",
+  "Side By Side Event Limit": "Giới hạn sự kiện cạnh nhau",
+  "Mobille App": "Ứng dụng Mobille",
+  category: "loại",
 };
 export default vi;

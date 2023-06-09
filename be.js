@@ -646,5 +646,33 @@ let be = {
   Sunday: "Нядзеля",
   "Yearly view": "Штогадовы погляд",
   Ascending: "Узыходзячы",
+  "Show event time next to title":
+    "Пакажыце час мерапрыемства побач з загалоўкам",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Адрэгулюйце дату і час падзей да мясцовага часу карыстальніка на аснове іх гадзіннікавага пояса.",
+  "Display the time zone alongside the event date.":
+    "Пакажыце часовы пояс разам з датай падзей.",
+  "Show event time next to title":
+    "Пакажыце час мерапрыемства побач з загалоўкам",
+  "Time Zone": "Часавы пояс",
+  "Upload Image": "Загрузіце малюнак",
+  "Choose a Category": "Выберыце катэгорыю",
+  "Color you have chosen will not be shown as you choose category":
+    "Колер, які вы абралі, не будзе паказана, калі вы выбіраеце катэгорыю",
+  Website: "Сайт",
+  Next: "Наступны",
+  Save: "Ашчаджаць",
+  "Last Name": "Прозвішча",
+  "Personal Info": "Асабістая інфармацыя",
+  Back: "Назад",
+  "This field is required": "Гэта поле патрабуецца",
+  "Your event has been submitted": "Ваша падзея была прадстаўлена",
+  "Enter a location": "Увядзіце месцазнаходжанне",
+  "Display the time zone alongside the event date.":
+    "Пакажыце часовы пояс разам з датай падзей.",
+  Home: "Дом",
+  "Side By Side Event Limit": "На баку абмежаванне падзей",
+  "Mobille App": "Мабіль прыкладанне",
+  category: "катэгорыя",
 };
 export default be;

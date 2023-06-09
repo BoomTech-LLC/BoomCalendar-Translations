@@ -649,5 +649,31 @@ let mn = {
   Sunday: "Ням гариг",
   "Yearly view": "Жилд харах",
   Ascending: "Даваа гариг",
+  "Show event time next to title": "Гарчигны хажууд үйл явдлын хугацааг харуул",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Үйл явдлын огноо, цаг хугацаанаас хамааран хэрэглэгчийн цагийн бүсэд суурилсан.",
+  "Display the time zone alongside the event date.":
+    "Үйл явдлын өдрүүдийн хамт цагийн бүсийг харуул.",
+  "Show event time next to title": "Гарчигны хажууд үйл явдлын хугацааг харуул",
+  "Time Zone": "Цагийн бүс",
+  "Upload Image": "Зургийг байршуулах",
+  "Choose a Category": "Ангилал сонгоно уу",
+  "Color you have chosen will not be shown as you choose category":
+    "Та категорийг сонгохдоо сонгосон өнгийг харуулахгүй",
+  Website: "Вэ хэн вэ",
+  Next: "Дараачийн",
+  Save: "Аврах",
+  "Last Name": "Хугацагтай",
+  "Personal Info": "Хувийн мэдээлэл",
+  Back: "Буцах",
+  "This field is required": "Энэ талбар шаардлагатай байна",
+  "Your event has been submitted": "Таны үйл явдлыг ирүүлэв",
+  "Enter a location": "Бууцгаа оруулах",
+  "Display the time zone alongside the event date.":
+    "Үйл явдлын өдрүүдийн хамт цагийн бүсийг харуул.",
+  Home: "Гэр",
+  "Side By Side Event Limit": "Хажуугийн үйл явдлын хязгаарлалт",
+  "Mobille App": "Moble App",
+  category: "зэрэглэл",
 };
 export default mn;

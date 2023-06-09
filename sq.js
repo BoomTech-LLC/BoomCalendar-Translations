@@ -648,5 +648,31 @@ let sq = {
   Sunday: "E diel",
   "Yearly view": "Pamja vjetore",
   Ascending: "Ngjitës",
+  "Show event time next to title": "Shfaq kohën e ngjarjes pranë titullit",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Rregulloni datën dhe kohën e ngjarjes në kohën lokale të përdoruesit bazuar në zonën e tyre kohore.",
+  "Display the time zone alongside the event date.":
+    "Shfaq zonën kohore së bashku me datën e ngjarjes.",
+  "Show event time next to title": "Shfaq kohën e ngjarjes pranë titullit",
+  "Time Zone": "Zonë kohore",
+  "Upload Image": "Ngarko imazhin",
+  "Choose a Category": "Zgjidhni një kategori",
+  "Color you have chosen will not be shown as you choose category":
+    "Ngjyra që keni zgjedhur nuk do të tregohet ndërsa zgjidhni kategorinë",
+  Website: "Faqe interneti",
+  Next: "Tjetër",
+  Save: "Ruaj",
+  "Last Name": "Mbiemri",
+  "Personal Info": "Informacione Personale",
+  Back: "I prapambetur",
+  "This field is required": "Kjo fushë është e nevojshme",
+  "Your event has been submitted": "Ngjarja juaj është dorëzuar",
+  "Enter a location": "Futni një vendndodhje",
+  "Display the time zone alongside the event date.":
+    "Shfaq zonën kohore së bashku me datën e ngjarjes.",
+  Home: "Shtëpi",
+  "Side By Side Event Limit": "Kufiri i ngjarjes anash",
+  "Mobille App": "Aplikacioni Mobille",
+  category: "kategori",
 };
 export default sq;

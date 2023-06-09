@@ -657,5 +657,31 @@ let sv = {
   Sunday: "Söndag",
   Ascending: "Stigande",
   "Yearly view": "Torsdag",
+  "Show event time next to title": "Visa händelsetid bredvid titeln",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Justera händelsedatum och tid till användarens lokala tid baserat på deras tidszon.",
+  "Display the time zone alongside the event date.":
+    "Visa tidszonen tillsammans med händelsedatumet.",
+  "Show event time next to title": "Visa händelsetid bredvid titeln",
+  "Time Zone": "Tidszon",
+  "Upload Image": "Ladda upp bild",
+  "Choose a Category": "Välj en kategori",
+  "Color you have chosen will not be shown as you choose category":
+    "Färg som du har valt kommer inte att visas när du väljer kategori",
+  Website: "Hemsida",
+  Next: "Nästa",
+  Save: "Spara",
+  "Last Name": "Efternamn",
+  "Personal Info": "Personlig information",
+  Back: "Tillbaka",
+  "This field is required": "Detta fält krävs",
+  "Your event has been submitted": "Ditt evenemang har lämnats in",
+  "Enter a location": "Ange en plats",
+  "Display the time zone alongside the event date.":
+    "Visa tidszonen tillsammans med händelsedatumet.",
+  Home: "Hem",
+  "Side By Side Event Limit": "Sidan vid sidoevenemangsgränsen",
+  "Mobille App": "Mobila app",
+  category: "kategori",
 };
 export default sv;

@@ -647,5 +647,31 @@ let ka = {
   Sunday: "კვირა",
   Ascending: "აწევა",
   "Yearly view": "კვირა",
+  "Show event time next to title": "აჩვენეთ ღონისძიების დრო სათაურის გვერდით",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "შეცვალეთ ღონისძიების თარიღი და დრო მომხმარებლის ადგილობრივ დროზე, მათი დროის ზონის საფუძველზე.",
+  "Display the time zone alongside the event date.":
+    "აჩვენეთ დროის ზონა ღონისძიების თარიღთან ერთად.",
+  "Show event time next to title": "აჩვენეთ ღონისძიების დრო სათაურის გვერდით",
+  "Time Zone": "Დროის სარტყელი",
+  "Upload Image": "Სურათის ატვირთვა",
+  "Choose a Category": "აირჩიეთ კატეგორია",
+  "Color you have chosen will not be shown as you choose category":
+    "თქვენ მიერ არჩეული ფერი არ იქნება ნაჩვენები, როგორც თქვენ აირჩევთ კატეგორიას",
+  Website: "ვებსაიტი",
+  Next: "შემდეგი",
+  Save: "Გადარჩენა",
+  "Last Name": "Გვარი",
+  "Personal Info": "Პირადი ინფორმაცია",
+  Back: "ზურგი",
+  "This field is required": "ეს ველი სავალდებულოა",
+  "Your event has been submitted": "თქვენი ღონისძიება წარდგენილია",
+  "Enter a location": "შეიყვანეთ ადგილმდებარეობა",
+  "Display the time zone alongside the event date.":
+    "აჩვენეთ დროის ზონა ღონისძიების თარიღთან ერთად.",
+  Home: "სახლი",
+  "Side By Side Event Limit": "გვერდით ღონისძიების ლიმიტი",
+  "Mobille App": "Mobille App",
+  category: "კატეგორია",
 };
 export default ka;

@@ -644,5 +644,31 @@ let fa = {
   Sunday: "یکشنبه",
   "Yearly view": "نمای سالانه",
   Ascending: "صعودی",
+  "Show event time next to title": "زمان رویداد را در کنار عنوان نشان دهید",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "تاریخ و زمان رویداد را بر اساس منطقه زمانی خود به زمان محلی کاربر تنظیم کنید.",
+  "Display the time zone alongside the event date.":
+    "منطقه زمانی را در کنار تاریخ رویداد نمایش دهید.",
+  "Show event time next to title": "زمان رویداد را در کنار عنوان نشان دهید",
+  "Time Zone": "منطقه زمانی",
+  "Upload Image": "بارگذاری تصویر",
+  "Choose a Category": "یک دسته را انتخاب کنید",
+  "Color you have chosen will not be shown as you choose category":
+    "رنگی که انتخاب کرده اید با انتخاب دسته بندی نشان داده نمی شود",
+  Website: "سایت اینترنتی",
+  Next: "بعد",
+  Save: "صرفه جویی",
+  "Last Name": "نام خانوادگی",
+  "Personal Info": "اطلاعات شخصی",
+  Back: "بازگشت",
+  "This field is required": "این قسمت مورد نیاز است",
+  "Your event has been submitted": "رویداد شما ارسال شده است",
+  "Enter a location": "وارد یک مکان شوید",
+  "Display the time zone alongside the event date.":
+    "منطقه زمانی را در کنار تاریخ رویداد نمایش دهید.",
+  Home: "خانه",
+  "Side By Side Event Limit": "محدودیت رویداد کنار هم",
+  "Mobille App": "برنامه موبیل",
+  category: "دسته بندی",
 };
 export default fa;

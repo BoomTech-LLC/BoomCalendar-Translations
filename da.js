@@ -647,5 +647,31 @@ let da = {
   Sunday: "Søndag",
   "Yearly view": "Årlig udsigt",
   Ascending: "Stigende",
+  "Show event time next to title": "Vis begivenhedstid ved siden af ​​titlen",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Juster begivenhedsdato og tid til brugerens lokale tid baseret på deres tidszone.",
+  "Display the time zone alongside the event date.":
+    "Vis tidszonen sammen med begivenhedsdatoen.",
+  "Show event time next to title": "Vis begivenhedstid ved siden af ​​titlen",
+  "Time Zone": "Tidszone",
+  "Upload Image": "Upload billede",
+  "Choose a Category": "Vælg en kategori",
+  "Color you have chosen will not be shown as you choose category":
+    "Farve, du har valgt, vises ikke, når du vælger kategori",
+  Website: "Internet side",
+  Next: "Næste",
+  Save: "Gemme",
+  "Last Name": "Efternavn",
+  "Personal Info": "Personlig information",
+  Back: "Tilbage",
+  "This field is required": "dette felt er påkrævet",
+  "Your event has been submitted": "Din begivenhed er blevet indsendt",
+  "Enter a location": "Indtast et sted",
+  "Display the time zone alongside the event date.":
+    "Vis tidszonen sammen med begivenhedsdatoen.",
+  Home: "Hjem",
+  "Side By Side Event Limit": "Side om side begivenhedsgrænse",
+  "Mobille App": "Mobille -app",
+  category: "kategori",
 };
 export default da;

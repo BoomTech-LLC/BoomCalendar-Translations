@@ -648,5 +648,31 @@ let mk = {
   Sunday: "Недела",
   "Yearly view": "Годишен поглед",
   Ascending: "Растечки",
+  "Show event time next to title": "Покажи време на настанот до титулата",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Прилагодете го датумот и времето на настанот на локалното време на корисникот врз основа на нивната временска зона.",
+  "Display the time zone alongside the event date.":
+    "Покажете ја временската зона заедно со датумот на настанот.",
+  "Show event time next to title": "Покажи време на настанот до титулата",
+  "Time Zone": "Временска зона",
+  "Upload Image": "Поставете слика",
+  "Choose a Category": "Изберете категорија",
+  "Color you have chosen will not be shown as you choose category":
+    "Бојата што сте ја одбрале нема да биде прикажана како што ќе изберете категорија",
+  Website: "Веб -страница",
+  Next: "Следно",
+  Save: "Зачувај",
+  "Last Name": "Презиме",
+  "Personal Info": "Лични информации",
+  Back: "Назад",
+  "This field is required": "Ова поле е задолжително",
+  "Your event has been submitted": "Вашиот настан е доставен",
+  "Enter a location": "Внесете локација",
+  "Display the time zone alongside the event date.":
+    "Покажете ја временската зона заедно со датумот на настанот.",
+  Home: "Дома",
+  "Side By Side Event Limit": "Ограничување на настанот рамо до рамо",
+  "Mobille App": "Апликација Мобил",
+  category: "категорија",
 };
 export default mk;

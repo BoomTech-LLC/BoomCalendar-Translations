@@ -645,5 +645,31 @@ let id = {
   Saturday: "Sabtu",
   Sunday: "Minggu",
   "Yearly view": "Tampilan tahunan",
+  "Show event time next to title": "Tampilkan waktu acara di sebelah judul",
+  "Adjust the event date and time to the user's local time based on their time zone.":
+    "Sesuaikan tanggal dan waktu acara dengan waktu lokal pengguna berdasarkan zona waktu mereka.",
+  "Display the time zone alongside the event date.":
+    "Tampilkan zona waktu bersamaan dengan tanggal acara.",
+  "Show event time next to title": "Tampilkan waktu acara di sebelah judul",
+  "Time Zone": "Zona waktu",
+  "Upload Image": "Unggah gambar",
+  "Choose a Category": "Pilih kategori",
+  "Color you have chosen will not be shown as you choose category":
+    "Warna yang Anda pilih tidak akan ditampilkan saat Anda memilih kategori",
+  Website: "Situs web",
+  Next: "Berikutnya",
+  Save: "Menyimpan",
+  "Last Name": "Nama keluarga",
+  "Personal Info": "Informasi pribadi",
+  Back: "Kembali",
+  "This field is required": "Bagian ini diperlukan",
+  "Your event has been submitted": "Acara Anda telah dikirimkan",
+  "Enter a location": "Masukkan lokasi",
+  "Display the time zone alongside the event date.":
+    "Tampilkan zona waktu bersamaan dengan tanggal acara.",
+  Home: "Rumah",
+  "Side By Side Event Limit": "Batas acara berdampingan",
+  "Mobille App": "Aplikasi Mobille",
+  category: "kategori",
 };
 export default id;
