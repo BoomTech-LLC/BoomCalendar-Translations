@@ -656,4 +656,4 @@ let zh = {
   "Mobille App": "Mobille应用程序",
   category: "类别",
 };
-export default zh - cn;
+export default zh;
