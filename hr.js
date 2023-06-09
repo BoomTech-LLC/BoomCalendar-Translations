@@ -672,5 +672,13 @@ let hr = {
   "Side By Side Event Limit": "Granica događaja radno uz drugo",
   "Mobille App": "Mobille App",
   category: "kategorija",
+  Add: "Aghjustate",
+  "Mobile App": "App mobile",
+  username: "Usuariu",
+  password: "codice",
+  "Connect all your Boom calendars available on your website.":
+    "Cunnette tutte e vostre calendari Boom dispunibili in u vostru situ web.",
+  "Monitor your Wix events through the sync feature.":
+    "Monitorate i vostri avvenimenti Wix per via di a funzione di sincronia.",
 };
 export default hr;

@@ -675,5 +675,13 @@ let ru = {
   "Side By Side Event Limit": "Бок рядом с ограничением события",
   "Mobille App": "Mobille App",
   category: "категория",
+  Add: "Добавлять",
+  "Mobile App": "Мобильное приложение",
+  username: "имя пользователя",
+  password: "пароль",
+  "Connect all your Boom calendars available on your website.":
+    "Подключите все ваши календари бума, доступные на вашем сайте.",
+  "Monitor your Wix events through the sync feature.":
+    "Следите за своими событиями WIX через функцию синхронизации.",
 };
 export default ru;

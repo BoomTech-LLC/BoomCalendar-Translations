@@ -675,5 +675,13 @@ let bg = {
   "Side By Side Event Limit": "Ограничение на събитията един до друг",
   "Mobille App": "App Mobille",
   category: "категория",
+  Add: "Добавяне",
+  "Mobile App": "Мобилно приложение",
+  username: "потребителско име",
+  password: "парола",
+  "Connect all your Boom calendars available on your website.":
+    "Свържете всичките си календари на бума, налични на вашия уебсайт.",
+  "Monitor your Wix events through the sync feature.":
+    "Следете вашите WIX събития чрез функцията за синхронизация.",
 };
 export default bg;
