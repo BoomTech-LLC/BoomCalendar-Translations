@@ -312,7 +312,7 @@ let hy = {
     "Միացրեք ձեր բոլոր Boom Calendars- ը ձեր կայքում",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Ժամանակացույց, միացեք եւ կառավարեք մեծացնելու հանդիպումները հենց մեր բում օրացույցի միջոցով:",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Դիտեք ձեր իրադարձության համար նախատեսված իրադարձությունները Միջոցառման միջոցով Brite Sync Feature",
   Email: "Էլ",
   "Add-ons": "Լրացումներ",

@@ -312,7 +312,7 @@ let fr = {
     "Connectez tous vos calendriers Boom disponibles sur votre site Web",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Planifiez, rejoignez et gérez les réunions Zoom directement via notre calendrier Boom.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Surveillez vos événements Event Brite grâce à la fonction de synchronisation Event Brite",
   Email: "E-mail",
   "Add-ons": "Modules complémentaires",

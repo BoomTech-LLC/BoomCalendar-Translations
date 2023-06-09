@@ -311,7 +311,7 @@ let is = {
     "Tengdu allar boom dagatalin þín sem er aðgengileg á vefsíðunni þinni",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Tímasettu, taktu þátt og stjórna aðdráttarafundum í gegnum Boom dagatalið okkar.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Fylgstu með atburðinum þínum Brite atburði í gegnum atburðinn Brite Sync aðgerð",
   Email: "Netfang",
   "Add-ons": "Viðbót",

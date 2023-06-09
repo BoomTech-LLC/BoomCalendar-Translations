@@ -308,7 +308,7 @@ let hu = {
     "Csatlakoztassa az összes webhelyén elérhető Boom-naptárt",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Ütemezzen, csatlakozzon és kezelje a Zoom értekezleteket közvetlenül a Boom naptárunkon keresztül.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Figyelje az Event Brite eseményeit az Event Brite szinkronizálási szolgáltatásán keresztül",
   Email: "Email",
   "Add-ons": "Kiegészítők",

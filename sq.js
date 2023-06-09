@@ -311,7 +311,7 @@ let sq = {
     "Lidhni të gjitha kalendarët tuaj të bumit të disponueshëm në faqen tuaj të internetit",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Programoni, bashkohuni dhe menaxhoni takimet e zmadhimit menjëherë përmes kalendarit tonë të bumit.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Monitoroni ngjarjen tuaj Ngjarjet Brite përmes ngjarjes Brite Sync Feature",
   Email: "Email",
   "Add-ons": "Shtesa",

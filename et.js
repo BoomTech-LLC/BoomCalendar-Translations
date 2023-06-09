@@ -311,7 +311,7 @@ let et = {
     "Ühendage kõik oma veebisaidil saadaolevad buumikalendrid",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Planeerige, liituge ja hallake suumi koosolekuid otse meie boomi kalendri kaudu.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Jälgige oma ürituse Brite sündmusi sündmuse brite sünkroonimise kaudu",
   Email: "E -kiri",
   "Add-ons": "Lisandmoodulid",

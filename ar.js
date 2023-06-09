@@ -311,7 +311,7 @@ let ar = {
     "قم بتوصيل جميع تقاويم Boom المتوفرة على موقع الويب الخاص بك",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "يمكنك جدولة اجتماعات Zoom والانضمام إليها وإدارتها مباشرةً من خلال تقويم Boom الخاص بنا.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "راقب أحداث Event Brite من خلال ميزة مزامنة Event Brite",
   Email: "بريد الالكتروني",
   "Add-ons": "أضف نحن",

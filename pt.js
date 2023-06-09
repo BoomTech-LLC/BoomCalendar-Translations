@@ -311,7 +311,7 @@ let pt = {
     "Conecte todos os seus calendários Boom disponíveis em seu site",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Agende, participe e gerencie reuniões do Zoom direto por meio do nosso Calendário Boom.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Monitore seus eventos do Event Brite por meio do recurso de sincronização do Event Brite",
   Email: "O email",
   "Add-ons": "Add-ons",

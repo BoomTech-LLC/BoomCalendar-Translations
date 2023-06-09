@@ -311,7 +311,7 @@ let hi = {
     "अपनी वेबसाइट पर उपलब्ध अपने सभी बूम कैलेंडर को कनेक्ट करें",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "हमारे बूम कैलेंडर के माध्यम से सही ज़ूम मीटिंग्स को शेड्यूल करें, जुड़ें और प्रबंधित करें।",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "इवेंट ब्राइट सिंक फीचर के माध्यम से अपने ईवेंट ब्राइट इवेंट्स की निगरानी करें",
   Email: "ईमेल",
   "Add-ons": "ऐड-ऑन",

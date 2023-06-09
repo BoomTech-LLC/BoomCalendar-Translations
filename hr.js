@@ -311,7 +311,7 @@ let hr = {
     "Spojite sve svoje kalendare za procvat dostupne na vašoj web stranici",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Zakažite, pridružite se i upravljajte sastancima zumiranja kroz naš kalendar procvata.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Pratite svoj događaj BRITE događaja kroz značajku događaja Brite Sync",
   Email: "E -pošta",
   "Add-ons": "Dodaci",

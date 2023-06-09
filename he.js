@@ -311,7 +311,7 @@ let he = {
     "חבר את כל לוחות השנה של Boom הזמינים באתר שלך",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "לוח הזמנים, הצטרף וננהל מפגשי זום דרך היומן שלנו בום.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "עקוב אחר אירועי Brite האירועים שלך באמצעות תכונת הסינכרון של Event Brite",
   Email: "אימייל",
   "Add-ons": "תוספות",

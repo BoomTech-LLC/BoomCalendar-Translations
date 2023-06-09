@@ -311,7 +311,7 @@ let nl = {
     "Verbind al uw Boom-agenda's die beschikbaar zijn op uw website",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Plan, neem deel en beheer Zoom-vergaderingen rechtstreeks via onze Boom-agenda.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Volg uw Event Brite-evenementen via de Event Brite-synchronisatiefunctie",
   Email: "E-mail",
   "Add-ons": "Add-ons",

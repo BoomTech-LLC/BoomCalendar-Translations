@@ -312,7 +312,7 @@ let ru = {
     "Подключите все свои календари Boom, доступные на вашем сайте",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Планируйте, присоединяйтесь и управляйте собраниями Zoom прямо в нашем календаре Boom.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Следите за событиями Event Brite с помощью функции синхронизации Event Brite",
   Email: "Электронное письмо",
   "Add-ons": "Дополнения",

@@ -314,7 +314,7 @@ let cy = {
     "Cysylltwch eich holl galendrau ffyniant sydd ar gael ar eich gwefan",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Amserlen, ymuno, a rheoli cyfarfodydd chwyddo trwy ein calendr ffyniant.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Monitro'ch Digwyddiad Digwyddiadau Brite Trwy'r Digwyddiad Brite Sync Nodwedd",
   Email: "E -bost",
   "Add-ons": "Ychwanegiadau",

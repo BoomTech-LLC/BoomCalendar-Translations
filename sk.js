@@ -311,7 +311,7 @@ let sk = {
     "Pripojte všetky vaše kalendáre pre rozmach dostupné na vašom webe",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Naplánujte si, pripojte sa a spravujte stretnutia priblíženia priamo prostredníctvom nášho kalendára rozmachu.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Sledujte udalosti svojej udalosti Brite prostredníctvom funkcie Event Brite Sync",
   Email: "E -mail",
   "Add-ons": "Prídavky",

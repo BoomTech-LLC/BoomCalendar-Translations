@@ -311,7 +311,7 @@ let lv = {
     "Pievienojiet visus jūsu vietnē pieejamos Boom kalendārus",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Ieplānojiet, pievienojieties un pārvaldiet tālummaiņas sapulces tieši caur mūsu uzplaukuma kalendāru.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Pārraugiet savus Event Brite notikumus, izmantojot Event Brite sinhronizācijas funkciju",
   Email: "E-pasts",
   "Add-ons": "Papildinājumi",

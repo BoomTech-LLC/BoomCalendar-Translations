@@ -311,7 +311,7 @@ let bg = {
     "Свържете всичките си Boom календари, налични на вашия уебсайт",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "График, присъединяване и управление на срещи за мащабиране точно чрез нашия бум календар.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Наблюдавайте събития за събития чрез функцията за синхронизиране на Event Brite",
   Email: "електронна поща",
   "Add-ons": "Добавки",

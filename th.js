@@ -311,7 +311,7 @@ let th = {
     "เชื่อมต่อปฏิทิน Boom ทั้งหมดของคุณที่มีอยู่ในเว็บไซต์ของคุณ",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "จัดกำหนดการเข้าร่วมและจัดการการประชุม Zoom ได้โดยตรงผ่าน Boom Calendar ของเรา",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "ตรวจสอบกิจกรรม Event Brite ของคุณผ่านคุณสมบัติการซิงค์ Event Brite",
   Email: "อีเมล์",
   "Add-ons": "ส่วนเสริม",

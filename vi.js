@@ -308,7 +308,7 @@ let vi = {
     "Kết nối tất cả các lịch Boom có ​​sẵn trên trang web của bạn",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Lên lịch, tham gia và quản lý các cuộc họp Zoom ngay thông qua Lịch Boom của chúng tôi.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Theo dõi các sự kiện Event Brite của bạn thông qua tính năng đồng bộ hóa Event Brite",
   Email: "E-mail",
   "Add-ons": "Tiện ích bổ sung",

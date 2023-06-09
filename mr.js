@@ -311,7 +311,7 @@ let mr = {
     "आपल्या वेबसाइटवर उपलब्ध आपली सर्व बूम कॅलेंडर कनेक्ट करा",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "आमच्या बूम कॅलेंडरद्वारे झूम संमेलनेचे वेळापत्रक, सामील व्हा आणि व्यवस्थापित करा.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "इव्हेंट ब्रिट सिंक वैशिष्ट्याद्वारे आपल्या इव्हेंट ब्रिट इव्हेंटचे परीक्षण करा",
   Email: "ईमेल",
   "Add-ons": "-ड-ऑन्स",

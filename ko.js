@@ -311,7 +311,7 @@ let ko = {
     "웹 사이트에서 사용 가능한 모든 Boom 캘린더 연결",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Boom 캘린더를 통해 Zoom 회의를 예약, 참여 및 관리하세요.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Event Brite 동기화 기능을 통해 Event Brite 이벤트 모니터링",
   Email: "이메일",
   "Add-ons": "부가 기능",
