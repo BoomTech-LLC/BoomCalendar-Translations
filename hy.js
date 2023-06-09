@@ -356,7 +356,7 @@ let hy = {
   "There are no events added": "Չկան ավելացված իրադարձություններ",
   "Location: To be determined": "Գտնվելու վայրը. Որոշվել",
   "No events for selected date": "Ընտրված ամսաթվի համար միջոցառում չկա",
-  Uncategorized: "Uncategorized",
+  Uncategorized: "Չդասակարգված",
   "Edit event": "Խմբագրել իրադարձությունը",
   "Edit original event": "Խմբագրել բնօրինակ իրադարձությունը",
   "Copy event": "Պատճենել իրադարձություն",
