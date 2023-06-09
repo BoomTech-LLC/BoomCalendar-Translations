@@ -683,5 +683,21 @@ let ca = {
   "Side By Side Event Limit": "Límit de l'esdeveniment de costat a costat",
   "Mobille App": "Aplicació de Mobille",
   category: "categoria",
+  Add: "Addiccionar",
+  "Mobile App": "Aplicació mòbil",
+  username: "Nom d'usuari",
+  password: "contrasenya",
+  "Connect all your Boom calendars available on your website.":
+    "Connecteu tots els calendaris de boom disponibles al vostre lloc web.",
+  "Monitor your Wix events through the sync feature.":
+    "Superviseu els vostres esdeveniments Wix mitjançant la funció Sync.",
+  Add: "Addiccionar",
+  "Mobile App": "Aplicació mòbil",
+  username: "Nom d'usuari",
+  password: "contrasenya",
+  "Connect all your Boom calendars available on your website.":
+    "Connecteu tots els calendaris de boom disponibles al vostre lloc web.",
+  "Monitor your Wix events through the sync feature.":
+    "Superviseu els vostres esdeveniments Wix mitjançant la funció Sync.",
 };
 export default ca;

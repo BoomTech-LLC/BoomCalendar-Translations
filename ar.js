@@ -663,5 +663,13 @@ let ar = {
   "Side By Side Event Limit": "حد الحدث جنبًا إلى جنب",
   "Mobille App": "تطبيق Mobille",
   category: "فئة",
+  Add: "يضيف",
+  "Mobile App": "تطبيق الجوال",
+  username: "اسم المستخدم",
+  password: "كلمة المرور",
+  "Connect all your Boom calendars available on your website.":
+    "قم بتوصيل جميع تقويمات Boom الخاصة بك على موقع الويب الخاص بك.",
+  "Monitor your Wix events through the sync feature.":
+    "مراقبة أحداث WIX الخاصة بك من خلال ميزة SYNC.",
 };
 export default ar;

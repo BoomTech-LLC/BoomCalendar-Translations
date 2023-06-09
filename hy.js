@@ -682,5 +682,13 @@ let hy = {
   "Side By Side Event Limit": "Կողք կողքի իրադարձության սահմանաչափը",
   "Mobille App": "Mobile հավելված",
   category: "Կատեգորիա",
+  Add: "Ավելացնել",
+  "Mobile App": "Բջջային ծրագիր",
+  username: "օգտագործողի անունը",
+  password: "գաղտնաբառ",
+  "Connect all your Boom calendars available on your website.":
+    "Միացրեք ձեր բոլոր Boom Calendars- ը ձեր կայքում:",
+  "Monitor your Wix events through the sync feature.":
+    "Դիտեք ձեր Wix- ի իրադարձությունները համաժամացման գործառույթի միջոցով:",
 };
 export default hy;

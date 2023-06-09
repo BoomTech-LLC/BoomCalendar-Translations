@@ -674,5 +674,13 @@ let be = {
   "Side By Side Event Limit": "На баку абмежаванне падзей",
   "Mobille App": "Мабіль прыкладанне",
   category: "катэгорыя",
+  Add: "Дадаваць",
+  "Mobile App": "Мабільнае прыкладанне",
+  username: "імя карыстальніка",
+  password: "пароль",
+  "Connect all your Boom calendars available on your website.":
+    "Падключыце ўсе свае календары Boom, даступныя на вашым сайце.",
+  "Monitor your Wix events through the sync feature.":
+    "Сачыце за сваімі падзеямі WIX праз функцыю сінхранізацыі.",
 };
 export default be;
