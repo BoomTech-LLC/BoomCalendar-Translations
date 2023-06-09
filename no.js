@@ -311,7 +311,7 @@ let no = {
     "Koble til alle dine Boom-kalendere som er tilgjengelige på nettstedet ditt",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Planlegg, bli med, og administrer zoommøter rett gjennom vår boomkalender.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Overvåk Event Brite-hendelsene dine gjennom Event Brite-synkroniseringsfunksjonen",
   Email: "E-post",
   "Add-ons": "Tillegg",

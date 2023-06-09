@@ -311,7 +311,7 @@ let ja = {
     "あなたのウェブサイトで利用可能なすべてのブームカレンダーを接続します",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "ブームカレンダーからズーム会議をスケジュール、参加、管理します。",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "EventBrite同期機能を介してEventBriteイベントを監視します",
   Email: "Eメール",
   "Add-ons": "アドオン",

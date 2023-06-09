@@ -316,7 +316,7 @@ let lt = {
     "Prijunkite visus savo „Boom“ kalendorius, kuriuos galite rasti savo svetainėje",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Suplanuokite, prisijunkite ir tvarkykite mastelio keitimo susitikimus tiesiai per mūsų „Boom“ kalendorių.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Stebėkite savo „Eventbrite“ įvykius naudodamiesi „Eventbrite Sync“ funkcija",
   Email: "El. Paštas",
   "Add-ons": "Priedai",

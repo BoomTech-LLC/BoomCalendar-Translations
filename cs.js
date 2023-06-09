@@ -311,7 +311,7 @@ let cs = {
     "Připojte všechny své kalendáře Boom dostupné na vašem webu",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Plán, připojit a spravovat zoom setkání přímo prostřednictvím našeho kalendáře boom.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Sledujte své události Event Brite pomocí funkce synchronizace Event Brite",
   Email: "E-mailem",
   "Add-ons": "Doplňky",

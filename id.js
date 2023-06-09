@@ -311,7 +311,7 @@ let id = {
     "Hubungkan semua kalender boom Anda yang tersedia di situs web Anda",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Jadwalkan, bergabunglah, dan kelola pertemuan zoom tepat melalui kalender boom kami.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Pantau acara Brite acara Anda melalui fitur Sinkronisasi Acara Brite",
   Email: "Surel",
   "Add-ons": "Add-on",

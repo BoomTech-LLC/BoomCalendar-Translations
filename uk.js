@@ -311,7 +311,7 @@ let uk = {
     "З’єднайте всі свої календарі Boom, доступні на вашому веб-сайті",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Розклад, Приєднання та керування Зустріч масштабування прямо через наш календар Boom.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Відстежуйте події Event Brite за допомогою функції синхронізації Event Brite",
   Email: "Електронна пошта",
   "Add-ons": "Додатки",

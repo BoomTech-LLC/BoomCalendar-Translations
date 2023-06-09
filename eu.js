@@ -311,7 +311,7 @@ let eu = {
     "Konektatu zure webgunean dauden boom egutegi guztiak",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Ordutegia, elkartu eta kudeatu zoom bilerak gure boom egutegiaren bidez.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Begira ezazu zure gertaera Brite gertaerak ekitaldiaren Brite Sync funtzioaren bidez",
   Email: "I-posta",
   "Add-ons": "Gehigarriak",

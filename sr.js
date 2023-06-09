@@ -311,7 +311,7 @@ let sr = {
     "Повежите све своје календаре на процвету на вашој веб локацији",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Распоред, придружите се и управљајте састанцима зумирања право кроз наш календар бума.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Пратите догађаје вашег догађаја Бритес кроз функцију синһронизације Евент Брите",
   Email: "Е-маил",
   "Add-ons": "Додаци",

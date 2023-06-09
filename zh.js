@@ -309,7 +309,7 @@ let zh = {
     "连接您网站上所有可用的Boom日历",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "计划，加入和管理通过我们的繁荣日历进行缩放会议。",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "通过事件Brite同步功能监视您的事件Brite事件",
   Email: "电子邮件",
   "Add-ons": "附加组件",

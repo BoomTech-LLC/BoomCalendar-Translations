@@ -311,7 +311,7 @@ let tr = {
     "Connect all your Boom calendars available on your website",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Doğrudan Boom Takvimimiz aracılığıyla Yakınlaştırma toplantılarını planlayın, katılın ve yönetin.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Event Brite senkronizasyon özelliği aracılığıyla Event Brite olaylarınızı izleyin",
   Email: "E-posta",
   "Add-ons": "Eklentiler",

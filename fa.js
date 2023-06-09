@@ -311,7 +311,7 @@ let fa = {
     "تمام تقویم های Boom خود را که در وب سایت شما موجود است متصل کنید",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "جلسات بزرگنمایی را از طریق تقویم رونق ما برنامه ریزی ، پیوستن و مدیریت کنید.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "رویدادهای Event Brite خود را از طریق ویژگی همگام سازی Event Brite کنترل کنید",
   Email: "پست الکترونیک",
   "Add-ons": "افزودنیها",

@@ -311,7 +311,7 @@ let be = {
     "Падключыце ўсе свае календары Boom, даступныя на вашым сайце",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Расклад, далучайцеся і кіруйце маштабамі сустрэч прама праз наш каляндар Boom.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Сачыце",
   Email: "Электронны ліст",
   "Add-ons": "Дабаўкі",

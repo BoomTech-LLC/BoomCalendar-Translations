@@ -313,7 +313,7 @@ let ca = {
     "Connecteu tots els vostres calendaris de boom disponibles al vostre lloc web",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Programa, uneix -te i gestiona les reunions de zoom directament a través del nostre calendari de boom.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Superviseu el vostre esdeveniment Brite Events a través de la funció de Sync de l'esdeveniment",
   Email: "Correu electrònic",
   "Add-ons": "Complements",

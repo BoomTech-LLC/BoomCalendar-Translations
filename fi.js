@@ -313,7 +313,7 @@ let fi = {
     "Yhdistä kaikki verkkosivustollasi käytettävissä olevat puomikalenterit",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Aikataulu, liity ja hallitse zoom -kokouksia suoraan puomikalenterimme kautta.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Seuraa Eventbrite -tapahtumiasi Eventbrite Sync -ominaisuuden kautta",
   Email: "Sähköposti",
   "Add-ons": "Lisäosat",

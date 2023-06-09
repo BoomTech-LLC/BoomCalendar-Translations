@@ -311,7 +311,7 @@ let mk = {
     "Поврзете ги сите ваши календари за бум достапни на вашата веб -страница",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Распоред, придружете се и управувајте со состаноци за зумирање точно преку нашиот календар за бум.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Следете го вашиот настан Brite настани преку настанот Brite Sync функција",
   Email: "Е -пошта",
   "Add-ons": "Додатоци",

@@ -314,7 +314,7 @@ let tl = {
     "Ikonekta ang lahat ng iyong mga kalendaryo ng boom na magagamit sa iyong website",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Mag -iskedyul, sumali, at pamahalaan ang mga pagpupulong ng zoom mismo sa pamamagitan ng aming kalendaryo ng boom.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Subaybayan ang Iyong Kaganapan Brite Mga Kaganapan sa pamamagitan ng tampok na Event Brite Sync",
   Email: "Email",
   "Add-ons": "Mga add-on",

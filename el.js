@@ -311,7 +311,7 @@ let el = {
     "Verbinden Sie alle Ihre Auslegerkalender auf Ihrer Website",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Προγραμματίστε, λάβετε μέρος και διαχειριστείτε τις συσκέψεις Zoom μέσω του Ημερολογίου Boom.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "Überwachen Sie Ihre Event Brite-Ereignisse mithilfe der Event Brite-Synchronisierungsfunktion",
   Email: "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
   "Add-ons": "Πρόσθετα",

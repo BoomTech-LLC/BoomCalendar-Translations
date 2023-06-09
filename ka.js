@@ -311,7 +311,7 @@ let ka = {
     "დააკავშირეთ ყველა თქვენი ბუმის კალენდარი, რომელიც ხელმისაწვდომია თქვენს ვებსაიტზე",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "დაგეგმეთ, შეუერთდით და მართეთ ზუმის შეხვედრები ჩვენი ბუმის კალენდრის საშუალებით.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature.":
     "აკონტროლეთ თქვენი ღონისძიების brite მოვლენები ღონისძიების Brite სინქრონიზაციის საშუალებით",
   Email: "ელ.წერილი",
   "Add-ons": "დანამატები",

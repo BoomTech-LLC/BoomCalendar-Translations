@@ -311,7 +311,7 @@ let ro = {
     "Conectați toate calendarele dvs. de boom disponibile pe site -ul dvs. web",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Programează -te, alătură -te și gestionează întâlnirile zoom chiar prin calendarul nostru de boom.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Monitorizați -vă evenimentele BRITE EVENIMENT prin funcția de sincronizare Brite Event Brite",
   Email: "E-mail",
   "Add-ons": "Suplimente",

@@ -311,7 +311,7 @@ let mn = {
     "Таны вэбсайт дээр байгаа бүх BOOM CACENDARS-ийг холбоно уу",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
     "Хуваарь, нэгдэх, томруулах уулзалтыг манай Boom хуанлигаар дамжуулан зөв удирддаг.",
-  "Monitor your Event Brite events through the Event Brite sync feature":
+  "Monitor your Event Brite events through the Event Brite sync feature..":
     "Үйл явдлын Brite үйл явдлын синхрончлолоор дамжуулан таны үйл явдлыг хянах",
   Email: "Байлдлаа",
   "Add-ons": "Нэмэлт",
