@@ -315,7 +315,7 @@ let de = {
   "Monitor your Event Brite events through the Event Brite sync feature.":
     "Überwachen Sie Ihre Event Brite-Ereignisse mithilfe der Event Brite-Synchronisierungsfunktion",
   Email: "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
-  "Add-ons": "Πρόσθετα",
+  "Add-ons": "Add-ons",
   "Receive notification emails as soon as users add events to your calendar.":
     "Erhalten Sie Benachrichtigungs-E-Mails, sobald Benutzer Ereignisse in Ihrem Kalender fügen.",
   "Enable + button on the calendar header":
@@ -472,21 +472,21 @@ let de = {
   "Description font": "Beschreibung Schriftart",
   Connect: "verbinden",
   "You have no events": "Sie haben keine Ereignisse",
-  Synchronize: "Συγχρονίζω",
+  Synchronize: "Synchronisieren",
   "Google Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
     "Mit der Google Kalender-Synchronisierung können Sie Ihre Ereignisse und Sitzungen in Ihren Boom-Kalender integrieren.",
   "Outlook Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
     "Το Outlook Calendar Sync σας επιτρέπει να ενσωματώσετε τα συμβάντα και τις συνεδρίες σας με το ημερολόγιο έκρηξης.",
   "Your message has been sent successfully!":
-    "Το μήνυμά σας έχει σταλεί με επιτυχία!",
+    "Ihre Nachricht wurde erfolgreich gesendet!",
   "There are no synchronized calendars":
-    "Δεν υπάρχουν συγχρονισμένα ημερολόγια",
+    "Es gibt keine synchronisierten Kalender",
   "to view more than 7 events": "Um mehr als 7 Ereignisse anzuzeigen",
   "Mobile app": "App",
   "Admin Account": "Admin-Konto",
-  Password: "Κωδικός πρόσβασης",
-  "Second User": "Δεύτερο χρήστη",
-  Edit: "Επεξεργασία",
+  Password: "Passwort",
+  "Second User": "Zweiter Benutzer",
+  Edit: "Bearbeiten",
   "Guest limit": "Gästelimit",
   "All the local settings are (automatically) based on your language. If your language is on the list, there 's no need to customize this section.":
     "Alle lokalen Einstellungen sind (automatisch) basierend auf Ihrer Sprache.Wenn Ihre Sprache in der Liste ist, müssen Sie diesen Abschnitt nicht anpassen.",
