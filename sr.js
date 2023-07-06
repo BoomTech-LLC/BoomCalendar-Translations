@@ -672,5 +672,7 @@ let sr = {
   "Side By Side Event Limit": "Страна граница са бочним догађајима",
   "Mobille App": "Мобилле Апп",
   category: "категорија",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Лако пратите свој распоред тако што ћете увести своје Фацебоок догађаје у календар.",
 };
 export default sr;

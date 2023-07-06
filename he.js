@@ -666,5 +666,7 @@ let he = {
   "Side By Side Event Limit": "מגבלת אירוע זה לצד זה",
   "Mobille App": "אפליקציית Mobille",
   category: "קטגוריה",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "עקוב אחר לוח הזמנים שלך בקלות על ידי ייבוא אירועי הפייסבוק שלך ליומן שלך.",
 };
 export default he;

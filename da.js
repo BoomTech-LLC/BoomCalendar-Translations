@@ -673,5 +673,7 @@ let da = {
   "Side By Side Event Limit": "Side om side begivenhedsgrænse",
   "Mobille App": "Mobille -app",
   category: "kategori",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Hold nemt styr på din tidsplan ved at importere dine Facebook-begivenheder til din kalender.",
 };
 export default da;

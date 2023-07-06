@@ -671,5 +671,7 @@ let ar = {
     "قم بتوصيل جميع تقويمات Boom الخاصة بك على موقع الويب الخاص بك.",
   "Monitor your Wix events through the sync feature.":
     "مراقبة أحداث WIX الخاصة بك من خلال ميزة SYNC.",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "تتبع الجدول الزمني الخاص بك بسهولة عن طريق استيراد أحداث Facebook إلى التقويم الخاص بك.",
 };
 export default ar;

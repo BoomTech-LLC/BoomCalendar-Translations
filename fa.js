@@ -670,5 +670,7 @@ let fa = {
   "Side By Side Event Limit": "محدودیت رویداد کنار هم",
   "Mobille App": "برنامه موبیل",
   category: "دسته بندی",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "با وارد کردن رویدادهای فیس بوک خود به تقویم خود، برنامه خود را به راحتی پیگیری کنید.",
 };
 export default fa;

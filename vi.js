@@ -605,5 +605,7 @@ let vi = {
   "Side By Side Event Limit": "Giới hạn sự kiện cạnh nhau",
   "Mobille App": "Ứng dụng Mobille",
   category: "loại",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Theo dõi lịch biểu của bạn một cách dễ dàng bằng cách nhập các sự kiện trên Facebook vào lịch của bạn.",
 };
 export default vi;

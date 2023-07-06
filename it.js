@@ -674,5 +674,7 @@ let it = {
   "Side By Side Event Limit": "Limite di evento side by side",
   "Mobille App": "App Mobille",
   category: "categoria",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Tieni facilmente traccia del tuo programma importando i tuoi eventi di Facebook nel tuo calendario.",
 };
 export default it;

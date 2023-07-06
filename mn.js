@@ -675,5 +675,7 @@ let mn = {
   "Side By Side Event Limit": "Хажуугийн үйл явдлын хязгаарлалт",
   "Mobille App": "Moble App",
   category: "зэрэглэл",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Фэйсбүүкийн үйл явдлуудыг хуанлидаа импортлох замаар цагийн хуваарийг хялбархан хянаж байгаарай.",
 };
 export default mn;

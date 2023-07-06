@@ -673,5 +673,7 @@ let mr = {
   "Side By Side Event Limit": "साइड बाय साइड इव्हेंट मर्यादा",
   "Mobille App": "मोबिल अॅप",
   category: "वर्ग",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "तुमच्या कॅलेंडरमध्ये तुमचे Facebook इव्हेंट इंपोर्ट करून तुमच्या शेड्यूलचा सहज मागोवा ठेवा.",
 };
 export default mr;

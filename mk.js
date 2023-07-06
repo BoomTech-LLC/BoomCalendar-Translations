@@ -674,5 +674,7 @@ let mk = {
   "Side By Side Event Limit": "Ограничување на настанот рамо до рамо",
   "Mobille App": "Апликација Мобил",
   category: "категорија",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Следете го вашиот распоред лесно со увезување на настаните на Facebook во вашиот календар.",
 };
 export default mk;

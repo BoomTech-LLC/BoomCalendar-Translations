@@ -683,5 +683,7 @@ let ru = {
     "Подключите все ваши календари бума, доступные на вашем сайте.",
   "Monitor your Wix events through the sync feature.":
     "Следите за своими событиями WIX через функцию синхронизации.",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Легко отслеживайте свое расписание, импортируя события из Facebook в свой календарь.",
 };
 export default ru;

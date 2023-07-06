@@ -673,5 +673,7 @@ let sk = {
   "Side By Side Event Limit": "Limit udalosti vedľa seba",
   "Mobille App": "Aplikácia Mobille",
   category: "kategória",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Jednoducho sledujte svoj plán importovaním udalostí z Facebooku do kalendára.",
 };
 export default sk;

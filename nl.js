@@ -672,5 +672,7 @@ let nl = {
   "Side By Side Event Limit": "Limiet bij zij aan zij",
   "Mobille App": "Mobille -app",
   category: "categorie",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Houd eenvoudig uw planning bij door uw Facebook-evenementen in uw agenda te importeren.",
 };
 export default nl;

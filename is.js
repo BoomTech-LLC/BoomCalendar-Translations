@@ -673,5 +673,7 @@ let is = {
   "Side By Side Event Limit": "Hlið við hlið atburðarmörk",
   "Mobille App": "MOMILLE APP",
   category: "Flokkur",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Fylgstu auðveldlega með dagskránni þinni með því að flytja Facebook viðburði þína inn í dagatalið þitt.",
 };
 export default is;

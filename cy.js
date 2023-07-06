@@ -677,5 +677,7 @@ let cy = {
   "Side By Side Event Limit": "Terfyn digwyddiad ochr yn ochr",
   "Mobille App": "Ap Mobille",
   category: "Categori",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Cadwch olwg ar eich amserlen yn hawdd trwy fewnforio eich digwyddiadau Facebook i'ch calendr.",
 };
 export default cy;

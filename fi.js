@@ -673,5 +673,7 @@ let fi = {
   "Side By Side Event Limit": "Vierekkäin tapahtumaraja",
   "Mobille App": "Mobille -sovellus",
   category: "kategoria",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Pidä kirjaa aikataulustasi helposti tuomalla Facebook-tapahtumasi kalenteriisi.",
 };
 export default fi;

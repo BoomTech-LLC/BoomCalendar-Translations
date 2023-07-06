@@ -543,5 +543,7 @@ let lt = {
   "Side By Side Event Limit": "Viršutinio įvykio riba",
   "Mobille App": "„Mobille“ programa",
   category: "Kategorija",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Lengvai stebėkite savo tvarkaraštį importuodami „Facebook“ įvykius į kalendorių.",
 };
 export default lt;

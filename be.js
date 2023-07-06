@@ -682,5 +682,7 @@ let be = {
     "Падключыце ўсе свае календары Boom, даступныя на вашым сайце.",
   "Monitor your Wix events through the sync feature.":
     "Сачыце за сваімі падзеямі WIX праз функцыю сінхранізацыі.",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Лёгка сачыце за сваім раскладам, імпартуючы падзеі Facebook у свой каляндар.",
 };
 export default be;
