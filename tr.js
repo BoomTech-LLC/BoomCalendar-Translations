@@ -675,5 +675,7 @@ let tr = {
   "Side By Side Event Limit": "Yan yana olay sınırı",
   "Mobille App": "Mobille uygulaması",
   category: "kategori",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Facebook etkinliklerinizi takviminize aktararak programınızı kolayca takip edin.",
 };
 export default tr;

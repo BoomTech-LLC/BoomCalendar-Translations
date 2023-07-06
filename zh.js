@@ -655,5 +655,7 @@ let zh = {
   "Side By Side Event Limit": "并排事件限制",
   "Mobille App": "Mobille应用程序",
   category: "类别",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "通过将 Facebook 活动导入日历，轻松跟踪您的日程安排。",
 };
 export default zh;

@@ -683,5 +683,7 @@ let bg = {
     "Свържете всичките си календари на бума, налични на вашия уебсайт.",
   "Monitor your Wix events through the sync feature.":
     "Следете вашите WIX събития чрез функцията за синхронизация.",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Проследявайте графика си лесно, като импортирате вашите Facebook събития в календара си.",
 };
 export default bg;

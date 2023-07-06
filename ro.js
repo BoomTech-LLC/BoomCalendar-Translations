@@ -674,5 +674,7 @@ let ro = {
   "Side By Side Event Limit": "Limita evenimentului cot la cot",
   "Mobille App": "Aplicația Mobille",
   category: "categorie",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Urmăriți cu ușurință programul dvs. importând evenimentele Facebook în calendar.",
 };
 export default ro;

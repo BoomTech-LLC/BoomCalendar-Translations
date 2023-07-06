@@ -683,5 +683,7 @@ let sv = {
   "Side By Side Event Limit": "Sidan vid sidoevenemangsgränsen",
   "Mobille App": "Mobila app",
   category: "kategori",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Håll koll på ditt schema enkelt genom att importera dina Facebook-evenemang till din kalender.",
 };
 export default sv;

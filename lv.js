@@ -673,5 +673,7 @@ let lv = {
   "Side By Side Event Limit": "Sānu notikumu ierobežojums",
   "Mobille App": "Mobille lietotne",
   category: "kategorija",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Ērti sekojiet līdzi savam grafikam, importējot savus Facebook notikumus savā kalendārā.",
 };
 export default lv;

@@ -699,5 +699,7 @@ let ca = {
     "Connecteu tots els calendaris de boom disponibles al vostre lloc web.",
   "Monitor your Wix events through the sync feature.":
     "Superviseu els vostres esdeveniments Wix mitjançant la funció Sync.",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Feu un seguiment de la vostra programació fàcilment important els vostres esdeveniments de Facebook al vostre calendari.",
 };
 export default ca;

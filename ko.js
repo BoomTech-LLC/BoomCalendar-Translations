@@ -670,5 +670,7 @@ let ko = {
   "Side By Side Event Limit": "나란히 이벤트 한도",
   "Mobille App": "Mobille 앱",
   category: "범주",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Facebook 이벤트를 캘린더로 가져와 일정을 쉽게 추적하세요.",
 };
 export default ko;

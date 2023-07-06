@@ -673,5 +673,7 @@ let ka = {
   "Side By Side Event Limit": "გვერდით ღონისძიების ლიმიტი",
   "Mobille App": "Mobille App",
   category: "კატეგორია",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "თვალყური ადევნეთ თქვენს განრიგს მარტივად თქვენი Facebook მოვლენების თქვენს კალენდარში იმპორტით.",
 };
 export default ka;

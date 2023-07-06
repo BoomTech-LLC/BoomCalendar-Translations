@@ -674,5 +674,7 @@ let sq = {
   "Side By Side Event Limit": "Kufiri i ngjarjes anash",
   "Mobille App": "Aplikacioni Mobille",
   category: "kategori",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Mbani me lehtësi orarin tuaj duke importuar ngjarjet tuaja në Facebook në kalendarin tuaj.",
 };
 export default sq;

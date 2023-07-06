@@ -678,5 +678,7 @@ let el = {
   "Side By Side Event Limit": "Όριο συμβάντος δίπλα στο πλάι",
   "Mobille App": "Εφαρμογή Mobille",
   category: "κατηγορία",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Παρακολουθήστε εύκολα το πρόγραμμά σας εισάγοντας τα συμβάντα σας στο Facebook στο ημερολόγιό σας.",
 };
 export default el;

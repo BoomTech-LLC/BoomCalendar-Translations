@@ -671,5 +671,7 @@ let pl = {
   "Side By Side Event Limit": "Obok siebie limit zdarzeń",
   "Mobille App": "Aplikacja M w Mobille",
   category: "Kategoria",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Łatwo śledź swój harmonogram, importując wydarzenia z Facebooka do swojego kalendarza.",
 };
 export default pl;

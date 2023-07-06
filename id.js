@@ -671,5 +671,7 @@ let id = {
   "Side By Side Event Limit": "Batas acara berdampingan",
   "Mobille App": "Aplikasi Mobille",
   category: "kategori",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Pantau jadwal Anda dengan mudah dengan mengimpor acara Facebook ke kalender Anda.",
 };
 export default id;

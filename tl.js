@@ -639,5 +639,7 @@ let tl = {
   "Side By Side Event Limit": "Sa tabi -tabi ng limitasyon ng kaganapan",
   "Mobille App": "MOBILLE app",
   category: "kategorya",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Madaling subaybayan ang iyong iskedyul sa pamamagitan ng pag-import ng iyong mga kaganapan sa Facebook sa iyong kalendaryo.",
 };
 export default tl;

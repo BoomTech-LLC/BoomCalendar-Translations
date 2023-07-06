@@ -680,5 +680,7 @@ let hr = {
     "Cunnette tutte e vostre calendari Boom dispunibili in u vostru situ web.",
   "Monitor your Wix events through the sync feature.":
     "Monitorate i vostri avvenimenti Wix per via di a funzione di sincronia.",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Lako pratite svoj raspored uvozom svojih Facebook događaja u svoj kalendar.",
 };
 export default hr;

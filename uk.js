@@ -672,5 +672,7 @@ let uk = {
   "Side By Side Event Limit": "Порядна межа події",
   "Mobille App": "Додаток Mobille",
   category: "категорія",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Легко стежте за своїм розкладом, імпортувавши події з Facebook у свій календар.",
 };
 export default uk;
