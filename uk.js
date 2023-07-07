@@ -674,5 +674,6 @@ let uk = {
   category: "категорія",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Легко стежте за своїм розкладом, імпортувавши події з Facebook у свій календар.",
+  "Synchronized Pages": "Синхронізовані сторінки",
 };
 export default uk;

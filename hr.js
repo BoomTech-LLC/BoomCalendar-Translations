@@ -682,5 +682,6 @@ let hr = {
     "Monitorate i vostri avvenimenti Wix per via di a funzione di sincronia.",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Lako pratite svoj raspored uvozom svojih Facebook događaja u svoj kalendar.",
+  "Synchronized Pages": "Sinkronizirane stranice",
 };
 export default hr;

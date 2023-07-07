@@ -675,5 +675,6 @@ let sk = {
   category: "kategória",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Jednoducho sledujte svoj plán importovaním udalostí z Facebooku do kalendára.",
+  "Synchronized Pages": "Synchronizované stránky",
 };
 export default sk;

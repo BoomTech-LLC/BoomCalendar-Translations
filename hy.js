@@ -692,5 +692,6 @@ let hy = {
     "Դիտեք ձեր Wix- ի իրադարձությունները համաժամացման գործառույթի միջոցով:",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Հեշտությամբ հետևեք ձեր ժամանակացույցին՝ ներմուծելով ձեր Facebook իրադարձությունները ձեր օրացույց:",
+  "Synchronized Pages": "Սինքրոնացված էջեր",
 };
 export default hy;

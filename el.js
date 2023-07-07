@@ -680,5 +680,6 @@ let el = {
   category: "κατηγορία",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Παρακολουθήστε εύκολα το πρόγραμμά σας εισάγοντας τα συμβάντα σας στο Facebook στο ημερολόγιό σας.",
+  "Synchronized Pages": "Συγχρονισμένες σελίδες",
 };
 export default el;

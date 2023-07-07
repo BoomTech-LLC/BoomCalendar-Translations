@@ -675,5 +675,6 @@ let lv = {
   category: "kategorija",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Ērti sekojiet līdzi savam grafikam, importējot savus Facebook notikumus savā kalendārā.",
+  "Synchronized Pages": "Sinhronizētās lapas",
 };
 export default lv;

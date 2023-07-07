@@ -657,5 +657,6 @@ let zh = {
   category: "类别",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "通过将 Facebook 活动导入日历，轻松跟踪您的日程安排。",
+  "Synchronized Pages": "同步页面",
 };
 export default zh;

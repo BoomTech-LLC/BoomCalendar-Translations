@@ -675,5 +675,6 @@ let mr = {
   category: "वर्ग",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "तुमच्या कॅलेंडरमध्ये तुमचे Facebook इव्हेंट इंपोर्ट करून तुमच्या शेड्यूलचा सहज मागोवा ठेवा.",
+  "Synchronized Pages": "सिंक्रोनाइझ केलेली पृष्ठे",
 };
 export default mr;

@@ -665,5 +665,6 @@ let en = {
   category: "category",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Keep track of your schedule easily by importing your Facebook events to your calendar.",
+  "Synchronized Pages": "Synchronized Pages",
 };
 export default en;

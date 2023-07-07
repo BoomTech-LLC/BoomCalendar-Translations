@@ -672,5 +672,6 @@ let ko = {
   category: "범주",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Facebook 이벤트를 캘린더로 가져와 일정을 쉽게 추적하세요.",
+  "Synchronized Pages": "동기화된 페이지",
 };
 export default ko;

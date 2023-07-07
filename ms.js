@@ -674,5 +674,6 @@ let ms = {
   category: "kategori",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Jejaki jadual anda dengan mudah dengan mengimport acara Facebook anda ke kalendar anda.",
+  "Synchronized Pages": "Halaman Disegerakkan",
 };
 export default ms;

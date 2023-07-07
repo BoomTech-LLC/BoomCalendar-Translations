@@ -668,5 +668,6 @@ let he = {
   category: "קטגוריה",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "עקוב אחר לוח הזמנים שלך בקלות על ידי ייבוא אירועי הפייסבוק שלך ליומן שלך.",
+  "Synchronized Pages": "דפים מסונכרנים",
 };
 export default he;

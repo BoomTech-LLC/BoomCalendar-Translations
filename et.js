@@ -672,5 +672,6 @@ let et = {
   category: "kategooria",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Saate oma ajakava hõlpsalt jälgida, importides oma Facebooki sündmused kalendrisse.",
+  "Synchronized Pages": "Sünkroonitud lehed",
 };
 export default et;

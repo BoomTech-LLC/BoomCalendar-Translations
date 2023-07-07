@@ -676,5 +676,6 @@ let sq = {
   category: "kategori",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Mbani me lehtësi orarin tuaj duke importuar ngjarjet tuaja në Facebook në kalendarin tuaj.",
+  "Synchronized Pages": "Faqet e sinkronizuara",
 };
 export default sq;

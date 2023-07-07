@@ -676,5 +676,6 @@ let it = {
   category: "categoria",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Tieni facilmente traccia del tuo programma importando i tuoi eventi di Facebook nel tuo calendario.",
+  "Synchronized Pages": "Pagine sincronizzate",
 };
 export default it;
