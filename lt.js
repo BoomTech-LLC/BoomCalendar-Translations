@@ -546,5 +546,7 @@ let lt = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Lengvai stebėkite savo tvarkaraštį importuodami „Facebook“ įvykius į kalendorių.",
   "Synchronized Pages": "Sinchronizuoti puslapiai",
+  "There are no synchronized pages": "Sinchronizuotų puslapių nėra",
+  "Choose page": "Pasirinkite puslapį",
 };
 export default lt;

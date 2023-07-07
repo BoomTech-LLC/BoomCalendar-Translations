@@ -702,5 +702,7 @@ let ca = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Feu un seguiment de la vostra programació fàcilment important els vostres esdeveniments de Facebook al vostre calendari.",
   "Synchronized Pages": "Pàgines sincronitzades",
+  "There are no synchronized pages": "No hi ha pàgines sincronitzades",
+  "Choose page": "Trieu pàgina",
 };
 export default ca;

@@ -673,5 +673,7 @@ let ko = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Facebook 이벤트를 캘린더로 가져와 일정을 쉽게 추적하세요.",
   "Synchronized Pages": "동기화된 페이지",
+  "There are no synchronized pages": "동기화된 페이지가 없습니다",
+  "Choose page": "페이지 선택",
 };
 export default ko;

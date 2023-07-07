@@ -677,5 +677,7 @@ let cs = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Snadno sledujte svůj plán importem událostí z Facebooku do kalendáře.",
   "Synchronized Pages": "Synchronizované stránky",
+  "There are no synchronized pages": "Neexistují žádné synchronizované stránky",
+  "Choose page": "Vyberte stránku",
 };
 export default cs;

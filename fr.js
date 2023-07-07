@@ -684,5 +684,7 @@ let fr = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Gardez une trace de votre emploi du temps facilement en important vos événements Facebook dans votre calendrier.",
   "Synchronized Pages": "Pages synchronisées",
+  "There are no synchronized pages": "Il n'y a pas de pages synchronisées",
+  "Choose page": "Choisir la page",
 };
 export default fr;

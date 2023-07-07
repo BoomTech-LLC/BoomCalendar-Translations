@@ -678,5 +678,7 @@ let mn = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Фэйсбүүкийн үйл явдлуудыг хуанлидаа импортлох замаар цагийн хуваарийг хялбархан хянаж байгаарай.",
   "Synchronized Pages": "Синхрончлогдсон хуудсууд",
+  "There are no synchronized pages": "Синхрончлогдсон хуудас байхгүй байна",
+  "Choose page": "Хуудсыг сонгоно уу",
 };
 export default mn;

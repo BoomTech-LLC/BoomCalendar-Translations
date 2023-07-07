@@ -673,5 +673,7 @@ let fa = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "با وارد کردن رویدادهای فیس بوک خود به تقویم خود، برنامه خود را به راحتی پیگیری کنید.",
   "Synchronized Pages": "صفحات همگام شده",
+  "There are no synchronized pages": "هیچ صفحه همگام سازی شده ای وجود ندارد",
+  "Choose page": "صفحه را انتخاب کنید",
 };
 export default fa;

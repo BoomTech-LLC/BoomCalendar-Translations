@@ -675,5 +675,7 @@ let sr = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Лако пратите свој распоред тако што ћете увести своје Фацебоок догађаје у календар.",
   "Synchronized Pages": "Синцхронизед Пагес",
+  "There are no synchronized pages": "Нема синхронизованих страница",
+  "Choose page": "Изаберите страницу",
 };
 export default sr;

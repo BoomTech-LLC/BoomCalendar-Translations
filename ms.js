@@ -675,5 +675,7 @@ let ms = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Jejaki jadual anda dengan mudah dengan mengimport acara Facebook anda ke kalendar anda.",
   "Synchronized Pages": "Halaman Disegerakkan",
+  "There are no synchronized pages": "Tiada halaman yang disegerakkan",
+  "Choose page": "Pilih halaman",
 };
 export default ms;

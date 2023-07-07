@@ -676,5 +676,7 @@ let ka = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "თვალყური ადევნეთ თქვენს განრიგს მარტივად თქვენი Facebook მოვლენების თქვენს კალენდარში იმპორტით.",
   "Synchronized Pages": "სინქრონიზებული გვერდები",
+  "There are no synchronized pages": "არ არის სინქრონიზებული გვერდები",
+  "Choose page": "აირჩიეთ გვერდი",
 };
 export default ka;

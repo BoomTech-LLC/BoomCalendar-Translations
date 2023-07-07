@@ -685,5 +685,7 @@ let be = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Лёгка сачыце за сваім раскладам, імпартуючы падзеі Facebook у свой каляндар.",
   "Synchronized Pages": "Сінхранізаваныя старонкі",
+  "There are no synchronized pages": "Няма сінхранізаваных старонак",
+  "Choose page": "Выберыце старонку",
 };
 export default be;

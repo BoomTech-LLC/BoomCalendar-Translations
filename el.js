@@ -681,5 +681,7 @@ let el = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Παρακολουθήστε εύκολα το πρόγραμμά σας εισάγοντας τα συμβάντα σας στο Facebook στο ημερολόγιό σας.",
   "Synchronized Pages": "Συγχρονισμένες σελίδες",
+  "There are no synchronized pages": "Δεν υπάρχουν συγχρονισμένες σελίδες",
+  "Choose page": "Επιλέξτε σελίδα",
 };
 export default el;

@@ -672,5 +672,7 @@ let th = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "ติดตามกำหนดการของคุณได้อย่างง่ายดายโดยนำเข้ากิจกรรม Facebook ของคุณไปยังปฏิทินของคุณ",
   "Synchronized Pages": "ซิงโครไนซ์เพจ",
+  "There are no synchronized pages": "ไม่มีหน้าซิงโครไนซ์",
+  "Choose page": "เลือกหน้า",
 };
 export default th;

@@ -675,5 +675,7 @@ let hu = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Könnyen nyomon követheti menetrendjét, ha importálja Facebook eseményeit a naptárába.",
   "Synchronized Pages": "Szinkronizált oldalak",
+  "There are no synchronized pages": "Nincsenek szinkronizált oldalak",
+  "Choose page": "Válasszon oldalt",
 };
 export default hu;
