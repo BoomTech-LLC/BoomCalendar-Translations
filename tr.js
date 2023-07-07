@@ -677,5 +677,6 @@ let tr = {
   category: "kategori",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Facebook etkinliklerinizi takviminize aktararak programınızı kolayca takip edin.",
+  "Synchronized Pages": "Senkronize Sayfalar",
 };
 export default tr;

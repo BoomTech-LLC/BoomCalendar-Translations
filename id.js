@@ -673,5 +673,6 @@ let id = {
   category: "kategori",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Pantau jadwal Anda dengan mudah dengan mengimpor acara Facebook ke kalender Anda.",
+  "Synchronized Pages": "Halaman yang Disinkronkan",
 };
 export default id;

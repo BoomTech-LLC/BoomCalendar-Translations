@@ -671,5 +671,6 @@ let th = {
   category: "หมวดหมู่",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "ติดตามกำหนดการของคุณได้อย่างง่ายดายโดยนำเข้ากิจกรรม Facebook ของคุณไปยังปฏิทินของคุณ",
+  "Synchronized Pages": "ซิงโครไนซ์เพจ",
 };
 export default th;

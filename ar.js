@@ -673,5 +673,6 @@ let ar = {
     "مراقبة أحداث WIX الخاصة بك من خلال ميزة SYNC.",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "تتبع الجدول الزمني الخاص بك بسهولة عن طريق استيراد أحداث Facebook إلى التقويم الخاص بك.",
+  "Synchronized Pages": "الصفحات المتزامنة",
 };
 export default ar;

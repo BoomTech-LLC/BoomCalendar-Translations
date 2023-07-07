@@ -676,5 +676,6 @@ let ro = {
   category: "categorie",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Urmăriți cu ușurință programul dvs. importând evenimentele Facebook în calendar.",
+  "Synchronized Pages": "Pagini sincronizate",
 };
 export default ro;

@@ -701,5 +701,6 @@ let ca = {
     "Superviseu els vostres esdeveniments Wix mitjançant la funció Sync.",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Feu un seguiment de la vostra programació fàcilment important els vostres esdeveniments de Facebook al vostre calendari.",
+  "Synchronized Pages": "Pàgines sincronitzades",
 };
 export default ca;

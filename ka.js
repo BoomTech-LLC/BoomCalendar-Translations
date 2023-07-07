@@ -675,5 +675,6 @@ let ka = {
   category: "კატეგორია",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "თვალყური ადევნეთ თქვენს განრიგს მარტივად თქვენი Facebook მოვლენების თქვენს კალენდარში იმპორტით.",
+  "Synchronized Pages": "სინქრონიზებული გვერდები",
 };
 export default ka;

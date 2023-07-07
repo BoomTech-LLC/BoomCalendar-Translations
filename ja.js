@@ -674,5 +674,6 @@ let ja = {
   category: "カテゴリー",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Facebook イベントをカレンダーにインポートすることで、スケジュールを簡単に追跡できます。",
+  "Synchronized Pages": "同期されたページ",
 };
 export default ja;

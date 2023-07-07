@@ -685,5 +685,6 @@ let ru = {
     "Следите за своими событиями WIX через функцию синхронизации.",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Легко отслеживайте свое расписание, импортируя события из Facebook в свой календарь.",
+  "Synchronized Pages": "Синхронизированные страницы",
 };
 export default ru;

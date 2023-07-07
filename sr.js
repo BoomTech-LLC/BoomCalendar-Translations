@@ -674,5 +674,6 @@ let sr = {
   category: "категорија",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Лако пратите свој распоред тако што ћете увести своје Фацебоок догађаје у календар.",
+  "Synchronized Pages": "Синцхронизед Пагес",
 };
 export default sr;

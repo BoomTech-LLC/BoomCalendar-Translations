@@ -673,5 +673,6 @@ let hi = {
   category: "वर्ग",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "अपने Facebook ईवेंट को अपने कैलेंडर में आयात करके आसानी से अपने शेड्यूल पर नज़र रखें।",
+  "Synchronized Pages": "सिंक्रोनाइज़्ड पेज",
 };
 export default hi;

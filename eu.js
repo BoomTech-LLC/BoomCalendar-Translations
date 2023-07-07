@@ -675,5 +675,6 @@ let eu = {
   category: "kategoria",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Jarrai ezazu zure ordutegia erraz zure Facebook-eko gertaerak zure egutegira inportatuz.",
+  "Synchronized Pages": "Sinkronizatutako orrialdeak",
 };
 export default eu;

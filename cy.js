@@ -679,5 +679,6 @@ let cy = {
   category: "Categori",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Cadwch olwg ar eich amserlen yn hawdd trwy fewnforio eich digwyddiadau Facebook i'ch calendr.",
+  "Synchronized Pages": "Tudalennau Cydamserol",
 };
 export default cy;

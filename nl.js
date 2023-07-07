@@ -674,5 +674,6 @@ let nl = {
   category: "categorie",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Houd eenvoudig uw planning bij door uw Facebook-evenementen in uw agenda te importeren.",
+  "Synchronized Pages": "Gesynchroniseerde pagina's",
 };
 export default nl;

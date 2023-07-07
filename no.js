@@ -675,5 +675,6 @@ let no = {
   category: "kategori",
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Hold oversikt over timeplanen din enkelt ved å importere Facebook-arrangementene dine til kalenderen din.",
+  "Synchronized Pages": "Synkroniserte sider",
 };
 export default no;
