@@ -674,5 +674,7 @@ let id = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Pantau jadwal Anda dengan mudah dengan mengimpor acara Facebook ke kalender Anda.",
   "Synchronized Pages": "Halaman yang Disinkronkan",
+  "There are no synchronized pages": "Tidak ada halaman yang disinkronkan",
+  "Choose page": "Pilih halaman",
 };
 export default id;

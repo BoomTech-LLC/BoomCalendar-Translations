@@ -676,5 +676,8 @@ let sk = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Jednoducho sledujte svoj plán importovaním udalostí z Facebooku do kalendára.",
   "Synchronized Pages": "Synchronizované stránky",
+  "There are no synchronized pages":
+    "Neexistujú žiadne synchronizované stránky",
+  "Choose page": "Vyberte stránku",
 };
 export default sk;

@@ -674,5 +674,7 @@ let ar = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "تتبع الجدول الزمني الخاص بك بسهولة عن طريق استيراد أحداث Facebook إلى التقويم الخاص بك.",
   "Synchronized Pages": "الصفحات المتزامنة",
+  "There are no synchronized pages": "لا توجد صفحات متزامنة",
+  "Choose page": "اختر الصفحة",
 };
 export default ar;

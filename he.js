@@ -669,5 +669,7 @@ let he = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "עקוב אחר לוח הזמנים שלך בקלות על ידי ייבוא אירועי הפייסבוק שלך ליומן שלך.",
   "Synchronized Pages": "דפים מסונכרנים",
+  "There are no synchronized pages": "אין דפים מסונכרנים",
+  "Choose page": "בחר עמוד",
 };
 export default he;

@@ -686,5 +686,7 @@ let bg = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Проследявайте графика си лесно, като импортирате вашите Facebook събития в календара си.",
   "Synchronized Pages": "Синхронизирани страници",
+  "There are no synchronized pages": "Няма синхронизирани страници",
+  "Choose page": "Изберете страница",
 };
 export default bg;

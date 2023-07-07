@@ -676,5 +676,7 @@ let is = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Fylgstu auðveldlega með dagskránni þinni með því að flytja Facebook viðburði þína inn í dagatalið þitt.",
   "Synchronized Pages": "Samstilltar síður",
+  "There are no synchronized pages": "Það eru engar samstilltar síður",
+  "Choose page": "Veldu síðu",
 };
 export default is;

@@ -674,5 +674,7 @@ let hi = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "अपने Facebook ईवेंट को अपने कैलेंडर में आयात करके आसानी से अपने शेड्यूल पर नज़र रखें।",
   "Synchronized Pages": "सिंक्रोनाइज़्ड पेज",
+  "There are no synchronized pages": "कोई समकालिक पृष्ठ नहीं हैं",
+  "Choose page": "पेज चुनें",
 };
 export default hi;

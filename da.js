@@ -676,5 +676,7 @@ let da = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Hold nemt styr på din tidsplan ved at importere dine Facebook-begivenheder til din kalender.",
   "Synchronized Pages": "Synkroniserede sider",
+  "There are no synchronized pages": "Der er ingen synkroniserede sider",
+  "Choose page": "Vælg side",
 };
 export default da;

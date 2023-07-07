@@ -642,5 +642,7 @@ let tl = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Madaling subaybayan ang iyong iskedyul sa pamamagitan ng pag-import ng iyong mga kaganapan sa Facebook sa iyong kalendaryo.",
   "Synchronized Pages": "Naka-synchronize na Mga Pahina",
+  "There are no synchronized pages": "Walang mga naka-synchronize na pahina",
+  "Choose page": "Pumili ng pahina",
 };
 export default tl;

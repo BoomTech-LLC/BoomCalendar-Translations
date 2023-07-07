@@ -678,5 +678,7 @@ let tr = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Facebook etkinliklerinizi takviminize aktararak programınızı kolayca takip edin.",
   "Synchronized Pages": "Senkronize Sayfalar",
+  "There are no synchronized pages": "Senkronize sayfa yok",
+  "Choose page": "Sayfa seç",
 };
 export default tr;

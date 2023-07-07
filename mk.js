@@ -677,5 +677,7 @@ let mk = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Следете го вашиот распоред лесно со увезување на настаните на Facebook во вашиот календар.",
   "Synchronized Pages": "Синхронизирани страници",
+  "There are no synchronized pages": "Нема синхронизирани страници",
+  "Choose page": "Изберете страница",
 };
 export default mk;

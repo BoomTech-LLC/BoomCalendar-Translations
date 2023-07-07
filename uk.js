@@ -675,5 +675,7 @@ let uk = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Легко стежте за своїм розкладом, імпортувавши події з Facebook у свій календар.",
   "Synchronized Pages": "Синхронізовані сторінки",
+  "There are no synchronized pages": "Немає синхронізованих сторінок",
+  "Choose page": "Виберіть сторінку",
 };
 export default uk;

@@ -658,5 +658,7 @@ let zh = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "通过将 Facebook 活动导入日历，轻松跟踪您的日程安排。",
   "Synchronized Pages": "同步页面",
+  "There are no synchronized pages": "没有同步页面",
+  "Choose page": "选择页面",
 };
 export default zh;

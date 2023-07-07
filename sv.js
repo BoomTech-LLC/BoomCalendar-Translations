@@ -686,5 +686,7 @@ let sv = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Håll koll på ditt schema enkelt genom att importera dina Facebook-evenemang till din kalender.",
   "Synchronized Pages": "Synkroniserade sidor",
+  "There are no synchronized pages": "Det finns inga synkroniserade sidor",
+  "Choose page": "Välj sida",
 };
 export default sv;

@@ -686,5 +686,7 @@ let ru = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Легко отслеживайте свое расписание, импортируя события из Facebook в свой календарь.",
   "Synchronized Pages": "Синхронизированные страницы",
+  "There are no synchronized pages": "Нет синхронизированных страниц",
+  "Choose page": "Выберите страницу",
 };
 export default ru;

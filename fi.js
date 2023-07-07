@@ -676,5 +676,7 @@ let fi = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Pidä kirjaa aikataulustasi helposti tuomalla Facebook-tapahtumasi kalenteriisi.",
   "Synchronized Pages": "Synkronoidut sivut",
+  "There are no synchronized pages": "Synkronoituja sivuja ei ole",
+  "Choose page": "Valitse sivu",
 };
 export default fi;

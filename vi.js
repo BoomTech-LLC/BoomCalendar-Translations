@@ -608,5 +608,7 @@ let vi = {
   "Keep track of your schedule easily by importing your Facebook events to your calendar.":
     "Theo dõi lịch biểu của bạn một cách dễ dàng bằng cách nhập các sự kiện trên Facebook vào lịch của bạn.",
   "Synchronized Pages": "Các trang được đồng bộ hóa",
+  "There are no synchronized pages": "Không có trang nào được đồng bộ hóa",
+  "Choose page": "Chọn trang",
 };
 export default vi;
