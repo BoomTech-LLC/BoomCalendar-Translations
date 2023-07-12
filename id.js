@@ -676,5 +676,6 @@ let id = {
   "Synchronized Pages": "Halaman yang Disinkronkan",
   "There are no synchronized pages": "Tidak ada halaman yang disinkronkan",
   "Choose page": "Pilih halaman",
+  "You have no events": "Anda tidak memiliki acara",
 };
 export default id;

@@ -678,5 +678,6 @@ let pt = {
   "Synchronized Pages": "Páginas sincronizadas",
   "There are no synchronized pages": "Não há páginas sincronizadas",
   "Choose page": "Escolha a página",
+  "You have no events": "Você não tem eventos",
 };
 export default pt;

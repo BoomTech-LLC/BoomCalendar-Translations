@@ -678,5 +678,6 @@ let fi = {
   "Synchronized Pages": "Synkronoidut sivut",
   "There are no synchronized pages": "Synkronoituja sivuja ei ole",
   "Choose page": "Valitse sivu",
+  "You have no events": "Sinulla ei ole tapahtumia",
 };
 export default fi;

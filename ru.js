@@ -688,5 +688,6 @@ let ru = {
   "Synchronized Pages": "Синхронизированные страницы",
   "There are no synchronized pages": "Нет синхронизированных страниц",
   "Choose page": "Выберите страницу",
+  "You have no events": "У тебя нет событий",
 };
 export default ru;

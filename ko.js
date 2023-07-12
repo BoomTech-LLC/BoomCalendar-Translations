@@ -675,5 +675,6 @@ let ko = {
   "Synchronized Pages": "동기화된 페이지",
   "There are no synchronized pages": "동기화된 페이지가 없습니다",
   "Choose page": "페이지 선택",
+  "You have no events": "이벤트가 없습니다",
 };
 export default ko;

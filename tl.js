@@ -644,5 +644,6 @@ let tl = {
   "Synchronized Pages": "Naka-synchronize na Mga Pahina",
   "There are no synchronized pages": "Walang mga naka-synchronize na pahina",
   "Choose page": "Pumili ng pahina",
+  "You have no events": "Wala kang mga kaganapan",
 };
 export default tl;

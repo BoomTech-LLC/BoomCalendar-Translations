@@ -675,5 +675,6 @@ let et = {
   "Synchronized Pages": "Sünkroonitud lehed",
   "There are no synchronized pages": "Sünkroonitud lehti pole",
   "Choose page": "Valige leht",
+  "You have no events": "Teil pole üritusi",
 };
 export default et;

@@ -677,5 +677,6 @@ let ms = {
   "Synchronized Pages": "Halaman Disegerakkan",
   "There are no synchronized pages": "Tiada halaman yang disegerakkan",
   "Choose page": "Pilih halaman",
+  "You have no events": "Anda tidak mempunyai acara",
 };
 export default ms;

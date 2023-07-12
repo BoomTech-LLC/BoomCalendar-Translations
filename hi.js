@@ -676,5 +676,6 @@ let hi = {
   "Synchronized Pages": "सिंक्रोनाइज़्ड पेज",
   "There are no synchronized pages": "कोई समकालिक पृष्ठ नहीं हैं",
   "Choose page": "पेज चुनें",
+  "You have no events": "आपके पास कोई घटना नहीं है",
 };
 export default hi;

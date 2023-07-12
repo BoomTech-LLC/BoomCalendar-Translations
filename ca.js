@@ -704,5 +704,6 @@ let ca = {
   "Synchronized Pages": "Pàgines sincronitzades",
   "There are no synchronized pages": "No hi ha pàgines sincronitzades",
   "Choose page": "Trieu pàgina",
+  "You have no events": "No teniu esdeveniments",
 };
 export default ca;

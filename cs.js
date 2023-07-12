@@ -679,5 +679,6 @@ let cs = {
   "Synchronized Pages": "Synchronizované stránky",
   "There are no synchronized pages": "Neexistují žádné synchronizované stránky",
   "Choose page": "Vyberte stránku",
+  "You have no events": "Nemáte žádné události",
 };
 export default cs;

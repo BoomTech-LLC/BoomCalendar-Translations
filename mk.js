@@ -679,5 +679,6 @@ let mk = {
   "Synchronized Pages": "Синхронизирани страници",
   "There are no synchronized pages": "Нема синхронизирани страници",
   "Choose page": "Изберете страница",
+  "You have no events": "Немате настани",
 };
 export default mk;

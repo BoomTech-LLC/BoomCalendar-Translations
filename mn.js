@@ -680,5 +680,6 @@ let mn = {
   "Synchronized Pages": "Синхрончлогдсон хуудсууд",
   "There are no synchronized pages": "Синхрончлогдсон хуудас байхгүй байна",
   "Choose page": "Хуудсыг сонгоно уу",
+  "You have no events": "Танд арга хэмжээ байхгүй байна",
 };
 export default mn;

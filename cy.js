@@ -682,5 +682,6 @@ let cy = {
   "Synchronized Pages": "Tudalennau Cydamserol",
   "There are no synchronized pages": "Nid oes unrhyw dudalennau wedi'u cysoni",
   "Choose page": "Dewiswch dudalen",
+  "You have no events": "Nid oes gennych unrhyw ddigwyddiadau",
 };
 export default cy;

@@ -660,5 +660,6 @@ let zh = {
   "Synchronized Pages": "同步页面",
   "There are no synchronized pages": "没有同步页面",
   "Choose page": "选择页面",
+  "You have no events": "你没有事件",
 };
 export default zh;

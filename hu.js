@@ -677,5 +677,6 @@ let hu = {
   "Synchronized Pages": "Szinkronizált oldalak",
   "There are no synchronized pages": "Nincsenek szinkronizált oldalak",
   "Choose page": "Válasszon oldalt",
+  "You have no events": "Nincsenek eseményeid",
 };
 export default hu;

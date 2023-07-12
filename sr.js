@@ -677,5 +677,6 @@ let sr = {
   "Synchronized Pages": "Синцхронизед Пагес",
   "There are no synchronized pages": "Нема синхронизованих страница",
   "Choose page": "Изаберите страницу",
+  "You have no events": "Немате догађаја",
 };
 export default sr;

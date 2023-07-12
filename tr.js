@@ -680,5 +680,6 @@ let tr = {
   "Synchronized Pages": "Senkronize Sayfalar",
   "There are no synchronized pages": "Senkronize sayfa yok",
   "Choose page": "Sayfa seç",
+  "You have no events": "Etkinliğin yok",
 };
 export default tr;

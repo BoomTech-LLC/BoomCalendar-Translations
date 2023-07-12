@@ -683,5 +683,6 @@ let el = {
   "Synchronized Pages": "Συγχρονισμένες σελίδες",
   "There are no synchronized pages": "Δεν υπάρχουν συγχρονισμένες σελίδες",
   "Choose page": "Επιλέξτε σελίδα",
+  "You have no events": "Δεν έχετε γεγονότα",
 };
 export default el;

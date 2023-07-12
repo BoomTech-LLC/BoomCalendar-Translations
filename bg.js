@@ -688,5 +688,6 @@ let bg = {
   "Synchronized Pages": "Синхронизирани страници",
   "There are no synchronized pages": "Няма синхронизирани страници",
   "Choose page": "Изберете страница",
+  "You have no events": "Нямате събития",
 };
 export default bg;

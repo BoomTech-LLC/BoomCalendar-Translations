@@ -679,5 +679,6 @@ let sk = {
   "There are no synchronized pages":
     "Neexistujú žiadne synchronizované stránky",
   "Choose page": "Vyberte stránku",
+  "You have no events": "Nemáte žiadne udalosti",
 };
 export default sk;

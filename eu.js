@@ -678,5 +678,6 @@ let eu = {
   "Synchronized Pages": "Sinkronizatutako orrialdeak",
   "There are no synchronized pages": "Ez dago orrialde sinkronizaturik",
   "Choose page": "Aukeratu orria",
+  "You have no events": "Ez duzu gertaerarik",
 };
 export default eu;

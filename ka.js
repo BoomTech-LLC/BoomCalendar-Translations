@@ -678,5 +678,6 @@ let ka = {
   "Synchronized Pages": "სინქრონიზებული გვერდები",
   "There are no synchronized pages": "არ არის სინქრონიზებული გვერდები",
   "Choose page": "აირჩიეთ გვერდი",
+  "You have no events": "თქვენ არ გაქვთ მოვლენები",
 };
 export default ka;

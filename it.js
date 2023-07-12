@@ -679,5 +679,6 @@ let it = {
   "Synchronized Pages": "Pagine sincronizzate",
   "There are no synchronized pages": "Non ci sono pagine sincronizzate",
   "Choose page": "Scegli pagina",
+  "You have no events": "Non hai eventi",
 };
 export default it;

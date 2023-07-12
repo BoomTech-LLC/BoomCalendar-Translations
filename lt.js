@@ -548,5 +548,6 @@ let lt = {
   "Synchronized Pages": "Sinchronizuoti puslapiai",
   "There are no synchronized pages": "Sinchronizuotų puslapių nėra",
   "Choose page": "Pasirinkite puslapį",
+  "You have no events": "Jūs neturite įvykių",
 };
 export default lt;

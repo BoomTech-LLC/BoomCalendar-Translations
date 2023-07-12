@@ -679,5 +679,6 @@ let ro = {
   "Synchronized Pages": "Pagini sincronizate",
   "There are no synchronized pages": "Nu există pagini sincronizate",
   "Choose page": "Alege pagina",
+  "You have no events": "Nu ai evenimente",
 };
 export default ro;

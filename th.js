@@ -674,5 +674,6 @@ let th = {
   "Synchronized Pages": "ซิงโครไนซ์เพจ",
   "There are no synchronized pages": "ไม่มีหน้าซิงโครไนซ์",
   "Choose page": "เลือกหน้า",
+  "You have no events": "คุณไม่มีกิจกรรม",
 };
 export default th;

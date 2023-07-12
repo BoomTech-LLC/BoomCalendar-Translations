@@ -610,5 +610,6 @@ let vi = {
   "Synchronized Pages": "Các trang được đồng bộ hóa",
   "There are no synchronized pages": "Không có trang nào được đồng bộ hóa",
   "Choose page": "Chọn trang",
+  "You have no events": "Bạn không có sự kiện",
 };
 export default vi;

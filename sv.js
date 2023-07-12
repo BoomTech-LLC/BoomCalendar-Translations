@@ -688,5 +688,6 @@ let sv = {
   "Synchronized Pages": "Synkroniserade sidor",
   "There are no synchronized pages": "Det finns inga synkroniserade sidor",
   "Choose page": "Välj sida",
+  "You have no events": "Du har inga händelser",
 };
 export default sv;
