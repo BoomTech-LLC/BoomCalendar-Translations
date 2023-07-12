@@ -685,5 +685,6 @@ let hr = {
   "Synchronized Pages": "Sinkronizirane stranice",
   "There are no synchronized pages": "Nema sinkroniziranih stranica",
   "Choose page": "Odaberite stranicu",
+  "You have no events": "Nemate događaja",
 };
 export default hr;

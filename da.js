@@ -678,5 +678,6 @@ let da = {
   "Synchronized Pages": "Synkroniserede sider",
   "There are no synchronized pages": "Der er ingen synkroniserede sider",
   "Choose page": "Vælg side",
+  "You have no events": "Du har ingen begivenheder",
 };
 export default da;

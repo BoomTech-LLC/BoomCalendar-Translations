@@ -678,5 +678,6 @@ let no = {
   "Synchronized Pages": "Synkroniserte sider",
   "There are no synchronized pages": "Det er ingen synkroniserte sider",
   "Choose page": "Velg side",
+  "You have no events": "Du har ingen hendelser",
 };
 export default no;

@@ -677,5 +677,6 @@ let uk = {
   "Synchronized Pages": "Синхронізовані сторінки",
   "There are no synchronized pages": "Немає синхронізованих сторінок",
   "Choose page": "Виберіть сторінку",
+  "You have no events": "У вас немає подій",
 };
 export default uk;

@@ -504,5 +504,11 @@ let nb = {
   "Side By Side Event Limit": "Side om side hendelsesgrense",
   "Mobille App": "Mobille -app",
   category: "kategori",
+  "You have no events": "Du har ingen hendelser",
+  "Keep track of your schedule easily by importing your Facebook events to your calendar.":
+    "Hold rede på timeplanen din enkelt ved å importere Facebook -arrangementene dine til kalenderen.",
+  "Synchronized Pages": "Synkroniserte sider",
+  "There are no synchronized pages": "Det er ingen synkroniserte sider",
+  "Choose page": "Velg side",
 };
 export default nb;

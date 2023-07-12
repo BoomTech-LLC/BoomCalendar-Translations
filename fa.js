@@ -675,5 +675,6 @@ let fa = {
   "Synchronized Pages": "صفحات همگام شده",
   "There are no synchronized pages": "هیچ صفحه همگام سازی شده ای وجود ندارد",
   "Choose page": "صفحه را انتخاب کنید",
+  "You have no events": "شما هیچ رویدادی ندارید",
 };
 export default fa;

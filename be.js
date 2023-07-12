@@ -687,5 +687,6 @@ let be = {
   "Synchronized Pages": "Сінхранізаваныя старонкі",
   "There are no synchronized pages": "Няма сінхранізаваных старонак",
   "Choose page": "Выберыце старонку",
+  "You have no events": "У вас няма падзей",
 };
 export default be;

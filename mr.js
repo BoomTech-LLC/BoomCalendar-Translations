@@ -678,5 +678,6 @@ let mr = {
   "Synchronized Pages": "सिंक्रोनाइझ केलेली पृष्ठे",
   "There are no synchronized pages": "कोणतीही समक्रमित पृष्ठे नाहीत",
   "Choose page": "पृष्ठ निवडा",
+  "You have no events": "आपल्याकडे कोणतेही कार्यक्रम नाहीत",
 };
 export default mr;

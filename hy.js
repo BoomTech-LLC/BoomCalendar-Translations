@@ -695,5 +695,6 @@ let hy = {
   "Synchronized Pages": "Սինքրոնացված էջեր",
   "There are no synchronized pages": "Սինքրոնացված էջեր չկան",
   "Choose page": "Ընտրեք էջը",
+  "You have no events": "Դուք միջոցառումներ չունեք",
 };
 export default hy;

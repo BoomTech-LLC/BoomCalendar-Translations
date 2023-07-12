@@ -677,5 +677,6 @@ let ja = {
   "Synchronized Pages": "同期されたページ",
   "There are no synchronized pages": "同期されたページはありません",
   "Choose page": "ページを選択してください",
+  "You have no events": "イベントはありません",
 };
 export default ja;

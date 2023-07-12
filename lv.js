@@ -678,5 +678,6 @@ let lv = {
   "Synchronized Pages": "Sinhronizētās lapas",
   "There are no synchronized pages": "Nav sinhronizētu lapu",
   "Choose page": "Izvēlieties lapu",
+  "You have no events": "Jums nav notikumu",
 };
 export default lv;

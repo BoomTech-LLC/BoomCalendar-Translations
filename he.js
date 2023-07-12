@@ -671,5 +671,6 @@ let he = {
   "Synchronized Pages": "דפים מסונכרנים",
   "There are no synchronized pages": "אין דפים מסונכרנים",
   "Choose page": "בחר עמוד",
+  "You have no events": "אין לך אירועים",
 };
 export default he;

@@ -677,5 +677,6 @@ let nl = {
   "Synchronized Pages": "Gesynchroniseerde pagina's",
   "There are no synchronized pages": "Er zijn geen gesynchroniseerde pagina's",
   "Choose page": "Kies pagina",
+  "You have no events": "Je hebt geen evenementen",
 };
 export default nl;

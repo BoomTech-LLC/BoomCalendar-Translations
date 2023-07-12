@@ -679,5 +679,6 @@ let sq = {
   "Synchronized Pages": "Faqet e sinkronizuara",
   "There are no synchronized pages": "Nuk ka faqe të sinkronizuara",
   "Choose page": "Zgjidhni faqen",
+  "You have no events": "Ju nuk keni asnjë ngjarje",
 };
 export default sq;

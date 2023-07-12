@@ -676,5 +676,6 @@ let ar = {
   "Synchronized Pages": "الصفحات المتزامنة",
   "There are no synchronized pages": "لا توجد صفحات متزامنة",
   "Choose page": "اختر الصفحة",
+  "You have no events": "ليس لديك أحداث",
 };
 export default ar;

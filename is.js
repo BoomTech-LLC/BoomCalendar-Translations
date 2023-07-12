@@ -678,5 +678,6 @@ let is = {
   "Synchronized Pages": "Samstilltar síður",
   "There are no synchronized pages": "Það eru engar samstilltar síður",
   "Choose page": "Veldu síðu",
+  "You have no events": "Þú hefur enga atburði",
 };
 export default is;
