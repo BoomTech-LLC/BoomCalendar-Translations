@@ -194,7 +194,7 @@ let nl = {
   Card: "Kaart",
   Guests: "Gjestene",
   unlimited: "ubegrenset",
-  "Show more": "Vis mer",
+  "Show more": "Bekijk meer",
   "Enable Search": "Zoeken inschakelen",
   "+ Add Event": "+ Evenement toevoegen",
   "Manage and Sync": "Beheer en synchroniseer",
