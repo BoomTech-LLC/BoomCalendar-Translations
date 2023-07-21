@@ -1,4 +1,5 @@
 let en = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar": ""Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar"",
   Language: "Language",
   "Show Time Zone": "Show Time Zone",
   "Custom Local Settings": "Custom Local Settings",

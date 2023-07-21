@@ -1,4 +1,6 @@
 let th = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Ticket Tailor Sync ช่วยให้คุณสามารถรวมกิจกรรมและเซสชันของคุณเข้ากับปฏิทินบูมของคุณ",
   Categories: "หมวดหมู่",
   "Share this event": "แบ่งปันกิจกรรมนี้",
   Language: "ภาษา",

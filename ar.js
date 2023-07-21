@@ -1,4 +1,6 @@
 let ar = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "يتيح لك مزامنة خياط التذاكر دمج الأحداث والجلسات الخاصة بك مع تقويم الطفرة الخاص بك",
   Categories: "التصنيفات",
   Language: "لغة",
   "Show Time Zone": "إظهار المنطقة الزمنية",

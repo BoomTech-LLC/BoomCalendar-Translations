@@ -1,4 +1,6 @@
 let it = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "La sincronizzazione del ticket sarto ti consente di integrare i tuoi eventi e sessioni con il tuo calendario boom",
   Categories: "Categorie",
   "Share this event": "Condividi questo evento",
   Language: "Linguaggio",

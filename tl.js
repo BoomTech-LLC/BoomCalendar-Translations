@@ -1,4 +1,6 @@
 let tl = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Pinapayagan ka ng pag -sync ng ticket ng ticket na isama ang iyong mga kaganapan at sesyon sa iyong kalendaryo ng boom",
   Categories: "Mga kategorya",
   "Share this event": "Ibahagi ang kaganapang ito",
   Language: "Wika",

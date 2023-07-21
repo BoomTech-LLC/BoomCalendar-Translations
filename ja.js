@@ -1,4 +1,6 @@
 let ja = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "チケットテーラー同期を使用すると、イベントやセッションをブームカレンダーと統合できます",
   Categories: "カテゴリ",
   "Share this event": "このイベントを共有する",
   Language: "言語",

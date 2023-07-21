@@ -1,4 +1,6 @@
 let he = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "סנכרון חייט כרטיסים מאפשר לך לשלב את האירועים והמפגשים שלך עם לוח השנה הבום שלך",
   Categories: "קטגוריות",
   "Share this event": "שתפו אירוע זה",
   Language: "שפה",

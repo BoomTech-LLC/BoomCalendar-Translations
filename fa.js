@@ -1,4 +1,6 @@
 let fa = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "همگام سازی خیاط بلیط به شما امکان می دهد رویدادها و جلسات خود را با تقویم رونق خود ادغام کنید",
   Categories: "دسته بندی ها",
   "Share this event": "این رویداد را به اشتراک بگذارید",
   Language: "زبان",

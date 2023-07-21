@@ -1,4 +1,6 @@
 let ko = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Ticket Tailor Sync는 이벤트 및 세션을 붐 캘린더와 통합 할 수 있습니다.",
   Categories: "카테고리",
   "Share this event": "이 이벤트를 공유",
   Language: "언어",

@@ -1,4 +1,6 @@
 let et = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Piletite kohandatud sünkroon",
   Categories: "Kategooriad",
   "Share this event": "Jaga seda sündmust",
   Language: "Keel",

@@ -1,4 +1,6 @@
 let ka = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "ბილეთების სამკერვალო სინქრონიზაცია საშუალებას გაძლევთ ინტეგრირდეთ თქვენი მოვლენებისა და სესიების თქვენი ბუმის კალენდრით",
   Categories: "კატეგორიები",
   "Share this event": "გააზიარე ეს ღონისძიება",
   Language: "Ენა",

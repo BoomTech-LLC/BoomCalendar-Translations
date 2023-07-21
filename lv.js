@@ -1,4 +1,6 @@
 let lv = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Biļešu drēbnieku sinhronizācija ļauj integrēt savus pasākumus un sesijas ar uzplaukuma kalendāru",
   Categories: "Kategorijas",
   "Share this event": "Kopīgojiet šo notikumu",
   Language: "Valoda",

@@ -1,4 +1,6 @@
 let zh = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "门票裁缝同步使您可以将活动和会话与繁荣日历整合在一起",
   Categories: "分类目录",
   "Share this event": "分享这个活动",
   Language: "语言",

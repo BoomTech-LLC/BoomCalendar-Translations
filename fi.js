@@ -1,4 +1,6 @@
 let fi = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Lippu räätälöity synkronointi antaa sinun integroida tapahtumat ja istunnot puomikalenterisi kanssa",
   Categories: "Luokat",
   "Share this event": "Jaa tämä tapahtuma",
   Language: "Kieli",

@@ -1,4 +1,6 @@
 let tr = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Bilet Terzi Senkronizasyonu, etkinliklerinizi ve oturumlarınızı Boom Takviminizle Entegre Etmenize olanak tanır",
   Categories: "Kategoriler",
   "Share this event": "Bu etkinliği paylaş",
   Language: "Dil",
