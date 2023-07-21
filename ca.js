@@ -1,4 +1,6 @@
 let ca = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Sync de sastró de bitllets us permet integrar els vostres esdeveniments i sessions amb el calendari de boom",
   Categories: "Categories",
   "Share this event": "Comparteix aquest esdeveniment",
   Language: "Llenguatge",

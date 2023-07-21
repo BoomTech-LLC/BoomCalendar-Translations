@@ -1,4 +1,6 @@
 let es = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Sync de sastre de tickets le permite integrar sus eventos y sesiones con su calendario de boom",
   Categories: "Categorías",
   "Share this event": "Comparte este evento",
   Language: "Idioma",

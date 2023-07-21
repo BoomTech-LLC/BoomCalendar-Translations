@@ -1,4 +1,6 @@
 let mn = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Тасалбар оёдлын синхрончлол нь таны үйл явдлууд, хуралдааныг Boom Calnend-тай нэгтгэх боломжийг олгодог",
   Categories: "Ангилал",
   "Share this event": "Энэ үйл явдлыг хуваалцах",
   Language: "Хэл",

@@ -1,4 +1,6 @@
 let sv = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Ticket Faror Sync låter dig integrera dina evenemang och sessioner med din bomkalender",
   Language: "Språk",
   "Show Time Zone": "Visa tidszon",
   "Custom Local Settings": "Anpassa lokala inställningar",

@@ -1,4 +1,6 @@
 let uk = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Синхронізація кравець квитків дозволяє інтегрувати свої події та сеанси з календарем буму",
   Categories: "Категорії",
   "Share this event": "Поділіться цією подією",
   Language: "Мова",

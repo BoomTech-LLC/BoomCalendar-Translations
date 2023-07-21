@@ -1,4 +1,6 @@
 let el = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Ο συγχρονισμός Ticket Tailor σάς επιτρέπει να ενσωματώσετε τις εκδηλώσεις και τις συνεδρίες σας με το ημερολόγιο της έκρηξης",
   Language: "Γλώσσα",
   "Show Time Zone": "Εμφάνιση ζώνης ώρας",
   "Custom Local Settings": "Προσαρμοσμένες τοπικές ρυθμίσεις",

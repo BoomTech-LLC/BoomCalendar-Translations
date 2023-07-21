@@ -1,4 +1,6 @@
 let vi = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Ticket Tailor Sync cho phép bạn tích hợp các sự kiện và phiên của mình với lịch bùng nổ của bạn",
   Language: "Ngôn ngữ",
   "Show Time Zone": "Hiển thị múi giờ",
   "Custom Local Settings": "Cài đặt cục bộ tùy chỉnh",

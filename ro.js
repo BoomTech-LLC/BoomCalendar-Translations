@@ -1,4 +1,6 @@
 let ro = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Sincronizarea croitorilor de bilete vă permite să vă integrați evenimentele și sesiunile cu calendarul dvs. de boom",
   Categories: "Categorii",
   "Share this event": "Împărtășiți acest eveniment",
   Language: "Limba",

@@ -1,4 +1,6 @@
 let id = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Sinkronisasi Tiket Penjahit memungkinkan Anda untuk mengintegrasikan acara dan sesi Anda dengan kalender booming Anda",
   Categories: "Kategori",
   "Share this event": "Bagikan acara ini",
   Language: "Bahasa",

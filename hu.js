@@ -1,4 +1,6 @@
 let hu = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "A jegyek testreszabási szinkronizálása lehetővé teszi az események és munkamenetek integrálását a Boom Naptárba",
   Categories: "Kategóriáks",
   "Share this event": "Ossza meg ezt az eseményt",
   Language: "Nyelv",

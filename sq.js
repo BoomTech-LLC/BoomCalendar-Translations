@@ -1,4 +1,6 @@
 let sq = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Sync Tileor Bilet ju lejon të integroni ngjarjet dhe seancat tuaja me kalendarin tuaj të bumit",
   Categories: "Kategoritë",
   "Share this event": "Ndani këtë ngjarje",
   Language: "Gjuhe",

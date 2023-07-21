@@ -1,4 +1,6 @@
 let is = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "SYNGING SYNGING MIKIÐ gerir þér kleift að samþætta viðburði og fundi með Boom dagatalinu þínu",
   Categories: "Flokkar",
   "Share this event": "Deildu þessum atburði",
   Language: "Tungumál",

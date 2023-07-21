@@ -1,4 +1,6 @@
 let hr = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Sinkronizacija krojača ulaznica omogućuje vam da integrirate svoje događaje i sesije s kalendarom",
   Categories: "Kategorije",
   "Share this event": "Podijelite ovaj događaj",
   Language: "Jezik",

@@ -1,4 +1,6 @@
 let hi = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "टिकट दर्जी सिंक आपको अपने बूम कैलेंडर के साथ अपनी घटनाओं और सत्रों को एकीकृत करने की अनुमति देता है",
   Categories: "श्रेणियाँ",
   "Share this event": "इस घटना को साझा करें",
   Language: "भाषा",
