@@ -1,4 +1,7 @@
 let fa = {
+  "Synchronized Boxes": "جعبه های هماهنگ",
+  "Choose box": "جعبه را انتخاب کنید",
+  "There are no synchronized boxes": "هیچ جعبه هماهنگ وجود ندارد",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "همگام سازی خیاط بلیط به شما امکان می دهد رویدادها و جلسات خود را با تقویم رونق خود ادغام کنید",
   Categories: "دسته بندی ها",

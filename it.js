@@ -1,4 +1,7 @@
 let it = {
+  "Synchronized Boxes": "Scatole sincronizzate",
+  "Choose box": "Scegli la casella",
+  "There are no synchronized boxes": "Non ci sono scatole sincronizzate",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "La sincronizzazione del ticket sarto ti consente di integrare i tuoi eventi e sessioni con il tuo calendario boom",
   Categories: "Categorie",

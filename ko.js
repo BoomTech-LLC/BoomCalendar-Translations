@@ -1,4 +1,7 @@
 let ko = {
+  "Synchronized Boxes": "동기화 된 상자",
+  "Choose box": "상자를 선택하십시오",
+  "There are no synchronized boxes": "동기화 된 상자가 없습니다",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Ticket Tailor Sync는 이벤트 및 세션을 붐 캘린더와 통합 할 수 있습니다.",
   Categories: "카테고리",

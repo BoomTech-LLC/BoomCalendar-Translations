@@ -1,4 +1,7 @@
 let he = {
+  "Synchronized Boxes": "קופסאות מסונכרנות",
+  "Choose box": "בחר תיבה",
+  "There are no synchronized boxes": "אין קופסאות מסונכרנות",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "סנכרון חייט כרטיסים מאפשר לך לשלב את האירועים והמפגשים שלך עם לוח השנה הבום שלך",
   Categories: "קטגוריות",

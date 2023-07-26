@@ -1,4 +1,7 @@
 let hy = {
+  "Synchronized Boxes": "Սինխրոնացված տուփեր",
+  "Choose box": "Ընտրեք տուփ",
+  "There are no synchronized boxes": "Համաժամեցված տուփեր չկան",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Ticket Tailor Sync- ը թույլ է տալիս ինտեգրվել ձեր իրադարձությունները եւ նստաշրջանները ձեր բում օրացույցով",
   Categories: "Կատեգորիաներ",

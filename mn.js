@@ -1,4 +1,7 @@
 let mn = {
+  "Synchronized Boxes": "Синхрончлогдсон хайрцаг",
+  "Choose box": "Хайрцаг сонгох",
+  "There are no synchronized boxes": "Синхрон хайрцаг байхгүй байна",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Тасалбар оёдлын синхрончлол нь таны үйл явдлууд, хуралдааныг Boom Calnend-тай нэгтгэх боломжийг олгодог",
   Categories: "Ангилал",

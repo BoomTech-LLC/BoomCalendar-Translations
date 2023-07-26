@@ -1,4 +1,7 @@
 let ar = {
+  "Synchronized Boxes": "صناديق متزامنة",
+  "Choose box": "اختر المربع",
+  "There are no synchronized boxes": "لا توجد صناديق متزامنة",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "يتيح لك مزامنة خياط التذاكر دمج الأحداث والجلسات الخاصة بك مع تقويم الطفرة الخاص بك",
   Categories: "التصنيفات",

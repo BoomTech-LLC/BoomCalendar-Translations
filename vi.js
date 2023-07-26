@@ -1,4 +1,7 @@
 let vi = {
+  "Synchronized Boxes": "Hộp đồng bộ",
+  "Choose box": "Chọn hộp",
+  "There are no synchronized boxes": "Không có hộp đồng bộ",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Ticket Tailor Sync cho phép bạn tích hợp các sự kiện và phiên của mình với lịch bùng nổ của bạn",
   Language: "Ngôn ngữ",

@@ -1,4 +1,7 @@
 let bg = {
+  "Synchronized Boxes": "Синхронизирани кутии",
+  "Choose box": "Изберете поле",
+  "There are no synchronized boxes": "Няма синхронизирани кутии",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Синхронизирането на шивачите на билети ви позволява да интегрирате вашите събития и сесии с вашия календар на бума",
   Categories: "Категории",

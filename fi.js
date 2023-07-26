@@ -1,4 +1,7 @@
 let fi = {
+  "Synchronized Boxes": "Synkronoidut laatikot",
+  "Choose box": "Valitse laatikko",
+  "There are no synchronized boxes": "Ei ole synkronoituja laatikoita",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Lippu räätälöity synkronointi antaa sinun integroida tapahtumat ja istunnot puomikalenterisi kanssa",
   Categories: "Luokat",

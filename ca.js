@@ -1,4 +1,7 @@
 let ca = {
+  "Synchronized Boxes": "Caixes sincronitzades",
+  "Choose box": "Trieu la caixa",
+  "There are no synchronized boxes": "No hi ha caixes sincronitzades",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Sync de sastró de bitllets us permet integrar els vostres esdeveniments i sessions amb el calendari de boom",
   Categories: "Categories",

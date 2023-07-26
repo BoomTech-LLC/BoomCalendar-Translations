@@ -1,4 +1,7 @@
 let cy = {
+  "Synchronized Boxes": "Blychau cydamserol",
+  "Choose box": "Dewiswch Blwch",
+  "There are no synchronized boxes": "Nid oes unrhyw flychau cydamserol",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Mae Sync Teiliwr Tocyn yn caniatáu ichi integreiddio'ch digwyddiadau a'ch sesiynau â'ch calendr ffyniant",
   Categories: "Categorïau",

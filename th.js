@@ -1,4 +1,7 @@
 let th = {
+  "Synchronized Boxes": "กล่องซิงโครไนซ์",
+  "Choose box": "เลือกกล่อง",
+  "There are no synchronized boxes": "ไม่มีกล่องที่ซิงโครไนซ์",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Ticket Tailor Sync ช่วยให้คุณสามารถรวมกิจกรรมและเซสชันของคุณเข้ากับปฏิทินบูมของคุณ",
   Categories: "หมวดหมู่",

@@ -1,4 +1,7 @@
 let lv = {
+  "Synchronized Boxes": "Sinhronizētas kastes",
+  "Choose box": "Izvēlieties lodziņu",
+  "There are no synchronized boxes": "Nav sinhronizētu kastu",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Biļešu drēbnieku sinhronizācija ļauj integrēt savus pasākumus un sesijas ar uzplaukuma kalendāru",
   Categories: "Kategorijas",
