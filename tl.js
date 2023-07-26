@@ -1,4 +1,5 @@
 let tl = {
+  "Api key": "Susi ng API",
   "Synchronized Boxes": "Mga naka -synchronize na kahon",
   "Choose box": "Piliin ang Kahon",
   "There are no synchronized boxes": "Walang mga naka -synchronize na kahon",

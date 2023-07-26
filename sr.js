@@ -1,4 +1,5 @@
 let sr = {
+  "Api key": "АПИ кључ",
   "Synchronized Boxes": "Синхронизоване кутије",
   "Choose box": "Изаберите оквир",
   "There are no synchronized boxes": "Нема синхронизованих кутија",

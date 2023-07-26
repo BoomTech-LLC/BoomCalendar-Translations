@@ -1,4 +1,5 @@
 let de = {
+  "Api key": "API-Schlüssel",
   "Synchronized Boxes": "Synchronisierte Kisten",
   "Choose box": "Wählen Sie Box",
   "There are no synchronized boxes": "Es gibt keine synchronisierten Kisten",

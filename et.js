@@ -1,4 +1,5 @@
 let et = {
+  "Api key": "API -võti",
   "Synchronized Boxes": "Sünkroonitud kastid",
   "Choose box": "Valige kast",
   "There are no synchronized boxes": "Sünkroniseeritud kaste pole",

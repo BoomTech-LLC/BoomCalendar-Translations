@@ -1,4 +1,5 @@
 let vi = {
+  "Api key": "Mã API",
   "Synchronized Boxes": "Hộp đồng bộ",
   "Choose box": "Chọn hộp",
   "There are no synchronized boxes": "Không có hộp đồng bộ",

@@ -1,4 +1,5 @@
 let lv = {
+  "Api key": "API atslēga",
   "Synchronized Boxes": "Sinhronizētas kastes",
   "Choose box": "Izvēlieties lodziņu",
   "There are no synchronized boxes": "Nav sinhronizētu kastu",

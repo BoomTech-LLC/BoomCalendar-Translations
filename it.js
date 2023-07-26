@@ -1,4 +1,5 @@
 let it = {
+  "Api key": "Chiave API",
   "Synchronized Boxes": "Scatole sincronizzate",
   "Choose box": "Scegli la casella",
   "There are no synchronized boxes": "Non ci sono scatole sincronizzate",

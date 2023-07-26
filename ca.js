@@ -1,4 +1,5 @@
 let ca = {
+  "Api key": "Clau de l'API",
   "Synchronized Boxes": "Caixes sincronitzades",
   "Choose box": "Trieu la caixa",
   "There are no synchronized boxes": "No hi ha caixes sincronitzades",

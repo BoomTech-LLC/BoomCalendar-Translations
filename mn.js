@@ -1,4 +1,5 @@
 let mn = {
+  "Api key": "API түлхүүр",
   "Synchronized Boxes": "Синхрончлогдсон хайрцаг",
   "Choose box": "Хайрцаг сонгох",
   "There are no synchronized boxes": "Синхрон хайрцаг байхгүй байна",

@@ -1,4 +1,5 @@
 let hr = {
+  "Api key": "API ključ",
   "Synchronized Boxes": "Sinkronizirane kutije",
   "Choose box": "Odaberite okvir",
   "There are no synchronized boxes": "Nema sinkroniziranih kutija",

@@ -1,4 +1,5 @@
 let ro = {
+  "Api key": "Cheie API",
   "Synchronized Boxes": "Cutii sincronizate",
   "Choose box": "Alegeți caseta",
   "There are no synchronized boxes": "Nu există cutii sincronizate",

@@ -1,4 +1,5 @@
 let zh = {
+  "Api key": "API键",
   "Synchronized Boxes": "同步盒子",
   "Choose box": "选择框",
   "There are no synchronized boxes": "没有同步的盒子",

@@ -1,4 +1,5 @@
 let id = {
+  "Api key": "Kunci API",
   "Synchronized Boxes": "Kotak yang disinkronkan",
   "Choose box": "Pilih Kotak",
   "There are no synchronized boxes": "Tidak ada kotak yang disinkronkan",

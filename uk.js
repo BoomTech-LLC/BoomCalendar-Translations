@@ -1,4 +1,5 @@
 let uk = {
+  "Api key": "Ключ API",
   "Synchronized Boxes": "Синхронізовані коробки",
   "Choose box": "Виберіть поле",
   "There are no synchronized boxes": "Немає синхронізованих ящиків",

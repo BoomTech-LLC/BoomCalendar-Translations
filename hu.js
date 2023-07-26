@@ -1,4 +1,5 @@
 let hu = {
+  "Api key": "API kulcs",
   "Synchronized Boxes": "Szinkronizált dobozok",
   "Choose box": "Válassza ki a dobozt",
   "There are no synchronized boxes": "Nincsenek szinkronizált dobozok",

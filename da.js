@@ -1,4 +1,5 @@
 let da = {
+  "Api key": "API -nøgle",
   "Synchronized Boxes": "Synkroniserede kasser",
   "Choose box": "Vælg boks",
   "There are no synchronized boxes": "Der er ingen synkroniserede kasser",

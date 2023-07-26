@@ -1,4 +1,5 @@
 let nb = {
+  "Api key": "API -nøkkel",
   "Synchronized Boxes": "Synkroniserte bokser",
   "Choose box": "Velg boks",
   "There are no synchronized boxes": "Det er ingen synkroniserte bokser",

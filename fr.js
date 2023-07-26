@@ -1,4 +1,5 @@
 let fr = {
+  "Api key": "Clé API",
   "Synchronized Boxes": "Boîtes synchronisées",
   "Choose box": "Choisissez la boîte",
   "There are no synchronized boxes": "Il n'y a pas de boîtes synchronisées",

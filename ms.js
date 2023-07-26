@@ -1,4 +1,5 @@
 let ms = {
+  "Api key": "Kunci API",
   "Synchronized Boxes": "Kotak disegerakkan",
   "Choose box": "Pilih kotak",
   "There are no synchronized boxes": "Tidak ada kotak yang disegerakkan",

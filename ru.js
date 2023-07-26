@@ -1,4 +1,5 @@
 let ru = {
+  "Api key": "API -ключ",
   "Synchronized Boxes": "Синхронизированные коробки",
   "Choose box": "Выберите коробку",
   "There are no synchronized boxes": "Нет синхронизированных коробок",

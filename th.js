@@ -1,4 +1,5 @@
 let th = {
+  "Api key": "คีย์ API",
   "Synchronized Boxes": "กล่องซิงโครไนซ์",
   "Choose box": "เลือกกล่อง",
   "There are no synchronized boxes": "ไม่มีกล่องที่ซิงโครไนซ์",

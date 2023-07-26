@@ -1,4 +1,5 @@
 let ko = {
+  "Api key": "API 키",
   "Synchronized Boxes": "동기화 된 상자",
   "Choose box": "상자를 선택하십시오",
   "There are no synchronized boxes": "동기화 된 상자가 없습니다",

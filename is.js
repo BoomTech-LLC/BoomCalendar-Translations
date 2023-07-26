@@ -1,4 +1,5 @@
 let is = {
+  "Api key": "API lykill",
   "Synchronized Boxes": "Samstilltir kassar",
   "Choose box": "Veldu reit",
   "There are no synchronized boxes": "Það eru engir samstilltir kassar",

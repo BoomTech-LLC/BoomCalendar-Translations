@@ -1,4 +1,5 @@
 let nl = {
+  "Api key": "API sleutel",
   "Synchronized Boxes": "Gesynchroniseerde dozen",
   "Choose box": "Kies Box",
   "There are no synchronized boxes": "Er zijn geen gesynchroniseerde dozen",

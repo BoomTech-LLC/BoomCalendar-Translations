@@ -1,4 +1,5 @@
 let cy = {
+  "Api key": "Allwedd API",
   "Synchronized Boxes": "Blychau cydamserol",
   "Choose box": "Dewiswch Blwch",
   "There are no synchronized boxes": "Nid oes unrhyw flychau cydamserol",

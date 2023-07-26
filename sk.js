@@ -1,4 +1,5 @@
 let sk = {
+  "Api key": "API Kľúč",
   "Synchronized Boxes": "Synchronizované škatule",
   "Choose box": "Vyberte box",
   "There are no synchronized boxes": "Neexistujú žiadne synchronizované škatule",
