@@ -1,4 +1,7 @@
 let hi = {
+  "Synchronized Boxes": "सिंक्रनाइज़्ड बॉक्स",
+  "Choose box": "बॉक्स चुनें",
+  "There are no synchronized boxes": "कोई सिंक्रनाइज़ बॉक्स नहीं हैं",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "टिकट दर्जी सिंक आपको अपने बूम कैलेंडर के साथ अपनी घटनाओं और सत्रों को एकीकृत करने की अनुमति देता है",
   Categories: "श्रेणियाँ",

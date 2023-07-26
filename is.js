@@ -1,4 +1,7 @@
 let is = {
+  "Synchronized Boxes": "Samstilltir kassar",
+  "Choose box": "Veldu reit",
+  "There are no synchronized boxes": "Það eru engir samstilltir kassar",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "SYNGING SYNGING MIKIÐ gerir þér kleift að samþætta viðburði og fundi með Boom dagatalinu þínu",
   Categories: "Flokkar",

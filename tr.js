@@ -1,4 +1,7 @@
 let tr = {
+  "Synchronized Boxes": "Senkronize kutular",
+  "Choose box": "Kutu seçin",
+  "There are no synchronized boxes": "Senkronize kutu yok",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Bilet Terzi Senkronizasyonu, etkinliklerinizi ve oturumlarınızı Boom Takviminizle Entegre Etmenize olanak tanır",
   Categories: "Kategoriler",

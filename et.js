@@ -1,4 +1,7 @@
 let et = {
+  "Synchronized Boxes": "Sünkroonitud kastid",
+  "Choose box": "Valige kast",
+  "There are no synchronized boxes": "Sünkroniseeritud kaste pole",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Piletite kohandatud sünkroon",
   Categories: "Kategooriad",

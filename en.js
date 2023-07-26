@@ -1,4 +1,7 @@
 let en = {
+  "Synchronized Boxes": "Synchronized Boxes",
+  "Choose box": "Choose box",
+  "There are no synchronized boxes": "There are no synchronized boxes",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar",
   Language: "Language",

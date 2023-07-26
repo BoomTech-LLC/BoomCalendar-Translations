@@ -1,4 +1,7 @@
 let nl = {
+  "Synchronized Boxes": "Gesynchroniseerde dozen",
+  "Choose box": "Kies Box",
+  "There are no synchronized boxes": "Er zijn geen gesynchroniseerde dozen",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Met Ticket Tailor Sync kunt u uw evenementen en sessies integreren met uw boomkalender",
   Categories: "Categorieën",

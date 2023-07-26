@@ -1,4 +1,7 @@
 let cs = {
+  "Synchronized Boxes": "Synchronizované boxy",
+  "Choose box": "Vyberte pole",
+  "There are no synchronized boxes": "Neexistují žádné synchronizované boxy",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Synchronizace na míru lístku umožňuje integrovat vaše události a sezení do kalendáře Boom",
   Categories: "Kategorie",

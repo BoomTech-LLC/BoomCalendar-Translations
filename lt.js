@@ -1,4 +1,7 @@
 let lt = {
+  "Synchronized Boxes": "Sinchronizuotos dėžutės",
+  "Choose box": "Pasirinkite langelį",
+  "There are no synchronized boxes": "Nėra sinchronizuotų dėžučių",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "„Ticket Siulor Sync“ leidžia integruoti renginius ir sesijas su „Boom“ kalendoriumi",
   Categories: "Kategorijos",

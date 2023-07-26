@@ -1,4 +1,7 @@
 let nb = {
+  "Synchronized Boxes": "Synkroniserte bokser",
+  "Choose box": "Velg boks",
+  "There are no synchronized boxes": "Det er ingen synkroniserte bokser",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Ticket Tailor Sync lar deg integrere hendelsene og øktene dine med din bomkalender",
   Categories: "Kategorier",

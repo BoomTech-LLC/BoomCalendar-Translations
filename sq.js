@@ -1,4 +1,7 @@
 let sq = {
+  "Synchronized Boxes": "Kuti të sinkronizuara",
+  "Choose box": "Zgjidhni kutinë",
+  "There are no synchronized boxes": "Nuk ka kuti të sinkronizuara",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
     "Sync Tileor Bilet ju lejon të integroni ngjarjet dhe seancat tuaja me kalendarin tuaj të bumit",
   Categories: "Kategoritë",
