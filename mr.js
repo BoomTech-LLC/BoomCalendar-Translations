@@ -1,4 +1,5 @@
 let mr = {
+  "Api key": "एपीआय की",
   "Synchronized Boxes": "सिंक्रोनाइझ बॉक्स",
   "Choose box": "बॉक्स निवडा",
   "There are no synchronized boxes": "तेथे कोणतेही सिंक्रोनाइझ बॉक्स नाहीत",

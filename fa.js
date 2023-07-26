@@ -1,4 +1,5 @@
 let fa = {
+  "Api key": "کلید ای پی ای",
   "Synchronized Boxes": "جعبه های هماهنگ",
   "Choose box": "جعبه را انتخاب کنید",
   "There are no synchronized boxes": "هیچ جعبه هماهنگ وجود ندارد",

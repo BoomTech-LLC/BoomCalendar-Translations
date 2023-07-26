@@ -1,4 +1,5 @@
 let mk = {
+  "Api key": "API клуч",
   "Synchronized Boxes": "Синхронизирани кутии",
   "Choose box": "Изберете кутија",
   "There are no synchronized boxes": "Нема синхронизирани кутии",

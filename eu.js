@@ -1,4 +1,5 @@
 let eu = {
+  "Api key": "API gakoa",
   "Synchronized Boxes": "Sinkronizatutako kaxak",
   "Choose box": "Aukeratu kutxa",
   "There are no synchronized boxes": "Ez dago kaxa sinkronizaturik",

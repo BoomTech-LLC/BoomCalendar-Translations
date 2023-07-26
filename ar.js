@@ -1,4 +1,5 @@
 let ar = {
+  "Api key": "مفتاح API",
   "Synchronized Boxes": "صناديق متزامنة",
   "Choose box": "اختر المربع",
   "There are no synchronized boxes": "لا توجد صناديق متزامنة",

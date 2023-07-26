@@ -1,4 +1,5 @@
 let sq = {
+  "Api key": "Keyelësi API",
   "Synchronized Boxes": "Kuti të sinkronizuara",
   "Choose box": "Zgjidhni kutinë",
   "There are no synchronized boxes": "Nuk ka kuti të sinkronizuara",

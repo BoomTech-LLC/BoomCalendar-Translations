@@ -1,4 +1,5 @@
 let ja = {
+  "Api key": "APIキー",
   "Synchronized Boxes": "同期したボックス",
   "Choose box": "ボックスを選択します",
   "There are no synchronized boxes": "同期されたボックスはありません",

@@ -1,4 +1,5 @@
 let pt = {
+  "Api key": "Chave API",
   "Synchronized Boxes": "Caixas sincronizadas",
   "Choose box": "Escolha a caixa",
   "There are no synchronized boxes": "Não há caixas sincronizadas",

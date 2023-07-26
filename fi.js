@@ -1,4 +1,5 @@
 let fi = {
+  "Api key": "API -avain",
   "Synchronized Boxes": "Synkronoidut laatikot",
   "Choose box": "Valitse laatikko",
   "There are no synchronized boxes": "Ei ole synkronoituja laatikoita",

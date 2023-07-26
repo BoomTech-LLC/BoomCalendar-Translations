@@ -1,4 +1,5 @@
 let cs = {
+  "Api key": "Klíč API",
   "Synchronized Boxes": "Synchronizované boxy",
   "Choose box": "Vyberte pole",
   "There are no synchronized boxes": "Neexistují žádné synchronizované boxy",

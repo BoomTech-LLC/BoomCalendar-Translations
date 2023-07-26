@@ -1,4 +1,5 @@
 let en = {
+  "Api key": "Api key",
   "Synchronized Boxes": "Synchronized Boxes",
   "Choose box": "Choose box",
   "There are no synchronized boxes": "There are no synchronized boxes",

@@ -1,4 +1,5 @@
 let hy = {
+  "Api key": "API ստեղն",
   "Synchronized Boxes": "Սինխրոնացված տուփեր",
   "Choose box": "Ընտրեք տուփ",
   "There are no synchronized boxes": "Համաժամեցված տուփեր չկան",

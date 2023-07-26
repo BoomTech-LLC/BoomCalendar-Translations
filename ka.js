@@ -1,4 +1,5 @@
 let ka = {
+  "Api key": "API გასაღები",
   "Synchronized Boxes": "სინქრონიზებული ყუთები",
   "Choose box": "აირჩიეთ ყუთი",
   "There are no synchronized boxes": "სინქრონიზებული ყუთები არ არსებობს",

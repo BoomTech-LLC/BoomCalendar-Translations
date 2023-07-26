@@ -1,4 +1,5 @@
 let he = {
+  "Api key": "מפתח API",
   "Synchronized Boxes": "קופסאות מסונכרנות",
   "Choose box": "בחר תיבה",
   "There are no synchronized boxes": "אין קופסאות מסונכרנות",

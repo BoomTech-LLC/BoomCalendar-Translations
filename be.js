@@ -1,4 +1,5 @@
 let be = {
+  "Api key": "Ключ API",
   "Synchronized Boxes": "Сінхранізаваныя скрыні",
   "Choose box": "Выберыце поле",
   "There are no synchronized boxes": "Няма сінхранізаваных скрынак",

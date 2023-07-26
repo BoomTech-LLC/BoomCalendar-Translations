@@ -1,4 +1,5 @@
 let lt = {
+  "Api key": "API raktas",
   "Synchronized Boxes": "Sinchronizuotos dėžutės",
   "Choose box": "Pasirinkite langelį",
   "There are no synchronized boxes": "Nėra sinchronizuotų dėžučių",

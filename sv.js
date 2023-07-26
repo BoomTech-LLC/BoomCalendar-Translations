@@ -1,4 +1,5 @@
 let sv = {
+  "Api key": "API -nyckel",
   "Synchronized Boxes": "Synkroniserade lådor",
   "Choose box": "Välj låda",
   "There are no synchronized boxes": "Det finns inga synkroniserade rutor",

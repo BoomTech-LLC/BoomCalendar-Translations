@@ -1,4 +1,5 @@
 let tr = {
+  "Api key": "API Anahtarı",
   "Synchronized Boxes": "Senkronize kutular",
   "Choose box": "Kutu seçin",
   "There are no synchronized boxes": "Senkronize kutu yok",

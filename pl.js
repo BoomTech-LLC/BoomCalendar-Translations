@@ -1,4 +1,5 @@
 let pl = {
+  "Api key": "Klucz API",
   "Synchronized Boxes": "Zsynchronizowane pudełka",
   "Choose box": "Wybierz pudełko",
   "There are no synchronized boxes": "Nie ma zsynchronizowanych pudełek",

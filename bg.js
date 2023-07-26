@@ -1,4 +1,5 @@
 let bg = {
+  "Api key": "API ключ",
   "Synchronized Boxes": "Синхронизирани кутии",
   "Choose box": "Изберете поле",
   "There are no synchronized boxes": "Няма синхронизирани кутии",

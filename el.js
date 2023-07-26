@@ -1,4 +1,5 @@
 let el = {
+  "Api key": "Πλήκτρο API",
   "Synchronized Boxes": "Συγχρονισμένα κουτιά",
   "Choose box": "Επιλέξτε κουτί",
   "There are no synchronized boxes": "Δεν υπάρχουν συγχρονισμένα κουτιά",
