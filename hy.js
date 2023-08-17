@@ -1,4 +1,5 @@
 let hy = {
+  "Choose plan type": "Ընտրեք ծրագրի տեսակը",
   "Api key": "API ստեղն",
   "Synchronized Boxes": "Սինխրոնացված տուփեր",
   "Choose box": "Ընտրեք տուփ",

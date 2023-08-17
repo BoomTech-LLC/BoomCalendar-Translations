@@ -1,4 +1,5 @@
 let tl = {
+  "Choose plan type": "Piliin ang uri ng plano",
   "Api key": "Susi ng API",
   "Synchronized Boxes": "Mga naka -synchronize na kahon",
   "Choose box": "Piliin ang Kahon",

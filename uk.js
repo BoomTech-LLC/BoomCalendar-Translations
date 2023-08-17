@@ -1,4 +1,5 @@
 let uk = {
+  "Choose plan type": "Виберіть тип плану",
   "Api key": "Ключ API",
   "Synchronized Boxes": "Синхронізовані коробки",
   "Choose box": "Виберіть поле",

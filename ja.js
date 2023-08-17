@@ -1,4 +1,5 @@
 let ja = {
+  "Choose plan type": "プランタイプを選択します",
   "Api key": "APIキー",
   "Synchronized Boxes": "同期したボックス",
   "Choose box": "ボックスを選択します",

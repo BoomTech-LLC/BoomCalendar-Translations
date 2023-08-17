@@ -1,4 +1,5 @@
 let ro = {
+  "Choose plan type": "Alegeți tipul de plan",
   "Api key": "Cheie API",
   "Synchronized Boxes": "Cutii sincronizate",
   "Choose box": "Alegeți caseta",

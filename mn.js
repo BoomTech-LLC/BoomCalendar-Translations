@@ -1,4 +1,5 @@
 let mn = {
+  "Choose plan type": "Төлөвлөгөө сонгох",
   "Api key": "API түлхүүр",
   "Synchronized Boxes": "Синхрончлогдсон хайрцаг",
   "Choose box": "Хайрцаг сонгох",

@@ -1,4 +1,5 @@
 let ar = {
+  "Choose plan type": "اختر نوع الخطة",
   "Api key": "مفتاح API",
   "Synchronized Boxes": "صناديق متزامنة",
   "Choose box": "اختر المربع",

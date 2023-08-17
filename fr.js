@@ -1,4 +1,5 @@
 let fr = {
+  "Choose plan type": "Choisissez le type de plan",
   "Api key": "Clé API",
   "Synchronized Boxes": "Boîtes synchronisées",
   "Choose box": "Choisissez la boîte",

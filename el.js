@@ -1,4 +1,5 @@
 let el = {
+  "Choose plan type": "Επιλέξτε τον τύπο σχεδίου",
   "Api key": "Πλήκτρο API",
   "Synchronized Boxes": "Συγχρονισμένα κουτιά",
   "Choose box": "Επιλέξτε κουτί",

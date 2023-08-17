@@ -1,4 +1,5 @@
 let fi = {
+  "Choose plan type": "Valitse suunnitelmatyyppi",
   "Api key": "API -avain",
   "Synchronized Boxes": "Synkronoidut laatikot",
   "Choose box": "Valitse laatikko",

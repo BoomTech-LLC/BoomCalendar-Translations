@@ -1,4 +1,5 @@
 let no = {
+  "Choose plan type": "Velg plantype",
   "Api key": "API -nøkkel",
   "Synchronized Boxes": "Synkroniserte bokser",
   "Choose box": "Velg boks",

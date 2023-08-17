@@ -1,4 +1,5 @@
 let he = {
+  "Choose plan type": "בחר סוג תוכנית",
   "Api key": "מפתח API",
   "Synchronized Boxes": "קופסאות מסונכרנות",
   "Choose box": "בחר תיבה",

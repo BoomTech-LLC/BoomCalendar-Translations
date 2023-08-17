@@ -1,4 +1,5 @@
 let is = {
+  "Choose plan type": "Veldu gerð áætlunar",
   "Api key": "API lykill",
   "Synchronized Boxes": "Samstilltir kassar",
   "Choose box": "Veldu reit",

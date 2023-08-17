@@ -1,4 +1,5 @@
 let bg = {
+  "Choose plan type": "Изберете тип план",
   "Api key": "API ключ",
   "Synchronized Boxes": "Синхронизирани кутии",
   "Choose box": "Изберете поле",

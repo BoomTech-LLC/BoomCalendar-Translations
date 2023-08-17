@@ -1,4 +1,5 @@
 let lt = {
+  "Choose plan type": "Pasirinkite plano tipą",
   "Api key": "API raktas",
   "Synchronized Boxes": "Sinchronizuotos dėžutės",
   "Choose box": "Pasirinkite langelį",

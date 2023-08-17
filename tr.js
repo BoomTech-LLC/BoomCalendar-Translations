@@ -1,4 +1,5 @@
 let tr = {
+  "Choose plan type": "Plan Türünü Seçin",
   "Api key": "API Anahtarı",
   "Synchronized Boxes": "Senkronize kutular",
   "Choose box": "Kutu seçin",
