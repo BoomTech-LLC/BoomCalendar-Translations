@@ -1,4 +1,5 @@
 let sk = {
+  "Choose plan type": "Vyberte typ plánu",
   "Api key": "API Kľúč",
   "Synchronized Boxes": "Synchronizované škatule",
   "Choose box": "Vyberte box",

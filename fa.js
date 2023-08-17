@@ -1,4 +1,5 @@
 let fa = {
+  "Choose plan type": "نوع برنامه را انتخاب کنید",
   "Api key": "کلید ای پی ای",
   "Synchronized Boxes": "جعبه های هماهنگ",
   "Choose box": "جعبه را انتخاب کنید",

@@ -1,4 +1,5 @@
 let ca = {
+  "Choose plan type": "Trieu el tipus de pla",
   "Api key": "Clau de l'API",
   "Synchronized Boxes": "Caixes sincronitzades",
   "Choose box": "Trieu la caixa",

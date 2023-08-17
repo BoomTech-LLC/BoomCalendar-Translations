@@ -1,4 +1,5 @@
 let vi = {
+  "Choose plan type": "Chọn loại kế hoạch",
   "Api key": "Mã API",
   "Synchronized Boxes": "Hộp đồng bộ",
   "Choose box": "Chọn hộp",

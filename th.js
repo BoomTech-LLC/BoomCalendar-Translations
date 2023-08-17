@@ -1,4 +1,5 @@
 let th = {
+  "Choose plan type": "เลือกประเภทแผน",
   "Api key": "คีย์ API",
   "Synchronized Boxes": "กล่องซิงโครไนซ์",
   "Choose box": "เลือกกล่อง",

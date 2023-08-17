@@ -1,4 +1,5 @@
 let hr = {
+  "Choose plan type": "Odaberite vrstu plana",
   "Api key": "API ključ",
   "Synchronized Boxes": "Sinkronizirane kutije",
   "Choose box": "Odaberite okvir",

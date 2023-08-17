@@ -1,4 +1,5 @@
 let zh = {
+  "Choose plan type": "选择计划类型",
   "Api key": "API键",
   "Synchronized Boxes": "同步盒子",
   "Choose box": "选择框",

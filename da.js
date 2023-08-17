@@ -1,4 +1,5 @@
 let da = {
+  "Choose plan type": "Vælg Planype",
   "Api key": "API -nøgle",
   "Synchronized Boxes": "Synkroniserede kasser",
   "Choose box": "Vælg boks",

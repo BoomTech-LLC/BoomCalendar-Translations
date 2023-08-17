@@ -1,4 +1,5 @@
 let ko = {
+  "Choose plan type": "계획 유형을 선택하십시오",
   "Api key": "API 키",
   "Synchronized Boxes": "동기화 된 상자",
   "Choose box": "상자를 선택하십시오",

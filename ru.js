@@ -1,4 +1,5 @@
 let ru = {
+  "Choose plan type": "Выберите тип плана",
   "Api key": "API -ключ",
   "Synchronized Boxes": "Синхронизированные коробки",
   "Choose box": "Выберите коробку",

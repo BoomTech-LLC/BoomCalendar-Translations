@@ -1,4 +1,5 @@
 let it = {
+  "Choose plan type": "Scegli il tipo di piano",
   "Api key": "Chiave API",
   "Synchronized Boxes": "Scatole sincronizzate",
   "Choose box": "Scegli la casella",

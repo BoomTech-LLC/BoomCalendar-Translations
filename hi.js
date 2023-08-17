@@ -1,4 +1,5 @@
 let hi = {
+  "Choose plan type": "योजना प्रकार चुनें",
   "Api key": "एपीआई कुंजी",
   "Synchronized Boxes": "सिंक्रनाइज़्ड बॉक्स",
   "Choose box": "बॉक्स चुनें",

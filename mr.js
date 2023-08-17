@@ -1,4 +1,5 @@
 let mr = {
+  "Choose plan type": "योजना प्रकार निवडा",
   "Api key": "एपीआय की",
   "Synchronized Boxes": "सिंक्रोनाइझ बॉक्स",
   "Choose box": "बॉक्स निवडा",

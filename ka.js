@@ -1,4 +1,5 @@
 let ka = {
+  "Choose plan type": "აირჩიეთ გეგმის ტიპი",
   "Api key": "API გასაღები",
   "Synchronized Boxes": "სინქრონიზებული ყუთები",
   "Choose box": "აირჩიეთ ყუთი",

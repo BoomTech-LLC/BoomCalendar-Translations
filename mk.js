@@ -1,4 +1,5 @@
 let mk = {
+  "Choose plan type": "Изберете Тип на план",
   "Api key": "API клуч",
   "Synchronized Boxes": "Синхронизирани кутии",
   "Choose box": "Изберете кутија",

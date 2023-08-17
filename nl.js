@@ -1,4 +1,5 @@
 let nl = {
+  "Choose plan type": "Kies het plantype",
   "Api key": "API sleutel",
   "Synchronized Boxes": "Gesynchroniseerde dozen",
   "Choose box": "Kies Box",

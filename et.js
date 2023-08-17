@@ -1,4 +1,5 @@
 let et = {
+  "Choose plan type": "Valige plaani tüüp",
   "Api key": "API -võti",
   "Synchronized Boxes": "Sünkroonitud kastid",
   "Choose box": "Valige kast",

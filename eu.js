@@ -1,4 +1,5 @@
 let eu = {
+  "Choose plan type": "Aukeratu plan mota",
   "Api key": "API gakoa",
   "Synchronized Boxes": "Sinkronizatutako kaxak",
   "Choose box": "Aukeratu kutxa",

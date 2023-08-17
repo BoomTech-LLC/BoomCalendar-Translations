@@ -1,4 +1,5 @@
 let be = {
+  "Choose plan type": "Выберыце тып плана",
   "Api key": "Ключ API",
   "Synchronized Boxes": "Сінхранізаваныя скрыні",
   "Choose box": "Выберыце поле",

@@ -1,4 +1,5 @@
 let sq = {
+  "Choose plan type": "Zgjidhni llojin e planit",
   "Api key": "Keyelësi API",
   "Synchronized Boxes": "Kuti të sinkronizuara",
   "Choose box": "Zgjidhni kutinë",

@@ -1,4 +1,5 @@
 let id = {
+  "Choose plan type": "Pilih Jenis Rencana",
   "Api key": "Kunci API",
   "Synchronized Boxes": "Kotak yang disinkronkan",
   "Choose box": "Pilih Kotak",

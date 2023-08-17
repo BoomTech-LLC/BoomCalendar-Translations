@@ -1,4 +1,5 @@
 let sr = {
+  "Choose plan type": "Одаберите врсту плана",
   "Api key": "АПИ кључ",
   "Synchronized Boxes": "Синхронизоване кутије",
   "Choose box": "Изаберите оквир",

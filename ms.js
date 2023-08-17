@@ -1,4 +1,5 @@
 let ms = {
+  "Choose plan type": "Pilih jenis pelan",
   "Api key": "Kunci API",
   "Synchronized Boxes": "Kotak disegerakkan",
   "Choose box": "Pilih kotak",

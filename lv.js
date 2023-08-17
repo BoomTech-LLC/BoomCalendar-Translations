@@ -1,4 +1,5 @@
 let lv = {
+  "Choose plan type": "Izvēlieties plāna veidu",
   "Api key": "API atslēga",
   "Synchronized Boxes": "Sinhronizētas kastes",
   "Choose box": "Izvēlieties lodziņu",

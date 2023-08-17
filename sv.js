@@ -1,4 +1,5 @@
 let sv = {
+  "Choose plan type": "Välj Plan Type",
   "Api key": "API -nyckel",
   "Synchronized Boxes": "Synkroniserade lådor",
   "Choose box": "Välj låda",

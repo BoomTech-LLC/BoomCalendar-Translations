@@ -1,4 +1,5 @@
 let cy = {
+  "Choose plan type": "Dewiswch Math o Gynllun",
   "Api key": "Allwedd API",
   "Synchronized Boxes": "Blychau cydamserol",
   "Choose box": "Dewiswch Blwch",

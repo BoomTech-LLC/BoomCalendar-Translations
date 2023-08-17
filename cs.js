@@ -1,4 +1,5 @@
 let cs = {
+  "Choose plan type": "Vyberte typ plánu",
   "Api key": "Klíč API",
   "Synchronized Boxes": "Synchronizované boxy",
   "Choose box": "Vyberte pole",
