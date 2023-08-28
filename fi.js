@@ -1,4 +1,11 @@
 let fi = {
+  "Choose plan type": "Valitse suunnitelmatyyppi",
+  "Api key": "API -avain",
+  "Synchronized Boxes": "Synkronoidut laatikot",
+  "Choose box": "Valitse laatikko",
+  "There are no synchronized boxes": "Ei ole synkronoituja laatikoita",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Lippu räätälöity synkronointi antaa sinun integroida tapahtumat ja istunnot puomikalenterisi kanssa",
   Categories: "Luokat",
   "Share this event": "Jaa tämä tapahtuma",
   Language: "Kieli",

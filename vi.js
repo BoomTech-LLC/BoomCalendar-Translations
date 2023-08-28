@@ -1,4 +1,11 @@
 let vi = {
+  "Choose plan type": "Chọn loại kế hoạch",
+  "Api key": "Mã API",
+  "Synchronized Boxes": "Hộp đồng bộ",
+  "Choose box": "Chọn hộp",
+  "There are no synchronized boxes": "Không có hộp đồng bộ",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Ticket Tailor Sync cho phép bạn tích hợp các sự kiện và phiên của mình với lịch bùng nổ của bạn",
   Language: "Ngôn ngữ",
   "Show Time Zone": "Hiển thị múi giờ",
   "Custom Local Settings": "Cài đặt cục bộ tùy chỉnh",

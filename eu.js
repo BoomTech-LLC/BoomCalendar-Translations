@@ -1,4 +1,11 @@
 let eu = {
+  "Choose plan type": "Aukeratu plan mota",
+  "Api key": "API gakoa",
+  "Synchronized Boxes": "Sinkronizatutako kaxak",
+  "Choose box": "Aukeratu kutxa",
+  "There are no synchronized boxes": "Ez dago kaxa sinkronizaturik",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Sarreren neurrirako sinkronizazioak zure ekitaldiak eta saioak zure boom egutegiarekin integratzeko aukera ematen du",
   Categories: "Kategoria",
   "Share this event": "Partekatu gertaera hau",
   Language: "Mintzaira",

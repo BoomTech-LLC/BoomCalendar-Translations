@@ -1,4 +1,11 @@
 let mr = {
+  "Choose plan type": "योजना प्रकार निवडा",
+  "Api key": "एपीआय की",
+  "Synchronized Boxes": "सिंक्रोनाइझ बॉक्स",
+  "Choose box": "बॉक्स निवडा",
+  "There are no synchronized boxes": "तेथे कोणतेही सिंक्रोनाइझ बॉक्स नाहीत",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "तिकिट टेलर समक्रमण आपल्याला आपल्या इव्हेंट्स आणि सत्रांना आपल्या बूम कॅलेंडरसह समाकलित करण्याची परवानगी देते",
   Categories: "श्रेणी",
   "Share this event": "हा कार्यक्रम सामायिक करा",
   Language: "इंग्रजी",

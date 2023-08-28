@@ -1,4 +1,11 @@
 let tl = {
+  "Choose plan type": "Piliin ang uri ng plano",
+  "Api key": "Susi ng API",
+  "Synchronized Boxes": "Mga naka -synchronize na kahon",
+  "Choose box": "Piliin ang Kahon",
+  "There are no synchronized boxes": "Walang mga naka -synchronize na kahon",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Pinapayagan ka ng pag -sync ng ticket ng ticket na isama ang iyong mga kaganapan at sesyon sa iyong kalendaryo ng boom",
   Categories: "Mga kategorya",
   "Share this event": "Ibahagi ang kaganapang ito",
   Language: "Wika",

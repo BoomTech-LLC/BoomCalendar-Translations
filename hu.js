@@ -1,4 +1,11 @@
 let hu = {
+  "Choose plan type": "Válassza a Terv típusát",
+  "Api key": "API kulcs",
+  "Synchronized Boxes": "Szinkronizált dobozok",
+  "Choose box": "Válassza ki a dobozt",
+  "There are no synchronized boxes": "Nincsenek szinkronizált dobozok",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "A jegyek testreszabási szinkronizálása lehetővé teszi az események és munkamenetek integrálását a Boom Naptárba",
   Categories: "Kategóriáks",
   "Share this event": "Ossza meg ezt az eseményt",
   Language: "Nyelv",

@@ -1,4 +1,11 @@
 let id = {
+  "Choose plan type": "Pilih Jenis Rencana",
+  "Api key": "Kunci API",
+  "Synchronized Boxes": "Kotak yang disinkronkan",
+  "Choose box": "Pilih Kotak",
+  "There are no synchronized boxes": "Tidak ada kotak yang disinkronkan",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Sinkronisasi Tiket Penjahit memungkinkan Anda untuk mengintegrasikan acara dan sesi Anda dengan kalender booming Anda",
   Categories: "Kategori",
   "Share this event": "Bagikan acara ini",
   Language: "Bahasa",

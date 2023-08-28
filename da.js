@@ -1,4 +1,11 @@
 let da = {
+  "Choose plan type": "Vælg Planype",
+  "Api key": "API -nøgle",
+  "Synchronized Boxes": "Synkroniserede kasser",
+  "Choose box": "Vælg boks",
+  "There are no synchronized boxes": "Der er ingen synkroniserede kasser",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Synkronisering af billetskrædder giver dig mulighed for at integrere dine begivenheder og sessioner med din boomkalender",
   Categories: "Kategorier",
   "Share this event": "Del denne begivenhed",
   Language: "Sprog",

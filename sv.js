@@ -1,4 +1,11 @@
 let sv = {
+  "Choose plan type": "Välj Plan Type",
+  "Api key": "API -nyckel",
+  "Synchronized Boxes": "Synkroniserade lådor",
+  "Choose box": "Välj låda",
+  "There are no synchronized boxes": "Det finns inga synkroniserade rutor",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Ticket Faror Sync låter dig integrera dina evenemang och sessioner med din bomkalender",
   Language: "Språk",
   "Show Time Zone": "Visa tidszon",
   "Custom Local Settings": "Anpassa lokala inställningar",

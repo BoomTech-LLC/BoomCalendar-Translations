@@ -1,4 +1,11 @@
 let ms = {
+  "Choose plan type": "Pilih jenis pelan",
+  "Api key": "Kunci API",
+  "Synchronized Boxes": "Kotak disegerakkan",
+  "Choose box": "Pilih kotak",
+  "There are no synchronized boxes": "Tidak ada kotak yang disegerakkan",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Penyegerakan Ticket Ticket membolehkan anda mengintegrasikan acara dan sesi anda dengan kalendar boom anda",
   Categories: "Kategori",
   "Share this event": "Kongsi acara ini",
   Language: "Bahasa",

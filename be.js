@@ -1,4 +1,11 @@
 let be = {
+  "Choose plan type": "Выберыце тып плана",
+  "Api key": "Ключ API",
+  "Synchronized Boxes": "Сінхранізаваныя скрыні",
+  "Choose box": "Выберыце поле",
+  "There are no synchronized boxes": "Няма сінхранізаваных скрынак",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Сінхранізацыя краёвых білетаў дазваляе інтэграваць свае падзеі і сесіі з календаром буму",
   Categories: "Катэгорыі",
   "Share this event": "Падзяліцеся гэтай падзеяй",
   Language: "Мова",

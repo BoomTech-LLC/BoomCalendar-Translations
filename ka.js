@@ -1,4 +1,11 @@
 let ka = {
+  "Choose plan type": "აირჩიეთ გეგმის ტიპი",
+  "Api key": "API გასაღები",
+  "Synchronized Boxes": "სინქრონიზებული ყუთები",
+  "Choose box": "აირჩიეთ ყუთი",
+  "There are no synchronized boxes": "სინქრონიზებული ყუთები არ არსებობს",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "ბილეთების სამკერვალო სინქრონიზაცია საშუალებას გაძლევთ ინტეგრირდეთ თქვენი მოვლენებისა და სესიების თქვენი ბუმის კალენდრით",
   Categories: "კატეგორიები",
   "Share this event": "გააზიარე ეს ღონისძიება",
   Language: "Ენა",

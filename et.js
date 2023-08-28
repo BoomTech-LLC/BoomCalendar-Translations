@@ -1,4 +1,11 @@
 let et = {
+  "Choose plan type": "Valige plaani tüüp",
+  "Api key": "API -võti",
+  "Synchronized Boxes": "Sünkroonitud kastid",
+  "Choose box": "Valige kast",
+  "There are no synchronized boxes": "Sünkroniseeritud kaste pole",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Piletite kohandatud sünkroon",
   Categories: "Kategooriad",
   "Share this event": "Jaga seda sündmust",
   Language: "Keel",

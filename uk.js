@@ -1,4 +1,11 @@
 let uk = {
+  "Choose plan type": "Виберіть тип плану",
+  "Api key": "Ключ API",
+  "Synchronized Boxes": "Синхронізовані коробки",
+  "Choose box": "Виберіть поле",
+  "There are no synchronized boxes": "Немає синхронізованих ящиків",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Синхронізація кравець квитків дозволяє інтегрувати свої події та сеанси з календарем буму",
   Categories: "Категорії",
   "Share this event": "Поділіться цією подією",
   Language: "Мова",

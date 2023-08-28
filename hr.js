@@ -1,4 +1,11 @@
 let hr = {
+  "Choose plan type": "Odaberite vrstu plana",
+  "Api key": "API ključ",
+  "Synchronized Boxes": "Sinkronizirane kutije",
+  "Choose box": "Odaberite okvir",
+  "There are no synchronized boxes": "Nema sinkroniziranih kutija",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Sinkronizacija krojača ulaznica omogućuje vam da integrirate svoje događaje i sesije s kalendarom",
   Categories: "Kategorije",
   "Share this event": "Podijelite ovaj događaj",
   Language: "Jezik",

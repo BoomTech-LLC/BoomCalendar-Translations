@@ -1,4 +1,11 @@
 let sk = {
+  "Choose plan type": "Vyberte typ plánu",
+  "Api key": "API Kľúč",
+  "Synchronized Boxes": "Synchronizované škatule",
+  "Choose box": "Vyberte box",
+  "There are no synchronized boxes": "Neexistujú žiadne synchronizované škatule",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Synchronizácia na mieru vstupeniek vám umožňuje integrovať vaše udalosti a relácie s kalendárom rozmachu",
   Categories: "Kategórie",
   "Share this event": "Zdieľajte túto udalosť",
   Language: "Jazyk",

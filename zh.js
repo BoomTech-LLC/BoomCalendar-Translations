@@ -1,4 +1,11 @@
 let zh = {
+  "Choose plan type": "选择计划类型",
+  "Api key": "API键",
+  "Synchronized Boxes": "同步盒子",
+  "Choose box": "选择框",
+  "There are no synchronized boxes": "没有同步的盒子",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "门票裁缝同步使您可以将活动和会话与繁荣日历整合在一起",
   Categories: "分类目录",
   "Share this event": "分享这个活动",
   Language: "语言",

@@ -1,4 +1,11 @@
 let pl = {
+  "Choose plan type": "Wybierz typ planu",
+  "Api key": "Klucz API",
+  "Synchronized Boxes": "Zsynchronizowane pudełka",
+  "Choose box": "Wybierz pudełko",
+  "There are no synchronized boxes": "Nie ma zsynchronizowanych pudełek",
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar":
+    "Synchronizacja biletów umożliwia integrację wydarzeń i sesji z kalendarzem Boom",
   Categories: "Kategorie",
   "Share this event": "Udostępnij to wydarzenie",
   Language: "Język",
