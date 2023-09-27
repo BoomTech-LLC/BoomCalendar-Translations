@@ -258,7 +258,7 @@ let de = {
   "Personal info": "Persönliche Informationen",
   "First name": "Vorname",
   "Last name": "Familienname, Nachname",
-  "Email Address": "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
+  "Email Address": "E-Mail-Adresse",
   "Additional Notes": "Zusätzliche Bemerkungen",
   Back: "Zurück",
   Save: "Speichern",
@@ -282,12 +282,12 @@ let de = {
     "Bitte überprüfen Sie Ihre registrierte E-Mail-Adresse",
   "Add to Calendar": "Zum Kalender hinzufügen",
   "Share this Event": "Teile dieses Ereignis",
-  "Sorry something went wrong": "Συγνώμη, κάτι πήγε στραβά",
+  "Sorry something went wrong": "Sorry something went wrong",
   "Back to registration": "Zurück zur Registrierung",
   "Date & Location": "Datum & Ort",
   "Date & Time": "Terminzeit",
   home: "Zuhause",
-  "Header align": "Ευθυγράμμιση κεφαλίδας",
+  "Header align": "Kopfzeile ausrichten",
   Footer: "Fusszeile",
   "Categories Filter": "κατηγορίες Φίλτρο",
   "Show only upcoming": "Show nur in Kürze",
@@ -299,26 +299,26 @@ let de = {
   "Style 3": "Stil 3",
   "Style 4": "Στυλ 4",
   "Buttons & Links": "Buttons & Links.",
-  "Button corner radius": "Ακτίνα γωνίας κουμπιού",
-  "Buttons font": "Γραμματοσειρά κουμπιών",
+  "Button corner radius": "Eckenradius der Schaltfläche",
+  "Buttons font": "Schaltflächen-Schriftart",
   "Buttons background": "Schaltflächen Hintergrund",
   "Get notified by Email": "Lassen Sie sich per E-Mail benachrichtigen",
   "Review events": "Überprüfen Sie Ereignisse",
   "Click on date": "Κάντε κλικ στην ημερομηνία",
-  "Add Event button": "Προσθήκη κουμπιού συμβάντος",
+  "Add Event button": "Schaltfläche „Ereignis hinzufügen“.",
   "Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
     "Mit der Kalendersynchronisierung können Sie Ihre Ereignisse und Sitzungen in Ihren Boom-Kalender integrieren.",
   connect: "verbinden",
-  "Synchronized Calendars": "Συγχρονισμένα ημερολόγια",
+  "Synchronized Calendars": "Synchronisierte Kalender",
   "Import events": "Ereignisse importieren",
-  Disconnect: "Αποσυνδέω",
+  Disconnect: "Trennen",
   "Choose calendar": "Kalender auswählen",
   "Monitor your Wix events through the sync feature":
     "Überwachen Sie Ihre Wix-Ereignisse über die Synchronisierungsfunktion",
   "Connect all your Boom calendars available on your website":
     "Verbinden Sie alle Ihre Auslegerkalender auf Ihrer Website",
   "Schedule, join, and manage Zoom meetings right through our Boom Calendar.":
-    "Προγραμματίστε, λάβετε μέρος και διαχειριστείτε τις συσκέψεις Zoom μέσω του Ημερολογίου Boom.",
+    "Planen Sie Zoom-Meetings, nehmen Sie daran teil und verwalten Sie sie direkt über unseren Boom-Kalender.",
   "Monitor your Event Brite events through the Event Brite sync feature.":
     "Überwachen Sie Ihre Event Brite-Ereignisse mithilfe der Event Brite-Synchronisierungsfunktion",
   Email: "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
@@ -483,7 +483,7 @@ let de = {
   "Google Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
     "Mit der Google Kalender-Synchronisierung können Sie Ihre Ereignisse und Sitzungen in Ihren Boom-Kalender integrieren.",
   "Outlook Calendar sync allows you to integrate your events and sessions with your Boom Calendar.":
-    "Το Outlook Calendar Sync σας επιτρέπει να ενσωματώσετε τα συμβάντα και τις συνεδρίες σας με το ημερολόγιο έκρηξης.",
+    "Mit der Outlook-Kalendersynchronisierung können Sie Ihre Ereignisse und Sitzungen in Ihren Boom-Kalender integrieren.",
   "Your message has been sent successfully!":
     "Ihre Nachricht wurde erfolgreich gesendet!",
   "There are no synchronized calendars":
