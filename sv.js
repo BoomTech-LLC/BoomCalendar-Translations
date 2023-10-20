@@ -284,8 +284,8 @@ let sv = {
   "Registration completed successfully!": "Registreringen är klar!",
   "Please check your registered email address":
     "Kontrollera din registrerade e-postadress",
-  "Add to Calendar": "Lägg till i kalendern",
-  "Share this Event": "Dela detta event",
+  "Add to Calendar": "Lägg till i din kalender",
+  "Share this Event": "Dela denna händelse",
   "Sorry something went wrong": "Förlåt, något gick fel",
   "Back to registration": "Tillbaka till registrering",
   "Date & Location": "Dato og beliggenhet",
