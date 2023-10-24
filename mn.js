@@ -1,4 +1,5 @@
 let mn = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Нэгэнт нэг удаа идэвхжүүлсэн, хуанлигийн виджетийг вэбсайтын хэл дээр үндэслэн хийнэ. Календарийн гарчиг, тайлбарыг текст болгон оруулаад, орчуулагдах боломжгүй байна.",
   "Choose plan type": "Төлөвлөгөө сонгох",
   "Api key": "API түлхүүр",
   "Synchronized Boxes": "Синхрончлогдсон хайрцаг",

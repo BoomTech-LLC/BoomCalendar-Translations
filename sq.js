@@ -1,4 +1,5 @@
 let sq = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Pasi të aktivizohet, widget juaj i kalendarit do të përkthehet bazuar në gjuhën e faqes në internet. Ju lutemi vini re se për sa kohë që titujt dhe përshkrimet e kalendarit futen si tekst, ato nuk mund të përkthehen.",
   "Choose plan type": "Zgjidhni llojin e planit",
   "Api key": "Keyelësi API",
   "Synchronized Boxes": "Kuti të sinkronizuara",

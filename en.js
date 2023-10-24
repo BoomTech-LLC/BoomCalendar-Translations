@@ -1,4 +1,5 @@
 let en = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.",
   "Choose plan type": "Choose plan type",
   "Api key": "Api key",
   "Synchronized Boxes": "Synchronized Boxes",

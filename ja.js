@@ -1,4 +1,5 @@
 let ja = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "有効になると、カレンダーウィジェットはWebサイトの言語に基づいて翻訳されます。カレンダーのタイトルと説明がテキストとして入力されている限り、翻訳できないことに注意してください。",
   "Choose plan type": "プランタイプを選択します",
   "Api key": "APIキー",
   "Synchronized Boxes": "同期したボックス",

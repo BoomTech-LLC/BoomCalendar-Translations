@@ -1,4 +1,5 @@
 let da = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Når den er aktiveret, oversættes din kalenderwidget baseret på webstedets sprog. Bemærk, at så længe kalendertitler og beskrivelser indtastes som tekst, kan de ikke oversættes.",
   "Choose plan type": "Vælg Planype",
   "Api key": "API -nøgle",
   "Synchronized Boxes": "Synkroniserede kasser",

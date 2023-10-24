@@ -1,4 +1,5 @@
 let hr = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Nakon što je omogućen, vaš kalendarski widget bit će preveden na temelju jezika web stranice. Imajte na umu da sve dok se kalendarski naslovi i opisi unesu kao tekst, ne mogu se prevesti.",
   "Choose plan type": "Odaberite vrstu plana",
   "Api key": "API ključ",
   "Synchronized Boxes": "Sinkronizirane kutije",

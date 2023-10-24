@@ -1,4 +1,5 @@
 let tr = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Etkinleştirildikten sonra, takvim widget'ınız web sitesinin diline göre çevrilecektir. Takvim başlıkları ve açıklamaları metin olarak girildiği sürece tercüme edilemeyeceğini lütfen unutmayın.",
   "Choose plan type": "Plan Türünü Seçin",
   "Api key": "API Anahtarı",
   "Synchronized Boxes": "Senkronize kutular",
