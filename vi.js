@@ -1,4 +1,5 @@
 let vi = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Sau khi được bật, tiện ích lịch của bạn sẽ được dịch dựa trên ngôn ngữ của trang web. Xin lưu ý rằng miễn là các tiêu đề và mô tả lịch được nhập dưới dạng văn bản, chúng không thể được dịch.",
   "Choose plan type": "Chọn loại kế hoạch",
   "Api key": "Mã API",
   "Synchronized Boxes": "Hộp đồng bộ",

@@ -1,4 +1,5 @@
 let hy = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Միացնելուց հետո ձեր օրացույցի widget- ը թարգմանվելու է կայքի լեզվի հիման վրա: Խնդրում ենք նկատի ունենալ, որ քանի դեռ օրացույցի վերնագրերը եւ նկարագրությունները մուտքագրվում են որպես տեքստ, դրանք չեն կարող թարգմանվել:",
   "Choose plan type": "Ընտրեք ծրագրի տեսակը",
   "Api key": "API ստեղն",
   "Synchronized Boxes": "Սինխրոնացված տուփեր",

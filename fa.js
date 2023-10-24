@@ -1,4 +1,5 @@
 let fa = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "پس از فعال شدن ، ویجت تقویم شما بر اساس زبان وب سایت ترجمه می شود. لطفاً توجه داشته باشید که تا زمانی که عناوین تقویم و توضیحات به عنوان متن وارد شوند ، آنها را نمی توان ترجمه کرد.",
   "Choose plan type": "نوع برنامه را انتخاب کنید",
   "Api key": "کلید ای پی ای",
   "Synchronized Boxes": "جعبه های هماهنگ",

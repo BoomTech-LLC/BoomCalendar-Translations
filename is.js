@@ -1,4 +1,5 @@
 let is = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Þegar búið er að virkja verður dagatalbúnaðinn þinn þýddur út frá tungumáli vefsíðunnar. Vinsamlegast hafðu í huga að svo framarlega sem dagatalstitlar og lýsingar eru færðar sem texti er ekki hægt að þýða þær.",
   "Choose plan type": "Veldu gerð áætlunar",
   "Api key": "API lykill",
   "Synchronized Boxes": "Samstilltir kassar",

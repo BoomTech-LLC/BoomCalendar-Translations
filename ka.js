@@ -1,4 +1,5 @@
 let ka = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "ჩართვის შემდეგ, თქვენი კალენდარული ვიჯეტი ითარგმნება ვებსაიტის ენაზე დაყრდნობით. გთხოვთ გაითვალისწინოთ, რომ სანამ კალენდარული სათაურები და აღწერილობები შეიტანება როგორც ტექსტი, მათი თარგმნა შეუძლებელია.",
   "Choose plan type": "აირჩიეთ გეგმის ტიპი",
   "Api key": "API გასაღები",
   "Synchronized Boxes": "სინქრონიზებული ყუთები",

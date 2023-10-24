@@ -1,4 +1,5 @@
 let sv = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "När du är aktiverad kommer din kalenderwidget att översättas baserat på webbplatsens språk. Observera att så länge kalendertitlar och beskrivningar matas in som text kan de inte översättas.",
   "Choose plan type": "Välj Plan Type",
   "Api key": "API -nyckel",
   "Synchronized Boxes": "Synkroniserade lådor",

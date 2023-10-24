@@ -1,4 +1,5 @@
 let uk = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Після ввімкнення віджет календаря буде перекладено на основі мови веб -сайту. Зверніть увагу, що поки назви та описи календаря вводяться як текст, вони не можуть бути перекладені.",
   "Choose plan type": "Виберіть тип плану",
   "Api key": "Ключ API",
   "Synchronized Boxes": "Синхронізовані коробки",

@@ -1,4 +1,5 @@
 let id = {
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Setelah diaktifkan, widget kalender Anda akan diterjemahkan berdasarkan bahasa situs web. Harap dicatat bahwa selama judul dan deskripsi kalender dimasukkan sebagai teks, mereka tidak dapat diterjemahkan.",
   "Choose plan type": "Pilih Jenis Rencana",
   "Api key": "Kunci API",
   "Synchronized Boxes": "Kotak yang disinkronkan",
