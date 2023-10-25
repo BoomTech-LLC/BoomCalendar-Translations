@@ -409,7 +409,7 @@ let sv = {
   "Go to Orders": "Gå till order",
   "Go to Details": "Gå till detaljer",
   "Group ticket": "Gruppbiljett",
-  Name: "namn",
+  Name: "Namn",
   Price: "Pris",
   "Order by": "Sortera efter",
   "Order ID": "Beställnings -ID",
