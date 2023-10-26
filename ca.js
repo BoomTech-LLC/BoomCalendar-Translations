@@ -1,4 +1,5 @@
 let ca = {
+  "Load Events": "Els esdeveniments de càrrega",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Un cop activat, el vostre widget de calendari es traduirà en funció de l’idioma del lloc web. Tingueu en compte que, sempre que els títols i les descripcions del calendari s’introdueixin com a text, no es poden traduir.",
   "Choose plan type": "Trieu el tipus de pla",
   "Api key": "Clau de l'API",

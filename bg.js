@@ -1,4 +1,5 @@
 let bg = {
+  "Load Events": "Заредени събития",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "След като бъде активиран, вашата джаджа за календар ще бъде преведена въз основа на езика на уебсайта. Моля, обърнете внимание, че докато заглавията и описанията на календара се въвеждат като текст, те не могат да бъдат преведени.",
   "Choose plan type": "Изберете тип план",
   "Api key": "API ключ",

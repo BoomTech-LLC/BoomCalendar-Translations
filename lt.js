@@ -1,4 +1,5 @@
 let lt = {
+  "Load Events": "Įkelti įvykius",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Įjungus jūsų kalendoriaus valdiklis bus išverstas pagal svetainės kalbą. Atminkite, kad kol kalendoriaus pavadinimai ir aprašymai įvedami kaip tekstas, jų negalima išversti.",
   "Choose plan type": "Pasirinkite plano tipą",
   "Api key": "API raktas",

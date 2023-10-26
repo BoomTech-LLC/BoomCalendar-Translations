@@ -1,4 +1,5 @@
 let hu = {
+  "Load Events": "Betöltési események",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Miután engedélyezve van, a naptári widget a weboldal nyelvének alapján lefordítja. Felhívjuk figyelmét, hogy mindaddig, amíg a naptár címeit és leírásait szövegként adják meg, azokat nem lehet lefordítani.",
   "Choose plan type": "Válassza a Terv típusát",
   "Api key": "API kulcs",

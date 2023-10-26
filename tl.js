@@ -1,4 +1,5 @@
 let tl = {
+  "Load Events": "Mag -load ng mga kaganapan",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Kapag pinagana, ang iyong widget ng kalendaryo ay isasalin batay sa wika ng website. Mangyaring tandaan na hangga't ang mga pamagat ng kalendaryo at paglalarawan ay ipinasok bilang teksto, hindi sila maaaring isalin.",
   "Choose plan type": "Piliin ang uri ng plano",
   "Api key": "Susi ng API",

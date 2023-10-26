@@ -1,4 +1,5 @@
 let th = {
+  "Load Events": "โหลดกิจกรรม",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "เมื่อเปิดใช้งานวิดเจ็ตปฏิทินของคุณจะถูกแปลตามภาษาของเว็บไซต์ โปรดทราบว่าตราบใดที่ชื่อปฏิทินและคำอธิบายถูกป้อนเป็นข้อความพวกเขาไม่สามารถแปลได้",
   "Choose plan type": "เลือกประเภทแผน",
   "Api key": "คีย์ API",

@@ -1,4 +1,5 @@
 let lv = {
+  "Load Events": "Slodzes notikumi",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Pēc iespējošanas jūsu kalendāra logrīks tiks tulkots, pamatojoties uz vietnes valodu. Lūdzu, ņemiet vērā, ka, kamēr kalendāra nosaukumi un apraksti ir ievadīti kā teksts, tos nevar tulkot.",
   "Choose plan type": "Izvēlieties plāna veidu",
   "Api key": "API atslēga",

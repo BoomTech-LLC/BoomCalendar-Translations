@@ -1,4 +1,5 @@
 let pt = {
+  "Load Events": "Carregar eventos",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Uma vez ativado, seu widget de calendário será traduzido com base no idioma do site. Observe que, desde que os títulos e descrições do calendário sejam inseridos como texto, eles não poderão ser traduzidos.",
   "Choose plan type": "Escolha o tipo de plano",
   "Api key": "Chave API",

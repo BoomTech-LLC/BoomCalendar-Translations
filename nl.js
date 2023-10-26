@@ -1,4 +1,5 @@
 let nl = {
+  "Load Events": "Laad evenementen",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Eenmaal ingeschakeld, wordt uw agenda -widget vertaald op basis van de taal van de website. Houd er rekening mee dat zolang ertitels en beschrijvingen als tekst worden ingevoerd, ze niet kunnen worden vertaald.",
   "Choose plan type": "Kies het plantype",
   "Api key": "API sleutel",
