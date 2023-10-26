@@ -1,4 +1,5 @@
 let mk = {
+  "Load Events": "Оптоварување настани",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Откако ќе се овозможи, вашиот додаток за календар ќе биде преведен врз основа на јазикот на веб -страницата. Забележете дека сè додека насловите и описите на календарот се внесуваат како текст, тие не можат да бидат преведени.",
   "Choose plan type": "Изберете Тип на план",
   "Api key": "API клуч",

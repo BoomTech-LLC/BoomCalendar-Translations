@@ -1,4 +1,5 @@
 let sr = {
+  "Load Events": "Учитавање догађаја",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Једном је омогућено, ваш календар ће бити преведен на основу језика веб странице. Имајте на уму да се све док се уносе наслови и описи календара као текст, не могу се превести.",
   "Choose plan type": "Одаберите врсту плана",
   "Api key": "АПИ кључ",

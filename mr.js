@@ -1,4 +1,5 @@
 let mr = {
+  "Load Events": "कार्यक्रम लोड करा",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "एकदा सक्षम झाल्यानंतर, आपले कॅलेंडर विजेट वेबसाइटच्या भाषेच्या आधारे भाषांतरित केले जाईल. कृपया लक्षात घ्या की जोपर्यंत कॅलेंडर शीर्षके आणि वर्णन मजकूर म्हणून प्रविष्ट केले जात नाही तोपर्यंत त्यांचे भाषांतर केले जाऊ शकत नाही.",
   "Choose plan type": "योजना प्रकार निवडा",
   "Api key": "एपीआय की",

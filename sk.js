@@ -1,4 +1,5 @@
 let sk = {
+  "Load Events": "Načítať",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Po povolení bude váš miniaplikácia kalendára preložená na základe jazyka webovej stránky. Upozorňujeme, že pokiaľ sú kalendárne tituly a popisy zadané ako text, nemožno ich preložiť.",
   "Choose plan type": "Vyberte typ plánu",
   "Api key": "API Kľúč",

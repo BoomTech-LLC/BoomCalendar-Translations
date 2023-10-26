@@ -1,4 +1,5 @@
 let ms = {
+  "Load Events": "Acara beban",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Sebaik sahaja diaktifkan, widget kalendar anda akan diterjemahkan berdasarkan bahasa laman web. Sila ambil perhatian bahawa selagi tajuk dan keterangan kalendar dimasukkan sebagai teks, mereka tidak boleh diterjemahkan.",
   "Choose plan type": "Pilih jenis pelan",
   "Api key": "Kunci API",

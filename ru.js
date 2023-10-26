@@ -1,4 +1,5 @@
 let ru = {
+  "Load Events": "Загрузить события",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "После включения ваш виджет календаря будет переведен на основе языка веб -сайта. Обратите внимание, что до тех пор, пока заголовки и описания календаря вводятся в виде текста, они не могут быть переведены.",
   "Choose plan type": "Выберите тип плана",
   "Api key": "API -ключ",

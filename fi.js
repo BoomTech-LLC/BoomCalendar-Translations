@@ -1,4 +1,5 @@
 let fi = {
+  "Load Events": "Lastatapahtumat",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Kun kalenteri -widget on käytössä, se käännetään verkkosivuston kielen perusteella. Huomaa, että niin kauan kuin kalenterinimikkeet ja kuvaukset syötetään tekstinä, niitä ei voida kääntää.",
   "Choose plan type": "Valitse suunnitelmatyyppi",
   "Api key": "API -avain",

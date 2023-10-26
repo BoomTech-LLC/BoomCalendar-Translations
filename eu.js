@@ -1,4 +1,5 @@
 let eu = {
+  "Load Events": "Karga gertaerak",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Behin gaituta, zure egutegiaren widget webgunearen hizkuntzan oinarrituta itzuliko da. Kontuan izan egutegiko izenburuak eta deskribapenak testu gisa sartzen diren bitartean, ezin direla itzuli.",
   "Choose plan type": "Aukeratu plan mota",
   "Api key": "API gakoa",
