@@ -291,7 +291,7 @@ let sv = {
   "Share this Event": "Dela denna händelse",
   "Sorry something went wrong": "Förlåt, något gick fel",
   "Back to registration": "Tillbaka till registrering",
-  "Date & Location": "Datum og beliggenhet",
+  "Date & Location": "Datum och plats",
   "Date & Time": "Datum tid",
   home: "Hem",
   "Header align": "Header justera",
