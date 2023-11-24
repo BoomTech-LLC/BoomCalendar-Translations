@@ -1,6 +1,7 @@
 let de = {
   "Load Events": "Ereignisse laden",
-  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Nach der Aktivierung wird Ihr Kalender -Widget basierend auf der Sprache der Website übersetzt. Bitte beachten Sie, dass, solange Kalendertitel und -beschreibungen als Text eingegeben werden, nicht übersetzt werden können.",
+  "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.":
+    "Nach der Aktivierung wird Ihr Kalender -Widget basierend auf der Sprache der Website übersetzt. Bitte beachten Sie, dass, solange Kalendertitel und -beschreibungen als Text eingegeben werden, nicht übersetzt werden können.",
   "Choose plan type": "Wählen Sie den Plantyp",
   "Api key": "API-Schlüssel",
   "Synchronized Boxes": "Synchronisierte Kisten",
@@ -291,7 +292,7 @@ let de = {
   home: "Zuhause",
   "Header align": "Kopfzeile ausrichten",
   Footer: "Fusszeile",
-  "Categories Filter": "κατηγορίες Φίλτρο",
+  "Categories Filter": "Kategorie Filter",
   "Show only upcoming": "Show nur in Kürze",
   "Card(s) in a row": "Karte (n) hintereinander",
   "Space between cards": "Abstand zwischen den Karten",
