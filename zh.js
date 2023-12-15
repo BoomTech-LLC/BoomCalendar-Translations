@@ -1,4 +1,5 @@
 let zh = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "展示顶部或日历底部的类别过滤器。这些设置仅适用于议程，交叉，时间轴和卡片视图",
   "Load Events": "加载事件",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "启用后，您的日历小部件将根据网站的语言进行翻译。请注意，只要将日历标题和描述作为文本输入，就无法翻译它们。",
   "Choose plan type": "选择计划类型",

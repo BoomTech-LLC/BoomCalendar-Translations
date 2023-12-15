@@ -1,4 +1,5 @@
 let ro = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Prezentați filtrul de categorie în partea de sus sau în partea de jos a calendarului. Setările se aplică numai pentru vizualizări ale agendei, încrucișării, cronologiei și cardului",
   "Load Events": "Evenimente de încărcare",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Odată activat, widgetul dvs. Calendar va fi tradus pe baza limbii site -ului. Vă rugăm să rețineți că, atâta timp cât titlurile și descrierile calendarului sunt introduse ca text, acestea nu pot fi traduse.",
   "Choose plan type": "Alegeți tipul de plan",

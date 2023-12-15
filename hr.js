@@ -1,4 +1,5 @@
 let hr = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Izložite filter kategorije na vrhu ili na dnu kalendara. Postavke se odnose samo na dnevni red, križ, vremensku traku i prikaze kartica",
   "Load Events": "Učitavanje događaja",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Nakon što je omogućen, vaš kalendarski widget bit će preveden na temelju jezika web stranice. Imajte na umu da sve dok se kalendarski naslovi i opisi unesu kao tekst, ne mogu se prevesti.",
   "Choose plan type": "Odaberite vrstu plana",

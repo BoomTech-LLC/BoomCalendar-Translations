@@ -1,4 +1,5 @@
 let he = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "הצג את מסנן הקטגוריה בחלקו העליון או בתחתית לוח השנה. ההגדרות חלות על סדר יום, צלב, ציר זמן ותצוגות בכרטיס בלבד",
   "Load Events": "טען אירועים",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "לאחר הפעלתו, יישומון לוח השנה שלך יתורגם על פי שפת האתר. שימו לב כי כל עוד כותרות ותיאורים לוח שנה מוזנים כטקסט, לא ניתן לתרגם אותם.",
   "Choose plan type": "בחר סוג תוכנית",

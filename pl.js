@@ -1,4 +1,5 @@
 let pl = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Zaprezentuj filtr kategorii u góry lub na dole kalendarza. Ustawienia dotyczy tylko wyświetleń programu, krzyża, harmonogramu i kart",
   "Load Events": "Załaduj zdarzenia",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Po włączeniu widżet kalendarza zostanie przetłumaczony na podstawie języka witryny. Należy pamiętać, że dopóki tytuły i opisy kalendarzowe są wprowadzane jako tekst, nie można ich przetłumaczyć.",
   "Choose plan type": "Wybierz typ planu",

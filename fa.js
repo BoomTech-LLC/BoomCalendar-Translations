@@ -1,4 +1,5 @@
 let fa = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "فیلتر دسته بندی را در بالا یا در پایین تقویم به نمایش بگذارید. تنظیمات فقط در مورد برنامه های دستور کار ، متقاطع ، جدول زمانی و کارت اعمال می شود",
   "Load Events": "وقایع بارگذاری",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "پس از فعال شدن ، ویجت تقویم شما بر اساس زبان وب سایت ترجمه می شود. لطفاً توجه داشته باشید که تا زمانی که عناوین تقویم و توضیحات به عنوان متن وارد شوند ، آنها را نمی توان ترجمه کرد.",
   "Choose plan type": "نوع برنامه را انتخاب کنید",

@@ -1,4 +1,5 @@
 let cy = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Arddangos yr hidlydd categori ar y brig neu ar waelod y calendr. Mae'r gosodiadau yn berthnasol i agenda, croes, llinell amser a golygfeydd cardiau yn unig",
   "Load Events": "Llwythwch Ddigwyddiadau",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Ar ôl ei alluogi, bydd eich teclyn calendr yn cael ei gyfieithu yn seiliedig ar iaith y wefan. Sylwch, cyhyd â bod teitlau a disgrifiadau calendr yn cael eu nodi fel testun, ni ellir eu cyfieithu.",
   "Choose plan type": "Dewiswch Math o Gynllun",

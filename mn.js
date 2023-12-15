@@ -1,4 +1,5 @@
 let mn = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Ангилалын шүүлтүүрийг дээд эсвэл хуанлийн ёроолд харуул. Тохиргоо нь зөвхөн хэлэлцэх асуудал, хөндлөн, цаг хугацаа, цагийн хуваарь, картын үзэл бодол",
   "Load Events": "Ауу төрлийн арга тэжээл",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Нэгэнт нэг удаа идэвхжүүлсэн, хуанлигийн виджетийг вэбсайтын хэл дээр үндэслэн хийнэ. Календарийн гарчиг, тайлбарыг текст болгон оруулаад, орчуулагдах боломжгүй байна.",
   "Choose plan type": "Төлөвлөгөө сонгох",

@@ -1,4 +1,5 @@
 let et = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Esitage kategooriafilter kalendri ülaosas või allosas. Seaded kehtib ainult päevakorra-, risti-, ajaskaala ja kaardivaate kohta",
   "Load Events": "Laadimisüritused",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Kui see on lubatud, tõlgitakse teie kalendris vidin veebisaidi keele põhjal. Pange tähele, et kui kalendri pealkirjad ja kirjeldused tekstina sisestatakse, ei saa neid tõlkida.",
   "Choose plan type": "Valige plaani tüüp",
