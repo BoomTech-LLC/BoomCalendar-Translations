@@ -1,4 +1,5 @@
 let th = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "แสดงตัวกรองหมวดหมู่ที่ด้านบนหรือที่ด้านล่างของปฏิทิน การตั้งค่าใช้กับวาระการประชุมข้ามไทม์ไลน์และการ์ดเท่านั้น",
   "Load Events": "โหลดกิจกรรม",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "เมื่อเปิดใช้งานวิดเจ็ตปฏิทินของคุณจะถูกแปลตามภาษาของเว็บไซต์ โปรดทราบว่าตราบใดที่ชื่อปฏิทินและคำอธิบายถูกป้อนเป็นข้อความพวกเขาไม่สามารถแปลได้",
   "Choose plan type": "เลือกประเภทแผน",

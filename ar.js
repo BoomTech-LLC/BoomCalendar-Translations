@@ -1,4 +1,5 @@
 let ar = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "عرض مرشح الفئة في الجزء العلوي أو في أسفل التقويم. تنطبق الإعدادات على جدول أعمال جدول الأعمال والتقاطع والجدول الزمني والبطاقة فقط",
   "Load Events": "تحميل الأحداث",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "بمجرد تمكينها ، سيتم ترجمة عنصر واجهة المستخدم التقويم الخاصة بك بناءً على لغة الموقع. يرجى ملاحظة أنه طالما تم إدخال عناوين التقويم والأوصاف كنص ، لا يمكن ترجمتها.",
   "Choose plan type": "اختر نوع الخطة",

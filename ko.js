@@ -1,4 +1,5 @@
 let ko = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "캘린더의 상단 또는 하단에 카테고리 필터를 보여줍니다. 설정은 의제, 크로스, 타임 라인 및 카드보기에만 적용됩니다.",
   "Load Events": "로드 이벤트",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "일단 활성화되면 캘린더 위젯은 웹 사이트의 언어에 따라 번역됩니다. 달력 제목과 설명이 텍스트로 입력되는 한 번역 할 수 없습니다.",
   "Choose plan type": "계획 유형을 선택하십시오",

@@ -1,4 +1,5 @@
 let be = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Прадэманструйце фільтр катэгорыі ўверсе альбо ўнізе календара. Налады распаўсюджваюцца толькі на парадак дня, крыжа, тэрміны і прагляды карт",
   "Load Events": "Загрузіце падзеі",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Пасля ўключэння ваш каляндарны віджэт будзе перакладзены на аснове мовы сайта. Звярніце ўвагу, што пакуль назва і апісанні календара ўводзяцца ў якасці тэксту, яны не могуць быць пераведзены.",
   "Choose plan type": "Выберыце тып плана",

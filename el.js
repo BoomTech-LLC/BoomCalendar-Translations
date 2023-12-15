@@ -1,4 +1,5 @@
 let el = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Παρουσιάστε το φίλτρο κατηγορίας στην κορυφή ή στο κάτω μέρος του ημερολογίου. Οι ρυθμίσεις ισχύουν μόνο για την ημερήσια διάταξη, το σταυρό, το χρονοδιάγραμμα και τις προβολές της κάρτας",
   "Load Events": "Συμβάντα φόρτωσης",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Μόλις ενεργοποιηθεί, το widget του ημερολογίου σας θα μεταφραστεί με βάση τη γλώσσα του ιστότοπου. Λάβετε υπόψη ότι εφ 'όσον οι τίτλοι και οι περιγραφές του ημερολογίου εισάγονται ως κείμενο, δεν μπορούν να μεταφραστούν.",
   "Choose plan type": "Επιλέξτε τον τύπο σχεδίου",

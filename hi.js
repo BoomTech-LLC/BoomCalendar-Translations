@@ -1,4 +1,5 @@
 let hi = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "शीर्ष पर या कैलेंडर के निचले भाग में श्रेणी फ़िल्टर दिखाएं। सेटिंग्स केवल एजेंडा, क्रॉस, टाइमलाइन और कार्ड के विचारों पर लागू होती हैं",
   "Load Events": "लोड इवेंट्स",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "एक बार सक्षम होने के बाद, आपके कैलेंडर विजेट का अनुवाद वेबसाइट की भाषा के आधार पर किया जाएगा। कृपया ध्यान दें कि जब तक कैलेंडर शीर्षक और विवरण पाठ के रूप में दर्ज किए जाते हैं, तब तक उनका अनुवाद नहीं किया जा सकता है।",
   "Choose plan type": "योजना प्रकार चुनें",

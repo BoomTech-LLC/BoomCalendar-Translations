@@ -1,4 +1,5 @@
 let vi = {
+  "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Hiển thị bộ lọc danh mục ở trên cùng hoặc ở dưới cùng của lịch. Các cài đặt chỉ áp dụng cho chương trình nghị sự, chéo, thời gian và lượt xem thẻ",
   "Load Events": "Tải các sự kiện",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Sau khi được bật, tiện ích lịch của bạn sẽ được dịch dựa trên ngôn ngữ của trang web. Xin lưu ý rằng miễn là các tiêu đề và mô tả lịch được nhập dưới dạng văn bản, chúng không thể được dịch.",
   "Choose plan type": "Chọn loại kế hoạch",
