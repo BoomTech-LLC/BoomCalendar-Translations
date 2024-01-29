@@ -1,4 +1,7 @@
 let hy = {
+  "Manual": "Ձեռնարկ",
+  "Sync method": "Համաժամացման եղանակ",
+  "Enable synchronization": "Միացնել համաժամացումը",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Show ուցադրել կատեգորիայի զտիչը օրացույցի վերեւում կամ ներքեւում: Կարգավորումները վերաբերում են միայն օրակարգին, խաչին, ժամանակացույցին եւ քարտի դիտումներին",
   "Load Events": "Բեռնել իրադարձություններ",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.":

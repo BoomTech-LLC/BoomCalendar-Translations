@@ -1,4 +1,7 @@
 let lv = {
+  "Manual": "Rokasgrāmata",
+  "Sync method": "Sinhronizācijas metode",
+  "Enable synchronization": "Iespējot sinhronizāciju",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Parādiet kategorijas filtru kalendāra augšpusē vai apakšā. Iestatījumi attiecas tikai uz darba kārtību, krustojumu, laika skalu un karšu skatiem",
   "Load Events": "Slodzes notikumi",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Pēc iespējošanas jūsu kalendāra logrīks tiks tulkots, pamatojoties uz vietnes valodu. Lūdzu, ņemiet vērā, ka, kamēr kalendāra nosaukumi un apraksti ir ievadīti kā teksts, tos nevar tulkot.",

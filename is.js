@@ -1,4 +1,7 @@
 let is = {
+  "Manual": "Handbók",
+  "Sync method": "Samstillingaraðferð",
+  "Enable synchronization": "Virkja samstillingu",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Sýndu flokkasíuna efst eða neðst á dagatalinu. Stillingarnar eiga aðeins við um dagskrá, kross, tímalínu og kortaútsýni",
   "Load Events": "Hlaða atburði",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Þegar búið er að virkja verður dagatalbúnaðinn þinn þýddur út frá tungumáli vefsíðunnar. Vinsamlegast hafðu í huga að svo framarlega sem dagatalstitlar og lýsingar eru færðar sem texti er ekki hægt að þýða þær.",

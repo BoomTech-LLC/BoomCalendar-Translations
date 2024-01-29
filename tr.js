@@ -1,4 +1,7 @@
 let tr = {
+  "Manual": "Manuel",
+  "Sync method": "Senkronizasyon yöntemi",
+  "Enable synchronization": "Senkronizasyonu Etkinleştir",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Takvimin üst kısmındaki veya altındaki kategori filtresini sergileyin. Ayarlar sadece gündem, çapraz, zaman çizelgesi ve kart görüntülemeleri için geçerlidir",
   "Load Events": "Yüksek Olaylar",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Etkinleştirildikten sonra, takvim widget'ınız web sitesinin diline göre çevrilecektir. Takvim başlıkları ve açıklamaları metin olarak girildiği sürece tercüme edilemeyeceğini lütfen unutmayın.",

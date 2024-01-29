@@ -1,4 +1,7 @@
 let ms = {
+  "Manual": "Manual",
+  "Sync method": "Kaedah penyegerakan",
+  "Enable synchronization": "Dayakan penyegerakan",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Mempamerkan penapis kategori di bahagian atas atau di bahagian bawah kalendar. Tetapan ini berlaku untuk pandangan agenda, salib, garis masa dan kad sahaja",
   "Load Events": "Acara beban",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Sebaik sahaja diaktifkan, widget kalendar anda akan diterjemahkan berdasarkan bahasa laman web. Sila ambil perhatian bahawa selagi tajuk dan keterangan kalendar dimasukkan sebagai teks, mereka tidak boleh diterjemahkan.",

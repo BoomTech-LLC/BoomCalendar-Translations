@@ -1,4 +1,7 @@
 let eu = {
+  "Manual": "Eskuzko",
+  "Sync method": "Sinkronizatu metodoa",
+  "Enable synchronization": "Gaitu sinkronizazioa",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Erakutsi kategoria iragazkia goiko aldean edo egutegiaren behealdean. Ezarpenak agenda, gurutze, kronograma eta txartelen ikuspegietan soilik aplikatzen dira",
   "Load Events": "Karga gertaerak",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Behin gaituta, zure egutegiaren widget webgunearen hizkuntzan oinarrituta itzuliko da. Kontuan izan egutegiko izenburuak eta deskribapenak testu gisa sartzen diren bitartean, ezin direla itzuli.",

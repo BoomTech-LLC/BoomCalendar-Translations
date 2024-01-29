@@ -1,4 +1,7 @@
 let da = {
+  "Manual": "brugervejledning",
+  "Sync method": "Synkroniseringsmetode",
+  "Enable synchronization": "Aktivér synkronisering",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Vis kategorifilteret øverst eller i bunden af ​​kalenderen. Indstillingerne gælder kun for dagsorden, kryds, tidslinje og kortvisninger",
   "Load Events": "Indlæser begivenheder",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Når den er aktiveret, oversættes din kalenderwidget baseret på webstedets sprog. Bemærk, at så længe kalendertitler og beskrivelser indtastes som tekst, kan de ikke oversættes.",

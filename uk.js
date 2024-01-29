@@ -1,4 +1,7 @@
 let uk = {
+  "Manual": "Посібник",
+  "Sync method": "Метод синхронізації",
+  "Enable synchronization": "Увімкнути синхронізацію",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Показати фільтр категорії вгорі або внизу календаря. Налаштування застосовуються лише для перегляду порядку денного, перехресного часу, часової шкали та карт",
   "Load Events": "Завантажити події",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Після ввімкнення віджет календаря буде перекладено на основі мови веб -сайту. Зверніть увагу, що поки назви та описи календаря вводяться як текст, вони не можуть бути перекладені.",

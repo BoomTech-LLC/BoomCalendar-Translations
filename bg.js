@@ -1,4 +1,7 @@
 let bg = {
+  "Manual": "Ръководство",
+  "Sync method": "Метод за синхронизиране",
+  "Enable synchronization": "Активиране на синхронизация",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Покажете филтъра за категория в горната или в долната част на календара. Настройките се прилагат само за дневен ред, кръст, времева линия и изглед на карти",
   "Load Events": "Заредени събития",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "След като бъде активиран, вашата джаджа за календар ще бъде преведена въз основа на езика на уебсайта. Моля, обърнете внимание, че докато заглавията и описанията на календара се въвеждат като текст, те не могат да бъдат преведени.",

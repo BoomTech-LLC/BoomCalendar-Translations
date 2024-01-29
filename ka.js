@@ -1,4 +1,7 @@
 let ka = {
+  "Manual": "სახელმძღვანელო",
+  "Sync method": "სინქრონიზაციის მეთოდი",
+  "Enable synchronization": "სინქრონიზაციის ჩართვა",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "აჩვენეთ კატეგორიის ფილტრი ზედა ან კალენდრის ბოლოში. პარამეტრები ეხება მხოლოდ დღის წესრიგს, ჯვარს, ვადებს და ბარათის ხედებს",
   "Load Events": "ჩატვირთეთ ღონისძიებები",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "ჩართვის შემდეგ, თქვენი კალენდარული ვიჯეტი ითარგმნება ვებსაიტის ენაზე დაყრდნობით. გთხოვთ გაითვალისწინოთ, რომ სანამ კალენდარული სათაურები და აღწერილობები შეიტანება როგორც ტექსტი, მათი თარგმნა შეუძლებელია.",
