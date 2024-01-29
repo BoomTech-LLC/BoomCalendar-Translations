@@ -1,4 +1,7 @@
 let de = {
+  "Manual": "Handbuch",
+  "Sync method": "Synchronisierungsmethode",
+  "Enable synchronization": "Synchronisation aktivieren",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Präsentieren Sie den Kategoriefilter oben oder unten im Kalender. Die Einstellungen gelten nur für Agenda-, Kreuz-, Zeitleisten- und Kartenansichten",
   "Load Events": "Ereignisse laden",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.":

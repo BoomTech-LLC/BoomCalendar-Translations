@@ -1,4 +1,7 @@
 let id = {
+  "Manual": "Manual",
+  "Sync method": "Metode sinkronisasi",
+  "Enable synchronization": "Aktifkan sinkronisasi",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Pamerkan filter kategori di bagian atas atau di bagian bawah kalender. Pengaturannya berlaku untuk tampilan agenda, silang, garis waktu dan kartu saja",
   "Load Events": "Memuat acara",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Setelah diaktifkan, widget kalender Anda akan diterjemahkan berdasarkan bahasa situs web. Harap dicatat bahwa selama judul dan deskripsi kalender dimasukkan sebagai teks, mereka tidak dapat diterjemahkan.",

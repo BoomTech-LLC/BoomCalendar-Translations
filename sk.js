@@ -1,4 +1,7 @@
 let sk = {
+  "Manual": "Manuálny",
+  "Sync method": "Synchronizácia",
+  "Enable synchronization": "Povoliť synchronizáciu",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Ukážte filter kategórie v hornej časti alebo v spodnej časti kalendára. Nastavenia sa vzťahujú iba na agendu, kríž, časovú os a zobrazenia karty iba",
   "Load Events": "Načítať",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Po povolení bude váš miniaplikácia kalendára preložená na základe jazyka webovej stránky. Upozorňujeme, že pokiaľ sú kalendárne tituly a popisy zadané ako text, nemožno ich preložiť.",

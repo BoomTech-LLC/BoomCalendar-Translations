@@ -1,4 +1,7 @@
 let tl = {
+  "Manual": "Manu -manong",
+  "Sync method": "Paraan ng pag -sync",
+  "Enable synchronization": "Paganahin ang pag -synchronise",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Ipakita ang filter ng kategorya sa tuktok o sa ilalim ng kalendaryo. Ang mga setting ay nalalapat sa agenda, cross, timeline at mga view ng card lamang",
   "Load Events": "Mag -load ng mga kaganapan",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Kapag pinagana, ang iyong widget ng kalendaryo ay isasalin batay sa wika ng website. Mangyaring tandaan na hangga't ang mga pamagat ng kalendaryo at paglalarawan ay ipinasok bilang teksto, hindi sila maaaring isalin.",

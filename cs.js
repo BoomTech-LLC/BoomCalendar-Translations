@@ -1,4 +1,7 @@
 let cs = {
+  "Manual": "Manuál",
+  "Sync method": "Metoda synchronizace",
+  "Enable synchronization": "Povolit synchronizaci",
   "Showcase the category filter at the top or at the bottom of the calendar. The settings applies to Agenda, Cross, Timeline and Card views only": "Představte filtr kategorie nahoře nebo v dolní části kalendáře. Nastavení se vztahuje pouze na agendu, křížové, časové ose a zobrazení karty",
   "Load Events": "Načítání událostí",
   "Once enabled, your calendar widget will be translated based on the website’s language. Please note that as long as calendar titles and descriptions are entered as text, they cannot be translated.": "Jakmile bude povolen, bude váš kalendář Widget přeložen na základě jazyka webu. Vezměte prosím na vědomí, že pokud jsou tituly a popisy kalendáře zadány jako text, nelze je přeložit.",
