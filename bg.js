@@ -1,4 +1,5 @@
 let bg = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Изберете Auto за автоматично показване на всички организации и организатори в календара или ръчно за ръчен избор.",
   "Manual": "Ръководство",
   "Sync method": "Метод за синхронизиране",
   "Enable synchronization": "Активиране на синхронизация",

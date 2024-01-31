@@ -1,4 +1,5 @@
 let mn = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Гарын авлага, гарын авлагад гарын авлага, гарын авлагад автоматжуулагч, гарын авлагыг автоматаар үзүүлэхэд автоматаар үзүүлэх боломжтой.",
   "Manual": "Гарын авлага",
   "Sync method": "Sync аргууд",
   "Enable synchronization": "Синхрончлолыг идэвхжүүлэх",

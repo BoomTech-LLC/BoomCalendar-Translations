@@ -1,4 +1,5 @@
 let sr = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Изаберите Аутоматски за аутоматски приказ свих организација и организатора у календар или приручник за ручни избор.",
   "Manual": "Упутство",
   "Sync method": "Метода синхронизације",
   "Enable synchronization": "Омогућите синхронизацију",

@@ -1,4 +1,5 @@
 let da = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Vælg Auto til automatisk visning af alle organisationer og arrangører i kalenderen eller manuel til manuel valg.",
   "Manual": "brugervejledning",
   "Sync method": "Synkroniseringsmetode",
   "Enable synchronization": "Aktivér synkronisering",

@@ -1,4 +1,5 @@
 let th = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "เลือกอัตโนมัติสำหรับการแสดงอัตโนมัติขององค์กรและผู้จัดงานทั้งหมดในปฏิทินหรือคู่มือสำหรับการเลือกด้วยตนเอง",
   "Manual": "คู่มือ",
   "Sync method": "วิธีการซิงค์",
   "Enable synchronization": "เปิดใช้งานการซิงโครไนซ์",

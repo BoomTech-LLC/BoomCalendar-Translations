@@ -1,4 +1,5 @@
 let ca = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Trieu Auto per a la visualització automàtica de totes les organitzacions i organitzadors del calendari o manual per a la selecció manual.",
   "Manual": "Manual",
   "Sync method": "Mètode de sincronització",
   "Enable synchronization": "Activa la sincronització",

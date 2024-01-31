@@ -1,4 +1,5 @@
 let ms = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Pilih Auto untuk paparan automatik semua organisasi dan penganjur pada kalendar, atau manual untuk pemilihan manual.",
   "Manual": "Manual",
   "Sync method": "Kaedah penyegerakan",
   "Enable synchronization": "Dayakan penyegerakan",

@@ -1,4 +1,5 @@
 let fa = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "برای نمایش خودکار همه سازمان ها و سازمان دهندگان در تقویم یا کتابچه راهنمای انتخاب دستی ، خودکار را انتخاب کنید.",
   "Manual": "کتابچه راهنمای",
   "Sync method": "روش همگام سازی",
   "Enable synchronization": "همگام سازی را فعال کنید",

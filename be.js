@@ -1,4 +1,5 @@
 let be = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Выберыце аўтаматычнае адлюстраванне ўсіх арганізацый і арганізатараў у календары альбо ўручную для ўручную.",
   "Manual": "Дапаможнік",
   "Sync method": "Метад сінхранізацыі",
   "Enable synchronization": "Уключыць сінхранізацыю",

@@ -1,4 +1,5 @@
 let sv = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Välj Auto för automatisk visning av alla organisationer och arrangörer i kalendern eller manualen för manuell val.",
   "Manual": "Manuell",
   "Sync method": "Synkroniseringsmetod",
   "Enable synchronization": "Aktivera synkronisering",

@@ -1,4 +1,5 @@
 let mr = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "कॅलेंडरवर सर्व संस्था आणि संयोजकांच्या स्वयंचलित प्रदर्शनासाठी ऑटो निवडा किंवा मॅन्युअल निवडीसाठी मॅन्युअल.",
   "Manual": "मॅन्युअल",
   "Sync method": "समक्रमित पद्धत",
   "Enable synchronization": "सिंक्रोनाइझेशन सक्षम करा",

@@ -1,4 +1,5 @@
 let ja = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "カレンダー上のすべての組織と主催者の自動表示のために自動を選択するか、マニュアルを選択するためのマニュアルを選択します。",
   "Manual": "マニュアル",
   "Sync method": "同期メソッド",
   "Enable synchronization": "同期を有効にします",

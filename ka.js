@@ -1,4 +1,5 @@
 let ka = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "შეარჩიეთ ავტო კალენდარში ყველა ორგანიზაციისა და ორგანიზატორის ავტომატური ჩვენებისთვის, ან სახელმძღვანელო შერჩევისთვის.",
   "Manual": "სახელმძღვანელო",
   "Sync method": "სინქრონიზაციის მეთოდი",
   "Enable synchronization": "სინქრონიზაციის ჩართვა",

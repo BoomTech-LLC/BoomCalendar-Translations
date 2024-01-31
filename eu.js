@@ -1,4 +1,5 @@
 let eu = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Aukeratu autoa egutegiko erakunde eta antolatzaile guztien erakusteko automatikoa edo eskuzko hautaketarako eskuliburua.",
   "Manual": "Eskuzko",
   "Sync method": "Sinkronizatu metodoa",
   "Enable synchronization": "Gaitu sinkronizazioa",

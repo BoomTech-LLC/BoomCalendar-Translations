@@ -1,4 +1,5 @@
 let lv = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Visu organizāciju un organizatoru automātiskai parādīšanai kalendārā izvēlieties Auto, vai manuālai manuālai atlasei.",
   "Manual": "Rokasgrāmata",
   "Sync method": "Sinhronizācijas metode",
   "Enable synchronization": "Iespējot sinhronizāciju",

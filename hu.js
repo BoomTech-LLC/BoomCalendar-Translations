@@ -1,4 +1,5 @@
 let hu = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Válassza az Auto lehetőséget az összes szervezet és szervező automatikus megjelenítéséhez a naptárban, vagy a kézi kiválasztáshoz.",
   "Manual": "Kézikönyv",
   "Sync method": "Szinkronizálási módszer",
   "Enable synchronization": "Engedélyezze a szinkronizálást",

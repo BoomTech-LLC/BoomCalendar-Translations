@@ -1,4 +1,5 @@
 let hy = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Ընտրեք Auto բոլոր կազմակերպությունների եւ կազմակերպիչների ավտոմատ ցուցադրման համար օրացույցում կամ ձեռքով ընտրության ձեռնարկ:",
   "Manual": "Ձեռնարկ",
   "Sync method": "Համաժամացման եղանակ",
   "Enable synchronization": "Միացնել համաժամացումը",

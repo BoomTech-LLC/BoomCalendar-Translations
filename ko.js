@@ -1,4 +1,5 @@
 let ko = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "캘린더의 모든 조직 및 주최자의 자동 표시를 위해 자동 선택하거나 수동 선택을위한 매뉴얼을 선택하십시오.",
   "Manual": "수동",
   "Sync method": "동기화 메소드",
   "Enable synchronization": "동기화를 활성화합니다",

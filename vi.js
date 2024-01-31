@@ -1,4 +1,5 @@
 let vi = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Chọn Tự động để hiển thị tự động của tất cả các tổ chức và nhà tổ chức trên lịch hoặc hướng dẫn sử dụng để lựa chọn thủ công.",
   "Manual": "Thủ công",
   "Sync method": "Phương pháp đồng bộ hóa",
   "Enable synchronization": "Cho phép đồng bộ hóa",
