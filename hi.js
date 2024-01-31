@@ -1,4 +1,5 @@
 let hi = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "कैलेंडर पर सभी संगठनों और आयोजकों के स्वचालित प्रदर्शन के लिए ऑटो चुनें, या मैनुअल चयन के लिए मैनुअल।",
   "Manual": "नियमावली",
   "Sync method": "सिंक विधि",
   "Enable synchronization": "सिंक्रनाइज़ेशन सक्षम करें",

@@ -1,4 +1,5 @@
 let hr = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Odaberite Auto za automatski prikaz svih organizacija i organizatora u kalendaru ili priručnik za ručni odabir.",
   "Manual": "Priručnik",
   "Sync method": "Sinkronizacija metoda",
   "Enable synchronization": "Omogući sinkronizacija",

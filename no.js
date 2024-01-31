@@ -1,4 +1,5 @@
 let no = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Velg Auto for automatisk visning av alle organisasjoner og arrangører i kalenderen, eller manuell for manuelt valg.",
   "Manual": "Håndbok",
   "Sync method": "Synkroniseringsmetode",
   "Enable synchronization": "Aktiver synkronisering",

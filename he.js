@@ -1,4 +1,5 @@
 let he = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "בחר אוטומטי לתצוגה אוטומטית של כל הארגונים והמארגנים בלוח השנה, או מדריך לבחירה ידנית.",
   "Manual": "מדריך ל",
   "Sync method": "שיטת סנכרון",
   "Enable synchronization": "אפשר סנכרון",

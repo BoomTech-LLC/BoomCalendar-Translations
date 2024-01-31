@@ -1,4 +1,5 @@
 let ar = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "اختر تلقائيًا للعرض التلقائي لجميع المؤسسات والمنظمين في التقويم ، أو دليل الاختيار اليدوي.",
   "Manual": "يدوي",
   "Sync method": "طريقة المزامنة",
   "Enable synchronization": "تمكين التزامن",

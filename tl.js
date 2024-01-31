@@ -1,4 +1,5 @@
 let tl = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Pumili ng Auto para sa awtomatikong pagpapakita ng lahat ng mga organisasyon at tagapag -ayos sa kalendaryo, o manu -manong para sa manu -manong pagpili.",
   "Manual": "Manu -manong",
   "Sync method": "Paraan ng pag -sync",
   "Enable synchronization": "Paganahin ang pag -synchronise",

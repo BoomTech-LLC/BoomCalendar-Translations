@@ -1,4 +1,5 @@
 let is = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Veldu Auto fyrir sjálfvirka birtingu allra stofnana og skipuleggjenda á dagatalinu, eða handvirkt fyrir handvirkt val.",
   "Manual": "Handbók",
   "Sync method": "Samstillingaraðferð",
   "Enable synchronization": "Virkja samstillingu",

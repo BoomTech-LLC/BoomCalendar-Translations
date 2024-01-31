@@ -1,4 +1,5 @@
 let cs = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Vyberte automatické zobrazení všech organizací a organizátorů v kalendáři nebo manuálu pro manuální výběr.",
   "Manual": "Manuál",
   "Sync method": "Metoda synchronizace",
   "Enable synchronization": "Povolit synchronizaci",

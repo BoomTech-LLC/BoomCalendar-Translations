@@ -1,4 +1,5 @@
 let el = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Επιλέξτε Auto για αυτόματη εμφάνιση όλων των οργανισμών και διοργανωτών στο ημερολόγιο ή εγχειρίδιο για χειροκίνητη επιλογή.",
   "Manual": "Εγχειρίδιο",
   "Sync method": "Μέθοδος συγχρονισμού",
   "Enable synchronization": "Ενεργοποίηση συγχρονισμού",

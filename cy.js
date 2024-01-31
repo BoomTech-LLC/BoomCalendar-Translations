@@ -1,4 +1,5 @@
 let cy = {
+  "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Dewiswch Auto ar gyfer arddangos yr holl sefydliadau a threfnwr yn awtomatig ar y calendr, neu'r llawlyfr ar gyfer dewis â llaw.",
   "Manual": "Llawlyfr",
   "Sync method": "Dull cysoni",
   "Enable synchronization": "Galluogi cydamseru",
