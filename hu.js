@@ -1,4 +1,5 @@
 let hu = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Válassza az Auto lehetőséget az összes szolgáltatás és munkamenet automatikus megjelenítéséhez a naptárban, vagy a kézi kiválasztáshoz.",
   "Show cancelled events": "Mutasd meg a törölt eseményeket",
   "Event Color": "Eseményszín",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Válassza az Auto lehetőséget a naptár összes eseményének automatikus megjelenítéséhez, vagy a kézi kiválasztáshoz.",

@@ -1,4 +1,5 @@
 let el = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Επιλέξτε Auto για αυτόματη οθόνη όλων των υπηρεσιών και συνεδριών στο ημερολόγιο ή εγχειρίδιο για χειροκίνητη επιλογή.",
   "Show cancelled events": "Εμφάνιση ακυρωμένων συμβάντων",
   "Event Color": "Έγχρωμη εκδήλωση",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Επιλέξτε Auto για αυτόματη εμφάνιση όλων των συμβάντων στο ημερολόγιο ή εγχειρίδιο για χειροκίνητη επιλογή.",

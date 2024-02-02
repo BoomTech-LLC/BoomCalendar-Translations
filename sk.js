@@ -1,4 +1,5 @@
 let sk = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Vyberte Auto pre automatické zobrazenie všetkých služieb a relácií v kalendári alebo manuálne pre manuálny výber.",
   "Show cancelled events": "Zobraziť zrušené udalosti",
   "Event Color": "Farba udalosti",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Vyberte Auto pre automatické zobrazenie všetkých udalostí v kalendári alebo manuál pre manuálny výber.",

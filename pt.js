@@ -1,4 +1,5 @@
 let pt = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Escolha Auto para exibição automática de todos os serviços e sessões no calendário ou manual para seleção manual.",
   "Show cancelled events": "Mostrar eventos cancelados",
   "Event Color": "Cor do evento",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Escolha Auto para exibição automática de todos os eventos no calendário ou manual para seleção manual.",

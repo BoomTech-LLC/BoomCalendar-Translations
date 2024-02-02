@@ -1,4 +1,5 @@
 let bg = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Изберете Auto за автоматично показване на всички услуги и сесии в календара или ръчно за ръчен избор.",
   "Show cancelled events": "Покажи отменени събития",
   "Event Color": "Цвят на събитието",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Изберете Auto за автоматично показване на всички събития в календара или ръчно за ръчен избор.",

@@ -1,4 +1,5 @@
 let ro = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Alegeți Auto pentru afișarea automată a tuturor serviciilor și sesiunilor din calendar sau manual pentru selecție manuală.",
   "Show cancelled events": "Afișați evenimente anulate",
   "Event Color": "Culoarea evenimentului",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Alegeți Auto pentru afișarea automată a tuturor evenimentelor din calendar sau manual pentru selecție manuală.",

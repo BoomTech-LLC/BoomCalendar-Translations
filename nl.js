@@ -1,4 +1,5 @@
 let nl = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Kies Auto voor automatisch weergave van alle services en sessies op de kalender of handleiding voor handmatige selectie.",
   "Show cancelled events": "Toon geannuleerde evenementen",
   "Event Color": "Evenementkleur",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Kies Auto voor automatisch weergave van alle evenementen op de agenda of handleiding voor handmatige selectie.",

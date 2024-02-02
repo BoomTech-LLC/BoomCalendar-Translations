@@ -1,4 +1,5 @@
 let hy = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Ընտրեք Auto օրացույցում բոլոր ծառայությունների եւ նստաշրջանների ավտոմատ ցուցադրման կամ ձեռնարկի ընտրության ձեռնարկի ավտոմատ ցուցադրման համար:",
   "Show cancelled events": "Show ույց տալ չեղյալ հայտարարված իրադարձությունները",
   "Event Color": "Իրադարձության գույն",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Ընտրեք ավտոմատ `օրացույցում բոլոր իրադարձությունների ավտոմատ ցուցադրման կամ ձեռնարկի ընտրության ձեռնարկի ավտոմատ ցուցադրման համար:",

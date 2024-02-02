@@ -1,4 +1,5 @@
 let cy = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Dewiswch Auto ar gyfer arddangos yr holl wasanaethau a sesiynau yn awtomatig ar y calendr, neu lawlyfr ar gyfer dewis â llaw.",
   "Show cancelled events": "Dangos Digwyddiadau wedi'u Canslo",
   "Event Color": "Lliw digwyddiad",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Dewiswch Auto ar gyfer arddangos yr holl ddigwyddiadau yn awtomatig ar y calendr, neu lawlyfr i'w ddewis â llaw.",

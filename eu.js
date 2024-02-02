@@ -1,4 +1,5 @@
 let eu = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Aukeratu egutegian zerbitzu eta saio guztien erakusteko automatikoa edo eskuzko hautaketarako eskuliburua.",
   "Show cancelled events": "Erakutsi ezeztatutako gertaerak",
   "Event Color": "Ekitaldiaren kolorea",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Aukeratu egutegiko gertaera guztiak automatikoki erakusteko edo eskuzko hautaketarako eskuliburua.",

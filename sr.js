@@ -1,4 +1,5 @@
 let sr = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Изаберите Ауто за аутоматско приказивање свих услуга и седница на календар или приручник за ручни избор.",
   "Show cancelled events": "Прикажи отказе догађаје",
   "Event Color": "Боја догађаја",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Изаберите Аутоматски за аутоматски приказ свих догађаја у календару или упутство за ручно избора.",

@@ -1,4 +1,5 @@
 let lt = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Pasirinkite automatinį visų paslaugų ir sesijų rodymą kalendoriuje arba rankiniu būdu rankiniam pasirinkimui.",
   "Show cancelled events": "Rodyti atšauktus įvykius",
   "Event Color": "Įvykio spalva",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Pasirinkite „Auto“ automatiškai rodyti visus kalendoriaus įvykius arba rankinį rankiniu būdu.",

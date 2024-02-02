@@ -1,4 +1,5 @@
 let ka = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "შეარჩიეთ Auto კალენდარში ყველა სერვისისა და სესიის ავტომატური ჩვენებისთვის, ან სახელმძღვანელო სახელმძღვანელოს შერჩევისთვის.",
   "Show cancelled events": "გაუქმებული მოვლენების ჩვენება",
   "Event Color": "მოვლენის ფერი",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "შეარჩიეთ ავტომატური კალენდარში ყველა მოვლენის ავტომატური ჩვენებისთვის, ან სახელმძღვანელო სახელმძღვანელოს შერჩევისთვის.",

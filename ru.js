@@ -1,4 +1,5 @@
 let ru = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Выберите Auto для автоматического отображения всех сервисов и сессий в календаре или руководство для ручного выбора.",
   "Show cancelled events": "Показать отмененные события",
   "Event Color": "Цвет событий",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Выберите Auto для автоматического отображения всех событий в календаре или руководство для ручного выбора.",

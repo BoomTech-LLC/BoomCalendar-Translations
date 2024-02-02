@@ -1,4 +1,5 @@
 let lv = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Visu pakalpojumu un sesiju automātiskai parādīšanai kalendārā izvēlieties Automātisko automātisko parādīšanu, vai manuālai manuālai atlasei.",
   "Show cancelled events": "Rādīt atceltos notikumus",
   "Event Color": "Notikumu krāsa",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Izvēlieties Automātisko, lai automātiski parādītu visu kalendārā, vai manuālai manuālai atlasei.",

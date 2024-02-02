@@ -1,4 +1,5 @@
 let ms = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Pilih Auto untuk paparan automatik semua perkhidmatan dan sesi pada kalendar, atau manual untuk pemilihan manual.",
   "Show cancelled events": "Tunjukkan peristiwa yang dibatalkan",
   "Event Color": "Warna acara",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Pilih Auto untuk paparan automatik semua acara pada kalendar, atau manual untuk pemilihan manual.",
