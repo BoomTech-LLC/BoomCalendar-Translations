@@ -1,4 +1,8 @@
 let be = {
+  "Show cancelled events": "Паказаць адмененыя падзеі",
+  "Event Color": "Колер падзей",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Выберыце Auto для аўтаматычнага адлюстравання ўсіх падзей у календары альбо ўручную для ўручную.",
+  "Auto": "Аўтаза аўтак",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Выберыце аўтаматычнае адлюстраванне ўсіх арганізацый і арганізатараў у календары альбо ўручную для ўручную.",
   "Manual": "Дапаможнік",
   "Sync method": "Метад сінхранізацыі",

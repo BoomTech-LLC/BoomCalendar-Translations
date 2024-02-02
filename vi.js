@@ -1,4 +1,8 @@
 let vi = {
+  "Show cancelled events": "Hiển thị các sự kiện bị hủy",
+  "Event Color": "Màu sắc sự kiện",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Chọn Tự động để hiển thị tự động tất cả các sự kiện trên lịch hoặc hướng dẫn sử dụng để lựa chọn thủ công.",
+  "Auto": "Tự động",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Chọn Tự động để hiển thị tự động của tất cả các tổ chức và nhà tổ chức trên lịch hoặc hướng dẫn sử dụng để lựa chọn thủ công.",
   "Manual": "Thủ công",
   "Sync method": "Phương pháp đồng bộ hóa",

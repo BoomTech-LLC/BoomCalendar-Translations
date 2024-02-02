@@ -1,4 +1,8 @@
 let ar = {
+  "Show cancelled events": "عرض الأحداث الملغاة",
+  "Event Color": "لون الحدث",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "اختر تلقائيًا للعرض التلقائي لجميع الأحداث في التقويم ، أو دليل الاختيار اليدوي.",
+  "Auto": "آلي",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "اختر تلقائيًا للعرض التلقائي لجميع المؤسسات والمنظمين في التقويم ، أو دليل الاختيار اليدوي.",
   "Manual": "يدوي",
   "Sync method": "طريقة المزامنة",

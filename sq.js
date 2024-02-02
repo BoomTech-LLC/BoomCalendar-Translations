@@ -1,4 +1,8 @@
 let sq = {
+  "Show cancelled events": "Shfaq ngjarjet e anuluara",
+  "Event Color": "Ngjyra e ngjarjes",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Zgjidhni Auto për shfaqjen automatike të të gjitha ngjarjeve në kalendar, ose manual për zgjedhjen manuale.",
+  "Auto": "Automatik",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Zgjidhni Auto për shfaqjen automatike të të gjitha organizatave dhe organizatorëve në kalendar, ose manual për zgjedhjen manuale.",
   "Manual": "Manual",
   "Sync method": "Metodë sinkronizimi",

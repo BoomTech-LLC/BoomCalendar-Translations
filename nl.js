@@ -1,4 +1,8 @@
 let nl = {
+  "Show cancelled events": "Toon geannuleerde evenementen",
+  "Event Color": "Evenementkleur",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Kies Auto voor automatisch weergave van alle evenementen op de agenda of handleiding voor handmatige selectie.",
+  "Auto": "Auto",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Kies Auto voor automatisch weergave van alle organisaties en organisatoren in de kalender of handleiding voor handmatige selectie.",
   "Manual": "Handmatig",
   "Sync method": "Synchronisatie methode",

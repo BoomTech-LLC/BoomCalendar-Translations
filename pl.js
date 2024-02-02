@@ -1,4 +1,8 @@
 let pl = {
+  "Show cancelled events": "Pokaż anulowane wydarzenia",
+  "Event Color": "Kolor zdarzenia",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Wybierz Auto do automatycznego wyświetlania wszystkich zdarzeń w kalendarzu lub podręcznika do wyboru ręcznego.",
+  "Auto": "Automatyczny",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Wybierz Auto do automatycznego wyświetlania wszystkich organizacji i organizatorów w kalendarzu lub podręczniku do wyboru ręcznego.",
   "Manual": "podręcznik",
   "Sync method": "Metoda synchronizacji",

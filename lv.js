@@ -1,4 +1,8 @@
 let lv = {
+  "Show cancelled events": "Rādīt atceltos notikumus",
+  "Event Color": "Notikumu krāsa",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Izvēlieties Automātisko, lai automātiski parādītu visu kalendārā, vai manuālai manuālai atlasei.",
+  "Auto": "Auto",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Visu organizāciju un organizatoru automātiskai parādīšanai kalendārā izvēlieties Auto, vai manuālai manuālai atlasei.",
   "Manual": "Rokasgrāmata",
   "Sync method": "Sinhronizācijas metode",

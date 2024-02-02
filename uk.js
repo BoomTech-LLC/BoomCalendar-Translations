@@ -1,4 +1,8 @@
 let uk = {
+  "Show cancelled events": "Показати скасовані події",
+  "Event Color": "Колір події",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Виберіть автоматичне відображення всіх подій у календарі або вручну для вибору вручну.",
+  "Auto": "Автоматичний",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Виберіть автоматичне відображення всіх організацій та організаторів у календарі або вручну для вибору вручну.",
   "Manual": "Посібник",
   "Sync method": "Метод синхронізації",

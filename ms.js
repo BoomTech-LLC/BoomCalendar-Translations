@@ -1,4 +1,8 @@
 let ms = {
+  "Show cancelled events": "Tunjukkan peristiwa yang dibatalkan",
+  "Event Color": "Warna acara",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Pilih Auto untuk paparan automatik semua acara pada kalendar, atau manual untuk pemilihan manual.",
+  "Auto": "Auto",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Pilih Auto untuk paparan automatik semua organisasi dan penganjur pada kalendar, atau manual untuk pemilihan manual.",
   "Manual": "Manual",
   "Sync method": "Kaedah penyegerakan",
