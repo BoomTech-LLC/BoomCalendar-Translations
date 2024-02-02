@@ -1,4 +1,5 @@
 let vi = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Chọn Tự động để hiển thị tự động tất cả các dịch vụ và phiên trên lịch hoặc hướng dẫn sử dụng để lựa chọn thủ công.",
   "Show cancelled events": "Hiển thị các sự kiện bị hủy",
   "Event Color": "Màu sắc sự kiện",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Chọn Tự động để hiển thị tự động tất cả các sự kiện trên lịch hoặc hướng dẫn sử dụng để lựa chọn thủ công.",

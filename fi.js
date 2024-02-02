@@ -1,4 +1,5 @@
 let fi = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Valitse Auto kaikkien kalenterin palvelujen ja istuntojen automaattisen näytön tai manuaalisen valinnan käsikirjan.",
   "Show cancelled events": "Näytä peruutetut tapahtumat",
   "Event Color": "Tapahtumien väri",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Valitse automaattinen näyttö kaikkien kalenterin tapahtumien tai manuaalisen valinnan käsikirjan.",

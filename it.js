@@ -1,4 +1,5 @@
 let it = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Scegli Auto per la visualizzazione automatica di tutti i servizi e sessioni sul calendario o manuale per la selezione manuale.",
   "Show cancelled events": "Mostra eventi cancellati",
   "Event Color": "Colore dell'evento",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Scegli Auto per la visualizzazione automatica di tutti gli eventi sul calendario o manuale per la selezione manuale.",

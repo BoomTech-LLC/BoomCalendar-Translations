@@ -1,4 +1,5 @@
 let be = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Выберыце Аўтаматычнае для аўтаматычнага адлюстравання ўсіх службаў і сесій у календары альбо ўручную для ўручную.",
   "Show cancelled events": "Паказаць адмененыя падзеі",
   "Event Color": "Колер падзей",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Выберыце Auto для аўтаматычнага адлюстравання ўсіх падзей у календары альбо ўручную для ўручную.",

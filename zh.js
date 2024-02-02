@@ -1,4 +1,5 @@
 let zh = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "选择自动显示日历上所有服务和会话的自动显示，或者手动选择手册。",
   "Show cancelled events": "显示取消的事件",
   "Event Color": "事件颜色",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "选择自动显示日历上所有事件的自动显示，或者手动选择手册。",

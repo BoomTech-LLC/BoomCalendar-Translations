@@ -1,4 +1,5 @@
 let mr = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "कॅलेंडरवरील सर्व सेवा आणि सत्रांच्या स्वयंचलित प्रदर्शनासाठी ऑटो निवडा किंवा मॅन्युअल निवडीसाठी मॅन्युअल.",
   "Show cancelled events": "रद्द केलेले कार्यक्रम दर्शवा",
   "Event Color": "कार्यक्रम रंग",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "कॅलेंडरवरील सर्व कार्यक्रमांच्या स्वयंचलित प्रदर्शनासाठी ऑटो निवडा किंवा मॅन्युअल निवडीसाठी मॅन्युअल.",

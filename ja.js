@@ -1,4 +1,5 @@
 let ja = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "カレンダー上のすべてのサービスとセッションの自動表示の自動を選択するか、マニュアルを選択するためのマニュアルを選択します。",
   "Show cancelled events": "キャンセルされたイベントを表示します",
   "Event Color": "イベントカラー",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "カレンダー上のすべてのイベントを自動表示するために自動を選択するか、マニュアルを選択するにはマニュアルを選択します。",

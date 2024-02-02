@@ -1,4 +1,5 @@
 let ko = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "캘린더에 모든 서비스 및 세션을 자동으로 표시하거나 수동 선택 수동으로 자동 표시하려면 자동 선택하십시오.",
   "Show cancelled events": "취소 된 이벤트를 보여줍니다",
   "Event Color": "이벤트 색상",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "캘린더의 모든 이벤트를 자동으로 표시하려면 자동을 선택하거나 수동 선택을위한 매뉴얼을 선택하십시오.",

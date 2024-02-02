@@ -1,4 +1,5 @@
 let uk = {
+  "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Виберіть автоматичне відображення всіх служб та сеансів у календарі або вручну для вибору вручну.",
   "Show cancelled events": "Показати скасовані події",
   "Event Color": "Колір події",
   "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Виберіть автоматичне відображення всіх подій у календарі або вручну для вибору вручну.",
