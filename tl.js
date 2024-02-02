@@ -1,4 +1,5 @@
 let tl = {
+  "Show your Wix Bookings or Events on Calendar": "Ipakita ang iyong mga wix bookings o mga kaganapan sa kalendaryo",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Piliin ang Auto para sa awtomatikong pagpapakita ng lahat ng mga serbisyo at sesyon sa kalendaryo, o manu -manong para sa manu -manong pagpili.",
   "Show cancelled events": "Ipakita ang mga kanseladong kaganapan",
   "Event Color": "Kulay ng Kaganapan",

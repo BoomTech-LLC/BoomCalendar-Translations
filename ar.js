@@ -1,4 +1,5 @@
 let ar = {
+  "Show your Wix Bookings or Events on Calendar": "عرض حجوزاتك أو أحداث WIX على التقويم",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "اختر تلقائيًا للعرض التلقائي لجميع الخدمات والجلسات في التقويم ، أو دليل الاختيار اليدوي.",
   "Show cancelled events": "عرض الأحداث الملغاة",
   "Event Color": "لون الحدث",

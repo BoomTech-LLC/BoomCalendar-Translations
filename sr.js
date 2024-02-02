@@ -1,4 +1,5 @@
 let sr = {
+  "Show your Wix Bookings or Events on Calendar": "Покажите своје вик резервације или догађаје у календару",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Изаберите Ауто за аутоматско приказивање свих услуга и седница на календар или приручник за ручни избор.",
   "Show cancelled events": "Прикажи отказе догађаје",
   "Event Color": "Боја догађаја",

@@ -1,4 +1,5 @@
 let id = {
+  "Show your Wix Bookings or Events on Calendar": "Tunjukkan pemesanan atau acara WIX Anda di kalender",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Pilih Otomatis untuk tampilan otomatis semua layanan dan sesi di kalender, atau manual untuk pemilihan manual.",
   "Show cancelled events": "Tampilkan acara yang dibatalkan",
   "Event Color": "Warna acara",

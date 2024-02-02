@@ -1,4 +1,5 @@
 let eu = {
+  "Show your Wix Bookings or Events on Calendar": "Erakutsi zure Wix erreserbak edo gertaerak egutegian",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Aukeratu egutegian zerbitzu eta saio guztien erakusteko automatikoa edo eskuzko hautaketarako eskuliburua.",
   "Show cancelled events": "Erakutsi ezeztatutako gertaerak",
   "Event Color": "Ekitaldiaren kolorea",

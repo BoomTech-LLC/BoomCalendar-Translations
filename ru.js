@@ -1,4 +1,5 @@
 let ru = {
+  "Show your Wix Bookings or Events on Calendar": "Покажите свои бронирования или события Wix в календаре",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Выберите Auto для автоматического отображения всех сервисов и сессий в календаре или руководство для ручного выбора.",
   "Show cancelled events": "Показать отмененные события",
   "Event Color": "Цвет событий",

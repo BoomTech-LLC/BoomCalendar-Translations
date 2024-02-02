@@ -1,4 +1,5 @@
 let ka = {
+  "Show your Wix Bookings or Events on Calendar": "აჩვენეთ თქვენი Wix შეკვეთები ან ღონისძიებები კალენდარში",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "შეარჩიეთ Auto კალენდარში ყველა სერვისისა და სესიის ავტომატური ჩვენებისთვის, ან სახელმძღვანელო სახელმძღვანელოს შერჩევისთვის.",
   "Show cancelled events": "გაუქმებული მოვლენების ჩვენება",
   "Event Color": "მოვლენის ფერი",

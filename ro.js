@@ -1,4 +1,5 @@
 let ro = {
+  "Show your Wix Bookings or Events on Calendar": "Arată -ți rezervările sau evenimentele Wix în calendar",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Alegeți Auto pentru afișarea automată a tuturor serviciilor și sesiunilor din calendar sau manual pentru selecție manuală.",
   "Show cancelled events": "Afișați evenimente anulate",
   "Event Color": "Culoarea evenimentului",
