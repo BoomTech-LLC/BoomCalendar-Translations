@@ -1,4 +1,8 @@
 let cs = {
+  "Show cancelled events": "Zobrazit zrušené události",
+  "Event Color": "Barva události",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Vyberte automatické zobrazení všech událostí v kalendáři nebo manuálu pro manuální výběr.",
+  "Auto": "Auto",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Vyberte automatické zobrazení všech organizací a organizátorů v kalendáři nebo manuálu pro manuální výběr.",
   "Manual": "Manuál",
   "Sync method": "Metoda synchronizace",

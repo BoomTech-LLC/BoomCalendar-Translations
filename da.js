@@ -1,4 +1,8 @@
 let da = {
+  "Show cancelled events": "Vis annullerede begivenheder",
+  "Event Color": "Begivenhedsfarve",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Vælg Auto til automatisk visning af alle begivenheder på kalenderen eller manuel til manuel valg.",
+  "Auto": "Auto",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Vælg Auto til automatisk visning af alle organisationer og arrangører i kalenderen eller manuel til manuel valg.",
   "Manual": "brugervejledning",
   "Sync method": "Synkroniseringsmetode",

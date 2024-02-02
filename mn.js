@@ -1,4 +1,8 @@
 let mn = {
+  "Show cancelled events": "Цуцлагдсан үйл явдлыг харуул",
+  "Event Color": "Арга хэмжээний өнгө",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Календарь дээрх бүх үйл явдлыг автоматаар үзүүлэх, эсвэл гарын авлагын сонголтын хувьд автоматаар үзүүлэх автоматыг сонгоно уу.",
+  "Auto": "Стох зах",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Гарын авлага, гарын авлагад гарын авлага, гарын авлагад автоматжуулагч, гарын авлагыг автоматаар үзүүлэхэд автоматаар үзүүлэх боломжтой.",
   "Manual": "Гарын авлага",
   "Sync method": "Sync аргууд",

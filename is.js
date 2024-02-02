@@ -1,4 +1,8 @@
 let is = {
+  "Show cancelled events": "Sýna aflýst atburði",
+  "Event Color": "Atburðarlitur",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Veldu Auto fyrir sjálfvirka birtingu allra atburða á dagatalinu eða handvirkt fyrir handvirkt val.",
+  "Auto": "Sjálfvirkt",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Veldu Auto fyrir sjálfvirka birtingu allra stofnana og skipuleggjenda á dagatalinu, eða handvirkt fyrir handvirkt val.",
   "Manual": "Handbók",
   "Sync method": "Samstillingaraðferð",

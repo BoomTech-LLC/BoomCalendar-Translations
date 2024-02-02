@@ -1,4 +1,8 @@
 let tr = {
+  "Show cancelled events": "İptal edilen olayları göster",
+  "Event Color": "Olay rengi",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Takvimdeki tüm etkinliklerin otomatik görüntülenmesi için otomatik veya manuel seçim için manuel seçin.",
+  "Auto": "Oto",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Takvimdeki tüm kuruluşların ve organizatörlerin otomatik olarak görüntülenmesi için otomatik veya manuel seçim için manuel seçin.",
   "Manual": "Manuel",
   "Sync method": "Senkronizasyon yöntemi",

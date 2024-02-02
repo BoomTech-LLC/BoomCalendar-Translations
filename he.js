@@ -1,4 +1,8 @@
 let he = {
+  "Show cancelled events": "הצג אירועים שבוטלו",
+  "Event Color": "צבע אירוע",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "בחר אוטומטית לתצוגה אוטומטית של כל האירועים בלוח השנה, או מדריך לבחירה ידנית.",
+  "Auto": "אוטומטי",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "בחר אוטומטי לתצוגה אוטומטית של כל הארגונים והמארגנים בלוח השנה, או מדריך לבחירה ידנית.",
   "Manual": "מדריך ל",
   "Sync method": "שיטת סנכרון",

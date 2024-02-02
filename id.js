@@ -1,4 +1,8 @@
 let id = {
+  "Show cancelled events": "Tampilkan acara yang dibatalkan",
+  "Event Color": "Warna acara",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Pilih Otomatis untuk tampilan otomatis semua acara di kalender, atau manual untuk pemilihan manual.",
+  "Auto": "Mobil",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Pilih Otomatis untuk tampilan otomatis semua organisasi dan penyelenggara di kalender, atau manual untuk pemilihan manual.",
   "Manual": "Manual",
   "Sync method": "Metode sinkronisasi",

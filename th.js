@@ -1,4 +1,8 @@
 let th = {
+  "Show cancelled events": "แสดงเหตุการณ์ที่ถูกยกเลิก",
+  "Event Color": "สีเหตุการณ์",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "เลือกอัตโนมัติสำหรับการแสดงผลอัตโนมัติของกิจกรรมทั้งหมดในปฏิทินหรือคู่มือสำหรับการเลือกด้วยตนเอง",
+  "Auto": "รถยนต์",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "เลือกอัตโนมัติสำหรับการแสดงอัตโนมัติขององค์กรและผู้จัดงานทั้งหมดในปฏิทินหรือคู่มือสำหรับการเลือกด้วยตนเอง",
   "Manual": "คู่มือ",
   "Sync method": "วิธีการซิงค์",

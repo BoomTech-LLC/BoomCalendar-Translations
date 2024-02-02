@@ -1,4 +1,8 @@
 let ro = {
+  "Show cancelled events": "Afișați evenimente anulate",
+  "Event Color": "Culoarea evenimentului",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Alegeți Auto pentru afișarea automată a tuturor evenimentelor din calendar sau manual pentru selecție manuală.",
+  "Auto": "Auto",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Alegeți Auto pentru afișarea automată a tuturor organizațiilor și organizatorilor din calendar sau manual pentru selecție manuală.",
   "Manual": "Manual",
   "Sync method": "Metoda de sincronizare",

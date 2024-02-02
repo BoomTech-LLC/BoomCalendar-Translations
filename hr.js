@@ -1,4 +1,8 @@
 let hr = {
+  "Show cancelled events": "Pokažite otkazane događaje",
+  "Event Color": "Boja događaja",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Odaberite Auto automatski prikaz svih događaja na kalendaru ili priručnik za ručni odabir.",
+  "Auto": "Auto",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Odaberite Auto za automatski prikaz svih organizacija i organizatora u kalendaru ili priručnik za ručni odabir.",
   "Manual": "Priručnik",
   "Sync method": "Sinkronizacija metoda",

@@ -1,4 +1,8 @@
 let hi = {
+  "Show cancelled events": "रद्द किए गए कार्यक्रम दिखाएं",
+  "Event Color": "इवेंट कलर",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "कैलेंडर पर सभी घटनाओं के स्वचालित प्रदर्शन के लिए ऑटो चुनें, या मैनुअल चयन के लिए मैनुअल।",
+  "Auto": "ऑटो",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "कैलेंडर पर सभी संगठनों और आयोजकों के स्वचालित प्रदर्शन के लिए ऑटो चुनें, या मैनुअल चयन के लिए मैनुअल।",
   "Manual": "नियमावली",
   "Sync method": "सिंक विधि",

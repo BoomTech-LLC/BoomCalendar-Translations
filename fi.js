@@ -1,4 +1,8 @@
 let fi = {
+  "Show cancelled events": "Näytä peruutetut tapahtumat",
+  "Event Color": "Tapahtumien väri",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Valitse automaattinen näyttö kaikkien kalenterin tapahtumien tai manuaalisen valinnan käsikirjan.",
+  "Auto": "Auto",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Valitse Auto kaikkien kalenterin organisaatioiden ja järjestäjien automaattisen näytön tai manuaalisen valinnan käsikirjan.",
   "Manual": "Manuaalinen",
   "Sync method": "Synkronointimenetelmä",

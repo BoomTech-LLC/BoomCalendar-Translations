@@ -1,4 +1,8 @@
 let mk = {
+  "Show cancelled events": "Покажете откажани настани",
+  "Event Color": "Боја на настани",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Изберете Auto за автоматско прикажување на сите настани на календарот или прирачник за рачен избор.",
+  "Auto": "Автоматско",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Изберете Auto за автоматско прикажување на сите организации и организатори на календарот или прирачник за рачен избор.",
   "Manual": "Прирачник",
   "Sync method": "Метод на синхронизација",

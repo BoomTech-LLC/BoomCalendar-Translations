@@ -1,4 +1,8 @@
 let ru = {
+  "Show cancelled events": "Показать отмененные события",
+  "Event Color": "Цвет событий",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Выберите Auto для автоматического отображения всех событий в календаре или руководство для ручного выбора.",
+  "Auto": "Авто",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Выберите Auto для автоматического отображения всех организаций и организаторов в календаре, или руководство для ручного выбора.",
   "Manual": "Руководство",
   "Sync method": "Метод синхронизации",

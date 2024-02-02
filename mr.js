@@ -1,4 +1,8 @@
 let mr = {
+  "Show cancelled events": "रद्द केलेले कार्यक्रम दर्शवा",
+  "Event Color": "कार्यक्रम रंग",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "कॅलेंडरवरील सर्व कार्यक्रमांच्या स्वयंचलित प्रदर्शनासाठी ऑटो निवडा किंवा मॅन्युअल निवडीसाठी मॅन्युअल.",
+  "Auto": "स्वयं",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "कॅलेंडरवर सर्व संस्था आणि संयोजकांच्या स्वयंचलित प्रदर्शनासाठी ऑटो निवडा किंवा मॅन्युअल निवडीसाठी मॅन्युअल.",
   "Manual": "मॅन्युअल",
   "Sync method": "समक्रमित पद्धत",

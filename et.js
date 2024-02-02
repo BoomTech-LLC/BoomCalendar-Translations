@@ -1,4 +1,8 @@
 let et = {
+  "Show cancelled events": "Näita tühistatud sündmusi",
+  "Event Color": "Sündmuse värv",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Valige automaatne kuvamiseks kalendris kõigi sündmuste automaatseks kuvamiseks või käsitsi valimiseks käsiraamatu.",
+  "Auto": "Automaatne",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Valige automaatseks kuvamiseks kalendris kõigi organisatsioonide ja korraldajate automaatseks kuvamiseks või käsitsi valimiseks käsiraamatu.",
   "Manual": "Käsiraamat",
   "Sync method": "Sünkroonimismeetod",

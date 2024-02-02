@@ -1,4 +1,8 @@
 let tl = {
+  "Show cancelled events": "Ipakita ang mga kanseladong kaganapan",
+  "Event Color": "Kulay ng Kaganapan",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Piliin ang Auto para sa awtomatikong pagpapakita ng lahat ng mga kaganapan sa kalendaryo, o manu -manong para sa manu -manong pagpili.",
+  "Auto": "Auto",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Pumili ng Auto para sa awtomatikong pagpapakita ng lahat ng mga organisasyon at tagapag -ayos sa kalendaryo, o manu -manong para sa manu -manong pagpili.",
   "Manual": "Manu -manong",
   "Sync method": "Paraan ng pag -sync",

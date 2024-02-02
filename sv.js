@@ -1,4 +1,8 @@
 let sv = {
+  "Show cancelled events": "Visa avbrutna händelser",
+  "Event Color": "Evenemangsfärg",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Välj Auto för automatisk visning av alla händelser i kalendern eller manualen för manuell val.",
+  "Auto": "Bil",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Välj Auto för automatisk visning av alla organisationer och arrangörer i kalendern eller manualen för manuell val.",
   "Manual": "Manuell",
   "Sync method": "Synkroniseringsmetod",

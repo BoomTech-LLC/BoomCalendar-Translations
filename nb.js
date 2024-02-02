@@ -1,4 +1,8 @@
 let nb = {
+  "Show cancelled events": "Vis kansellerte hendelser",
+  "Event Color": "Hendelsesfarge",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Velg Auto for automatisk visning av alle hendelser i kalenderen, eller manuell for manuelt valg.",
+  "Auto": "Bil",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Velg Auto for automatisk visning av alle organisasjoner og arrangører i kalenderen, eller manuell for manuelt valg.",
   "Manual": "Håndbok",
   "Sync method": "Synkroniseringsmetode",

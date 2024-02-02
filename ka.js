@@ -1,4 +1,8 @@
 let ka = {
+  "Show cancelled events": "გაუქმებული მოვლენების ჩვენება",
+  "Event Color": "მოვლენის ფერი",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "შეარჩიეთ ავტომატური კალენდარში ყველა მოვლენის ავტომატური ჩვენებისთვის, ან სახელმძღვანელო სახელმძღვანელოს შერჩევისთვის.",
+  "Auto": "ავტო",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "შეარჩიეთ ავტო კალენდარში ყველა ორგანიზაციისა და ორგანიზატორის ავტომატური ჩვენებისთვის, ან სახელმძღვანელო შერჩევისთვის.",
   "Manual": "სახელმძღვანელო",
   "Sync method": "სინქრონიზაციის მეთოდი",

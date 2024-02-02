@@ -1,4 +1,8 @@
 let ca = {
+  "Show cancelled events": "Mostra esdeveniments cancel·lats",
+  "Event Color": "Color d'esdeveniments",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Trieu automàticament per a la visualització automàtica de tots els esdeveniments del calendari o manual per a la selecció manual.",
+  "Auto": "Automàtic",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Trieu Auto per a la visualització automàtica de totes les organitzacions i organitzadors del calendari o manual per a la selecció manual.",
   "Manual": "Manual",
   "Sync method": "Mètode de sincronització",

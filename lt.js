@@ -1,4 +1,8 @@
 let lt = {
+  "Show cancelled events": "Rodyti atšauktus įvykius",
+  "Event Color": "Įvykio spalva",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Pasirinkite „Auto“ automatiškai rodyti visus kalendoriaus įvykius arba rankinį rankiniu būdu.",
+  "Auto": "Automatinis",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Pasirinkite automatinį visų organizacijų ir organizatorių rodymą kalendoriuje arba rankiniu būdu.",
   "Manual": "Vadovas",
   "Sync method": "Sinchronizavimo metodas",

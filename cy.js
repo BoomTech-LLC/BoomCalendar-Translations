@@ -1,4 +1,8 @@
 let cy = {
+  "Show cancelled events": "Dangos Digwyddiadau wedi'u Canslo",
+  "Event Color": "Lliw digwyddiad",
+  "Choose Auto for automatic display of all events on the calendar, or Manual for manual selection.": "Dewiswch Auto ar gyfer arddangos yr holl ddigwyddiadau yn awtomatig ar y calendr, neu lawlyfr i'w ddewis â llaw.",
+  "Auto": "Awto",
   "Choose Auto for automatic display of all organizations and organizers on the calendar, or Manual for manual selection.": "Dewiswch Auto ar gyfer arddangos yr holl sefydliadau a threfnwr yn awtomatig ar y calendr, neu'r llawlyfr ar gyfer dewis â llaw.",
   "Manual": "Llawlyfr",
   "Sync method": "Dull cysoni",
