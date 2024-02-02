@@ -1,4 +1,5 @@
 let cy = {
+  "Show your Wix Bookings or Events on Calendar": "Dangoswch eich archebion neu ddigwyddiadau wix ar galendr",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Dewiswch Auto ar gyfer arddangos yr holl wasanaethau a sesiynau yn awtomatig ar y calendr, neu lawlyfr ar gyfer dewis â llaw.",
   "Show cancelled events": "Dangos Digwyddiadau wedi'u Canslo",
   "Event Color": "Lliw digwyddiad",

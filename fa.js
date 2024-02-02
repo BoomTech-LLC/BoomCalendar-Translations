@@ -1,4 +1,5 @@
 let fa = {
+  "Show your Wix Bookings or Events on Calendar": "رزرو یا رویدادهای Wix خود را در تقویم نشان دهید",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "برای نمایش خودکار کلیه خدمات و جلسات در تقویم یا کتابچه راهنمای انتخاب دستی ، خودکار را انتخاب کنید.",
   "Show cancelled events": "نمایش وقایع لغو شده",
   "Event Color": "رنگ رویداد",

@@ -1,4 +1,5 @@
 let hr = {
+  "Show your Wix Bookings or Events on Calendar": "Pokažite svoje WIX rezervacije ili događaje u kalendaru",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Odaberite Auto za automatski prikaz svih usluga i sesija na kalendaru ili priručnik za ručni odabir.",
   "Show cancelled events": "Pokažite otkazane događaje",
   "Event Color": "Boja događaja",

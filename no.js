@@ -1,4 +1,5 @@
 let no = {
+  "Show your Wix Bookings or Events on Calendar": "Vis Wix -bestillinger eller arrangementer i kalenderen",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Velg Auto for automatisk visning av alle tjenester og økter på kalenderen, eller manuell for manuelt valg.",
   "Show cancelled events": "Vis kansellerte hendelser",
   "Event Color": "Hendelsesfarge",

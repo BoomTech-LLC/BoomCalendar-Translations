@@ -1,4 +1,5 @@
 let mk = {
+  "Show your Wix Bookings or Events on Calendar": "Покажете ги вашите резервации или настани на календарот",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Изберете Auto за автоматско прикажување на сите услуги и сесии на календарот или прирачник за рачен избор.",
   "Show cancelled events": "Покажете откажани настани",
   "Event Color": "Боја на настани",

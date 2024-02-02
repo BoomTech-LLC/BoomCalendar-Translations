@@ -1,4 +1,5 @@
 let it = {
+  "Show your Wix Bookings or Events on Calendar": "Mostra le tue prenotazioni o eventi Wix sul calendario",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Scegli Auto per la visualizzazione automatica di tutti i servizi e sessioni sul calendario o manuale per la selezione manuale.",
   "Show cancelled events": "Mostra eventi cancellati",
   "Event Color": "Colore dell'evento",

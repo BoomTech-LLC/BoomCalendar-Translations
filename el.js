@@ -1,4 +1,5 @@
 let el = {
+  "Show your Wix Bookings or Events on Calendar": "Δείξτε τις κρατήσεις ή τις εκδηλώσεις σας στο ημερολόγιο",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Επιλέξτε Auto για αυτόματη οθόνη όλων των υπηρεσιών και συνεδριών στο ημερολόγιο ή εγχειρίδιο για χειροκίνητη επιλογή.",
   "Show cancelled events": "Εμφάνιση ακυρωμένων συμβάντων",
   "Event Color": "Έγχρωμη εκδήλωση",

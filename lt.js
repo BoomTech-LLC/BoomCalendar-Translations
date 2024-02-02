@@ -1,4 +1,5 @@
 let lt = {
+  "Show your Wix Bookings or Events on Calendar": "Parodykite savo „Wix“ užsakymus ar renginius kalendoriuje",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Pasirinkite automatinį visų paslaugų ir sesijų rodymą kalendoriuje arba rankiniu būdu rankiniam pasirinkimui.",
   "Show cancelled events": "Rodyti atšauktus įvykius",
   "Event Color": "Įvykio spalva",

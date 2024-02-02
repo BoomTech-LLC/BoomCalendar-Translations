@@ -1,4 +1,5 @@
 let et = {
+  "Show your Wix Bookings or Events on Calendar": "Näidake oma WIX -i broneeringuid või sündmusi kalendris",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Valige automaatne kuvamiseks kalendris kõigi teenuste ja seansside automaatseks kuvamiseks või käsitsi valimiseks käsiraamatu.",
   "Show cancelled events": "Näita tühistatud sündmusi",
   "Event Color": "Sündmuse värv",

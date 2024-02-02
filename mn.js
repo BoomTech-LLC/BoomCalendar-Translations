@@ -1,4 +1,5 @@
 let mn = {
+  "Show your Wix Bookings or Events on Calendar": "WIX ном эсвэл үйл явдлыг хуанли дээр харуул",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Календарь, гарын авлагын болон гарын авлагын тусламж, гарын авлага, гарын авлагыг автоматаар харуулахад автоматаар үзүүлэхийг сонгоно уу.",
   "Show cancelled events": "Цуцлагдсан үйл явдлыг харуул",
   "Event Color": "Арга хэмжээний өнгө",

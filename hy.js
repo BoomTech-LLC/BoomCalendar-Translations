@@ -1,4 +1,5 @@
 let hy = {
+  "Show your Wix Bookings or Events on Calendar": "Show ույց տվեք ձեր Wix ամրագրումները կամ իրադարձությունները Օրացույցում",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Ընտրեք Auto օրացույցում բոլոր ծառայությունների եւ նստաշրջանների ավտոմատ ցուցադրման կամ ձեռնարկի ընտրության ձեռնարկի ավտոմատ ցուցադրման համար:",
   "Show cancelled events": "Show ույց տալ չեղյալ հայտարարված իրադարձությունները",
   "Event Color": "Իրադարձության գույն",

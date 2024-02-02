@@ -1,4 +1,5 @@
 let sv = {
+  "Show your Wix Bookings or Events on Calendar": "Visa dina WIX -bokningar eller evenemang på kalendern",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Välj Auto för automatisk visning av alla tjänster och sessioner i kalendern eller manualen för manuell val.",
   "Show cancelled events": "Visa avbrutna händelser",
   "Event Color": "Evenemangsfärg",
