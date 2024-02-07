@@ -1,4 +1,7 @@
 let th = {
+  "This service is fully booked.": "บริการนี้ถูกจองเต็ม",
+  "All sessions are fully booked.": "การจองทั้งหมดจะถูกจองเต็ม",
+  "Registration closed": "ปิดการลงทะเบียน",
   "Show your Wix Bookings or Events on Calendar": "แสดงการจอง Wix หรือกิจกรรมของคุณในปฏิทิน",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "เลือกอัตโนมัติสำหรับการแสดงผลอัตโนมัติของบริการและเซสชันทั้งหมดในปฏิทินหรือคู่มือสำหรับการเลือกด้วยตนเอง",
   "Show cancelled events": "แสดงเหตุการณ์ที่ถูกยกเลิก",

@@ -1,4 +1,7 @@
 let sr = {
+  "This service is fully booked.": "Ова услуга је у потпуности резервисана.",
+  "All sessions are fully booked.": "Све сесије су у потпуности резервисане.",
+  "Registration closed": "Регистрација је затворена",
   "Show your Wix Bookings or Events on Calendar": "Покажите своје вик резервације или догађаје у календару",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Изаберите Ауто за аутоматско приказивање свих услуга и седница на календар или приручник за ручни избор.",
   "Show cancelled events": "Прикажи отказе догађаје",

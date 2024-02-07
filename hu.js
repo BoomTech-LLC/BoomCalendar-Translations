@@ -1,4 +1,7 @@
 let hu = {
+  "This service is fully booked.": "Ez a szolgáltatás teljesen le van foglalva.",
+  "All sessions are fully booked.": "Minden ülés teljesen le van foglalva.",
+  "Registration closed": "Zárt regisztráció",
   "Show your Wix Bookings or Events on Calendar": "Mutassa meg a Wix foglalásait vagy eseményeit a naptárban",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Válassza az Auto lehetőséget az összes szolgáltatás és munkamenet automatikus megjelenítéséhez a naptárban, vagy a kézi kiválasztáshoz.",
   "Show cancelled events": "Mutasd meg a törölt eseményeket",

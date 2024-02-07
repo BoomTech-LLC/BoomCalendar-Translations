@@ -1,4 +1,7 @@
 let hi = {
+  "This service is fully booked.": "यह सेवा पूरी तरह से बुक है।",
+  "All sessions are fully booked.": "सभी सत्र पूरी तरह से बुक हैं।",
+  "Registration closed": "बंद पंजीकरण",
   "Show your Wix Bookings or Events on Calendar": "कैलेंडर पर अपनी WIX बुकिंग या इवेंट दिखाएं",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "कैलेंडर पर सभी सेवाओं और सत्रों के स्वचालित प्रदर्शन के लिए ऑटो चुनें, या मैनुअल चयन के लिए मैनुअल।",
   "Show cancelled events": "रद्द किए गए कार्यक्रम दिखाएं",

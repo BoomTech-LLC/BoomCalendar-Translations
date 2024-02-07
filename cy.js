@@ -1,4 +1,7 @@
 let cy = {
+  "This service is fully booked.": "Mae'r gwasanaeth hwn wedi'i archebu'n llawn.",
+  "All sessions are fully booked.": "Mae pob sesiwn wedi'i harchebu'n llawn.",
+  "Registration closed": "Ar gau cofrestru",
   "Show your Wix Bookings or Events on Calendar": "Dangoswch eich archebion neu ddigwyddiadau wix ar galendr",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Dewiswch Auto ar gyfer arddangos yr holl wasanaethau a sesiynau yn awtomatig ar y calendr, neu lawlyfr ar gyfer dewis â llaw.",
   "Show cancelled events": "Dangos Digwyddiadau wedi'u Canslo",

@@ -1,4 +1,7 @@
 let sk = {
+  "This service is fully booked.": "Táto služba je plne rezervovaná.",
+  "All sessions are fully booked.": "Všetky relácie sú plne rezervované.",
+  "Registration closed": "Registrácia zatvorená",
   "Show your Wix Bookings or Events on Calendar": "Ukážte svoje rezervácie alebo udalosti WIX v kalendári",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Vyberte Auto pre automatické zobrazenie všetkých služieb a relácií v kalendári alebo manuálne pre manuálny výber.",
   "Show cancelled events": "Zobraziť zrušené udalosti",

@@ -1,4 +1,7 @@
 let bg = {
+  "This service is fully booked.": "Тази услуга е напълно резервирана.",
+  "All sessions are fully booked.": "Всички сесии са напълно резервирани.",
+  "Registration closed": "Регистрацията е затворена",
   "Show your Wix Bookings or Events on Calendar": "Покажете вашите Wix резервации или събития в календара",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Изберете Auto за автоматично показване на всички услуги и сесии в календара или ръчно за ръчен избор.",
   "Show cancelled events": "Покажи отменени събития",

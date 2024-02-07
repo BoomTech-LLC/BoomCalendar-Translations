@@ -1,4 +1,7 @@
 let eu = {
+  "This service is fully booked.": "Zerbitzu hau guztiz erreserbatuta dago.",
+  "All sessions are fully booked.": "Saio guztiak guztiz erreserbatuta daude.",
+  "Registration closed": "Izen-ematea itxita",
   "Show your Wix Bookings or Events on Calendar": "Erakutsi zure Wix erreserbak edo gertaerak egutegian",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Aukeratu egutegian zerbitzu eta saio guztien erakusteko automatikoa edo eskuzko hautaketarako eskuliburua.",
   "Show cancelled events": "Erakutsi ezeztatutako gertaerak",

@@ -1,4 +1,7 @@
 let ar = {
+  "This service is fully booked.": "تم حجز هذه الخدمة بالكامل.",
+  "All sessions are fully booked.": "يتم حجز جميع الجلسات بالكامل.",
+  "Registration closed": "التسجيل مغلق",
   "Show your Wix Bookings or Events on Calendar": "عرض حجوزاتك أو أحداث WIX على التقويم",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "اختر تلقائيًا للعرض التلقائي لجميع الخدمات والجلسات في التقويم ، أو دليل الاختيار اليدوي.",
   "Show cancelled events": "عرض الأحداث الملغاة",

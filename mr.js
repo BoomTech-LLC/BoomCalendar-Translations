@@ -1,4 +1,7 @@
 let mr = {
+  "This service is fully booked.": "ही सेवा पूर्णपणे बुक केली आहे.",
+  "All sessions are fully booked.": "सर्व सत्रे पूर्णपणे बुक केली आहेत.",
+  "Registration closed": "नोंदणी बंद",
   "Show your Wix Bookings or Events on Calendar": "कॅलेंडरवर आपले WIX बुकिंग किंवा कार्यक्रम दर्शवा",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "कॅलेंडरवरील सर्व सेवा आणि सत्रांच्या स्वयंचलित प्रदर्शनासाठी ऑटो निवडा किंवा मॅन्युअल निवडीसाठी मॅन्युअल.",
   "Show cancelled events": "रद्द केलेले कार्यक्रम दर्शवा",

@@ -1,4 +1,7 @@
 let ka = {
+  "This service is fully booked.": "ეს მომსახურება სრულად არის დაჯავშნილი.",
+  "All sessions are fully booked.": "ყველა სესია სრულად არის დაჯავშნილი.",
+  "Registration closed": "რეგისტრაცია დახურულია",
   "Show your Wix Bookings or Events on Calendar": "აჩვენეთ თქვენი Wix შეკვეთები ან ღონისძიებები კალენდარში",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "შეარჩიეთ Auto კალენდარში ყველა სერვისისა და სესიის ავტომატური ჩვენებისთვის, ან სახელმძღვანელო სახელმძღვანელოს შერჩევისთვის.",
   "Show cancelled events": "გაუქმებული მოვლენების ჩვენება",

@@ -1,4 +1,7 @@
 let zh = {
+  "This service is fully booked.": "这项服务已预订。",
+  "All sessions are fully booked.": "所有会议均已预订。",
+  "Registration closed": "注册关闭",
   "Show your Wix Bookings or Events on Calendar": "在日历上显示您的WIX预订或事件",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "选择自动显示日历上所有服务和会话的自动显示，或者手动选择手册。",
   "Show cancelled events": "显示取消的事件",

@@ -1,4 +1,7 @@
 let tr = {
+  "This service is fully booked.": "Bu hizmet tamamen rezerve edildi.",
+  "All sessions are fully booked.": "Tüm oturumlar tamamen rezerve edilir.",
+  "Registration closed": "Kayıt kapalı",
   "Show your Wix Bookings or Events on Calendar": "Wix rezervasyonlarınızı veya etkinliklerinizi takvimle gösterin",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Takvimdeki tüm hizmetlerin ve oturumların otomatik görüntülenmesi için otomatik veya manuel seçim için manuel seçin.",
   "Show cancelled events": "İptal edilen olayları göster",

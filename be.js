@@ -1,4 +1,7 @@
 let be = {
+  "This service is fully booked.": "Гэтая паслуга цалкам забраніравана.",
+  "All sessions are fully booked.": "Усе заняткі цалкам забраніраваны.",
+  "Registration closed": "Рэгістрацыя закрыта",
   "Show your Wix Bookings or Events on Calendar": "Пакажыце свае браніраванне Wix альбо падзеі ў календары",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Выберыце Аўтаматычнае для аўтаматычнага адлюстравання ўсіх службаў і сесій у календары альбо ўручную для ўручную.",
   "Show cancelled events": "Паказаць адмененыя падзеі",

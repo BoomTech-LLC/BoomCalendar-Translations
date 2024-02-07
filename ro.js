@@ -1,4 +1,7 @@
 let ro = {
+  "This service is fully booked.": "Acest serviciu este complet rezervat.",
+  "All sessions are fully booked.": "Toate sesiunile sunt rezervate complet.",
+  "Registration closed": "Înregistrare închisă",
   "Show your Wix Bookings or Events on Calendar": "Arată -ți rezervările sau evenimentele Wix în calendar",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Alegeți Auto pentru afișarea automată a tuturor serviciilor și sesiunilor din calendar sau manual pentru selecție manuală.",
   "Show cancelled events": "Afișați evenimente anulate",
