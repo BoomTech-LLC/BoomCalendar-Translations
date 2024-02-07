@@ -1,4 +1,7 @@
 let lv = {
+  "This service is fully booked.": "Šis pakalpojums ir pilnībā rezervēts.",
+  "All sessions are fully booked.": "Visas sesijas ir pilnībā rezervētas.",
+  "Registration closed": "Reģistrācija slēgta",
   "Show your Wix Bookings or Events on Calendar": "Parādiet savu Wix rezervāciju vai pasākumus kalendārā",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Visu pakalpojumu un sesiju automātiskai parādīšanai kalendārā izvēlieties Automātisko automātisko parādīšanu, vai manuālai manuālai atlasei.",
   "Show cancelled events": "Rādīt atceltos notikumus",

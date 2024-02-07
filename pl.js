@@ -1,4 +1,7 @@
 let pl = {
+  "This service is fully booked.": "Ta usługa jest w pełni zarezerwowana.",
+  "All sessions are fully booked.": "Wszystkie sesje są w pełni zarezerwowane.",
+  "Registration closed": "Rejestracja zamknięta",
   "Show your Wix Bookings or Events on Calendar": "Pokaż swoje rezerwacje lub wydarzenia WIX w kalendarzu",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Wybierz Auto do automatycznego wyświetlania wszystkich usług i sesji w kalendarzu lub podręczniku do wyboru ręcznego.",
   "Show cancelled events": "Pokaż anulowane wydarzenia",

@@ -1,4 +1,7 @@
 let ja = {
+  "This service is fully booked.": "このサービスは完全に予約されています。",
+  "All sessions are fully booked.": "すべてのセッションは完全に予約されています。",
+  "Registration closed": "登録は終了しました",
   "Show your Wix Bookings or Events on Calendar": "カレンダーでWIXの予約またはイベントを表示します",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "カレンダー上のすべてのサービスとセッションの自動表示の自動を選択するか、マニュアルを選択するためのマニュアルを選択します。",
   "Show cancelled events": "キャンセルされたイベントを表示します",

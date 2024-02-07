@@ -1,4 +1,7 @@
 let lt = {
+  "This service is fully booked.": "Ši paslauga yra visiškai rezervuota.",
+  "All sessions are fully booked.": "Visos sesijos yra visiškai rezervuotos.",
+  "Registration closed": "Registracija uždaryta",
   "Show your Wix Bookings or Events on Calendar": "Parodykite savo „Wix“ užsakymus ar renginius kalendoriuje",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Pasirinkite automatinį visų paslaugų ir sesijų rodymą kalendoriuje arba rankiniu būdu rankiniam pasirinkimui.",
   "Show cancelled events": "Rodyti atšauktus įvykius",

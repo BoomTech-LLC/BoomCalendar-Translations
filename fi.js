@@ -1,4 +1,7 @@
 let fi = {
+  "This service is fully booked.": "Tämä palvelu on täysin varattu.",
+  "All sessions are fully booked.": "Kaikki istunnot on varattu täysin.",
+  "Registration closed": "Rekisteröinti suljettu",
   "Show your Wix Bookings or Events on Calendar": "Näytä Wix -varauksesi tai tapahtumat kalenterissa",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Valitse Auto kaikkien kalenterin palvelujen ja istuntojen automaattisen näytön tai manuaalisen valinnan käsikirjan.",
   "Show cancelled events": "Näytä peruutetut tapahtumat",

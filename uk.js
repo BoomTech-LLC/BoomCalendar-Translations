@@ -1,4 +1,7 @@
 let uk = {
+  "This service is fully booked.": "Ця послуга повністю заброньована.",
+  "All sessions are fully booked.": "Усі сеанси повністю заброньовані.",
+  "Registration closed": "Реєстрація закрита",
   "Show your Wix Bookings or Events on Calendar": "Покажіть свої бронювання або події WIX у календарі",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Виберіть автоматичне відображення всіх служб та сеансів у календарі або вручну для вибору вручну.",
   "Show cancelled events": "Показати скасовані події",

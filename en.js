@@ -1,4 +1,7 @@
 let en = {
+  "This service is fully booked.": "This service is fully booked.",
+  "All sessions are fully booked.": "All sessions are fully booked.",
+  "Registration closed": "Registration closed",
   "Show your Wix Bookings or Events on Calendar": "Show your Wix Bookings or Events on Calendar",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.",
   "Show cancelled events": "Show cancelled events",

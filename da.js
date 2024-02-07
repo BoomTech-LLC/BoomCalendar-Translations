@@ -1,4 +1,7 @@
 let da = {
+  "This service is fully booked.": "Denne service er fuldt booket.",
+  "All sessions are fully booked.": "Alle sessioner er fuldt bookede.",
+  "Registration closed": "Registrering lukket",
   "Show your Wix Bookings or Events on Calendar": "Vis dine Wix -bookinger eller begivenheder på kalender",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Vælg Auto til automatisk visning af alle tjenester og sessioner i kalenderen eller manuel til manuel valg.",
   "Show cancelled events": "Vis annullerede begivenheder",

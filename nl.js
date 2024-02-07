@@ -1,4 +1,7 @@
 let nl = {
+  "This service is fully booked.": "Deze service is volledig geboekt.",
+  "All sessions are fully booked.": "Alle sessies zijn volledig geboekt.",
+  "Registration closed": "Registratie gesloten",
   "Show your Wix Bookings or Events on Calendar": "Toon uw Wix -boekingen of evenementen op agenda",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Kies Auto voor automatisch weergave van alle services en sessies op de kalender of handleiding voor handmatige selectie.",
   "Show cancelled events": "Toon geannuleerde evenementen",

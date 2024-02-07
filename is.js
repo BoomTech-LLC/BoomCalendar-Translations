@@ -1,4 +1,7 @@
 let is = {
+  "This service is fully booked.": "Þessi þjónusta er að fullu bókuð.",
+  "All sessions are fully booked.": "Allar lotur eru að fullu bókaðar.",
+  "Registration closed": "Skráning lokað",
   "Show your Wix Bookings or Events on Calendar": "Sýndu Wix bókanir þínar eða viðburði á dagatalinu",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Veldu Auto fyrir sjálfvirka birtingu allra þjónustu og funda á dagatalinu, eða handvirkt fyrir handvirkt val.",
   "Show cancelled events": "Sýna aflýst atburði",

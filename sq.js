@@ -1,4 +1,7 @@
 let sq = {
+  "This service is fully booked.": "Ky shërbim është i rezervuar plotësisht.",
+  "All sessions are fully booked.": "Të gjitha seancat janë të rezervuara plotësisht.",
+  "Registration closed": "Regjistrimi i mbyllur",
   "Show your Wix Bookings or Events on Calendar": "Tregoni prenotimet ose ngjarjet tuaja Wix në kalendar",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "Zgjidhni Auto për shfaqjen automatike të të gjitha shërbimeve dhe seancave në kalendar, ose manual për zgjedhjen manuale.",
   "Show cancelled events": "Shfaq ngjarjet e anuluara",

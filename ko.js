@@ -1,4 +1,7 @@
 let ko = {
+  "This service is fully booked.": "이 서비스는 완전히 예약되었습니다.",
+  "All sessions are fully booked.": "모든 세션은 완전히 예약되었습니다.",
+  "Registration closed": "등록이 마감되었습니다",
   "Show your Wix Bookings or Events on Calendar": "캘린더에 Wix 예약 또는 이벤트를 표시하십시오",
   "Choose Auto for automatic display of all services and sessions on the calendar, or Manual for manual selection.": "캘린더에 모든 서비스 및 세션을 자동으로 표시하거나 수동 선택 수동으로 자동 표시하려면 자동 선택하십시오.",
   "Show cancelled events": "취소 된 이벤트를 보여줍니다",
