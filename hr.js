@@ -1,4 +1,5 @@
 let hr = {
+  "Show participants": "Show sudionika",
   "This service is fully booked.": "Ova je usluga u potpunosti rezervirana.",
   "All sessions are fully booked.": "Sve su sesije u potpunosti rezervirane.",
   "Registration closed": "Registracija zatvorena",

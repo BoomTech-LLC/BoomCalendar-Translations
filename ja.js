@@ -1,4 +1,5 @@
 let ja = {
+  "Show participants": "ショーの参加者",
   "This service is fully booked.": "このサービスは完全に予約されています。",
   "All sessions are fully booked.": "すべてのセッションは完全に予約されています。",
   "Registration closed": "登録は終了しました",

@@ -1,4 +1,5 @@
 let id = {
+  "Show participants": "Tunjukkan peserta",
   "This service is fully booked.": "Layanan ini sepenuhnya dipesan.",
   "All sessions are fully booked.": "Semua sesi dipesan sepenuhnya.",
   "Registration closed": "Pendaftaran ditutup",

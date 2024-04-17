@@ -1,4 +1,5 @@
 let bg = {
+  "Show participants": "Покажи участници",
   "This service is fully booked.": "Тази услуга е напълно резервирана.",
   "All sessions are fully booked.": "Всички сесии са напълно резервирани.",
   "Registration closed": "Регистрацията е затворена",

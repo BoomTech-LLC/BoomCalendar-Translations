@@ -1,4 +1,5 @@
 let ko = {
+  "Show participants": "참가자 표시",
   "This service is fully booked.": "이 서비스는 완전히 예약되었습니다.",
   "All sessions are fully booked.": "모든 세션은 완전히 예약되었습니다.",
   "Registration closed": "등록이 마감되었습니다",

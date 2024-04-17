@@ -1,4 +1,5 @@
 let fa = {
+  "Show participants": "شرکت کنندگان را نشان دهید",
   "This service is fully booked.": "این سرویس کاملاً رزرو شده است.",
   "All sessions are fully booked.": "همه جلسات کاملاً رزرو شده است.",
   "Registration closed": "ثبت نام بسته شد",

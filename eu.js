@@ -1,4 +1,5 @@
 let eu = {
+  "Show participants": "Erakutsi parte-hartzaileak",
   "This service is fully booked.": "Zerbitzu hau guztiz erreserbatuta dago.",
   "All sessions are fully booked.": "Saio guztiak guztiz erreserbatuta daude.",
   "Registration closed": "Izen-ematea itxita",

@@ -1,4 +1,5 @@
 let hy = {
+  "Show participants": "Ցույց տալ մասնակիցներին",
   "This service is fully booked.": "Այս ծառայությունը ամբողջությամբ ամրագրված է:",
   "All sessions are fully booked.": "Բոլոր նստաշրջաններն ամբողջությամբ ամրագրված են:",
   "Registration closed": "Գրանցումը փակ է",

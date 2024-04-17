@@ -1,4 +1,5 @@
 let ar = {
+  "Show participants": "إظهار المشاركين",
   "This service is fully booked.": "تم حجز هذه الخدمة بالكامل.",
   "All sessions are fully booked.": "يتم حجز جميع الجلسات بالكامل.",
   "Registration closed": "التسجيل مغلق",

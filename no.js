@@ -1,4 +1,5 @@
 let no = {
+  "Show participants": "Vis deltakere",
   "This service is fully booked.": "Denne tjenesten er fullbooket.",
   "All sessions are fully booked.": "Alle økter er fullbooket.",
   "Registration closed": "Registreringen ble avsluttet",

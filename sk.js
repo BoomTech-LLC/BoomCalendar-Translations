@@ -1,4 +1,5 @@
 let sk = {
+  "Show participants": "Zobraziť účastníkov",
   "This service is fully booked.": "Táto služba je plne rezervovaná.",
   "All sessions are fully booked.": "Všetky relácie sú plne rezervované.",
   "Registration closed": "Registrácia zatvorená",
