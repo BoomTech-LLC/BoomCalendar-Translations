@@ -1,4 +1,5 @@
 let th = {
+  "Show participants": "แสดงผู้เข้าร่วม",
   "This service is fully booked.": "บริการนี้ถูกจองเต็ม",
   "All sessions are fully booked.": "การจองทั้งหมดจะถูกจองเต็ม",
   "Registration closed": "ปิดการลงทะเบียน",

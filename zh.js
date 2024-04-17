@@ -1,4 +1,5 @@
 let zh = {
+  "Show participants": "显示参与者",
   "This service is fully booked.": "这项服务已预订。",
   "All sessions are fully booked.": "所有会议均已预订。",
   "Registration closed": "注册关闭",

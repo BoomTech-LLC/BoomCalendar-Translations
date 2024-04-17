@@ -1,4 +1,5 @@
 let el = {
+  "Show participants": "Εμφάνιση συμμετεχόντων",
   "This service is fully booked.": "Αυτή η υπηρεσία είναι πλήρως κράτηση.",
   "All sessions are fully booked.": "Όλες οι συνεδρίες είναι πλήρως κράτηση.",
   "Registration closed": "Έλεγχοι εγγραφής",

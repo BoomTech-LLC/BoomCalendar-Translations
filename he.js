@@ -1,4 +1,5 @@
 let he = {
+  "Show participants": "הצג משתתפים",
   "This service is fully booked.": "שירות זה מוזמן במלואו.",
   "All sessions are fully booked.": "כל המפגשים מוזמנים במלואם.",
   "Registration closed": "ההרשמה סגורה",

@@ -1,4 +1,5 @@
 let nl = {
+  "Show participants": "Laat deelnemers zien",
   "This service is fully booked.": "Deze service is volledig geboekt.",
   "All sessions are fully booked.": "Alle sessies zijn volledig geboekt.",
   "Registration closed": "Registratie gesloten",

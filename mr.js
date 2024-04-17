@@ -1,4 +1,5 @@
 let mr = {
+  "Show participants": "सहभागी दर्शवा",
   "This service is fully booked.": "ही सेवा पूर्णपणे बुक केली आहे.",
   "All sessions are fully booked.": "सर्व सत्रे पूर्णपणे बुक केली आहेत.",
   "Registration closed": "नोंदणी बंद",

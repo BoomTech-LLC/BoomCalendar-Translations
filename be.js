@@ -1,4 +1,5 @@
 let be = {
+  "Show participants": "Шоў удзельнікаў",
   "This service is fully booked.": "Гэтая паслуга цалкам забраніравана.",
   "All sessions are fully booked.": "Усе заняткі цалкам забраніраваны.",
   "Registration closed": "Рэгістрацыя закрыта",

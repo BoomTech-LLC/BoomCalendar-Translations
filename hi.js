@@ -1,4 +1,5 @@
 let hi = {
+  "Show participants": "प्रतिभागियों को दिखाएँ",
   "This service is fully booked.": "यह सेवा पूरी तरह से बुक है।",
   "All sessions are fully booked.": "सभी सत्र पूरी तरह से बुक हैं।",
   "Registration closed": "बंद पंजीकरण",

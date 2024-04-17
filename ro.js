@@ -1,4 +1,5 @@
 let ro = {
+  "Show participants": "Arată participanții",
   "This service is fully booked.": "Acest serviciu este complet rezervat.",
   "All sessions are fully booked.": "Toate sesiunile sunt rezervate complet.",
   "Registration closed": "Înregistrare închisă",

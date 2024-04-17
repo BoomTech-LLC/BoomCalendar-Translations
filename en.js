@@ -1,4 +1,5 @@
 let en = {
+  "Show participants": "Show participants",
   "This service is fully booked.": "This service is fully booked.",
   "All sessions are fully booked.": "All sessions are fully booked.",
   "Registration closed": "Registration closed",

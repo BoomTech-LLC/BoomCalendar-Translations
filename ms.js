@@ -1,4 +1,5 @@
 let ms = {
+  "Show participants": "Tunjukkan peserta",
   "This service is fully booked.": "Perkhidmatan ini ditempah sepenuhnya.",
   "All sessions are fully booked.": "Semua sesi telah ditempah sepenuhnya.",
   "Registration closed": "Pendaftaran ditutup",

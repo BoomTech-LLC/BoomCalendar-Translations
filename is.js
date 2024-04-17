@@ -1,4 +1,5 @@
 let is = {
+  "Show participants": "Sýna þátttakendur",
   "This service is fully booked.": "Þessi þjónusta er að fullu bókuð.",
   "All sessions are fully booked.": "Allar lotur eru að fullu bókaðar.",
   "Registration closed": "Skráning lokað",

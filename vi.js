@@ -1,4 +1,5 @@
 let vi = {
+  "Show participants": "Hiển thị người tham gia",
   "This service is fully booked.": "Dịch vụ này được đặt đầy đủ.",
   "All sessions are fully booked.": "Tất cả các phiên được đặt đầy đủ.",
   "Registration closed": "Đăng ký đóng cửa",

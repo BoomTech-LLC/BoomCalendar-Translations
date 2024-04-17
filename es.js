@@ -1,4 +1,5 @@
 let es = {
+  "Show participants": "Mostrar participantes",
   "This service is fully booked.": "Este servicio está completamente reservado.",
   "All sessions are fully booked.": "Todas las sesiones están completamente reservadas.",
   "Registration closed": "Registro cerrado",

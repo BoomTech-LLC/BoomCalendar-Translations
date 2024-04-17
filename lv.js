@@ -1,4 +1,5 @@
 let lv = {
+  "Show participants": "Šova dalībnieki",
   "This service is fully booked.": "Šis pakalpojums ir pilnībā rezervēts.",
   "All sessions are fully booked.": "Visas sesijas ir pilnībā rezervētas.",
   "Registration closed": "Reģistrācija slēgta",

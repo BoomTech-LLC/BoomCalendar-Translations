@@ -1,4 +1,5 @@
 let sv = {
+  "Show participants": "Visa deltagare",
   "This service is fully booked.": "Den här tjänsten är fullbokad.",
   "All sessions are fully booked.": "Alla sessioner är fullbokade.",
   "Registration closed": "Registrering stängd",

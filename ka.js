@@ -1,4 +1,5 @@
 let ka = {
+  "Show participants": "მონაწილეების ჩვენება",
   "This service is fully booked.": "ეს მომსახურება სრულად არის დაჯავშნილი.",
   "All sessions are fully booked.": "ყველა სესია სრულად არის დაჯავშნილი.",
   "Registration closed": "რეგისტრაცია დახურულია",

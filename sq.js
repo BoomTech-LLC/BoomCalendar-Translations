@@ -1,4 +1,5 @@
 let sq = {
+  "Show participants": "Trego pjesëmarrësit",
   "This service is fully booked.": "Ky shërbim është i rezervuar plotësisht.",
   "All sessions are fully booked.": "Të gjitha seancat janë të rezervuara plotësisht.",
   "Registration closed": "Regjistrimi i mbyllur",

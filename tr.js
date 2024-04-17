@@ -1,4 +1,5 @@
 let tr = {
+  "Show participants": "Katılımcıları göster",
   "This service is fully booked.": "Bu hizmet tamamen rezerve edildi.",
   "All sessions are fully booked.": "Tüm oturumlar tamamen rezerve edilir.",
   "Registration closed": "Kayıt kapalı",
