@@ -1,4 +1,6 @@
 let sv = {
+  "More Info": "Mer information",
+  "Book Now": "Boka nu",
   "Show participants": "Visa deltagare",
   "This service is fully booked.": "Den här tjänsten är fullbokad.",
   "All sessions are fully booked.": "Alla sessioner är fullbokade.",

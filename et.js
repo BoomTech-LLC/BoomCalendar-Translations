@@ -1,4 +1,6 @@
 let et = {
+  "More Info": "Rohkem infot",
+  "Book Now": "Broneeri kohe",
   "Show participants": "Näituse osalejad",
   "This service is fully booked.": "See teenus on täielikult broneeritud.",
   "All sessions are fully booked.": "Kõik seansid on täielikult broneeritud.",

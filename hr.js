@@ -1,4 +1,6 @@
 let hr = {
+  "More Info": "Više informacija",
+  "Book Now": "Rezervirajte sada",
   "Show participants": "Show sudionika",
   "This service is fully booked.": "Ova je usluga u potpunosti rezervirana.",
   "All sessions are fully booked.": "Sve su sesije u potpunosti rezervirane.",

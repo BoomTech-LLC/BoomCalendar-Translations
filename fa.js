@@ -1,4 +1,6 @@
 let fa = {
+  "More Info": "اطلاعات بیشتر",
+  "Book Now": "اکنون ثبت کن",
   "Show participants": "شرکت کنندگان را نشان دهید",
   "This service is fully booked.": "این سرویس کاملاً رزرو شده است.",
   "All sessions are fully booked.": "همه جلسات کاملاً رزرو شده است.",

@@ -1,4 +1,6 @@
 let fi = {
+  "More Info": "Lisätietoja",
+  "Book Now": "Varaa nyt",
   "Show participants": "Näytä osallistujat",
   "This service is fully booked.": "Tämä palvelu on täysin varattu.",
   "All sessions are fully booked.": "Kaikki istunnot on varattu täysin.",

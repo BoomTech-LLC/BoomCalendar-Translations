@@ -1,4 +1,6 @@
 let ar = {
+  "More Info": "مزيد من المعلومات",
+  "Book Now": "احجز الآن",
   "Show participants": "إظهار المشاركين",
   "This service is fully booked.": "تم حجز هذه الخدمة بالكامل.",
   "All sessions are fully booked.": "يتم حجز جميع الجلسات بالكامل.",

@@ -1,4 +1,6 @@
 let ru = {
+  "More Info": "Больше информации",
+  "Book Now": "Забронируйте сейчас",
   "Show participants": "Показать участников",
   "This service is fully booked.": "Эта услуга полностью забронирована.",
   "All sessions are fully booked.": "Все сессии полностью забронированы.",

@@ -1,4 +1,6 @@
 let cs = {
+  "More Info": "Více informací",
+  "Book Now": "Zarezervovat hned",
   "Show participants": "Zobrazit účastníky",
   "This service is fully booked.": "Tato služba je plně rezervována.",
   "All sessions are fully booked.": "Všechna relace jsou plně rezervována.",

@@ -1,4 +1,6 @@
 let el = {
+  "More Info": "Περισσότερες πληροφορίες",
+  "Book Now": "Κάνετε κράτηση τώρα",
   "Show participants": "Εμφάνιση συμμετεχόντων",
   "This service is fully booked.": "Αυτή η υπηρεσία είναι πλήρως κράτηση.",
   "All sessions are fully booked.": "Όλες οι συνεδρίες είναι πλήρως κράτηση.",

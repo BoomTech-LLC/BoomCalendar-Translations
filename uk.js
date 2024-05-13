@@ -1,4 +1,6 @@
 let uk = {
+  "More Info": "Більше інформації",
+  "Book Now": "Резервувати зараз",
   "Show participants": "Шоу учасників",
   "This service is fully booked.": "Ця послуга повністю заброньована.",
   "All sessions are fully booked.": "Усі сеанси повністю заброньовані.",

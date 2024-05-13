@@ -1,4 +1,6 @@
 let pl = {
+  "More Info": "Więcej informacji",
+  "Book Now": "Rezerwuj teraz",
   "Show participants": "Pokaż uczestników",
   "This service is fully booked.": "Ta usługa jest w pełni zarezerwowana.",
   "All sessions are fully booked.": "Wszystkie sesje są w pełni zarezerwowane.",

@@ -1,4 +1,6 @@
 let th = {
+  "More Info": "ข้อมูลเพิ่มเติม",
+  "Book Now": "จองตอนนี้",
   "Show participants": "แสดงผู้เข้าร่วม",
   "This service is fully booked.": "บริการนี้ถูกจองเต็ม",
   "All sessions are fully booked.": "การจองทั้งหมดจะถูกจองเต็ม",

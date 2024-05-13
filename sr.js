@@ -1,4 +1,6 @@
 let sr = {
+  "More Info": "Више информација",
+  "Book Now": "Резервишите одмах",
   "Show participants": "Прикажи учеснике",
   "This service is fully booked.": "Ова услуга је у потпуности резервисана.",
   "All sessions are fully booked.": "Све сесије су у потпуности резервисане.",

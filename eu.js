@@ -1,4 +1,6 @@
 let eu = {
+  "More Info": "Informazio gehiago",
+  "Book Now": "Erreserbatu orain",
   "Show participants": "Erakutsi parte-hartzaileak",
   "This service is fully booked.": "Zerbitzu hau guztiz erreserbatuta dago.",
   "All sessions are fully booked.": "Saio guztiak guztiz erreserbatuta daude.",

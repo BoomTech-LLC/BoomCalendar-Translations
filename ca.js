@@ -1,4 +1,6 @@
 let ca = {
+  "More Info": "Més informació",
+  "Book Now": "Reservar ara",
   "Show participants": "Mostra als participants",
   "This service is fully booked.": "Aquest servei està completament reservat.",
   "All sessions are fully booked.": "Totes les sessions estan completament reservades.",

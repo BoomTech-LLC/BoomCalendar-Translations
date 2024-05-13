@@ -1,4 +1,6 @@
 let zh = {
+  "More Info": "更多信息",
+  "Book Now": "现在预订",
   "Show participants": "显示参与者",
   "This service is fully booked.": "这项服务已预订。",
   "All sessions are fully booked.": "所有会议均已预订。",

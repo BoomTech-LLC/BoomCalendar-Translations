@@ -1,4 +1,6 @@
 let ms = {
+  "More Info": "Maklumat Lanjut",
+  "Book Now": "Tempah sekarang",
   "Show participants": "Tunjukkan peserta",
   "This service is fully booked.": "Perkhidmatan ini ditempah sepenuhnya.",
   "All sessions are fully booked.": "Semua sesi telah ditempah sepenuhnya.",

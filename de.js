@@ -1,4 +1,6 @@
 let de = {
+  "More Info": "Mehr Info",
+  "Book Now": "Buchen",
   "Show participants": "Teilnehmer anzeigen",
   "This service is fully booked.": "Dieser Service ist ausgebucht.",
   "All sessions are fully booked.": "Alle Sitzungen sind ausgebucht.",

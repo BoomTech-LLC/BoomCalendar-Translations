@@ -1,4 +1,6 @@
 let vi = {
+  "More Info": "Thêm thông tin",
+  "Book Now": "Đặt bây giờ",
   "Show participants": "Hiển thị người tham gia",
   "This service is fully booked.": "Dịch vụ này được đặt đầy đủ.",
   "All sessions are fully booked.": "Tất cả các phiên được đặt đầy đủ.",

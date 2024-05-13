@@ -1,4 +1,6 @@
 let da = {
+  "More Info": "Mere info",
+  "Book Now": "Book nu",
   "Show participants": "Vis deltagere",
   "This service is fully booked.": "Denne service er fuldt booket.",
   "All sessions are fully booked.": "Alle sessioner er fuldt bookede.",

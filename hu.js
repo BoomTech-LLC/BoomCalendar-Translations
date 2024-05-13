@@ -1,4 +1,6 @@
 let hu = {
+  "More Info": "Több információ",
+  "Book Now": "Foglald le most",
   "Show participants": "Mutasd a résztvevőket",
   "This service is fully booked.": "Ez a szolgáltatás teljesen le van foglalva.",
   "All sessions are fully booked.": "Minden ülés teljesen le van foglalva.",

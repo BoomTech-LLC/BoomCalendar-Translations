@@ -1,4 +1,6 @@
 let hy = {
+  "More Info": "Լրացուցիչ տեղեկություններ",
+  "Book Now": "Ամրագրեք հիմա",
   "Show participants": "Ցույց տալ մասնակիցներին",
   "This service is fully booked.": "Այս ծառայությունը ամբողջությամբ ամրագրված է:",
   "All sessions are fully booked.": "Բոլոր նստաշրջաններն ամբողջությամբ ամրագրված են:",

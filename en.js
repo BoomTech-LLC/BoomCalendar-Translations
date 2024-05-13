@@ -1,4 +1,6 @@
 let en = {
+  "More Info": "More Info",
+  "Book Now": "Book Now",
   "Show participants": "Show participants",
   "This service is fully booked.": "This service is fully booked.",
   "All sessions are fully booked.": "All sessions are fully booked.",

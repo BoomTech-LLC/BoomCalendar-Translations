@@ -1,4 +1,6 @@
 let tl = {
+  "More Info": "Karagdagang impormasyon",
+  "Book Now": "Mag-book na",
   "Show participants": "Ipakita ang mga kalahok",
   "This service is fully booked.": "Ang serbisyong ito ay ganap na nai -book.",
   "All sessions are fully booked.": "Ang lahat ng mga sesyon ay ganap na nai -book.",

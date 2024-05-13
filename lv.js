@@ -1,4 +1,6 @@
 let lv = {
+  "More Info": "Vairāk informācijas",
+  "Book Now": "Rezervēt tagad",
   "Show participants": "Šova dalībnieki",
   "This service is fully booked.": "Šis pakalpojums ir pilnībā rezervēts.",
   "All sessions are fully booked.": "Visas sesijas ir pilnībā rezervētas.",

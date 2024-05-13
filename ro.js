@@ -1,4 +1,6 @@
 let ro = {
+  "More Info": "Mai multe informatii",
+  "Book Now": "Rezerva acum",
   "Show participants": "Arată participanții",
   "This service is fully booked.": "Acest serviciu este complet rezervat.",
   "All sessions are fully booked.": "Toate sesiunile sunt rezervate complet.",

@@ -1,4 +1,6 @@
 let cy = {
+  "More Info": "Mwy o wybodaeth",
+  "Book Now": "Archebwch nawr",
   "Show participants": "Dangos cyfranogwyr",
   "This service is fully booked.": "Mae'r gwasanaeth hwn wedi'i archebu'n llawn.",
   "All sessions are fully booked.": "Mae pob sesiwn wedi'i harchebu'n llawn.",

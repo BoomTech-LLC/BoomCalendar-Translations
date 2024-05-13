@@ -1,4 +1,6 @@
 let mn = {
+  "More Info": "Илүү мэдээлэл",
+  "Book Now": "Одоо захиалаарай",
   "Show participants": "Оролцогчдыг харуулах",
   "This service is fully booked.": "Энэ үйлчилгээг бүрэн захиалсан байна.",
   "All sessions are fully booked.": "Бүх хуралдаан бүрэн захиалсан байна.",

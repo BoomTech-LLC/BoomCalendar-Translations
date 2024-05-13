@@ -1,4 +1,6 @@
 let ja = {
+  "More Info": "より詳しい情報",
+  "Book Now": "今予約する",
   "Show participants": "ショーの参加者",
   "This service is fully booked.": "このサービスは完全に予約されています。",
   "All sessions are fully booked.": "すべてのセッションは完全に予約されています。",

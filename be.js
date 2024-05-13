@@ -1,4 +1,6 @@
 let be = {
+  "More Info": "Дадатковая інфармацыя",
+  "Book Now": "Забраніраваць зараз",
   "Show participants": "Шоў удзельнікаў",
   "This service is fully booked.": "Гэтая паслуга цалкам забраніравана.",
   "All sessions are fully booked.": "Усе заняткі цалкам забраніраваны.",

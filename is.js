@@ -1,4 +1,6 @@
 let is = {
+  "More Info": "Meiri upplýsingar",
+  "Book Now": "Bókaðu núna",
   "Show participants": "Sýna þátttakendur",
   "This service is fully booked.": "Þessi þjónusta er að fullu bókuð.",
   "All sessions are fully booked.": "Allar lotur eru að fullu bókaðar.",

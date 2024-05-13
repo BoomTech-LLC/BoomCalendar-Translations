@@ -1,4 +1,6 @@
 let mk = {
+  "More Info": "Повеќе информации",
+  "Book Now": "Резервирајте сега",
   "Show participants": "Прикажи учесници",
   "This service is fully booked.": "Оваа услуга е целосно резервирана.",
   "All sessions are fully booked.": "Сите сесии се целосно резервирани.",
