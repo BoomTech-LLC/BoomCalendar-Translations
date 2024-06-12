@@ -1,4 +1,6 @@
 let ms = {
+  "Limited": "Terhad",
+  "Unlimited": "Tidak terhad",
   "Thank you message title": "Tajuk mesej terima kasih",
   "Submit button text": "Hantar teks butang",
   "Registration button text": "Teks butang pendaftaran",

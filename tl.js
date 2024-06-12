@@ -1,4 +1,6 @@
 let tl = {
+  "Limited": "Limitado",
+  "Unlimited": "Walang limitasyon",
   "Thank you message title": "Salamat pamagat ng mensahe",
   "Submit button text": "Isumite ang text ng button",
   "Registration button text": "Text ng button sa pagpaparehistro",

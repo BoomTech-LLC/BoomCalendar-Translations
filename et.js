@@ -1,4 +1,6 @@
 let et = {
+  "Limited": "Piiratud",
+  "Unlimited": "Piiramatu",
   "Thank you message title": "Tänusõnumi pealkiri",
   "Submit button text": "Esita nupu tekst",
   "Registration button text": "Registreerimisnupu tekst",

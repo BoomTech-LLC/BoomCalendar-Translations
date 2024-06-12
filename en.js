@@ -1,4 +1,6 @@
 let en = {
+  "Limited": "Limited",
+  "Unlimited": "Unlimited",
   "Thank you message title": "Thank you message title",
   "Submit button text": "Submit button text",
   "Registration button text": "Registration button text",

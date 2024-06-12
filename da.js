@@ -1,4 +1,6 @@
 let da = {
+  "Limited": "Begrænset",
+  "Unlimited": "Ubegrænset",
   "Thank you message title": "Tak besked titel",
   "Submit button text": "Send knaptekst",
   "Registration button text": "Tekst til registreringsknap",

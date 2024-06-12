@@ -1,4 +1,6 @@
 let no = {
+  "Limited": "Begrenset",
+  "Unlimited": "Ubegrenset",
   "Thank you message title": "Takk meldingstittel",
   "Submit button text": "Send inn knapptekst",
   "Registration button text": "Tekst på registreringsknapp",

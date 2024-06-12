@@ -1,4 +1,6 @@
 let hi = {
+  "Limited": "सीमित",
+  "Unlimited": "असीमित",
   "Thank you message title": "धन्यवाद संदेश शीर्षक",
   "Submit button text": "बटन टेक्स्ट सबमिट करें",
   "Registration button text": "पंजीकरण बटन पाठ",

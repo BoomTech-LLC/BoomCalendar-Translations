@@ -1,4 +1,6 @@
 let is = {
+  "Limited": "Takmarkað",
+  "Unlimited": "Ótakmarkað",
   "Thank you message title": "Þakka þér skilaboð titill",
   "Submit button text": "Senda hnappatexta",
   "Registration button text": "Texti skráningarhnapps",

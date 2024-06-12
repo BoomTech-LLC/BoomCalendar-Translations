@@ -1,4 +1,6 @@
 let ar = {
+  "Limited": "محدود",
+  "Unlimited": "غير محدود",
   "Thank you message title": "شكرا لك عنوان الرسالة",
   "Submit button text": "إرسال نص الزر",
   "Registration button text": "نص زر التسجيل",

@@ -1,4 +1,6 @@
 let be = {
+  "Limited": "Абмежаваны",
+  "Unlimited": "Неабмежаваны",
   "Thank you message title": "Назва падзячнага паведамлення",
   "Submit button text": "Адправіць тэкст кнопкі",
   "Registration button text": "Тэкст кнопкі рэгістрацыі",

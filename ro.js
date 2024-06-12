@@ -1,4 +1,6 @@
 let ro = {
+  "Limited": "Limitat",
+  "Unlimited": "Nelimitat",
   "Thank you message title": "Titlul mesajului de mulțumire",
   "Submit button text": "Trimiteți textul butonului",
   "Registration button text": "Textul butonului de înregistrare",

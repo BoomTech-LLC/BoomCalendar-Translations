@@ -1,4 +1,6 @@
 let sv = {
+  "Limited": "Begränsad",
+  "Unlimited": "Obegränsat",
   "Thank you message title": "Tack meddelande rubrik",
   "Submit button text": "Skicka knapptext",
   "Registration button text": "Text för registreringsknapp",

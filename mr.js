@@ -1,4 +1,6 @@
 let mr = {
+  "Limited": "मर्यादित",
+  "Unlimited": "अमर्यादित",
   "Thank you message title": "धन्यवाद संदेश शीर्षक",
   "Submit button text": "बटण मजकूर सबमिट करा",
   "Registration button text": "नोंदणी बटण मजकूर",

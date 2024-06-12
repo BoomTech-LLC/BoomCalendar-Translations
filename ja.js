@@ -1,4 +1,6 @@
 let ja = {
+  "Limited": "限定",
+  "Unlimited": "無制限",
   "Thank you message title": "ありがとうメッセージのタイトル",
   "Submit button text": "送信ボタンのテキスト",
   "Registration button text": "登録ボタンのテキスト",

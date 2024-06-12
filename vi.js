@@ -1,4 +1,6 @@
 let vi = {
+  "Limited": "Giới hạn",
+  "Unlimited": "Vô hạn",
   "Thank you message title": "Tiêu đề tin nhắn cảm ơn",
   "Submit button text": "Gửi văn bản nút",
   "Registration button text": "Văn bản nút đăng ký",

@@ -1,4 +1,6 @@
 let fi = {
+  "Limited": "Rajoitettu",
+  "Unlimited": "Rajoittamaton",
   "Thank you message title": "Kiitos viestin otsikko",
   "Submit button text": "Lähetä-painikkeen teksti",
   "Registration button text": "Rekisteröintipainikkeen teksti",

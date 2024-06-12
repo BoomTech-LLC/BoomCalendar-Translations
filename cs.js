@@ -1,4 +1,6 @@
 let cs = {
+  "Limited": "Omezený",
+  "Unlimited": "Neomezený",
   "Thank you message title": "Název děkovné zprávy",
   "Submit button text": "Text tlačítka Odeslat",
   "Registration button text": "Text tlačítka registrace",

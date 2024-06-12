@@ -1,4 +1,6 @@
 let de = {
+  "Limited": "Begrenzt",
+  "Unlimited": "Unbegrenzt",
   "Thank you message title": "Vielen Dank, Titel der Nachricht",
   "Submit button text": "Schaltflächentext senden",
   "Registration button text": "Text der Registrierungsschaltfläche",

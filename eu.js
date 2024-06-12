@@ -1,4 +1,6 @@
 let eu = {
+  "Limited": "Mugatua",
+  "Unlimited": "Mugagabea",
   "Thank you message title": "Eskerrik asko mezuaren izenburua",
   "Submit button text": "Bidali botoiaren testua",
   "Registration button text": "Erregistratzeko botoiaren testua",

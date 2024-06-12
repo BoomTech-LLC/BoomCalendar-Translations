@@ -1,4 +1,6 @@
 let he = {
+  "Limited": "מוגבל",
+  "Unlimited": "ללא הגבלה",
   "Thank you message title": "כותרת הודעת תודה",
   "Submit button text": "שלח טקסט לחצן",
   "Registration button text": "טקסט כפתור הרשמה",

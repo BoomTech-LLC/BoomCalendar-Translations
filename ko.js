@@ -1,4 +1,6 @@
 let ko = {
+  "Limited": "제한된",
+  "Unlimited": "제한 없는",
   "Thank you message title": "감사 메시지 제목",
   "Submit button text": "제출 버튼 텍스트",
   "Registration button text": "등록 버튼 텍스트",

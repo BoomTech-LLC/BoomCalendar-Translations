@@ -1,4 +1,6 @@
 let hr = {
+  "Limited": "ograničeno",
+  "Unlimited": "Neograničen",
   "Thank you message title": "Naslov poruke zahvale",
   "Submit button text": "Pošalji tekst gumba",
   "Registration button text": "Tekst gumba za registraciju",

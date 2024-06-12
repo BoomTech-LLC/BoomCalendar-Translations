@@ -1,4 +1,6 @@
 let nl = {
+  "Limited": "Beperkt",
+  "Unlimited": "Onbeperkt",
   "Thank you message title": "Titel van dankbericht",
   "Submit button text": "Knoptekst verzenden",
   "Registration button text": "Tekst registratieknop",
