@@ -1,4 +1,5 @@
 let eu = {
+  "Stop repeating here": "Utzi hemen errepikatzeari",
   "Limited": "Mugatua",
   "Unlimited": "Mugagabea",
   "Thank you message title": "Eskerrik asko mezuaren izenburua",

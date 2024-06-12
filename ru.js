@@ -1,4 +1,5 @@
 let ru = {
+  "Stop repeating here": "Хватит повторять здесь",
   "Limited": "Ограниченное",
   "Unlimited": "Безлимитный",
   "Thank you message title": "Спасибо, заголовок сообщения",

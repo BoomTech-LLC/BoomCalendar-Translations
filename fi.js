@@ -1,4 +1,5 @@
 let fi = {
+  "Stop repeating here": "Lopeta toistaminen tähän",
   "Limited": "Rajoitettu",
   "Unlimited": "Rajoittamaton",
   "Thank you message title": "Kiitos viestin otsikko",

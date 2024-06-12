@@ -1,4 +1,5 @@
 let lt = {
+  "Stop repeating here": "Nustokite kartoti čia",
   "Limited": "Ribotas",
   "Unlimited": "Neribota",
   "Thank you message title": "Ačiū žinutės pavadinimas",

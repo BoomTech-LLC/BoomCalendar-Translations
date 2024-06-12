@@ -1,4 +1,5 @@
 let ka = {
+  "Stop repeating here": "შეწყვიტე აქ გამეორება",
   "Limited": "შეზღუდული",
   "Unlimited": "შეუზღუდავი",
   "Thank you message title": "მადლობის წერილის სათაური",

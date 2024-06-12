@@ -1,4 +1,5 @@
 let sv = {
+  "Stop repeating here": "Sluta upprepa här",
   "Limited": "Begränsad",
   "Unlimited": "Obegränsat",
   "Thank you message title": "Tack meddelande rubrik",

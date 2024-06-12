@@ -1,4 +1,5 @@
 let da = {
+  "Stop repeating here": "Stop med at gentage her",
   "Limited": "Begrænset",
   "Unlimited": "Ubegrænset",
   "Thank you message title": "Tak besked titel",

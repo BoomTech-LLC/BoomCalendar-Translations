@@ -1,4 +1,5 @@
 let th = {
+  "Stop repeating here": "หยุดทำซ้ำที่นี่",
   "Limited": "ถูก จำกัด",
   "Unlimited": "ไม่ จำกัด",
   "Thank you message title": "ขอบคุณชื่อข้อความ",

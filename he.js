@@ -1,4 +1,5 @@
 let he = {
+  "Stop repeating here": "תפסיק לחזור כאן",
   "Limited": "מוגבל",
   "Unlimited": "ללא הגבלה",
   "Thank you message title": "כותרת הודעת תודה",

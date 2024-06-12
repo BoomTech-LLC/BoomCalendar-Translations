@@ -1,4 +1,5 @@
 let ar = {
+  "Stop repeating here": "توقف عن التكرار هنا",
   "Limited": "محدود",
   "Unlimited": "غير محدود",
   "Thank you message title": "شكرا لك عنوان الرسالة",

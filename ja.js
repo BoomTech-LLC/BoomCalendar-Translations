@@ -1,4 +1,5 @@
 let ja = {
+  "Stop repeating here": "ここで繰り返すのはやめてください",
   "Limited": "限定",
   "Unlimited": "無制限",
   "Thank you message title": "ありがとうメッセージのタイトル",

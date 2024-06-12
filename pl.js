@@ -1,4 +1,5 @@
 let pl = {
+  "Stop repeating here": "Przestań się tu powtarzać",
   "Limited": "Ograniczony",
   "Unlimited": "Nieograniczony",
   "Thank you message title": "Dziękuję tytuł wiadomości",

@@ -1,4 +1,5 @@
 let cy = {
+  "Stop repeating here": "Stopiwch ailadrodd yma",
   "Limited": "Cyfyngedig",
   "Unlimited": "Diderfyn",
   "Thank you message title": "Teitl neges diolch",

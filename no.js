@@ -1,4 +1,5 @@
 let no = {
+  "Stop repeating here": "Slutt å gjenta her",
   "Limited": "Begrenset",
   "Unlimited": "Ubegrenset",
   "Thank you message title": "Takk meldingstittel",

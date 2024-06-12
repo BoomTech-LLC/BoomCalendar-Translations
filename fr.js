@@ -1,4 +1,5 @@
 let fr = {
+  "Stop repeating here": "Arrêtez de répéter ici",
   "Limited": "Limité",
   "Unlimited": "Illimité",
   "Thank you message title": "Titre du message de remerciement",

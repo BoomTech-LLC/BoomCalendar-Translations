@@ -1,4 +1,5 @@
 let et = {
+  "Stop repeating here": "Lõpetage siin kordamine",
   "Limited": "Piiratud",
   "Unlimited": "Piiramatu",
   "Thank you message title": "Tänusõnumi pealkiri",

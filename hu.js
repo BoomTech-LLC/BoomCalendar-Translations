@@ -1,4 +1,5 @@
 let hu = {
+  "Stop repeating here": "Itt hagyja abba az ismétlést",
   "Limited": "Korlátozott",
   "Unlimited": "Korlátlan",
   "Thank you message title": "Köszönöm üzenet címe",

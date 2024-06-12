@@ -1,4 +1,5 @@
 let lv = {
+  "Stop repeating here": "Beidz šeit atkārtot",
   "Limited": "Ierobežots",
   "Unlimited": "Neierobežots",
   "Thank you message title": "Paldies ziņojuma virsraksts",

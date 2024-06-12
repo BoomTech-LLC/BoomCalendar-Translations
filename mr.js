@@ -1,4 +1,5 @@
 let mr = {
+  "Stop repeating here": "येथे पुनरावृत्ती थांबवा",
   "Limited": "मर्यादित",
   "Unlimited": "अमर्यादित",
   "Thank you message title": "धन्यवाद संदेश शीर्षक",

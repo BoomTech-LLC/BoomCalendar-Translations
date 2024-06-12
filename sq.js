@@ -1,4 +1,5 @@
 let sq = {
+  "Stop repeating here": "Ndaloni së përsërituri këtu",
   "Limited": "I kufizuar",
   "Unlimited": "E pakufizuar",
   "Thank you message title": "Titulli i mesazhit falenderues",

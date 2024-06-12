@@ -1,4 +1,5 @@
 let sr = {
+  "Stop repeating here": "Престани да се понављаш овде",
   "Limited": "Ограничен",
   "Unlimited": "Неограничено",
   "Thank you message title": "Наслов поруке хвала",

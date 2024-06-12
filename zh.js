@@ -1,4 +1,5 @@
 let zh = {
+  "Stop repeating here": "这里停止重复",
   "Limited": "有限的",
   "Unlimited": "无限",
   "Thank you message title": "谢谢留言标题",

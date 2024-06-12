@@ -1,4 +1,5 @@
 let be = {
+  "Stop repeating here": "Хопіць паўтараць тут",
   "Limited": "Абмежаваны",
   "Unlimited": "Неабмежаваны",
   "Thank you message title": "Назва падзячнага паведамлення",
