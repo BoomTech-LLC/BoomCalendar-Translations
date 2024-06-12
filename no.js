@@ -1,4 +1,6 @@
 let no = {
+  "Delete Category": "Slett kategori",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Vil du virkelig slette valgt kategori? Når den er fjernet, kan den ikke angres.",
   "OK": "OK",
   "Exclude": "Utelukke",
   "Custom recurrence": "Tilpasset gjentakelse",

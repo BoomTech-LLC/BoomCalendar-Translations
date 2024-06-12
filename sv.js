@@ -1,4 +1,6 @@
 let sv = {
+  "Delete Category": "Ta bort kategori",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Vill du verkligen ta bort den valda kategorin? När den har tagits bort kan den inte ångras.",
   "OK": "OK",
   "Exclude": "Utesluta",
   "Custom recurrence": "Anpassad upprepning",

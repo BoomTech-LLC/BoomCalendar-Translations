@@ -1,4 +1,6 @@
 let ro = {
+  "Delete Category": "Ștergeți categoria",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Chiar doriți să ștergeți categoria selectată? Odată eliminat, nu poate fi anulat.",
   "OK": "Bine",
   "Exclude": "Exclude",
   "Custom recurrence": "Repetă personalizată",

@@ -1,4 +1,6 @@
 let fi = {
+  "Delete Category": "Poista luokka",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Haluatko todella poistaa valitun luokan? Kun se on poistettu, sitä ei voi kumota.",
   "OK": "OK",
   "Exclude": "Sulje pois",
   "Custom recurrence": "Mukautettu toistuminen",

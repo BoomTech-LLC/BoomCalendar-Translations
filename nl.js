@@ -1,4 +1,6 @@
 let nl = {
+  "Delete Category": "Categorie verwijderen",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Wilt u de geselecteerde categorie echt verwijderen? Eenmaal verwijderd, kan het niet meer ongedaan worden gemaakt.",
   "OK": "OK",
   "Exclude": "Uitsluiten",
   "Custom recurrence": "Aangepaste herhaling",

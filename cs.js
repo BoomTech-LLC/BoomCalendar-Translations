@@ -1,4 +1,6 @@
 let cs = {
+  "Delete Category": "Smazat kategorii",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Opravdu chcete smazat vybranou kategorii? Po odstranění nelze vrátit zpět.",
   "OK": "OK",
   "Exclude": "Vyloučit",
   "Custom recurrence": "Vlastní opakování",

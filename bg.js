@@ -1,4 +1,6 @@
 let bg = {
+  "Delete Category": "Изтриване на категория",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Наистина ли искате да изтриете избраната категория? Веднъж премахната, не може да бъде отменена.",
   "OK": "Добре",
   "Exclude": "Изключете",
   "Custom recurrence": "Персонализирано повторение",

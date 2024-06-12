@@ -1,4 +1,6 @@
 let id = {
+  "Delete Category": "Hapus Kategori",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Apakah Anda benar-benar ingin menghapus kategori yang dipilih? Setelah dihapus, tidak dapat dibatalkan.",
   "OK": "OKE",
   "Exclude": "Mengecualikan",
   "Custom recurrence": "Pengulangan khusus",

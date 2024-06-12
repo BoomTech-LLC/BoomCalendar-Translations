@@ -1,4 +1,6 @@
 let fr = {
+  "Delete Category": "Supprimer la catégorie",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Voulez-vous vraiment supprimer la catégorie sélectionnée ? Une fois retiré, il ne peut être annulé.",
   "OK": "D'ACCORD",
   "Exclude": "Exclure",
   "Custom recurrence": "Récurrence personnalisée",

@@ -1,4 +1,6 @@
 let hu = {
+  "Delete Category": "Kategória törlése",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Biztosan törölni szeretné a kiválasztott kategóriát? Az eltávolítás után nem lehet visszavonni.",
   "OK": "rendben",
   "Exclude": "Kizárás",
   "Custom recurrence": "Egyedi ismétlődés",

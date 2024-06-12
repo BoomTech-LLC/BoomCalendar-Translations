@@ -1,4 +1,6 @@
 let pl = {
+  "Delete Category": "Usuń kategorię",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Czy na pewno chcesz usunąć wybraną kategorię? Raz usuniętej operacji nie można cofnąć.",
   "OK": "OK",
   "Exclude": "Wykluczać",
   "Custom recurrence": "Niestandardowe powtarzanie",

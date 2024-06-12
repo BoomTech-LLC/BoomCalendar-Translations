@@ -1,4 +1,6 @@
 let el = {
+  "Delete Category": "Διαγραφή Κατηγορίας",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Θέλετε πραγματικά να διαγράψετε την επιλεγμένη κατηγορία; Αφού αφαιρεθεί, δεν μπορεί να αναιρεθεί.",
   "OK": "Εντάξει",
   "Exclude": "Αποκλείω",
   "Custom recurrence": "Προσαρμοσμένη επανάληψη",

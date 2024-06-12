@@ -1,4 +1,6 @@
 let fa = {
+  "Delete Category": "حذف دسته",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "آیا واقعاً می خواهید دسته انتخابی را حذف کنید؟ پس از حذف، قابل بازگشت نیست.",
   "OK": "خوب",
   "Exclude": "مستثنی کردن",
   "Custom recurrence": "عود سفارشی",

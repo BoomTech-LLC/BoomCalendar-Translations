@@ -1,4 +1,6 @@
 let he = {
+  "Delete Category": "מחק קטגוריה",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "האם אתה באמת רוצה למחוק את הקטגוריה שנבחרה? לאחר הסרה, לא ניתן לבטל.",
   "OK": "בסדר",
   "Exclude": "אל תכלול",
   "Custom recurrence": "הישנות מותאמת אישית",

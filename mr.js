@@ -1,4 +1,6 @@
 let mr = {
+  "Delete Category": "श्रेणी हटवा",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "तुम्हाला खरोखर निवडलेली श्रेणी हटवायची आहे का? एकदा काढल्यानंतर, पूर्ववत केले जाऊ शकत नाही.",
   "OK": "ठीक आहे",
   "Exclude": "वगळा",
   "Custom recurrence": "सानुकूल पुनरावृत्ती",

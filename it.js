@@ -1,4 +1,6 @@
 let it = {
+  "Delete Category": "Elimina categoria",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Vuoi davvero eliminare la categoria selezionata? Una volta rimosso, non può essere annullato.",
   "OK": "OK",
   "Exclude": "Escludere",
   "Custom recurrence": "Ricorrenza personalizzata",

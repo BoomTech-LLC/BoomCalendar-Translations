@@ -1,4 +1,6 @@
 let hy = {
+  "Delete Category": "Ջնջել կատեգորիան",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Իսկապե՞ս ցանկանում եք ջնջել ընտրված կատեգորիան: Հեռացնելուց հետո այն հնարավոր չէ հետարկել:",
   "OK": "լավ",
   "Exclude": "Բացառել",
   "Custom recurrence": "Պատվերով կրկնություն",

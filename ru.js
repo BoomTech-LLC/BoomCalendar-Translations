@@ -1,4 +1,6 @@
 let ru = {
+  "Delete Category": "Удалить категорию",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Вы действительно хотите удалить выбранную категорию? После удаления его невозможно отменить.",
   "OK": "ХОРОШО",
   "Exclude": "Исключать",
   "Custom recurrence": "Пользовательское повторение",

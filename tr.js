@@ -1,4 +1,6 @@
 let tr = {
+  "Delete Category": "Kategoriyi Sil",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Seçilen kategoriyi gerçekten silmek istiyor musunuz? Bir kez kaldırıldığında geri alınamaz.",
   "OK": "TAMAM",
   "Exclude": "Hariç tutmak",
   "Custom recurrence": "Özel yineleme",

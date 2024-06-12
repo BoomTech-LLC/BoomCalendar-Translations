@@ -1,4 +1,6 @@
 let et = {
+  "Delete Category": "Kustuta kategooria",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Kas soovite tõesti valitud kategooria kustutada? Pärast eemaldamist ei saa seda tagasi võtta.",
   "OK": "Okei",
   "Exclude": "Välistada",
   "Custom recurrence": "Kohandatud kordus",

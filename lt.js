@@ -1,4 +1,6 @@
 let lt = {
+  "Delete Category": "Ištrinti kategoriją",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Ar tikrai norite ištrinti pasirinktą kategoriją? Pašalinus, jo anuliuoti negalima.",
   "OK": "Gerai",
   "Exclude": "Neįtraukti",
   "Custom recurrence": "Pasirinktinis pasikartojimas",

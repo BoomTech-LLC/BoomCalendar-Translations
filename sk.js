@@ -1,4 +1,6 @@
 let sk = {
+  "Delete Category": "Odstrániť kategóriu",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Naozaj chcete odstrániť vybratú kategóriu? Po odstránení sa nedá vrátiť späť.",
   "OK": "OK",
   "Exclude": "Vylúčiť",
   "Custom recurrence": "Vlastné opakovanie",

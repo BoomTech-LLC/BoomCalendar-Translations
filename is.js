@@ -1,4 +1,6 @@
 let is = {
+  "Delete Category": "Eyða flokki",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Viltu virkilega eyða völdum flokki? Þegar það hefur verið fjarlægt er ekki hægt að afturkalla það.",
   "OK": "Allt í lagi",
   "Exclude": "Útiloka",
   "Custom recurrence": "Sérsniðin endurtekning",

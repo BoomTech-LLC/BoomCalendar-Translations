@@ -1,4 +1,6 @@
 let hr = {
+  "Delete Category": "Izbriši kategoriju",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Želite li stvarno izbrisati odabranu kategoriju? Nakon uklanjanja ne može se poništiti.",
   "OK": "u redu",
   "Exclude": "Isključiti",
   "Custom recurrence": "Prilagođeno ponavljanje",
