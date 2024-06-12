@@ -1,4 +1,9 @@
 let pt = {
+  "OK": "OK",
+  "Exclude": "Excluir",
+  "Custom recurrence": "Recorrência personalizada",
+  "Duplicate": "Duplicado",
+  "Delete": "Excluir",
   "Published": "Publicados",
   "Drafts": "Rascunhos",
   "User events": "Eventos do usuário",

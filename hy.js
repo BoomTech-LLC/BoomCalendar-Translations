@@ -1,4 +1,9 @@
 let hy = {
+  "OK": "լավ",
+  "Exclude": "Բացառել",
+  "Custom recurrence": "Պատվերով կրկնություն",
+  "Duplicate": "Կրկնօրինակեք",
+  "Delete": "Ջնջել",
   "Published": "Հրատարակվել է",
   "Drafts": "Սևագրեր",
   "User events": "Օգտատիրոջ իրադարձություններ",

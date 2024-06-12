@@ -1,4 +1,9 @@
 let hi = {
+  "OK": "ठीक है",
+  "Exclude": "निकालना",
+  "Custom recurrence": "कस्टम पुनरावृत्ति",
+  "Duplicate": "डुप्लिकेट",
+  "Delete": "मिटाना",
   "Published": "प्रकाशित",
   "Drafts": "ड्राफ्ट",
   "User events": "उपयोगकर्ता घटनाएँ",

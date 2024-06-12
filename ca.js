@@ -1,4 +1,9 @@
 let ca = {
+  "OK": "D'acord",
+  "Exclude": "Excloure",
+  "Custom recurrence": "Recurrència personalitzada",
+  "Duplicate": "Duplicat",
+  "Delete": "Suprimeix",
   "Published": "Publicat",
   "Drafts": "Esborranys",
   "User events": "Esdeveniments d'usuari",

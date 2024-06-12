@@ -1,4 +1,9 @@
 let no = {
+  "OK": "OK",
+  "Exclude": "Utelukke",
+  "Custom recurrence": "Tilpasset gjentakelse",
+  "Duplicate": "Duplisere",
+  "Delete": "Slett",
   "Published": "Publisert",
   "Drafts": "Utkast",
   "User events": "Brukerhendelser",

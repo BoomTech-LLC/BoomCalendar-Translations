@@ -1,4 +1,9 @@
 let vi = {
+  "OK": "ĐƯỢC RỒI",
+  "Exclude": "Loại trừ",
+  "Custom recurrence": "Lặp lại tùy chỉnh",
+  "Duplicate": "Nhân bản",
+  "Delete": "Xóa bỏ",
   "Published": "Được phát hành",
   "Drafts": "Bản nháp",
   "User events": "Sự kiện người dùng",

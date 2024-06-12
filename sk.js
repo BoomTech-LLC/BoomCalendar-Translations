@@ -1,4 +1,9 @@
 let sk = {
+  "OK": "OK",
+  "Exclude": "Vylúčiť",
+  "Custom recurrence": "Vlastné opakovanie",
+  "Duplicate": "Duplicitné",
+  "Delete": "Odstrániť",
   "Published": "Publikovaný",
   "Drafts": "Koncepty",
   "User events": "Používateľské udalosti",

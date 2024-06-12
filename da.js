@@ -1,4 +1,9 @@
 let da = {
+  "OK": "Okay",
+  "Exclude": "Udelukke",
+  "Custom recurrence": "Tilpasset gentagelse",
+  "Duplicate": "Duplikere",
+  "Delete": "Slet",
   "Published": "Udgivet",
   "Drafts": "Udkast",
   "User events": "Brugerhændelser",

@@ -1,4 +1,9 @@
 let he = {
+  "OK": "בסדר",
+  "Exclude": "אל תכלול",
+  "Custom recurrence": "הישנות מותאמת אישית",
+  "Duplicate": "לְשַׁכְפֵּל",
+  "Delete": "לִמְחוֹק",
   "Published": "יצא לאור",
   "Drafts": "דַמקָה",
   "User events": "אירועי משתמש",

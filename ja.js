@@ -1,4 +1,9 @@
 let ja = {
+  "OK": "わかりました",
+  "Exclude": "除外する",
+  "Custom recurrence": "カスタムの繰り返し",
+  "Duplicate": "重複",
+  "Delete": "消去",
   "Published": "発行済み",
   "Drafts": "下書き",
   "User events": "ユーザーイベント",

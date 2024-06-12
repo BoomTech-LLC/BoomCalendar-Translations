@@ -1,4 +1,9 @@
 let hu = {
+  "OK": "rendben",
+  "Exclude": "Kizárás",
+  "Custom recurrence": "Egyedi ismétlődés",
+  "Duplicate": "Másolat",
+  "Delete": "Töröl",
   "Published": "Közzétett",
   "Drafts": "Dámajáték",
   "User events": "Felhasználói események",

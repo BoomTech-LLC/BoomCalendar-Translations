@@ -1,4 +1,9 @@
 let de = {
+  "OK": "OK",
+  "Exclude": "Ausschließen",
+  "Custom recurrence": "Benutzerdefinierte Wiederholung",
+  "Duplicate": "Duplikat",
+  "Delete": "Löschen",
   "Published": "Veröffentlicht",
   "Drafts": "Entwürfe",
   "User events": "Benutzerereignisse",

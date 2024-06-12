@@ -1,4 +1,9 @@
 let ro = {
+  "OK": "Bine",
+  "Exclude": "Exclude",
+  "Custom recurrence": "Repetă personalizată",
+  "Duplicate": "Duplicat",
+  "Delete": "Șterge",
   "Published": "Publicat",
   "Drafts": "Ciorne",
   "User events": "Evenimentele utilizatorului",

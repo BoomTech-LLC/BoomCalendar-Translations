@@ -1,4 +1,9 @@
 let lv = {
+  "OK": "labi",
+  "Exclude": "Izslēgt",
+  "Custom recurrence": "Pielāgots atkārtošanās",
+  "Duplicate": "Dublikāts",
+  "Delete": "Dzēst",
   "Published": "Publicēts",
   "Drafts": "Melnraksti",
   "User events": "Lietotāju notikumi",

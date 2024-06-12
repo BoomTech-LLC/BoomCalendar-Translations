@@ -1,4 +1,9 @@
 let mr = {
+  "OK": "ठीक आहे",
+  "Exclude": "वगळा",
+  "Custom recurrence": "सानुकूल पुनरावृत्ती",
+  "Duplicate": "नक्कल",
+  "Delete": "हटवा",
   "Published": "प्रकाशित",
   "Drafts": "मसुदे",
   "User events": "वापरकर्ता इव्हेंट",

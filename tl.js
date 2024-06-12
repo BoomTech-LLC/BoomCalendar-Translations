@@ -1,4 +1,9 @@
 let tl = {
+  "OK": "OK",
+  "Exclude": "Ibukod",
+  "Custom recurrence": "Pasadyang pag-ulit",
+  "Duplicate": "Kopyahin",
+  "Delete": "Tanggalin",
   "Published": "Nai-publish",
   "Drafts": "Mga draft",
   "User events": "Mga kaganapan ng user",

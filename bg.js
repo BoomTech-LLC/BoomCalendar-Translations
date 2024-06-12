@@ -1,4 +1,9 @@
 let bg = {
+  "OK": "Добре",
+  "Exclude": "Изключете",
+  "Custom recurrence": "Персонализирано повторение",
+  "Duplicate": "Дубликат",
+  "Delete": "Изтрий",
   "Published": "Публикувано",
   "Drafts": "Чернови",
   "User events": "Потребителски събития",

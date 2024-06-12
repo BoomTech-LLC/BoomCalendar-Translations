@@ -1,4 +1,9 @@
 let ka = {
+  "OK": "კარგი",
+  "Exclude": "გამორიცხეთ",
+  "Custom recurrence": "მორგებული განმეორება",
+  "Duplicate": "დუბლიკატი",
+  "Delete": "წაშლა",
   "Published": "გამოქვეყნდა",
   "Drafts": "ნახაზები",
   "User events": "მომხმარებლის მოვლენები",

@@ -1,4 +1,9 @@
 let it = {
+  "OK": "OK",
+  "Exclude": "Escludere",
+  "Custom recurrence": "Ricorrenza personalizzata",
+  "Duplicate": "Duplicare",
+  "Delete": "Eliminare",
   "Published": "Pubblicato",
   "Drafts": "bozze",
   "User events": "Eventi utente",

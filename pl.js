@@ -1,4 +1,9 @@
 let pl = {
+  "OK": "OK",
+  "Exclude": "Wykluczać",
+  "Custom recurrence": "Niestandardowe powtarzanie",
+  "Duplicate": "Duplikować",
+  "Delete": "Usuwać",
   "Published": "Opublikowany",
   "Drafts": "Warcaby",
   "User events": "Wydarzenia użytkownika",

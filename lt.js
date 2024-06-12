@@ -1,4 +1,9 @@
 let lt = {
+  "OK": "Gerai",
+  "Exclude": "Neįtraukti",
+  "Custom recurrence": "Pasirinktinis pasikartojimas",
+  "Duplicate": "Pasikartoti",
+  "Delete": "Ištrinti",
   "Published": "Paskelbta",
   "Drafts": "Juodraščiai",
   "User events": "Vartotojo įvykiai",

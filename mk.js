@@ -1,4 +1,9 @@
 let mk = {
+  "OK": "добро",
+  "Exclude": "Исклучи",
+  "Custom recurrence": "Прилагодено повторување",
+  "Duplicate": "Дупликат",
+  "Delete": "Избриши",
   "Published": "Објавено",
   "Drafts": "Нацртови",
   "User events": "Кориснички настани",

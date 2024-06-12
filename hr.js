@@ -1,4 +1,9 @@
 let hr = {
+  "OK": "u redu",
+  "Exclude": "Isključiti",
+  "Custom recurrence": "Prilagođeno ponavljanje",
+  "Duplicate": "Duplikat",
+  "Delete": "Izbrisati",
   "Published": "Objavljeno",
   "Drafts": "Nacrti",
   "User events": "Korisnički događaji",

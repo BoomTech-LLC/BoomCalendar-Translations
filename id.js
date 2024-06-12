@@ -1,4 +1,9 @@
 let id = {
+  "OK": "OKE",
+  "Exclude": "Mengecualikan",
+  "Custom recurrence": "Pengulangan khusus",
+  "Duplicate": "Duplikat",
+  "Delete": "Menghapus",
   "Published": "Diterbitkan",
   "Drafts": "Draf",
   "User events": "Acara pengguna",

@@ -1,4 +1,9 @@
 let zh = {
+  "OK": "好的",
+  "Exclude": "排除",
+  "Custom recurrence": "自定义重复",
+  "Duplicate": "复制",
+  "Delete": "删除",
   "Published": "已发表",
   "Drafts": "草稿",
   "User events": "用户事件",

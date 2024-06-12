@@ -1,4 +1,9 @@
 let ko = {
+  "OK": "좋아요",
+  "Exclude": "들어오지 못하게 하다",
+  "Custom recurrence": "맞춤 반복",
+  "Duplicate": "복제하다",
+  "Delete": "삭제",
   "Published": "게시됨",
   "Drafts": "체커",
   "User events": "사용자 이벤트",

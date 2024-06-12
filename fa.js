@@ -1,4 +1,9 @@
 let fa = {
+  "OK": "خوب",
+  "Exclude": "مستثنی کردن",
+  "Custom recurrence": "عود سفارشی",
+  "Duplicate": "تکراری",
+  "Delete": "حذف",
   "Published": "منتشر شده",
   "Drafts": "پیش نویس",
   "User events": "رویدادهای کاربر",

@@ -1,4 +1,9 @@
 let es = {
+  "OK": "DE ACUERDO",
+  "Exclude": "Excluir",
+  "Custom recurrence": "Recurrencia personalizada",
+  "Duplicate": "Duplicar",
+  "Delete": "Borrar",
   "Published": "Publicado",
   "Drafts": "Borradores",
   "User events": "Eventos de usuario",
