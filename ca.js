@@ -1,4 +1,6 @@
 let ca = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Aquest és un esdeveniment recurrent! Qualsevol canvi fet a aquest esdeveniment, s'aplicarà a totes les repeticions.",
+  "Repeated event": "Esdeveniment repetit",
   "Delete Category": "Suprimeix la categoria",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Realment voleu suprimir la categoria seleccionada? Un cop eliminat, no es pot desfer.",
   "OK": "D'acord",

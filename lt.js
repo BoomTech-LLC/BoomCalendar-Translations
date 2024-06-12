@@ -1,4 +1,6 @@
 let lt = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Tai pasikartojantis įvykis! Bet kokie šio įvykio pakeitimai bus taikomi visiems pasikartojimams.",
+  "Repeated event": "Pakartotinis įvykis",
   "Delete Category": "Ištrinti kategoriją",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Ar tikrai norite ištrinti pasirinktą kategoriją? Pašalinus, jo anuliuoti negalima.",
   "OK": "Gerai",

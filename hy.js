@@ -1,4 +1,6 @@
 let hy = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Սա կրկնվող իրադարձություն է: Այս իրադարձության մեջ կատարված ցանկացած փոփոխություն կկիրառվի բոլոր կրկնությունների վրա:",
+  "Repeated event": "Կրկնվող իրադարձություն",
   "Delete Category": "Ջնջել կատեգորիան",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Իսկապե՞ս ցանկանում եք ջնջել ընտրված կատեգորիան: Հեռացնելուց հետո այն հնարավոր չէ հետարկել:",
   "OK": "լավ",

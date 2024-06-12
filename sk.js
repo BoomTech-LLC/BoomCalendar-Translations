@@ -1,4 +1,6 @@
 let sk = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Toto je opakujúca sa udalosť! Akékoľvek zmeny vykonané v tejto udalosti sa použijú na všetky opakovania.",
+  "Repeated event": "Opakovaná udalosť",
   "Delete Category": "Odstrániť kategóriu",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Naozaj chcete odstrániť vybratú kategóriu? Po odstránení sa nedá vrátiť späť.",
   "OK": "OK",

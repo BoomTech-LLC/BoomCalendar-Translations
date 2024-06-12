@@ -1,4 +1,6 @@
 let mr = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "ही एक आवर्ती घटना आहे! या कार्यक्रमात केलेले कोणतेही बदल, सर्व पुनरावृत्तींना लागू केले जातील.",
+  "Repeated event": "पुनरावृत्ती घटना",
   "Delete Category": "श्रेणी हटवा",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "तुम्हाला खरोखर निवडलेली श्रेणी हटवायची आहे का? एकदा काढल्यानंतर, पूर्ववत केले जाऊ शकत नाही.",
   "OK": "ठीक आहे",

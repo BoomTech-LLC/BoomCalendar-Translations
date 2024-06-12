@@ -1,4 +1,6 @@
 let en = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "This is a recurring event! Any changes made to this event, will be applied to all repetitions.",
+  "Repeated event": "Repeated event",
   "Delete Category": "Delete Category",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Do you really want to delete selected category? Once removed, cannot be undone.",
   "OK": "OK",

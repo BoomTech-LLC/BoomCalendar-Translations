@@ -1,4 +1,6 @@
 let tl = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Ito ay isang paulit-ulit na kaganapan! Anumang mga pagbabagong ginawa sa kaganapang ito, ay ilalapat sa lahat ng mga pag-uulit.",
+  "Repeated event": "Paulit-ulit na pangyayari",
   "Delete Category": "Tanggalin ang Kategorya",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Gusto mo ba talagang tanggalin ang napiling kategorya? Kapag naalis na, hindi na mababawi.",
   "OK": "OK",

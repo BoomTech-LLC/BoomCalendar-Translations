@@ -1,4 +1,6 @@
 let eu = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Hau errepikatzen den gertaera da! Gertaera honetan egindako edozein aldaketa errepikapen guztietan aplikatuko da.",
+  "Repeated event": "Gertaera errepikatua",
   "Delete Category": "Ezabatu Kategoria",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Benetan nahi al duzu hautatutako kategoria ezabatu? Kendu ondoren, ezin da desegin.",
   "OK": "Ados",

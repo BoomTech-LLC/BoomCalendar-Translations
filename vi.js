@@ -1,4 +1,6 @@
 let vi = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Đây là một sự kiện định kỳ! Mọi thay đổi được thực hiện đối với sự kiện này sẽ được áp dụng cho tất cả các lần lặp lại.",
+  "Repeated event": "Sự kiện lặp lại",
   "Delete Category": "Xóa danh mục",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Bạn có thực sự muốn xóa danh mục đã chọn không? Một khi đã xóa, không thể hoàn tác.",
   "OK": "ĐƯỢC RỒI",

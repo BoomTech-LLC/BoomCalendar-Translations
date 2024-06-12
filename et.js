@@ -1,4 +1,6 @@
 let et = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "See on korduv sündmus! Kõik sellel sündmusel tehtud muudatused rakenduvad kõikidele kordustele.",
+  "Repeated event": "Korduv sündmus",
   "Delete Category": "Kustuta kategooria",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Kas soovite tõesti valitud kategooria kustutada? Pärast eemaldamist ei saa seda tagasi võtta.",
   "OK": "Okei",

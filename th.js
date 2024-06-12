@@ -1,4 +1,6 @@
 let th = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "นี่เป็นเหตุการณ์ที่เกิดซ้ำ! การเปลี่ยนแปลงใดๆ ที่เกิดขึ้นในกิจกรรมนี้จะมีผลกับการเกิดซ้ำทั้งหมด",
+  "Repeated event": "เหตุการณ์ที่เกิดซ้ำ",
   "Delete Category": "ลบหมวดหมู่",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "คุณต้องการลบหมวดหมู่ที่เลือกจริง ๆ หรือไม่? เมื่อลบออกแล้วไม่สามารถยกเลิกได้",
   "OK": "ตกลง",

@@ -1,4 +1,6 @@
 let pl = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "To wydarzenie cykliczne! Wszelkie zmiany wprowadzone w tym wydarzeniu zostaną zastosowane do wszystkich powtórzeń.",
+  "Repeated event": "Powtórzone wydarzenie",
   "Delete Category": "Usuń kategorię",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Czy na pewno chcesz usunąć wybraną kategorię? Raz usuniętej operacji nie można cofnąć.",
   "OK": "OK",

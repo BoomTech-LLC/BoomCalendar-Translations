@@ -1,4 +1,6 @@
 let sq = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Kjo është një ngjarje e përsëritur! Çdo ndryshim i bërë në këtë ngjarje, do të zbatohet për të gjitha përsëritjet.",
+  "Repeated event": "Ngjarje e përsëritur",
   "Delete Category": "Fshi kategorinë",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Dëshiron vërtet të fshish kategorinë e zgjedhur? Pasi të hiqet, nuk mund të zhbëhet.",
   "OK": "Ne rregull",

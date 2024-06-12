@@ -1,4 +1,6 @@
 let tr = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Bu yinelenen bir olaydır! Bu etkinlikte yapılan herhangi bir değişiklik tüm tekrarlara uygulanacaktır.",
+  "Repeated event": "Tekrarlanan olay",
   "Delete Category": "Kategoriyi Sil",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Seçilen kategoriyi gerçekten silmek istiyor musunuz? Bir kez kaldırıldığında geri alınamaz.",
   "OK": "TAMAM",

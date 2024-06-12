@@ -1,4 +1,6 @@
 let ar = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "هذا حدث متكرر! سيتم تطبيق أي تغييرات يتم إجراؤها على هذا الحدث على جميع التكرارات.",
+  "Repeated event": "حدث متكرر",
   "Delete Category": "حذف الفئة",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "هل تريد حقًا حذف الفئة المحددة؟ وبمجرد إزالتها، لا يمكن التراجع عنها.",
   "OK": "نعم",

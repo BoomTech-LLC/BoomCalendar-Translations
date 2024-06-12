@@ -1,4 +1,6 @@
 let be = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Гэта перыядычная падзея! Любыя змены, зробленыя ў гэтай падзеі, будуць прымяняцца да ўсіх паўтораў.",
+  "Repeated event": "Паўторная падзея",
   "Delete Category": "Выдаліць катэгорыю",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Вы сапраўды хочаце выдаліць выбраную катэгорыю? Пасля выдалення дзеянне нельга адмяніць.",
   "OK": "добра",

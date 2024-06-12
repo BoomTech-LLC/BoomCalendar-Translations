@@ -1,4 +1,6 @@
 let he = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "זה אירוע שחוזר על עצמו! כל שינוי שיבוצע באירוע זה יחולו על כל החזרות.",
+  "Repeated event": "אירוע חוזר",
   "Delete Category": "מחק קטגוריה",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "האם אתה באמת רוצה למחוק את הקטגוריה שנבחרה? לאחר הסרה, לא ניתן לבטל.",
   "OK": "בסדר",

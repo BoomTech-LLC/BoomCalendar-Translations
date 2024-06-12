@@ -1,4 +1,6 @@
 let ms = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Ini adalah acara yang berulang! Sebarang perubahan yang dibuat pada acara ini, akan digunakan untuk semua ulangan.",
+  "Repeated event": "Peristiwa berulang",
   "Delete Category": "Padamkan Kategori",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Adakah anda benar-benar mahu memadamkan kategori yang dipilih? Setelah dialih keluar, tidak boleh dibuat asal.",
   "OK": "okey",

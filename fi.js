@@ -1,4 +1,6 @@
 let fi = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Tämä on toistuva tapahtuma! Kaikki tähän tapahtumaan tehdyt muutokset koskevat kaikkia toistoja.",
+  "Repeated event": "Toistuva tapahtuma",
   "Delete Category": "Poista luokka",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Haluatko todella poistaa valitun luokan? Kun se on poistettu, sitä ei voi kumota.",
   "OK": "OK",

@@ -1,4 +1,6 @@
 let zh = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "这是一个反复发生的事件！对此事件所做的任何更改都将应用于所有重复事件。",
+  "Repeated event": "重复事件",
   "Delete Category": "删除类别",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "您确实要删除所选类别吗？一旦删除，就无法撤消。",
   "OK": "好的",

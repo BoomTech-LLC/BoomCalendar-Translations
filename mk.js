@@ -1,4 +1,6 @@
 let mk = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Ова е настан што се повторува! Сите промени направени на овој настан ќе се применуваат на сите повторувања.",
+  "Repeated event": "Повторен настан",
   "Delete Category": "Избришете ја категоријата",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Дали навистина сакате да ја избришете избраната категорија? Откако ќе се отстрани, не може да се врати.",
   "OK": "добро",

@@ -1,4 +1,6 @@
 let el = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Αυτό είναι ένα επαναλαμβανόμενο γεγονός! Οποιεσδήποτε αλλαγές γίνουν σε αυτό το συμβάν, θα εφαρμοστούν σε όλες τις επαναλήψεις.",
+  "Repeated event": "Επαναλαμβανόμενο συμβάν",
   "Delete Category": "Διαγραφή Κατηγορίας",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Θέλετε πραγματικά να διαγράψετε την επιλεγμένη κατηγορία; Αφού αφαιρεθεί, δεν μπορεί να αναιρεθεί.",
   "OK": "Εντάξει",
