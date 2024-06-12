@@ -1,4 +1,5 @@
 let ca = {
+  "Stop repeating here": "Deixa de repetir aquí",
   "Limited": "Limitat",
   "Unlimited": "Il·limitat",
   "Thank you message title": "Títol del missatge de gràcies",

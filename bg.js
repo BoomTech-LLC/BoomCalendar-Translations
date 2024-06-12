@@ -1,4 +1,5 @@
 let bg = {
+  "Stop repeating here": "Спрете да повтаряте тук",
   "Limited": "Ограничен",
   "Unlimited": "Неограничен",
   "Thank you message title": "Заглавие на благодарственото съобщение",

@@ -1,4 +1,5 @@
 let fa = {
+  "Stop repeating here": "تکرار را در اینجا متوقف کنید",
   "Limited": "محدود",
   "Unlimited": "نامحدود",
   "Thank you message title": "عنوان پیام تشکر",

@@ -1,4 +1,5 @@
 let el = {
+  "Stop repeating here": "Σταματήστε να επαναλαμβάνετε εδώ",
   "Limited": "Περιορισμένος",
   "Unlimited": "Απεριόριστος",
   "Thank you message title": "Ευχαριστήριος τίτλος μηνύματος",

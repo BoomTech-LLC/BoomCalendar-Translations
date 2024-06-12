@@ -1,4 +1,5 @@
 let tr = {
+  "Stop repeating here": "Burada tekrarlamayı bırak",
   "Limited": "Sınırlı",
   "Unlimited": "Sınırsız",
   "Thank you message title": "Teşekkür mesajı başlığı",

@@ -1,4 +1,5 @@
 let mn = {
+  "Stop repeating here": "Энд давтахаа боль",
   "Limited": "Хязгаарлагдмал",
   "Unlimited": "Хязгааргүй",
   "Thank you message title": "Баярлалаа мессежийн гарчиг",

@@ -1,4 +1,5 @@
 let ro = {
+  "Stop repeating here": "Nu mai repeta aici",
   "Limited": "Limitat",
   "Unlimited": "Nelimitat",
   "Thank you message title": "Titlul mesajului de mulțumire",

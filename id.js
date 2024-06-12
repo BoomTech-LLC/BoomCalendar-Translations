@@ -1,4 +1,5 @@
 let id = {
+  "Stop repeating here": "Berhenti mengulangi di sini",
   "Limited": "Terbatas",
   "Unlimited": "Tak terbatas",
   "Thank you message title": "Judul pesan terima kasih",

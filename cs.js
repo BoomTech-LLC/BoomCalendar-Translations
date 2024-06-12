@@ -1,4 +1,5 @@
 let cs = {
+  "Stop repeating here": "Přestaň se tady opakovat",
   "Limited": "Omezený",
   "Unlimited": "Neomezený",
   "Thank you message title": "Název děkovné zprávy",

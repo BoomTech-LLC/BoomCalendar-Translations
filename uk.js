@@ -1,4 +1,5 @@
 let uk = {
+  "Stop repeating here": "Припиніть повторювати тут",
   "Limited": "Обмежений",
   "Unlimited": "Необмежений",
   "Thank you message title": "Назва повідомлення подяки",

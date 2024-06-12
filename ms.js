@@ -1,4 +1,5 @@
 let ms = {
+  "Stop repeating here": "Berhenti mengulang di sini",
   "Limited": "Terhad",
   "Unlimited": "Tidak terhad",
   "Thank you message title": "Tajuk mesej terima kasih",

@@ -1,4 +1,5 @@
 let sk = {
+  "Stop repeating here": "Prestaň sa tu opakovať",
   "Limited": "Obmedzené",
   "Unlimited": "Neobmedzené",
   "Thank you message title": "Názov ďakovnej správy",

@@ -1,4 +1,5 @@
 let vi = {
+  "Stop repeating here": "Dừng lặp lại ở đây",
   "Limited": "Giới hạn",
   "Unlimited": "Vô hạn",
   "Thank you message title": "Tiêu đề tin nhắn cảm ơn",

@@ -1,4 +1,5 @@
 let is = {
+  "Stop repeating here": "Hættu að endurtaka hér",
   "Limited": "Takmarkað",
   "Unlimited": "Ótakmarkað",
   "Thank you message title": "Þakka þér skilaboð titill",

@@ -1,4 +1,5 @@
 let nl = {
+  "Stop repeating here": "Houd op met herhalen hier",
   "Limited": "Beperkt",
   "Unlimited": "Onbeperkt",
   "Thank you message title": "Titel van dankbericht",

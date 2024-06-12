@@ -1,4 +1,5 @@
 let tl = {
+  "Stop repeating here": "Itigil ang pag-uulit dito",
   "Limited": "Limitado",
   "Unlimited": "Walang limitasyon",
   "Thank you message title": "Salamat pamagat ng mensahe",

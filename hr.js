@@ -1,4 +1,5 @@
 let hr = {
+  "Stop repeating here": "Prestanite ovdje ponavljati",
   "Limited": "ograničeno",
   "Unlimited": "Neograničen",
   "Thank you message title": "Naslov poruke zahvale",

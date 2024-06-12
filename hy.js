@@ -1,4 +1,5 @@
 let hy = {
+  "Stop repeating here": "Դադարեք կրկնել այստեղ",
   "Limited": "Սահմանափակ",
   "Unlimited": "Անսահմանափակ",
   "Thank you message title": "Շնորհակալություն հաղորդագրության վերնագիր",

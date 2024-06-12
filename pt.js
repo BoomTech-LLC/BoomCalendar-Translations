@@ -1,4 +1,5 @@
 let pt = {
+  "Stop repeating here": "Pare de repetir aqui",
   "Limited": "Limitado",
   "Unlimited": "Ilimitado",
   "Thank you message title": "Obrigado título da mensagem",

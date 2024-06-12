@@ -1,4 +1,5 @@
 let mk = {
+  "Stop repeating here": "Престанете да повторувате овде",
   "Limited": "Ограничени",
   "Unlimited": "Неограничено",
   "Thank you message title": "Наслов на пораката за благодарност",

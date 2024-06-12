@@ -1,4 +1,5 @@
 let hi = {
+  "Stop repeating here": "यहाँ दोहराना बंद करो",
   "Limited": "सीमित",
   "Unlimited": "असीमित",
   "Thank you message title": "धन्यवाद संदेश शीर्षक",
