@@ -1,4 +1,6 @@
 let da = {
+  "Delete Category": "Slet kategori",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Vil du virkelig slette den valgte kategori? Når den er fjernet, kan den ikke fortrydes.",
   "OK": "Okay",
   "Exclude": "Udelukke",
   "Custom recurrence": "Tilpasset gentagelse",

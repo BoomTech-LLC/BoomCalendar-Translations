@@ -1,4 +1,6 @@
 let zh = {
+  "Delete Category": "删除类别",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "您确实要删除所选类别吗？一旦删除，就无法撤消。",
   "OK": "好的",
   "Exclude": "排除",
   "Custom recurrence": "自定义重复",

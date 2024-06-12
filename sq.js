@@ -1,4 +1,6 @@
 let sq = {
+  "Delete Category": "Fshi kategorinë",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Dëshiron vërtet të fshish kategorinë e zgjedhur? Pasi të hiqet, nuk mund të zhbëhet.",
   "OK": "Ne rregull",
   "Exclude": "Përjashtoni",
   "Custom recurrence": "Përsëritje e personalizuar",

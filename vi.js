@@ -1,4 +1,6 @@
 let vi = {
+  "Delete Category": "Xóa danh mục",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Bạn có thực sự muốn xóa danh mục đã chọn không? Một khi đã xóa, không thể hoàn tác.",
   "OK": "ĐƯỢC RỒI",
   "Exclude": "Loại trừ",
   "Custom recurrence": "Lặp lại tùy chỉnh",

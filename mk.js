@@ -1,4 +1,6 @@
 let mk = {
+  "Delete Category": "Избришете ја категоријата",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Дали навистина сакате да ја избришете избраната категорија? Откако ќе се отстрани, не може да се врати.",
   "OK": "добро",
   "Exclude": "Исклучи",
   "Custom recurrence": "Прилагодено повторување",

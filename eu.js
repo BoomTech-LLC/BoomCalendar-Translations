@@ -1,4 +1,6 @@
 let eu = {
+  "Delete Category": "Ezabatu Kategoria",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Benetan nahi al duzu hautatutako kategoria ezabatu? Kendu ondoren, ezin da desegin.",
   "OK": "Ados",
   "Exclude": "Baztertu",
   "Custom recurrence": "Errepikapen pertsonalizatua",

@@ -1,4 +1,6 @@
 let uk = {
+  "Delete Category": "Видалити категорію",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Ви дійсно хочете видалити вибрану категорію? Після видалення цю дію неможливо скасувати.",
   "OK": "в порядку",
   "Exclude": "Виключити",
   "Custom recurrence": "Спеціальне повторення",

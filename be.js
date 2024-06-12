@@ -1,4 +1,6 @@
 let be = {
+  "Delete Category": "Выдаліць катэгорыю",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Вы сапраўды хочаце выдаліць выбраную катэгорыю? Пасля выдалення дзеянне нельга адмяніць.",
   "OK": "добра",
   "Exclude": "Выключыць",
   "Custom recurrence": "Карыстальніцкае паўтарэнне",

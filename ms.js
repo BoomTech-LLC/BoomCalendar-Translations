@@ -1,4 +1,6 @@
 let ms = {
+  "Delete Category": "Padamkan Kategori",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Adakah anda benar-benar mahu memadamkan kategori yang dipilih? Setelah dialih keluar, tidak boleh dibuat asal.",
   "OK": "okey",
   "Exclude": "Kecualikan",
   "Custom recurrence": "Pengulangan tersuai",

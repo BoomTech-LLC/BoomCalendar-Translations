@@ -1,4 +1,6 @@
 let th = {
+  "Delete Category": "ลบหมวดหมู่",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "คุณต้องการลบหมวดหมู่ที่เลือกจริง ๆ หรือไม่? เมื่อลบออกแล้วไม่สามารถยกเลิกได้",
   "OK": "ตกลง",
   "Exclude": "ไม่รวม",
   "Custom recurrence": "การเกิดซ้ำที่กำหนดเอง",

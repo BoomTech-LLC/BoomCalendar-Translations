@@ -1,4 +1,6 @@
 let lv = {
+  "Delete Category": "Dzēst kategoriju",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Vai tiešām vēlaties dzēst atlasīto kategoriju? Pēc noņemšanas to nevar atsaukt.",
   "OK": "labi",
   "Exclude": "Izslēgt",
   "Custom recurrence": "Pielāgots atkārtošanās",

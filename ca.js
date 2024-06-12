@@ -1,4 +1,6 @@
 let ca = {
+  "Delete Category": "Suprimeix la categoria",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Realment voleu suprimir la categoria seleccionada? Un cop eliminat, no es pot desfer.",
   "OK": "D'acord",
   "Exclude": "Excloure",
   "Custom recurrence": "Recurrència personalitzada",

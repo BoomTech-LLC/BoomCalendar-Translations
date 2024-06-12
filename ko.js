@@ -1,4 +1,6 @@
 let ko = {
+  "Delete Category": "카테고리 삭제",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "선택한 카테고리를 정말로 삭제하시겠습니까? 제거한 후에는 취소할 수 없습니다.",
   "OK": "좋아요",
   "Exclude": "들어오지 못하게 하다",
   "Custom recurrence": "맞춤 반복",

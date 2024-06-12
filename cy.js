@@ -1,4 +1,6 @@
 let cy = {
+  "Delete Category": "Dileu Categori",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "Ydych chi wir eisiau dileu'r categori a ddewiswyd? Unwaith y caiff ei dynnu, ni ellir ei ddadwneud.",
   "OK": "iawn",
   "Exclude": "Eithrio",
   "Custom recurrence": "Custom ailddigwydd",

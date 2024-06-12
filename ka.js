@@ -1,4 +1,6 @@
 let ka = {
+  "Delete Category": "კატეგორიის წაშლა",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "ნამდვილად გსურთ არჩეული კატეგორიის წაშლა? ამოღების შემდეგ, მისი გაუქმება შეუძლებელია.",
   "OK": "კარგი",
   "Exclude": "გამორიცხეთ",
   "Custom recurrence": "მორგებული განმეორება",

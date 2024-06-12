@@ -1,4 +1,6 @@
 let ja = {
+  "Delete Category": "カテゴリの削除",
+  "Do you really want to delete selected category? Once removed, cannot be undone.": "選択したカテゴリを本当に削除しますか?一度削除すると元に戻すことはできません。",
   "OK": "わかりました",
   "Exclude": "除外する",
   "Custom recurrence": "カスタムの繰り返し",
