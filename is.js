@@ -1,4 +1,6 @@
 let is = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Þetta er endurtekinn viðburður! Allar breytingar sem gerðar eru á þessum viðburði verða notaðar á allar endurtekningar.",
+  "Repeated event": "Endurtekinn atburður",
   "Delete Category": "Eyða flokki",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Viltu virkilega eyða völdum flokki? Þegar það hefur verið fjarlægt er ekki hægt að afturkalla það.",
   "OK": "Allt í lagi",

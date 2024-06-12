@@ -1,4 +1,6 @@
 let ko = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "반복되는 이벤트입니다! 이 이벤트에 대한 모든 변경 사항은 모든 반복에 적용됩니다.",
+  "Repeated event": "반복되는 이벤트",
   "Delete Category": "카테고리 삭제",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "선택한 카테고리를 정말로 삭제하시겠습니까? 제거한 후에는 취소할 수 없습니다.",
   "OK": "좋아요",

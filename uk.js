@@ -1,4 +1,6 @@
 let uk = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Це повторювана подія! Будь-які зміни, внесені до цієї події, будуть застосовані до всіх повторів.",
+  "Repeated event": "Подія, що повторюється",
   "Delete Category": "Видалити категорію",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Ви дійсно хочете видалити вибрану категорію? Після видалення цю дію неможливо скасувати.",
   "OK": "в порядку",

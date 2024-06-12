@@ -1,4 +1,6 @@
 let hi = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "यह एक आवर्ती घटना है! इस इवेंट में किया गया कोई भी बदलाव सभी पुनरावृत्तियों पर लागू किया जाएगा।",
+  "Repeated event": "बार-बार होने वाली घटना",
   "Delete Category": "श्रेणी हटाएँ",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "क्या आप सचमुच चयनित श्रेणी को हटाना चाहते हैं? एक बार हटा दिए जाने के बाद पूर्ववत नहीं किया जा सकता.",
   "OK": "ठीक है",

@@ -1,4 +1,6 @@
 let ja = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "定期開催のイベントです！このイベントに加えられた変更はすべての繰り返しに適用されます。",
+  "Repeated event": "繰り返されるイベント",
   "Delete Category": "カテゴリの削除",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "選択したカテゴリを本当に削除しますか?一度削除すると元に戻すことはできません。",
   "OK": "わかりました",

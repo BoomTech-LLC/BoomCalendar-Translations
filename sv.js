@@ -1,4 +1,6 @@
 let sv = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Detta är en återkommande händelse! Alla ändringar som görs i detta evenemang kommer att tillämpas på alla repetitioner.",
+  "Repeated event": "Upprepad händelse",
   "Delete Category": "Ta bort kategori",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Vill du verkligen ta bort den valda kategorin? När den har tagits bort kan den inte ångras.",
   "OK": "OK",

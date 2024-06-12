@@ -1,4 +1,6 @@
 let no = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Dette er en gjenganger! Eventuelle endringer som gjøres på dette arrangementet, vil bli brukt på alle repetisjoner.",
+  "Repeated event": "Gjentatt hendelse",
   "Delete Category": "Slett kategori",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Vil du virkelig slette valgt kategori? Når den er fjernet, kan den ikke angres.",
   "OK": "OK",

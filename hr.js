@@ -1,4 +1,6 @@
 let hr = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Ovo je događaj koji se ponavlja! Sve promjene unesene u ovaj događaj primjenjivat će se na sva ponavljanja.",
+  "Repeated event": "Ponovljeni događaj",
   "Delete Category": "Izbriši kategoriju",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Želite li stvarno izbrisati odabranu kategoriju? Nakon uklanjanja ne može se poništiti.",
   "OK": "u redu",

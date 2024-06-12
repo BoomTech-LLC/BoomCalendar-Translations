@@ -1,4 +1,6 @@
 let mn = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Энэ бол давтагдах үйл явдал! Энэ үйл явдалд хийсэн аливаа өөрчлөлтийг бүх давталтанд хэрэглэнэ.",
+  "Repeated event": "Давтагдсан үйл явдал",
   "Delete Category": "Ангилал устгах",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Та үнэхээр сонгосон ангиллыг устгахыг хүсэж байна уу? Нэгэнт устгасан бол буцаах боломжгүй.",
   "OK": "БОЛЖ БАЙНА УУ",

@@ -1,4 +1,6 @@
 let ro = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Acesta este un eveniment recurent! Orice modificări aduse acestui eveniment vor fi aplicate tuturor repetărilor.",
+  "Repeated event": "Eveniment repetat",
   "Delete Category": "Ștergeți categoria",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Chiar doriți să ștergeți categoria selectată? Odată eliminat, nu poate fi anulat.",
   "OK": "Bine",

@@ -1,4 +1,6 @@
 let lv = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Šis ir notikums, kas atkārtojas! Visas šajā pasākumā veiktās izmaiņas tiks piemērotas visiem atkārtojumiem.",
+  "Repeated event": "Atkārtots pasākums",
   "Delete Category": "Dzēst kategoriju",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Vai tiešām vēlaties dzēst atlasīto kategoriju? Pēc noņemšanas to nevar atsaukt.",
   "OK": "labi",

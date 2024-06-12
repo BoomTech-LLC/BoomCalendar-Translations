@@ -1,4 +1,6 @@
 let ka = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "ეს განმეორებადი მოვლენაა! ამ ღონისძიებაში შეტანილი ნებისმიერი ცვლილება გამოყენებული იქნება ყველა გამეორებაზე.",
+  "Repeated event": "განმეორებითი მოვლენა",
   "Delete Category": "კატეგორიის წაშლა",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "ნამდვილად გსურთ არჩეული კატეგორიის წაშლა? ამოღების შემდეგ, მისი გაუქმება შეუძლებელია.",
   "OK": "კარგი",

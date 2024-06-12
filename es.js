@@ -1,4 +1,6 @@
 let es = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "¡Este es un evento recurrente! Cualquier cambio realizado en este evento se aplicará a todas las repeticiones.",
+  "Repeated event": "evento repetido",
   "Delete Category": "Eliminar categoría",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "¿Realmente desea eliminar la categoría seleccionada? Una vez eliminado, no se puede deshacer.",
   "OK": "DE ACUERDO",

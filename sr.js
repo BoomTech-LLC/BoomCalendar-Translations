@@ -1,4 +1,6 @@
 let sr = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Ово је догађај који се понавља! Све промене направљене на овом догађају, биће примењене на сва понављања.",
+  "Repeated event": "Поновљени догађај",
   "Delete Category": "Избриши категорију",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Да ли заиста желите да избришете изабрану категорију? Једном уклоњен, не може се опозвати.",
   "OK": "У реду",

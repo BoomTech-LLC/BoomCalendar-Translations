@@ -1,4 +1,6 @@
 let hu = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Ez egy visszatérő esemény! Az eseményen végrehajtott változtatások minden ismétlésre vonatkoznak.",
+  "Repeated event": "Ismételt esemény",
   "Delete Category": "Kategória törlése",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Biztosan törölni szeretné a kiválasztott kategóriát? Az eltávolítás után nem lehet visszavonni.",
   "OK": "rendben",

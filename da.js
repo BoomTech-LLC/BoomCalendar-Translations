@@ -1,4 +1,6 @@
 let da = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Dette er en tilbagevendende begivenhed! Eventuelle ændringer i denne begivenhed vil blive anvendt på alle gentagelser.",
+  "Repeated event": "Gentaget begivenhed",
   "Delete Category": "Slet kategori",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Vil du virkelig slette den valgte kategori? Når den er fjernet, kan den ikke fortrydes.",
   "OK": "Okay",

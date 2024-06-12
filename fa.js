@@ -1,4 +1,6 @@
 let fa = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "این یک اتفاق تکراری است! هر تغییری که در این رویداد ایجاد شود، برای همه تکرارها اعمال خواهد شد.",
+  "Repeated event": "رویداد تکراری",
   "Delete Category": "حذف دسته",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "آیا واقعاً می خواهید دسته انتخابی را حذف کنید؟ پس از حذف، قابل بازگشت نیست.",
   "OK": "خوب",

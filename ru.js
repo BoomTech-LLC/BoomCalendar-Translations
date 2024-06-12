@@ -1,4 +1,6 @@
 let ru = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Это повторяющееся событие! Любые изменения, внесенные в это событие, будут применены ко всем повторам.",
+  "Repeated event": "Повторяющееся событие",
   "Delete Category": "Удалить категорию",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Вы действительно хотите удалить выбранную категорию? После удаления его невозможно отменить.",
   "OK": "ХОРОШО",

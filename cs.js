@@ -1,4 +1,6 @@
 let cs = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Toto je opakující se událost! Jakékoli změny provedené v této události se použijí na všechna opakování.",
+  "Repeated event": "Opakovaná událost",
   "Delete Category": "Smazat kategorii",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Opravdu chcete smazat vybranou kategorii? Po odstranění nelze vrátit zpět.",
   "OK": "OK",

@@ -1,4 +1,6 @@
 let bg = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Това е повтарящо се събитие! Всички промени, направени в това събитие, ще бъдат приложени към всички повторения.",
+  "Repeated event": "Повтарящо се събитие",
   "Delete Category": "Изтриване на категория",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Наистина ли искате да изтриете избраната категория? Веднъж премахната, не може да бъде отменена.",
   "OK": "Добре",

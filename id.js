@@ -1,4 +1,6 @@
 let id = {
+  "This is a recurring event! Any changes made to this event, will be applied to all repetitions.": "Ini adalah peristiwa yang berulang! Setiap perubahan yang dilakukan pada acara ini, akan diterapkan pada semua pengulangan.",
+  "Repeated event": "Peristiwa berulang",
   "Delete Category": "Hapus Kategori",
   "Do you really want to delete selected category? Once removed, cannot be undone.": "Apakah Anda benar-benar ingin menghapus kategori yang dipilih? Setelah dihapus, tidak dapat dibatalkan.",
   "OK": "OKE",
