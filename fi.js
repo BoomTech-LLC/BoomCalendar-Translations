@@ -1,4 +1,9 @@
 let fi = {
+  "OK": "OK",
+  "Exclude": "Sulje pois",
+  "Custom recurrence": "Mukautettu toistuminen",
+  "Duplicate": "Kopioi",
+  "Delete": "Poistaa",
   "Published": "Julkaistu",
   "Drafts": "Luonnokset",
   "User events": "Käyttäjätapahtumat",

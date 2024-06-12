@@ -1,4 +1,9 @@
 let fr = {
+  "OK": "D'ACCORD",
+  "Exclude": "Exclure",
+  "Custom recurrence": "Récurrence personnalisée",
+  "Duplicate": "Dupliquer",
+  "Delete": "Supprimer",
   "Published": "Publié",
   "Drafts": "Brouillons",
   "User events": "Événements utilisateur",

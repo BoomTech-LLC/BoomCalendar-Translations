@@ -1,4 +1,9 @@
 let sq = {
+  "OK": "Ne rregull",
+  "Exclude": "Përjashtoni",
+  "Custom recurrence": "Përsëritje e personalizuar",
+  "Duplicate": "Dublikatë",
+  "Delete": "Fshije",
   "Published": "Publikuar",
   "Drafts": "Draftet",
   "User events": "Ngjarjet e përdoruesit",

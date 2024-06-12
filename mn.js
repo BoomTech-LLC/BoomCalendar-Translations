@@ -1,4 +1,9 @@
 let mn = {
+  "OK": "БОЛЖ БАЙНА УУ",
+  "Exclude": "Орхих",
+  "Custom recurrence": "Захиалгат дахилт",
+  "Duplicate": "Давхардсан",
+  "Delete": "Устгах",
   "Published": "Нийтэлсэн",
   "Drafts": "Ноорог",
   "User events": "Хэрэглэгчийн үйл явдлууд",

@@ -1,4 +1,9 @@
 let is = {
+  "OK": "Allt í lagi",
+  "Exclude": "Útiloka",
+  "Custom recurrence": "Sérsniðin endurtekning",
+  "Duplicate": "Afrit",
+  "Delete": "Eyða",
   "Published": "Birt",
   "Drafts": "Drög",
   "User events": "Atburðir notenda",

@@ -1,4 +1,9 @@
 let sr = {
+  "OK": "У реду",
+  "Exclude": "Искључи",
+  "Custom recurrence": "Прилагођено понављање",
+  "Duplicate": "Дупликат",
+  "Delete": "Избриши",
   "Published": "Објављено",
   "Drafts": "Нацрти",
   "User events": "Кориснички догађаји",

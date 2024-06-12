@@ -1,4 +1,9 @@
 let sv = {
+  "OK": "OK",
+  "Exclude": "Utesluta",
+  "Custom recurrence": "Anpassad upprepning",
+  "Duplicate": "Duplicera",
+  "Delete": "Radera",
   "Published": "Publicerad",
   "Drafts": "Utkast",
   "User events": "Användarhändelser",

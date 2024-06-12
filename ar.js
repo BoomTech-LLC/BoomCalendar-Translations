@@ -1,4 +1,9 @@
 let ar = {
+  "OK": "نعم",
+  "Exclude": "استبعاد",
+  "Custom recurrence": "التكرار المخصص",
+  "Duplicate": "ينسخ",
+  "Delete": "يمسح",
   "Published": "نشرت",
   "Drafts": "المسودات",
   "User events": "أحداث المستخدم",

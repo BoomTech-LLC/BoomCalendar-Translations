@@ -1,4 +1,9 @@
 let uk = {
+  "OK": "в порядку",
+  "Exclude": "Виключити",
+  "Custom recurrence": "Спеціальне повторення",
+  "Duplicate": "дублікат",
+  "Delete": "Видалити",
   "Published": "Опубліковано",
   "Drafts": "Чернетки",
   "User events": "Події користувача",

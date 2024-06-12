@@ -1,4 +1,9 @@
 let et = {
+  "OK": "Okei",
+  "Exclude": "Välistada",
+  "Custom recurrence": "Kohandatud kordus",
+  "Duplicate": "Duplikaat",
+  "Delete": "Kustuta",
   "Published": "Avaldatud",
   "Drafts": "Mustandid",
   "User events": "Kasutaja sündmused",

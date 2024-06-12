@@ -1,4 +1,9 @@
 let nl = {
+  "OK": "OK",
+  "Exclude": "Uitsluiten",
+  "Custom recurrence": "Aangepaste herhaling",
+  "Duplicate": "Duplicaat",
+  "Delete": "Verwijderen",
   "Published": "Gepubliceerd",
   "Drafts": "Concepten",
   "User events": "Gebruikersgebeurtenissen",

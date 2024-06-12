@@ -1,4 +1,9 @@
 let eu = {
+  "OK": "Ados",
+  "Exclude": "Baztertu",
+  "Custom recurrence": "Errepikapen pertsonalizatua",
+  "Duplicate": "Bikoiztu",
+  "Delete": "Ezabatu",
   "Published": "Argitaratu",
   "Drafts": "Zirriborroak",
   "User events": "Erabiltzaileen gertaerak",

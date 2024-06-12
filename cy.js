@@ -1,4 +1,9 @@
 let cy = {
+  "OK": "iawn",
+  "Exclude": "Eithrio",
+  "Custom recurrence": "Custom ailddigwydd",
+  "Duplicate": "Dyblyg",
+  "Delete": "Dileu",
   "Published": "Cyhoeddwyd",
   "Drafts": "Drafftiau",
   "User events": "Digwyddiadau defnyddwyr",

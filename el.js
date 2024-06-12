@@ -1,4 +1,9 @@
 let el = {
+  "OK": "Εντάξει",
+  "Exclude": "Αποκλείω",
+  "Custom recurrence": "Προσαρμοσμένη επανάληψη",
+  "Duplicate": "Αντίγραφο",
+  "Delete": "Διαγράφω",
   "Published": "Δημοσίευσε",
   "Drafts": "Προσχέδια",
   "User events": "Συμβάντα χρήστη",

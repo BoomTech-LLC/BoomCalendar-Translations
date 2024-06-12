@@ -1,4 +1,9 @@
 let tr = {
+  "OK": "TAMAM",
+  "Exclude": "Hariç tutmak",
+  "Custom recurrence": "Özel yineleme",
+  "Duplicate": "Kopyalamak",
+  "Delete": "Silmek",
   "Published": "Yayınlanan",
   "Drafts": "Taslaklar",
   "User events": "Kullanıcı etkinlikleri",

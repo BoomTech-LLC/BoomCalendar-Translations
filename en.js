@@ -1,4 +1,9 @@
 let en = {
+  "OK": "OK",
+  "Exclude": "Exclude",
+  "Custom recurrence": "Custom recurrence",
+  "Duplicate": "Duplicate",
+  "Delete": "Delete",
   "Published": "Published",
   "Drafts": "Drafts",
   "User events": "User events",

@@ -1,4 +1,9 @@
 let cs = {
+  "OK": "OK",
+  "Exclude": "Vyloučit",
+  "Custom recurrence": "Vlastní opakování",
+  "Duplicate": "Duplikát",
+  "Delete": "Vymazat",
   "Published": "Publikováno",
   "Drafts": "Pracovní verze",
   "User events": "Uživatelské události",

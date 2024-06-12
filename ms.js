@@ -1,4 +1,9 @@
 let ms = {
+  "OK": "okey",
+  "Exclude": "Kecualikan",
+  "Custom recurrence": "Pengulangan tersuai",
+  "Duplicate": "Pendua",
+  "Delete": "Padam",
   "Published": "Diterbitkan",
   "Drafts": "Draf",
   "User events": "Acara pengguna",

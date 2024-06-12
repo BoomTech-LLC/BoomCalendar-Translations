@@ -1,4 +1,9 @@
 let th = {
+  "OK": "ตกลง",
+  "Exclude": "ไม่รวม",
+  "Custom recurrence": "การเกิดซ้ำที่กำหนดเอง",
+  "Duplicate": "ทำซ้ำ",
+  "Delete": "ลบ",
   "Published": "ที่ตีพิมพ์",
   "Drafts": "ร่างจดหมาย",
   "User events": "เหตุการณ์ของผู้ใช้",
