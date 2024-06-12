@@ -1,4 +1,6 @@
 let sk = {
+  "Limited": "Obmedzené",
+  "Unlimited": "Neobmedzené",
   "Thank you message title": "Názov ďakovnej správy",
   "Submit button text": "Text tlačidla Odoslať",
   "Registration button text": "Text tlačidla registrácie",

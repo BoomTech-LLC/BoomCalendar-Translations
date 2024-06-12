@@ -1,4 +1,6 @@
 let zh = {
+  "Limited": "有限的",
+  "Unlimited": "无限",
   "Thank you message title": "谢谢留言标题",
   "Submit button text": "提交按钮文本",
   "Registration button text": "注册按钮文本",

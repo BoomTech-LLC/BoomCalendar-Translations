@@ -1,4 +1,6 @@
 let el = {
+  "Limited": "Περιορισμένος",
+  "Unlimited": "Απεριόριστος",
   "Thank you message title": "Ευχαριστήριος τίτλος μηνύματος",
   "Submit button text": "Υποβολή κειμένου κουμπιού",
   "Registration button text": "Κείμενο κουμπιού εγγραφής",

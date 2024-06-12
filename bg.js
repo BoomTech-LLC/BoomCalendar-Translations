@@ -1,4 +1,6 @@
 let bg = {
+  "Limited": "Ограничен",
+  "Unlimited": "Неограничен",
   "Thank you message title": "Заглавие на благодарственото съобщение",
   "Submit button text": "Текст на бутона за изпращане",
   "Registration button text": "Текст на бутона за регистрация",

@@ -1,4 +1,6 @@
 let lv = {
+  "Limited": "Ierobežots",
+  "Unlimited": "Neierobežots",
   "Thank you message title": "Paldies ziņojuma virsraksts",
   "Submit button text": "Iesniegt pogas tekstu",
   "Registration button text": "Reģistrācijas pogas teksts",

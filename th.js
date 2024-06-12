@@ -1,4 +1,6 @@
 let th = {
+  "Limited": "ถูก จำกัด",
+  "Unlimited": "ไม่ จำกัด",
   "Thank you message title": "ขอบคุณชื่อข้อความ",
   "Submit button text": "ส่งข้อความปุ่ม",
   "Registration button text": "ข้อความปุ่มลงทะเบียน",

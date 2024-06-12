@@ -1,4 +1,6 @@
 let fa = {
+  "Limited": "محدود",
+  "Unlimited": "نامحدود",
   "Thank you message title": "عنوان پیام تشکر",
   "Submit button text": "متن دکمه ارسال",
   "Registration button text": "متن دکمه ثبت نام",

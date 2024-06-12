@@ -1,4 +1,6 @@
 let cy = {
+  "Limited": "Cyfyngedig",
+  "Unlimited": "Diderfyn",
   "Thank you message title": "Teitl neges diolch",
   "Submit button text": "Cyflwyno testun botwm",
   "Registration button text": "Testun botwm cofrestru",

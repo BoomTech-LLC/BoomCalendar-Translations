@@ -1,4 +1,6 @@
 let ca = {
+  "Limited": "Limitat",
+  "Unlimited": "Il·limitat",
   "Thank you message title": "Títol del missatge de gràcies",
   "Submit button text": "Envia el text del botó",
   "Registration button text": "Text del botó de registre",

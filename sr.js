@@ -1,4 +1,6 @@
 let sr = {
+  "Limited": "Ограничен",
+  "Unlimited": "Неограничено",
   "Thank you message title": "Наслов поруке хвала",
   "Submit button text": "Пошаљи текст дугмета",
   "Registration button text": "Текст дугмета за регистрацију",

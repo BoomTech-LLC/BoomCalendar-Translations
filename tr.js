@@ -1,4 +1,6 @@
 let tr = {
+  "Limited": "Sınırlı",
+  "Unlimited": "Sınırsız",
   "Thank you message title": "Teşekkür mesajı başlığı",
   "Submit button text": "Gönder Düğmesi Metni",
   "Registration button text": "Kayıt düğmesi metni",

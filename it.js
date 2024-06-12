@@ -1,4 +1,6 @@
 let it = {
+  "Limited": "Limitato",
+  "Unlimited": "Illimitato",
   "Thank you message title": "Titolo del messaggio di ringraziamento",
   "Submit button text": "Invia testo del pulsante",
   "Registration button text": "Testo del pulsante di registrazione",

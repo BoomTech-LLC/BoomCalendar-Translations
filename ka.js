@@ -1,4 +1,6 @@
 let ka = {
+  "Limited": "შეზღუდული",
+  "Unlimited": "შეუზღუდავი",
   "Thank you message title": "მადლობის წერილის სათაური",
   "Submit button text": "ღილაკის ტექსტის გაგზავნა",
   "Registration button text": "რეგისტრაციის ღილაკის ტექსტი",

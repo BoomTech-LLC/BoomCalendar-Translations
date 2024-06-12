@@ -1,4 +1,6 @@
 let uk = {
+  "Limited": "Обмежений",
+  "Unlimited": "Необмежений",
   "Thank you message title": "Назва повідомлення подяки",
   "Submit button text": "Надіслати текст кнопки",
   "Registration button text": "Текст кнопки реєстрації",

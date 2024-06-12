@@ -1,4 +1,6 @@
 let hu = {
+  "Limited": "Korlátozott",
+  "Unlimited": "Korlátlan",
   "Thank you message title": "Köszönöm üzenet címe",
   "Submit button text": "A gomb szövegének elküldése",
   "Registration button text": "Regisztráció gomb szövege",

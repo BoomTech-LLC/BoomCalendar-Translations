@@ -1,4 +1,6 @@
 let id = {
+  "Limited": "Terbatas",
+  "Unlimited": "Tak terbatas",
   "Thank you message title": "Judul pesan terima kasih",
   "Submit button text": "Kirim teks tombol",
   "Registration button text": "Teks tombol pendaftaran",

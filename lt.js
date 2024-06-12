@@ -1,4 +1,6 @@
 let lt = {
+  "Limited": "Ribotas",
+  "Unlimited": "Neribota",
   "Thank you message title": "Ačiū žinutės pavadinimas",
   "Submit button text": "Pateikti mygtuko tekstą",
   "Registration button text": "Registracijos mygtuko tekstas",

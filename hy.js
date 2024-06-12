@@ -1,4 +1,6 @@
 let hy = {
+  "Limited": "Սահմանափակ",
+  "Unlimited": "Անսահմանափակ",
   "Thank you message title": "Շնորհակալություն հաղորդագրության վերնագիր",
   "Submit button text": "Ներկայացրեք կոճակի տեքստը",
   "Registration button text": "Գրանցման կոճակի տեքստը",

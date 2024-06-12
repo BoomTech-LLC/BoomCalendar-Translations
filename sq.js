@@ -1,4 +1,6 @@
 let sq = {
+  "Limited": "I kufizuar",
+  "Unlimited": "E pakufizuar",
   "Thank you message title": "Titulli i mesazhit falenderues",
   "Submit button text": "Dërgo tekstin e butonit",
   "Registration button text": "Teksti i butonit të regjistrimit",

@@ -1,4 +1,6 @@
 let mn = {
+  "Limited": "Хязгаарлагдмал",
+  "Unlimited": "Хязгааргүй",
   "Thank you message title": "Баярлалаа мессежийн гарчиг",
   "Submit button text": "Товчлуурын текстийг илгээх",
   "Registration button text": "Бүртгэлийн товчлуурын текст",

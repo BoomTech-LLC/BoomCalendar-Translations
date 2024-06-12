@@ -1,4 +1,6 @@
 let mk = {
+  "Limited": "Ограничени",
+  "Unlimited": "Неограничено",
   "Thank you message title": "Наслов на пораката за благодарност",
   "Submit button text": "Испрати текст на копчето",
   "Registration button text": "Текст на копчето за регистрација",
