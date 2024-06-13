@@ -1,4 +1,6 @@
 let cs = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Chystáte se změnit podrobnosti své události. Po změně bude váš seznam hostů ztracen.",
+  "Change Date": "Změnit datum",
   "Ends": "Končí",
   "On": "Na",
   "After": "Po",

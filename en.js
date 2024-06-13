@@ -1,4 +1,6 @@
 let en = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "You are about to change the details of your event. Once changed, your guest list will be lost.",
+  "Change Date": "Change Date",
   "Ends": "Ends",
   "On": "On",
   "After": "After",

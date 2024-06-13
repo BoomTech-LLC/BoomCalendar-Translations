@@ -1,4 +1,6 @@
 let ms = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Anda akan menukar butiran acara anda. Setelah ditukar, senarai tetamu anda akan hilang.",
+  "Change Date": "Tukar tarikh",
   "Ends": "tamat",
   "On": "hidup",
   "After": "Selepas",

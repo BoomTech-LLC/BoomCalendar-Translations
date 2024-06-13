@@ -1,4 +1,6 @@
 let hi = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "आप अपने ईवेंट का विवरण बदलने वाले हैं. एक बार बदलाव के बाद, आपकी अतिथि सूची खो जाएगी।",
+  "Change Date": "बदलाव दिनांक",
   "Ends": "समाप्त होता है",
   "On": "पर",
   "After": "बाद",

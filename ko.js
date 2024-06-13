@@ -1,4 +1,6 @@
 let ko = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "이벤트 세부정보를 변경하려고 합니다. 변경되면 참석자 목록이 삭제됩니다.",
+  "Change Date": "날짜 변경",
   "Ends": "종료",
   "On": "~에",
   "After": "후에",

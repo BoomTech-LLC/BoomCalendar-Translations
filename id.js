@@ -1,4 +1,6 @@
 let id = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Anda akan mengubah detail acara Anda. Setelah diubah, daftar tamu Anda akan hilang.",
+  "Change Date": "Ganti tanggal",
   "Ends": "Berakhir",
   "On": "Pada",
   "After": "Setelah",

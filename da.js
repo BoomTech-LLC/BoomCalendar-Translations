@@ -1,4 +1,6 @@
 let da = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Du er ved at ændre detaljerne for din begivenhed. Når den er ændret, vil din gæsteliste gå tabt.",
+  "Change Date": "Skift dato",
   "Ends": "Slutter",
   "On": "På",
   "After": "Efter",
