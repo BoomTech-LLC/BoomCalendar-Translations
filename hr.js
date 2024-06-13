@@ -1,4 +1,6 @@
 let hr = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Spremate se promijeniti detalje vašeg događaja. Nakon promjene, vaš će popis gostiju biti izgubljen.",
+  "Change Date": "Promjena datuma",
   "Ends": "Završava",
   "On": "Na",
   "After": "Nakon",

@@ -1,4 +1,6 @@
 let ja = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "イベントの詳細を変更しようとしています。変更すると、ゲストリストは失われます。",
+  "Change Date": "変更日",
   "Ends": "終わり",
   "On": "の上",
   "After": "後",

@@ -1,4 +1,6 @@
 let is = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Þú ert að fara að breyta upplýsingum um viðburðinn þinn. Þegar honum hefur verið breytt mun gestalistinn þinn glatast.",
+  "Change Date": "Breyta dagsetningu",
   "Ends": "Endar",
   "On": "Á",
   "After": "Eftir",

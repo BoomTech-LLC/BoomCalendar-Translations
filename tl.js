@@ -1,4 +1,6 @@
 let tl = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Papalitan mo na ang mga detalye ng iyong kaganapan. Kapag nabago, mawawala ang iyong listahan ng bisita.",
+  "Change Date": "Pagbabago ng petsa",
   "Ends": "Matatapos",
   "On": "Naka-on",
   "After": "Pagkatapos",

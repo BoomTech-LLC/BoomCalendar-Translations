@@ -1,4 +1,6 @@
 let mk = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Ќе ги промените деталите за вашиот настан. Откако ќе се промени, вашата листа на гости ќе се изгуби.",
+  "Change Date": "Променете го датумот",
   "Ends": "Завршува",
   "On": "На",
   "After": "По",

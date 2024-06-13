@@ -1,4 +1,6 @@
 let th = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "คุณกำลังจะเปลี่ยนแปลงรายละเอียดกิจกรรมของคุณ เมื่อเปลี่ยนแปลงแล้ว รายชื่อแขกของคุณจะหายไป",
+  "Change Date": "เปลี่ยนวันที่",
   "Ends": "สิ้นสุด",
   "On": "บน",
   "After": "หลังจาก",

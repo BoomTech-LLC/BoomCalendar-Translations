@@ -1,4 +1,6 @@
 let sr = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Спремате се да промените детаље вашег догађаја. Када се једном промени, ваша листа гостију ће бити изгубљена.",
+  "Change Date": "Датум последње промене",
   "Ends": "Крајеви",
   "On": "на",
   "After": "После",

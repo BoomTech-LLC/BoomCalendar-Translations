@@ -1,4 +1,6 @@
 let no = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Du er i ferd med å endre detaljene for arrangementet ditt. Når den er endret, vil gjestelisten din gå tapt.",
+  "Change Date": "Endre dato",
   "Ends": "Slutter",
   "On": "På",
   "After": "Etter",

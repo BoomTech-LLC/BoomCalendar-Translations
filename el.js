@@ -1,4 +1,6 @@
 let el = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Πρόκειται να αλλάξετε τις λεπτομέρειες της εκδήλωσής σας. Μόλις αλλάξει, η λίστα καλεσμένων σας θα χαθεί.",
+  "Change Date": "Αλλαγή ημερομηνίας",
   "Ends": "Τελειώνει",
   "On": "Επί",
   "After": "Μετά",

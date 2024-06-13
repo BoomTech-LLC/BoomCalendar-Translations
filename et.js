@@ -1,4 +1,6 @@
 let et = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Olete muutmas oma sündmuse üksikasju. Pärast muutmist läheb teie külaliste nimekiri kaotsi.",
+  "Change Date": "Muuda kuupäeva",
   "Ends": "Lõpeb",
   "On": "Peal",
   "After": "Pärast",

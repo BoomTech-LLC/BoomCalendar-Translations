@@ -1,4 +1,6 @@
 let tr = {
+  "You are about to change the details of your event. Once changed, your guest list will be lost.": "Etkinliğinizin ayrıntılarını değiştirmek üzeresiniz. Değişiklik yapıldıktan sonra davetli listeniz kaybolacaktır.",
+  "Change Date": "Tarihi değiştir",
   "Ends": "biter",
   "On": "Açık",
   "After": "Sonrasında",
