@@ -1,4 +1,8 @@
 let ca = {
+  "Ends": "Finalitza",
+  "On": "Encès",
+  "After": "Després",
+  "Accept": "Acceptar",
   "Show less": "Mostra menys",
   "Venue detail": "Detall del lloc",
   "Reject": "Rebutjar",

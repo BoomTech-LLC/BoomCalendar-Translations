@@ -1,4 +1,8 @@
 let fi = {
+  "Ends": "Päättyy",
+  "On": "Päällä",
+  "After": "Jälkeen",
+  "Accept": "Hyväksyä",
   "Show less": "Näytä vähemmän",
   "Venue detail": "Tapahtumapaikan yksityiskohdat",
   "Reject": "Hylätä",

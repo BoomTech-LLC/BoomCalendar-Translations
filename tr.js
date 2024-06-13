@@ -1,4 +1,8 @@
 let tr = {
+  "Ends": "biter",
+  "On": "Açık",
+  "After": "Sonrasında",
+  "Accept": "Kabul etmek",
   "Show less": "Daha az göster",
   "Venue detail": "Mekan detayı",
   "Reject": "Reddetmek",

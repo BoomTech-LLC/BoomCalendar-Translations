@@ -1,4 +1,8 @@
 let en = {
+  "Ends": "Ends",
+  "On": "On",
+  "After": "After",
+  "Accept": "Accept",
   "Show less": "Show less",
   "Venue detail": "Venue detail",
   "Accept": "Accept",

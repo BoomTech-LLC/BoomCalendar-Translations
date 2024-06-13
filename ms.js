@@ -1,4 +1,8 @@
 let ms = {
+  "Ends": "tamat",
+  "On": "hidup",
+  "After": "Selepas",
+  "Accept": "Terima",
   "Show less": "Tunjukkan lebih sedikit",
   "Venue detail": "Perincian tempat",
   "Reject": "Tolak",

@@ -1,4 +1,8 @@
 let lt = {
+  "Ends": "Baigiasi",
+  "On": "Įjungta",
+  "After": "Po to",
+  "Accept": "Priimti",
   "Show less": "Rodyti mažiau",
   "Venue detail": "Vietos detalė",
   "Reject": "Atmesti",

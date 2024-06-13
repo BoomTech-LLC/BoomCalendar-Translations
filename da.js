@@ -1,4 +1,8 @@
 let da = {
+  "Ends": "Slutter",
+  "On": "På",
+  "After": "Efter",
+  "Accept": "Acceptere",
   "Show less": "Vis mindre",
   "Venue detail": "Sted detalje",
   "Reject": "Afvise",

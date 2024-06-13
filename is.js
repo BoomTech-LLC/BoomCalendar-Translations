@@ -1,4 +1,8 @@
 let is = {
+  "Ends": "Endar",
+  "On": "Á",
+  "After": "Eftir",
+  "Accept": "Samþykkja",
   "Show less": "Sýna minna",
   "Venue detail": "Upplýsingar um vettvang",
   "Reject": "Hafna",

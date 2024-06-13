@@ -1,4 +1,8 @@
 let sq = {
+  "Ends": "Përfundon",
+  "On": "Aktiv",
+  "After": "Pas",
+  "Accept": "Pranoje",
   "Show less": "Trego më pak",
   "Venue detail": "Detajet e vendit të ngjarjes",
   "Reject": "Refuzo",

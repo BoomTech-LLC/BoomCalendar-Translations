@@ -1,4 +1,8 @@
 let eu = {
+  "Ends": "Amaierak",
+  "On": "On",
+  "After": "Ondoren",
+  "Accept": "Onartu",
   "Show less": "Erakutsi gutxiago",
   "Venue detail": "Lekuaren xehetasuna",
   "Reject": "Baztertu",

@@ -1,4 +1,8 @@
 let id = {
+  "Ends": "Berakhir",
+  "On": "Pada",
+  "After": "Setelah",
+  "Accept": "Menerima",
   "Show less": "Tampilkan lebih sedikit",
   "Venue detail": "Detil tempat",
   "Reject": "Menolak",

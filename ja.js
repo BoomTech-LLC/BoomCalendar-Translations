@@ -1,4 +1,8 @@
 let ja = {
+  "Ends": "終わり",
+  "On": "の上",
+  "After": "後",
+  "Accept": "受け入れる",
   "Show less": "表示を少なくする",
   "Venue detail": "会場詳細",
   "Reject": "拒否する",

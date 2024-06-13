@@ -1,4 +1,8 @@
 let sk = {
+  "Ends": "Koniec",
+  "On": "Zapnuté",
+  "After": "Po",
+  "Accept": "súhlasiť",
   "Show less": "Ukážte menej",
   "Venue detail": "Detail miesta konania",
   "Reject": "Odmietnuť",

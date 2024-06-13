@@ -1,4 +1,8 @@
 let lv = {
+  "Ends": "Beidzas",
+  "On": "Ieslēgts",
+  "After": "Pēc",
+  "Accept": "Pieņemt",
   "Show less": "Rādīt mazāk",
   "Venue detail": "Norises vietas detaļas",
   "Reject": "Noraidīt",

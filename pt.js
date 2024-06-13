@@ -1,4 +1,8 @@
 let pt = {
+  "Ends": "Termina",
+  "On": "Sobre",
+  "After": "Depois",
+  "Accept": "Aceitar",
   "Show less": "Mostre menos",
   "Venue detail": "Detalhe do local",
   "Reject": "Rejeitar",

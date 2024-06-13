@@ -1,4 +1,8 @@
 let tl = {
+  "Ends": "Matatapos",
+  "On": "Naka-on",
+  "After": "Pagkatapos",
+  "Accept": "Tanggapin",
   "Show less": "Magpakita ng mas kaunti",
   "Venue detail": "Detalye ng lugar",
   "Reject": "Tanggihan",

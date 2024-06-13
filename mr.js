@@ -1,4 +1,8 @@
 let mr = {
+  "Ends": "संपतो",
+  "On": "चालू",
+  "After": "नंतर",
+  "Accept": "स्वीकारा",
   "Show less": "कमी दाखवा",
   "Venue detail": "ठिकाण तपशील",
   "Reject": "नकार द्या",

@@ -1,4 +1,8 @@
 let fr = {
+  "Ends": "Prend fin",
+  "On": "Sur",
+  "After": "Après",
+  "Accept": "Accepter",
   "Show less": "Montrer moins",
   "Venue detail": "Détail du lieu",
   "Reject": "Rejeter",

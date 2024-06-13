@@ -1,4 +1,8 @@
 let vi = {
+  "Ends": "Kết thúc",
+  "On": "TRÊN",
+  "After": "Sau đó",
+  "Accept": "Chấp nhận",
   "Show less": "Hiện ít hơn",
   "Venue detail": "Chi tiết địa điểm",
   "Accept": "Chấp nhận",
