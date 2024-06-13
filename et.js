@@ -1,4 +1,8 @@
 let et = {
+  "Ends": "Lõpeb",
+  "On": "Peal",
+  "After": "Pärast",
+  "Accept": "Nõustu",
   "Show less": "Näita vähem",
   "Venue detail": "Toimumiskoha detail",
   "Reject": "Keeldu",

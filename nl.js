@@ -1,4 +1,8 @@
 let nl = {
+  "Ends": "Loopt af",
+  "On": "Op",
+  "After": "Na",
+  "Accept": "Aanvaarden",
   "Show less": "Laat minder zien",
   "Venue detail": "Details van de locatie",
   "Reject": "Afwijzen",

@@ -1,4 +1,8 @@
 let ko = {
+  "Ends": "종료",
+  "On": "~에",
+  "After": "후에",
+  "Accept": "수용하다",
   "Show less": "간략히 보기",
   "Venue detail": "장소 세부정보",
   "Reject": "거부하다",

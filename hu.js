@@ -1,4 +1,8 @@
 let hu = {
+  "Ends": "Véget ér",
+  "On": "Tovább",
+  "After": "Után",
+  "Accept": "Elfogad",
   "Show less": "Mutass kevesebbet",
   "Venue detail": "A helyszín részlete",
   "Reject": "Elutasít",

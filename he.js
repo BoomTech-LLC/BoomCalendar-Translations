@@ -1,4 +1,8 @@
 let he = {
+  "Ends": "מסתיים",
+  "On": "עַל",
+  "After": "לאחר",
+  "Accept": "לְקַבֵּל",
   "Show less": "הראי פחות",
   "Venue detail": "פירוט המקום",
   Reject: "לִדחוֹת",

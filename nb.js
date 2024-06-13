@@ -1,4 +1,8 @@
 let nb = {
+  "Ends": "Slutter",
+  "On": "På",
+  "After": "Etter",
+  "Accept": "Aksepterer",
   "Show less": "Vis mindre",
   "Venue detail": "Stedsdetalj",
   "Reject": "Avvis",

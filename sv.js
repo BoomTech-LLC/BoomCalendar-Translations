@@ -1,4 +1,8 @@
 let sv = {
+  "Ends": "Slutar",
+  "On": "På",
+  "After": "Efter",
+  "Accept": "Acceptera",
   "Show less": "Visa mindre",
   "Venue detail": "Lokal detalj",
   "Reject": "Avvisa",

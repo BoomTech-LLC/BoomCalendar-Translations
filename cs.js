@@ -1,4 +1,8 @@
 let cs = {
+  "Ends": "Končí",
+  "On": "Na",
+  "After": "Po",
+  "Accept": "Akceptovat",
   "Show less": "Ukaž méně",
   "Venue detail": "Detail místa konání",
   "Reject": "Odmítnout",

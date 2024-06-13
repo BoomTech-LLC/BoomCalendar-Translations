@@ -1,4 +1,8 @@
 let ar = {
+  "Ends": "ينتهي",
+  "On": "على",
+  "After": "بعد",
+  "Accept": "يقبل",
   "Show less": "عرض أقل",
   "Venue detail": "تفاصيل المكان",
   "Reject": "يرفض",

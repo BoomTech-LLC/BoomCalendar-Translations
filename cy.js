@@ -1,4 +1,8 @@
 let cy = {
+  "Ends": "Diwedd",
+  "On": "Ar",
+  "After": "Wedi",
+  "Accept": "Derbyn",
   "Show less": "Dangos llai",
   "Venue detail": "Manylion y lleoliad",
   "Reject": "Gwrthod",

@@ -1,4 +1,8 @@
 let ro = {
+  "Ends": "Se termină",
+  "On": "Pe",
+  "After": "După",
+  "Accept": "Accept",
   "Show less": "Arata mai putin",
   "Venue detail": "Detaliu locație",
   "Reject": "Respinge",

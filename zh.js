@@ -1,4 +1,8 @@
 let zh = {
+  "Ends": "结束",
+  "On": "在",
+  "After": "后",
+  "Accept": "接受",
   "Show less": "显示较少",
   "Venue detail": "场地详情",
   "Reject": "拒绝",

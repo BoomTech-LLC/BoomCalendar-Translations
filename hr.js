@@ -1,4 +1,8 @@
 let hr = {
+  "Ends": "Završava",
+  "On": "Na",
+  "After": "Nakon",
+  "Accept": "Prihvatiti",
   "Show less": "Prikaži manje",
   "Venue detail": "Detalj mjesta",
   "Reject": "Odbiti",
