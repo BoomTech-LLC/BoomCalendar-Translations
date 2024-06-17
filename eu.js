@@ -1,4 +1,6 @@
 let eu = {
+  "Enable": "Gaitu",
+  "Limit": "Muga",
   "Export": "Esportatu",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Zure ekitaldiaren xehetasunak aldatzera zoaz. Aldatu ondoren, zure gonbidatuen zerrenda galduko da.",
   "Change Date": "Aldatu data",

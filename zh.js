@@ -1,4 +1,6 @@
 let zh = {
+  "Enable": "使能够",
+  "Limit": "限制",
   "Export": "出口",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "您即将更改活动的详细信息。一旦更改，您的宾客名单将会丢失。",
   "Change Date": "改变日期",

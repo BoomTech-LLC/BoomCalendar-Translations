@@ -1,4 +1,6 @@
 let th = {
+  "Enable": "เปิดใช้งาน",
+  "Limit": "ขีดจำกัด",
   "Export": "ส่งออก",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "คุณกำลังจะเปลี่ยนแปลงรายละเอียดกิจกรรมของคุณ เมื่อเปลี่ยนแปลงแล้ว รายชื่อแขกของคุณจะหายไป",
   "Change Date": "เปลี่ยนวันที่",

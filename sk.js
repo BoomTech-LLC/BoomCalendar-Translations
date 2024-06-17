@@ -1,4 +1,6 @@
 let sk = {
+  "Enable": "Povoliť",
+  "Limit": "Limit",
   "Export": "Export",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Chystáte sa zmeniť podrobnosti svojej udalosti. Po zmene sa váš zoznam hostí stratí.",
   "Change Date": "Zmeniť dátum",

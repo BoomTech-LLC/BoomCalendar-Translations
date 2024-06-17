@@ -1,4 +1,6 @@
 let bg = {
+  "Enable": "Активиране",
+  "Limit": "Лимит",
   "Export": "Експортиране",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "На път сте да промените подробностите за вашето събитие. Веднъж променен, вашият списък с гости ще бъде изгубен.",
   "Change Date": "Промяна на датата",

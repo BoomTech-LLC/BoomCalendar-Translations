@@ -1,4 +1,6 @@
 let ka = {
+  "Enable": "ჩართვა",
+  "Limit": "Ზღვარი",
   "Export": "ექსპორტი",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "თქვენ აპირებთ შეცვალოთ თქვენი ღონისძიების დეტალები. შეცვლის შემდეგ, თქვენი სტუმრების სია დაიკარგება.",
   "Change Date": "თარიღის შეცვლა",

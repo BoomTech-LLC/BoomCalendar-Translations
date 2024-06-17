@@ -1,4 +1,6 @@
 let de = {
+  "Enable": "Aktivieren",
+  "Limit": "Grenze",
   "Export": "Export",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Sie sind dabei, die Details Ihrer Veranstaltung zu ändern. Nach der Änderung geht Ihre Gästeliste verloren.",
   "Change Date": "Datum ändern",

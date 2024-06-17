@@ -1,4 +1,6 @@
 let ar = {
+  "Enable": "يُمكَِن",
+  "Limit": "حد",
   "Export": "يصدّر",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "أنت على وشك تغيير تفاصيل الحدث الخاص بك. بمجرد تغييرها، ستفقد قائمة الضيوف الخاصة بك.",
   "Change Date": "تغيير التاريخ",

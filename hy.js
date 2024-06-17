@@ -1,4 +1,6 @@
 let hy = {
+  "Enable": "Միացնել",
+  "Limit": "Սահման",
   "Export": "Արտահանում",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Դուք պատրաստվում եք փոխել ձեր միջոցառման մանրամասները: Փոխվելուց հետո ձեր հյուրերի ցուցակը կկորչի:",
   "Change Date": "Փոխել ամսաթիվը",

@@ -1,4 +1,6 @@
 let ca = {
+  "Enable": "Activa",
+  "Limit": "Límit",
   "Export": "Exporta",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Esteu a punt de canviar els detalls del vostre esdeveniment. Un cop canviat, la vostra llista de convidats es perdrà.",
   "Change Date": "Canvia data",
