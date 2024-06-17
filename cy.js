@@ -1,4 +1,6 @@
 let cy = {
+  "Enable": "Galluogi",
+  "Limit": "Terfyn",
   "Export": "Allforio",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Rydych chi ar fin newid manylion eich digwyddiad. Ar ôl ei newid, bydd eich rhestr westeion yn cael ei golli.",
   "Change Date": "Newid Dyddiad",

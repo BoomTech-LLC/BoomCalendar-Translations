@@ -1,4 +1,6 @@
 let mr = {
+  "Enable": "सक्षम करा",
+  "Limit": "मर्यादा",
   "Export": "निर्यात करा",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "तुम्ही तुमच्या इव्हेंटचे तपशील बदलणार आहात. एकदा बदलल्यानंतर, तुमची अतिथी सूची गमावली जाईल.",
   "Change Date": "तारीख बदला",

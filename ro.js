@@ -1,4 +1,6 @@
 let ro = {
+  "Enable": "Permite",
+  "Limit": "Limită",
   "Export": "Export",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Sunteți pe cale să modificați detaliile evenimentului dvs. Odată schimbată, lista dvs. de invitați se va pierde.",
   "Change Date": "Schimba data",

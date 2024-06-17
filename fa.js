@@ -1,4 +1,6 @@
 let fa = {
+  "Enable": "فعال کردن",
+  "Limit": "حد",
   "Export": "صادرات",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "شما در حال تغییر جزئیات رویداد خود هستید. پس از تغییر، لیست مهمانان شما از بین خواهد رفت.",
   "Change Date": "تغییر تاریخ",
