@@ -1,4 +1,5 @@
 let vi = {
+  "Export": "Xuất khẩu",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Bạn sắp thay đổi chi tiết sự kiện của mình. Sau khi thay đổi, danh sách khách của bạn sẽ bị mất.",
   "Change Date": "Thay đổi ngày",
   "Ends": "Kết thúc",

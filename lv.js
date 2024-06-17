@@ -1,4 +1,5 @@
 let lv = {
+  "Export": "Eksportēt",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Jūs gatavojaties mainīt sava pasākuma informāciju. Pēc maiņas jūsu viesu saraksts tiks zaudēts.",
   "Change Date": "Mainīt datumu",
   "Ends": "Beidzas",

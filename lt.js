@@ -1,4 +1,5 @@
 let lt = {
+  "Export": "Eksportuoti",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Ketinate pakeisti išsamią įvykio informaciją. Kai pakeisite, jūsų svečių sąrašas bus prarastas.",
   "Change Date": "Keisti datą",
   "Ends": "Baigiasi",

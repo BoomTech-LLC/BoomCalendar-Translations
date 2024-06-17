@@ -1,4 +1,5 @@
 let ru = {
+  "Export": "Экспорт",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Вы собираетесь изменить детали вашего мероприятия. После изменения ваш список гостей будет утерян.",
   "Change Date": "Изменить дату",
   "Ends": "Заканчивается",

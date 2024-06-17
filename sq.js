@@ -1,4 +1,5 @@
 let sq = {
+  "Export": "Eksporto",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Jeni gati të ndryshoni detajet e ngjarjes tuaj. Pasi të ndryshohet, lista juaj e të ftuarve do të humbet.",
   "Change Date": "Ndrysho datën",
   "Ends": "Përfundon",

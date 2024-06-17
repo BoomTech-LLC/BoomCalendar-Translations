@@ -1,4 +1,5 @@
 let he = {
+  "Export": "יְצוּא",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "אתה עומד לשנות את פרטי האירוע שלך. לאחר שינוי, רשימת האורחים שלך תאבד.",
   "Change Date": "שנה תאריך",
   "Ends": "מסתיים",

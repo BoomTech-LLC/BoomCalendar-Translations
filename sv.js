@@ -1,4 +1,5 @@
 let sv = {
+  "Export": "Exportera",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Du är på väg att ändra detaljerna för ditt evenemang. När den har ändrats kommer din gästlista att gå förlorad.",
   "Change Date": "Byt datum",
   "Ends": "Slutar",

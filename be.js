@@ -1,4 +1,5 @@
 let be = {
+  "Export": "Экспарт",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Вы збіраецеся змяніць дэталі вашай падзеі. Пасля змены ваш спіс гасцей будзе страчаны.",
   "Change Date": "Змяніць дату",
   "Ends": "Заканчваецца",
