@@ -1,4 +1,5 @@
 let hr = {
+  "Hide Fully Booked Slots": "Sakrij potpuno popunjena mjesta",
   "Enable": "Omogućiti",
   "Limit": "Ograničiti",
   "Export": "Izvoz",

@@ -1,4 +1,5 @@
 let hu = {
+  "Hide Fully Booked Slots": "Teljesen lefoglalt helyek elrejtése",
   "Enable": "Engedélyezze",
   "Limit": "Határ",
   "Export": "Export",

@@ -1,4 +1,5 @@
 let zh = {
+  "Hide Fully Booked Slots": "隐藏已满的时段",
   "Enable": "使能够",
   "Limit": "限制",
   "Export": "出口",

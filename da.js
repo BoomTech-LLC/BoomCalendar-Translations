@@ -1,4 +1,5 @@
 let da = {
+  "Hide Fully Booked Slots": "Skjul fuldt bookede spillemaskiner",
   "Enable": "Aktiver",
   "Limit": "Begrænse",
   "Export": "Eksport",

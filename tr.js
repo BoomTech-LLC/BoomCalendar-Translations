@@ -1,4 +1,5 @@
 let tr = {
+  "Hide Fully Booked Slots": "Tamamen Rezerve Edilmiş Slotları Gizle",
   "Enable": "Olanak vermek",
   "Limit": "Sınır",
   "Export": "İhracat",

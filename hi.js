@@ -1,4 +1,5 @@
 let hi = {
+  "Hide Fully Booked Slots": "पूरी तरह से बुक किए गए स्लॉट छिपाएँ",
   "Enable": "सक्षम",
   "Limit": "आप LIMIT",
   "Export": "निर्यात",

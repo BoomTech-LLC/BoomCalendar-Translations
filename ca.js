@@ -1,4 +1,5 @@
 let ca = {
+  "Hide Fully Booked Slots": "Amaga les ranures totalment reservades",
   "Enable": "Activa",
   "Limit": "Límit",
   "Export": "Exporta",

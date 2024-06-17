@@ -1,4 +1,5 @@
 let ar = {
+  "Hide Fully Booked Slots": "إخفاء فتحات محجوزة بالكامل",
   "Enable": "يُمكَِن",
   "Limit": "حد",
   "Export": "يصدّر",

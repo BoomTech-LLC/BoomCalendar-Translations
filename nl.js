@@ -1,4 +1,5 @@
 let nl = {
+  "Hide Fully Booked Slots": "Verberg volgeboekte slots",
   "Enable": "Inschakelen",
   "Limit": "Begrenzing",
   "Export": "Exporteren",

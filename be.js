@@ -1,4 +1,5 @@
 let be = {
+  "Hide Fully Booked Slots": "Схаваць цалкам забраніраваныя слоты",
   "Enable": "Уключыць",
   "Limit": "Ліміт",
   "Export": "Экспарт",

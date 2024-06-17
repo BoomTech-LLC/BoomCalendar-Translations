@@ -1,4 +1,5 @@
 let fi = {
+  "Hide Fully Booked Slots": "Piilota täysin varatut paikat",
   "Enable": "ota käyttöön",
   "Limit": "Raja",
   "Export": "Viedä",

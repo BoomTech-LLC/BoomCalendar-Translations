@@ -1,4 +1,5 @@
 let sr = {
+  "Hide Fully Booked Slots": "Сакриј потпуно попуњена места",
   "Enable": "Омогући",
   "Limit": "Лимит",
   "Export": "Извоз",

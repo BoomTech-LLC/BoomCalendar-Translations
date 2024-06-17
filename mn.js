@@ -1,4 +1,5 @@
 let mn = {
+  "Hide Fully Booked Slots": "Бүрэн захиалсан слотуудыг нуу",
   "Enable": "Идэвхжүүлэх",
   "Limit": "Хязгаар",
   "Export": "Экспорт",

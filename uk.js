@@ -1,4 +1,5 @@
 let uk = {
+  "Hide Fully Booked Slots": "Приховати повністю заброньовані слоти",
   "Enable": "Увімкнути",
   "Limit": "Ліміт",
   "Export": "Експорт",

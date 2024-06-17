@@ -1,4 +1,5 @@
 let pt = {
+  "Hide Fully Booked Slots": "Ocultar slots totalmente reservados",
   "Enable": "Habilitar",
   "Limit": "Limite",
   "Export": "Exportar",

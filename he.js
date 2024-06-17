@@ -1,4 +1,5 @@
 let he = {
+  "Hide Fully Booked Slots": "הסתר משבצות בהזמנה מלאה",
   "Enable": "לְאַפשֵׁר",
   "Limit": "לְהַגבִּיל",
   "Export": "יְצוּא",

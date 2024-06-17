@@ -1,4 +1,5 @@
 let el = {
+  "Hide Fully Booked Slots": "Απόκρυψη Πλήρως κρατημένων κουλοχέρηδων",
   "Enable": "επιτρέπω",
   "Limit": "Οριο",
   "Export": "Εξαγωγή",

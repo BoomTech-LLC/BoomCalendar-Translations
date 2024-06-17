@@ -1,4 +1,5 @@
 let lv = {
+  "Hide Fully Booked Slots": "Paslēpt pilnībā rezervētās vietas",
   "Enable": "Iespējot",
   "Limit": "Ierobežot",
   "Export": "Eksportēt",

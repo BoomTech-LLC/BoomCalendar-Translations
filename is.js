@@ -1,4 +1,5 @@
 let is = {
+  "Hide Fully Booked Slots": "Fela fullbókaða spilakassa",
   "Enable": "Virkja",
   "Limit": "Takmarka",
   "Export": "Útflutningur",

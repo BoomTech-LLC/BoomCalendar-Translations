@@ -1,4 +1,5 @@
 let cy = {
+  "Hide Fully Booked Slots": "Cuddio Slotiau Llawn Archebu",
   "Enable": "Galluogi",
   "Limit": "Terfyn",
   "Export": "Allforio",
