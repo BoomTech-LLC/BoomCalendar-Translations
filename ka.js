@@ -1,4 +1,5 @@
 let ka = {
+  "Hide Fully Booked Slots": "სრულად დაჯავშნილი სლოტების დამალვა",
   "Enable": "ჩართვა",
   "Limit": "Ზღვარი",
   "Export": "ექსპორტი",

@@ -1,4 +1,5 @@
 let ja = {
+  "Hide Fully Booked Slots": "満席のスロットを非表示にする",
   "Enable": "有効にする",
   "Limit": "限界",
   "Export": "輸出",

@@ -1,4 +1,5 @@
 let nb = {
+  "Hide Fully Booked Slots": "Skjul fullbookede spilleautomater",
   "Enable": "Muliggjøre",
   "Limit": "Grense",
   "Export": "Eksport",

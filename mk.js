@@ -1,4 +1,5 @@
 let mk = {
+  "Hide Fully Booked Slots": "Сокриј ги целосно резервираните слотови",
   "Enable": "Овозможи",
   "Limit": "Граница",
   "Export": "Извоз",

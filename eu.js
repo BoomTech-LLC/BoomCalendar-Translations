@@ -1,4 +1,5 @@
 let eu = {
+  "Hide Fully Booked Slots": "Ezkutatu guztiz erreserbatutako zirrikituak",
   "Enable": "Gaitu",
   "Limit": "Muga",
   "Export": "Esportatu",

@@ -1,4 +1,5 @@
 let sv = {
+  "Hide Fully Booked Slots": "Göm fullbokade spelautomater",
   "Enable": "Gör det möjligt",
   "Limit": "Begränsa",
   "Export": "Exportera",

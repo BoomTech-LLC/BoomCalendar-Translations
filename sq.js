@@ -1,4 +1,5 @@
 let sq = {
+  "Hide Fully Booked Slots": "Fshih slotet e rezervuara plotësisht",
   "Enable": "Aktivizo",
   "Limit": "Kufiri",
   "Export": "Eksporto",

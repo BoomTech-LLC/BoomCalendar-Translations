@@ -1,4 +1,5 @@
 let th = {
+  "Hide Fully Booked Slots": "ซ่อนช่องที่มีการจองเต็มแล้ว",
   "Enable": "เปิดใช้งาน",
   "Limit": "ขีดจำกัด",
   "Export": "ส่งออก",

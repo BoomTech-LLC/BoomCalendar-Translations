@@ -1,4 +1,5 @@
 let tl = {
+  "Hide Fully Booked Slots": "Itago ang Fully Booked Slots",
   "Enable": "Paganahin",
   "Limit": "Limitahan",
   "Export": "I-export",

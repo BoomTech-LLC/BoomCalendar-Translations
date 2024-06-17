@@ -1,4 +1,5 @@
 let ms = {
+  "Hide Fully Booked Slots": "Sembunyikan Slot Tempahan Penuh",
   "Enable": "Dayakan",
   "Limit": "Had",
   "Export": "Eksport",

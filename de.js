@@ -1,4 +1,5 @@
 let de = {
+  "Hide Fully Booked Slots": "Ausgebuchte Slots ausblenden",
   "Enable": "Aktivieren",
   "Limit": "Grenze",
   "Export": "Export",

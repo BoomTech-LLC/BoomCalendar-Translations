@@ -1,4 +1,5 @@
 let pl = {
+  "Hide Fully Booked Slots": "Ukryj w pełni zarezerwowane automaty",
   "Enable": "Włączać",
   "Limit": "Limit",
   "Export": "Eksport",

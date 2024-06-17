@@ -1,4 +1,5 @@
 let sk = {
+  "Hide Fully Booked Slots": "Skryť plne obsadené sloty",
   "Enable": "Povoliť",
   "Limit": "Limit",
   "Export": "Export",

@@ -1,4 +1,5 @@
 let ro = {
+  "Hide Fully Booked Slots": "Ascundeți sloturile complet rezervate",
   "Enable": "Permite",
   "Limit": "Limită",
   "Export": "Export",

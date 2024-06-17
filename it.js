@@ -1,4 +1,5 @@
 let it = {
+  "Hide Fully Booked Slots": "Nascondi gli slot completamente prenotati",
   "Enable": "Abilitare",
   "Limit": "Limite",
   "Export": "Esportare",

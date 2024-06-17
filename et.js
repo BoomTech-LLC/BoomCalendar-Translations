@@ -1,4 +1,5 @@
 let et = {
+  "Hide Fully Booked Slots": "Peida täielikult broneeritud teenindusajad",
   "Enable": "Luba",
   "Limit": "Piirang",
   "Export": "Ekspordi",

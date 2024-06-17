@@ -1,4 +1,5 @@
 let id = {
+  "Hide Fully Booked Slots": "Sembunyikan Slot yang Dipesan Sepenuhnya",
   "Enable": "Memungkinkan",
   "Limit": "Membatasi",
   "Export": "Ekspor",

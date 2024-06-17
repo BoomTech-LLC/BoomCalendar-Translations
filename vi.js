@@ -1,4 +1,5 @@
 let vi = {
+  "Hide Fully Booked Slots": "Ẩn các vị trí đã đặt đầy đủ",
   "Enable": "Cho phép",
   "Limit": "Giới hạn",
   "Export": "Xuất khẩu",

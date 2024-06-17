@@ -1,4 +1,5 @@
 let en = {
+  "Hide Fully Booked Slots": "Hide Fully Booked Slots",
   "Enable": "Enable",
   "Limit": "Limit",
   "Export": "Export",

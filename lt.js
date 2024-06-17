@@ -1,4 +1,5 @@
 let lt = {
+  "Hide Fully Booked Slots": "Slėpti visiškai rezervuotus laiko tarpsnius",
   "Enable": "Įgalinti",
   "Limit": "Riba",
   "Export": "Eksportuoti",
