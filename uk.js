@@ -1,4 +1,5 @@
 let uk = {
+  "Export": "Експорт",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Ви збираєтеся змінити деталі вашої події. Після зміни ваш список гостей буде втрачено.",
   "Change Date": "Змінити дату",
   "Ends": "Закінчується",

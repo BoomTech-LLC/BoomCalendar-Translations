@@ -1,4 +1,5 @@
 let nl = {
+  "Export": "Exporteren",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "U staat op het punt de details van uw evenement te wijzigen. Eenmaal gewijzigd, gaat uw gastenlijst verloren.",
   "Change Date": "Verander de datum",
   "Ends": "Loopt af",

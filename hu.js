@@ -1,4 +1,5 @@
 let hu = {
+  "Export": "Export",
   "You are about to change the details of your event. Once changed, your guest list will be lost.": "Az esemény részleteinek módosítására készül. A módosítás után a vendéglista elvész.",
   "Change Date": "Dátum módosítása",
   "Ends": "Véget ér",
