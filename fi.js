@@ -1,4 +1,5 @@
 let fi = {
+  "Date container font": "Päivämääräsäilön fontti",
   "Hide Fully Booked Slots": "Piilota täysin varatut paikat",
   "Enable": "ota käyttöön",
   "Limit": "Raja",

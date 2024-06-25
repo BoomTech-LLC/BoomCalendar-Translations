@@ -1,4 +1,5 @@
 let nl = {
+  "Date container font": "Datumcontainerlettertype",
   "Hide Fully Booked Slots": "Verberg volgeboekte slots",
   "Enable": "Inschakelen",
   "Limit": "Begrenzing",

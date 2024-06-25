@@ -1,4 +1,5 @@
 let it = {
+  "Date container font": "Carattere del contenitore della data",
   "Hide Fully Booked Slots": "Nascondi gli slot completamente prenotati",
   "Enable": "Abilitare",
   "Limit": "Limite",

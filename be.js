@@ -1,4 +1,5 @@
 let be = {
+  "Date container font": "Шрыфт кантэйнера даты",
   "Hide Fully Booked Slots": "Схаваць цалкам забраніраваныя слоты",
   "Enable": "Уключыць",
   "Limit": "Ліміт",

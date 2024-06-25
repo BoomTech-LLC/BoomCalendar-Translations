@@ -1,4 +1,5 @@
 let ka = {
+  "Date container font": "თარიღის კონტეინერის შრიფტი",
   "Hide Fully Booked Slots": "სრულად დაჯავშნილი სლოტების დამალვა",
   "Enable": "ჩართვა",
   "Limit": "Ზღვარი",

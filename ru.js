@@ -1,4 +1,5 @@
 let ru = {
+  "Date container font": "Шрифт контейнера даты",
   "Hide Fully Booked Slots": "Скрыть полностью забронированные слоты",
   "Enable": "Давать возможность",
   "Limit": "Лимит",

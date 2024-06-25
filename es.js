@@ -1,4 +1,5 @@
 let es = {
+  "Date container font": "Fuente del contenedor de fecha",
   "Hide Fully Booked Slots": "Ocultar espacios completamente reservados",
   "Enable": "Permitir",
   "Limit": "Límite",

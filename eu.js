@@ -1,4 +1,5 @@
 let eu = {
+  "Date container font": "Data edukiontziaren letra-tipoa",
   "Hide Fully Booked Slots": "Ezkutatu guztiz erreserbatutako zirrikituak",
   "Enable": "Gaitu",
   "Limit": "Muga",

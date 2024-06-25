@@ -1,4 +1,5 @@
 let ro = {
+  "Date container font": "Font pentru data containerului",
   "Hide Fully Booked Slots": "Ascundeți sloturile complet rezervate",
   "Enable": "Permite",
   "Limit": "Limită",

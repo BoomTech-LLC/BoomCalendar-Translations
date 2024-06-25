@@ -1,4 +1,5 @@
 let sr = {
+  "Date container font": "Фонт контејнера датума",
   "Hide Fully Booked Slots": "Сакриј потпуно попуњена места",
   "Enable": "Омогући",
   "Limit": "Лимит",

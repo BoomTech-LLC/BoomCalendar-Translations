@@ -1,4 +1,5 @@
 let ms = {
+  "Date container font": "Fon bekas tarikh",
   "Hide Fully Booked Slots": "Sembunyikan Slot Tempahan Penuh",
   "Enable": "Dayakan",
   "Limit": "Had",

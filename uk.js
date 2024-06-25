@@ -1,4 +1,5 @@
 let uk = {
+  "Date container font": "Шрифт контейнера дати",
   "Hide Fully Booked Slots": "Приховати повністю заброньовані слоти",
   "Enable": "Увімкнути",
   "Limit": "Ліміт",

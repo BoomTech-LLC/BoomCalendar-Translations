@@ -1,4 +1,5 @@
 let fr = {
+  "Date container font": "Police du conteneur de dates",
   "Hide Fully Booked Slots": "Masquer les emplacements entièrement réservés",
   "Enable": "Activer",
   "Limit": "Limite",

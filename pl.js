@@ -1,4 +1,5 @@
 let pl = {
+  "Date container font": "Czcionka kontenera daty",
   "Hide Fully Booked Slots": "Ukryj w pełni zarezerwowane automaty",
   "Enable": "Włączać",
   "Limit": "Limit",

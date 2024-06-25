@@ -1,4 +1,5 @@
 let cs = {
+  "Date container font": "Písmo kontejneru data",
   "Hide Fully Booked Slots": "Skryjte plně obsazené sloty",
   "Enable": "Umožnit",
   "Limit": "Omezit",

@@ -1,4 +1,5 @@
 let hi = {
+  "Date container font": "दिनांक कंटेनर फ़ॉन्ट",
   "Hide Fully Booked Slots": "पूरी तरह से बुक किए गए स्लॉट छिपाएँ",
   "Enable": "सक्षम",
   "Limit": "आप LIMIT",

@@ -1,4 +1,5 @@
 let th = {
+  "Date container font": "แบบอักษรคอนเทนเนอร์วันที่",
   "Hide Fully Booked Slots": "ซ่อนช่องที่มีการจองเต็มแล้ว",
   "Enable": "เปิดใช้งาน",
   "Limit": "ขีดจำกัด",

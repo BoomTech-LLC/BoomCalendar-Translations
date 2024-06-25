@@ -1,4 +1,5 @@
 let bg = {
+  "Date container font": "Шрифт на контейнера за дата",
   "Hide Fully Booked Slots": "Скрийте напълно резервираните слотове",
   "Enable": "Активиране",
   "Limit": "Лимит",

@@ -1,4 +1,5 @@
 let sq = {
+  "Date container font": "Fonti i kontejnerit të datës",
   "Hide Fully Booked Slots": "Fshih slotet e rezervuara plotësisht",
   "Enable": "Aktivizo",
   "Limit": "Kufiri",

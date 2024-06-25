@@ -1,4 +1,5 @@
 let vi = {
+  "Date container font": "Phông chữ chứa ngày",
   "Hide Fully Booked Slots": "Ẩn các vị trí đã đặt đầy đủ",
   "Enable": "Cho phép",
   "Limit": "Giới hạn",

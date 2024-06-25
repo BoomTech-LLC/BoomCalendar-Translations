@@ -1,4 +1,5 @@
 let mk = {
+  "Date container font": "Фонт на контејнер за датум",
   "Hide Fully Booked Slots": "Сокриј ги целосно резервираните слотови",
   "Enable": "Овозможи",
   "Limit": "Граница",

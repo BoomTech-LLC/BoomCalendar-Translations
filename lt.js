@@ -1,4 +1,5 @@
 let lt = {
+  "Date container font": "Datos konteinerio šriftas",
   "Hide Fully Booked Slots": "Slėpti visiškai rezervuotus laiko tarpsnius",
   "Enable": "Įgalinti",
   "Limit": "Riba",
