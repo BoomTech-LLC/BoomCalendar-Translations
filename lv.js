@@ -1,4 +1,5 @@
 let lv = {
+  "Date container font": "Datuma konteinera fonts",
   "Hide Fully Booked Slots": "Paslēpt pilnībā rezervētās vietas",
   "Enable": "Iespējot",
   "Limit": "Ierobežot",

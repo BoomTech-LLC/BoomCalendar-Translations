@@ -1,4 +1,5 @@
 let pt = {
+  "Date container font": "Fonte do contêiner de data",
   "Hide Fully Booked Slots": "Ocultar slots totalmente reservados",
   "Enable": "Habilitar",
   "Limit": "Limite",

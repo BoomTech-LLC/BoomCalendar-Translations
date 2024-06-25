@@ -1,4 +1,5 @@
 let de = {
+  "Date container font": "Schriftart für Datumscontainer",
   "Hide Fully Booked Slots": "Ausgebuchte Slots ausblenden",
   "Enable": "Aktivieren",
   "Limit": "Grenze",

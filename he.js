@@ -1,4 +1,5 @@
 let he = {
+  "Date container font": "גופן מיכל תאריך",
   "Hide Fully Booked Slots": "הסתר משבצות בהזמנה מלאה",
   "Enable": "לְאַפשֵׁר",
   "Limit": "לְהַגבִּיל",

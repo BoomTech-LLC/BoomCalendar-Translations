@@ -1,4 +1,5 @@
 let mr = {
+  "Date container font": "तारीख कंटेनर फॉन्ट",
   "Hide Fully Booked Slots": "पूर्णपणे बुक केलेले स्लॉट लपवा",
   "Enable": "सक्षम करा",
   "Limit": "मर्यादा",

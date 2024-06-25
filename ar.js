@@ -1,4 +1,5 @@
 let ar = {
+  "Date container font": "خط حاوية التاريخ",
   "Hide Fully Booked Slots": "إخفاء فتحات محجوزة بالكامل",
   "Enable": "يُمكَِن",
   "Limit": "حد",

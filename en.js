@@ -1,4 +1,5 @@
 let en = {
+  "Date container font": "Date container font",
   "Hide Fully Booked Slots": "Hide Fully Booked Slots",
   "Enable": "Enable",
   "Limit": "Limit",

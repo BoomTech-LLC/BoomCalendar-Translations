@@ -1,4 +1,5 @@
 let ja = {
+  "Date container font": "日付コンテナのフォント",
   "Hide Fully Booked Slots": "満席のスロットを非表示にする",
   "Enable": "有効にする",
   "Limit": "限界",

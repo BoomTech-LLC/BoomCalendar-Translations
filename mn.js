@@ -1,4 +1,5 @@
 let mn = {
+  "Date container font": "Огнооны савны фонт",
   "Hide Fully Booked Slots": "Бүрэн захиалсан слотуудыг нуу",
   "Enable": "Идэвхжүүлэх",
   "Limit": "Хязгаар",

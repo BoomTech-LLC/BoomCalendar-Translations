@@ -1,4 +1,5 @@
 let ko = {
+  "Date container font": "날짜 컨테이너 글꼴",
   "Hide Fully Booked Slots": "예약이 꽉 찬 슬롯 숨기기",
   "Enable": "할 수 있게 하다",
   "Limit": "한계",

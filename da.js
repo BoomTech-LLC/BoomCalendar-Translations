@@ -1,4 +1,5 @@
 let da = {
+  "Date container font": "Datobeholderskrifttype",
   "Hide Fully Booked Slots": "Skjul fuldt bookede spillemaskiner",
   "Enable": "Aktiver",
   "Limit": "Begrænse",

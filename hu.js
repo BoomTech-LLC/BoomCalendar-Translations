@@ -1,4 +1,5 @@
 let hu = {
+  "Date container font": "Dátumtároló betűtípusa",
   "Hide Fully Booked Slots": "Teljesen lefoglalt helyek elrejtése",
   "Enable": "Engedélyezze",
   "Limit": "Határ",

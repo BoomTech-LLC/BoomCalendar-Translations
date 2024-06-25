@@ -1,4 +1,5 @@
 let hr = {
+  "Date container font": "Font spremnika datuma",
   "Hide Fully Booked Slots": "Sakrij potpuno popunjena mjesta",
   "Enable": "Omogućiti",
   "Limit": "Ograničiti",

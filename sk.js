@@ -1,4 +1,5 @@
 let sk = {
+  "Date container font": "Písmo kontajnera dátumu",
   "Hide Fully Booked Slots": "Skryť plne obsadené sloty",
   "Enable": "Povoliť",
   "Limit": "Limit",

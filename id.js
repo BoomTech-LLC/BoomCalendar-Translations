@@ -1,4 +1,5 @@
 let id = {
+  "Date container font": "Font wadah tanggal",
   "Hide Fully Booked Slots": "Sembunyikan Slot yang Dipesan Sepenuhnya",
   "Enable": "Memungkinkan",
   "Limit": "Membatasi",

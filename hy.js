@@ -1,4 +1,5 @@
 let hy = {
+  "Date container font": "Ամսաթվի կոնտեյների տառատեսակ",
   "Hide Fully Booked Slots": "Թաքցնել ամբողջությամբ ամրագրված սլոթերը",
   "Enable": "Միացնել",
   "Limit": "Սահման",

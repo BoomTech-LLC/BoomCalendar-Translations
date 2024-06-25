@@ -1,4 +1,5 @@
 let et = {
+  "Date container font": "Kuupäevakonteineri font",
   "Hide Fully Booked Slots": "Peida täielikult broneeritud teenindusajad",
   "Enable": "Luba",
   "Limit": "Piirang",

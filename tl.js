@@ -1,4 +1,5 @@
 let tl = {
+  "Date container font": "Font ng lalagyan ng petsa",
   "Hide Fully Booked Slots": "Itago ang Fully Booked Slots",
   "Enable": "Paganahin",
   "Limit": "Limitahan",

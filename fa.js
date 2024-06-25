@@ -1,4 +1,5 @@
 let fa = {
+  "Date container font": "فونت ظرف تاریخ",
   "Hide Fully Booked Slots": "اسلات های کاملا رزرو شده را مخفی کنید",
   "Enable": "فعال کردن",
   "Limit": "حد",

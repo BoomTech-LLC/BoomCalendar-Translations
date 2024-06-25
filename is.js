@@ -1,4 +1,5 @@
 let is = {
+  "Date container font": "Leturgerð dagsetningaríláts",
   "Hide Fully Booked Slots": "Fela fullbókaða spilakassa",
   "Enable": "Virkja",
   "Limit": "Takmarka",
