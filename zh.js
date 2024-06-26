@@ -1,4 +1,8 @@
 let zh = {
+  "Layout": "布局",
+  "Acending": "升序",
+  "Yearly": "每年",
+  "Layout device": "布局装置",
   "Date container font": "日期容器字体",
   "Hide Fully Booked Slots": "隐藏已满的时段",
   "Enable": "使能够",

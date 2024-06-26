@@ -1,4 +1,8 @@
 let sr = {
+  "Layout": "Лаиоут",
+  "Acending": "Ацендинг",
+  "Yearly": "Годишње",
+  "Layout device": "Уређај за распоред",
   "Date container font": "Фонт контејнера датума",
   "Hide Fully Booked Slots": "Сакриј потпуно попуњена места",
   "Enable": "Омогући",

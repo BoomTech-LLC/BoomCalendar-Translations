@@ -1,4 +1,8 @@
 let cs = {
+  "Layout": "Rozložení",
+  "Acending": "Vzestupně",
+  "Yearly": "Roční",
+  "Layout device": "Zařízení pro rozložení",
   "Date container font": "Písmo kontejneru data",
   "Hide Fully Booked Slots": "Skryjte plně obsazené sloty",
   "Enable": "Umožnit",

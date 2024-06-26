@@ -1,4 +1,8 @@
 let nl = {
+  "Layout": "Indeling",
+  "Acending": "Acending",
+  "Yearly": "Jaarlijks",
+  "Layout device": "Indeling apparaat",
   "Date container font": "Datumcontainerlettertype",
   "Hide Fully Booked Slots": "Verberg volgeboekte slots",
   "Enable": "Inschakelen",

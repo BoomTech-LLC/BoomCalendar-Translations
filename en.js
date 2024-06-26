@@ -1,4 +1,8 @@
 let en = {
+  "Layout": "Layout",
+  "Acending": "Acending",
+  "Yearly": "Yearly",
+  "Layout device": "Layout device",
   "Date container font": "Date container font",
   "Hide Fully Booked Slots": "Hide Fully Booked Slots",
   "Enable": "Enable",

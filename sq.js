@@ -1,4 +1,8 @@
 let sq = {
+  "Layout": "Paraqitja",
+  "Acending": "Duke u rritur",
+  "Yearly": "vjetore",
+  "Layout device": "Pajisja e paraqitjes",
   "Date container font": "Fonti i kontejnerit të datës",
   "Hide Fully Booked Slots": "Fshih slotet e rezervuara plotësisht",
   "Enable": "Aktivizo",

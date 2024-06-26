@@ -1,4 +1,8 @@
 let tr = {
+  "Layout": "Düzen",
+  "Acending": "Artan",
+  "Yearly": "Yıllık",
+  "Layout device": "Düzen cihazı",
   "Date container font": "Tarih kapsayıcı yazı tipi",
   "Hide Fully Booked Slots": "Tamamen Rezerve Edilmiş Slotları Gizle",
   "Enable": "Olanak vermek",

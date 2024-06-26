@@ -1,4 +1,8 @@
 let lv = {
+  "Layout": "Izkārtojums",
+  "Acending": "Acending",
+  "Yearly": "Ik gadu",
+  "Layout device": "Izkārtojuma ierīce",
   "Date container font": "Datuma konteinera fonts",
   "Hide Fully Booked Slots": "Paslēpt pilnībā rezervētās vietas",
   "Enable": "Iespējot",

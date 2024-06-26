@@ -1,4 +1,8 @@
 let ar = {
+  "Layout": "تَخطِيط",
+  "Acending": "تصاعدي",
+  "Yearly": "سنوي",
+  "Layout device": "جهاز تخطيط",
   "Date container font": "خط حاوية التاريخ",
   "Hide Fully Booked Slots": "إخفاء فتحات محجوزة بالكامل",
   "Enable": "يُمكَِن",

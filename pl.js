@@ -1,4 +1,8 @@
 let pl = {
+  "Layout": "Układ",
+  "Acending": "Rosnąco",
+  "Yearly": "Rocznie",
+  "Layout device": "Urządzenie układowe",
   "Date container font": "Czcionka kontenera daty",
   "Hide Fully Booked Slots": "Ukryj w pełni zarezerwowane automaty",
   "Enable": "Włączać",

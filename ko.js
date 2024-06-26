@@ -1,4 +1,8 @@
 let ko = {
+  "Layout": "공들여 나열한 것",
+  "Acending": "오름차순",
+  "Yearly": "매년",
+  "Layout device": "레이아웃 장치",
   "Date container font": "날짜 컨테이너 글꼴",
   "Hide Fully Booked Slots": "예약이 꽉 찬 슬롯 숨기기",
   "Enable": "할 수 있게 하다",

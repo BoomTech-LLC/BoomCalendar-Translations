@@ -1,4 +1,8 @@
 let is = {
+  "Layout": "Skipulag",
+  "Acending": "Árangursríkur",
+  "Yearly": "Árlega",
+  "Layout device": "Skipulagstæki",
   "Date container font": "Leturgerð dagsetningaríláts",
   "Hide Fully Booked Slots": "Fela fullbókaða spilakassa",
   "Enable": "Virkja",

@@ -1,4 +1,8 @@
 let ro = {
+  "Layout": "Aspect",
+  "Acending": "Ascendente",
+  "Yearly": "Anual",
+  "Layout device": "Dispozitiv de aspect",
   "Date container font": "Font pentru data containerului",
   "Hide Fully Booked Slots": "Ascundeți sloturile complet rezervate",
   "Enable": "Permite",

@@ -1,4 +1,8 @@
 let it = {
+  "Layout": "Disposizione",
+  "Acending": "Ascendente",
+  "Yearly": "Annuale",
+  "Layout device": "Dispositivo di impaginazione",
   "Date container font": "Carattere del contenitore della data",
   "Hide Fully Booked Slots": "Nascondi gli slot completamente prenotati",
   "Enable": "Abilitare",

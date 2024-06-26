@@ -1,4 +1,8 @@
 let hu = {
+  "Layout": "Elrendezés",
+  "Acending": "Acending",
+  "Yearly": "Évi",
+  "Layout device": "Elrendezési eszköz",
   "Date container font": "Dátumtároló betűtípusa",
   "Hide Fully Booked Slots": "Teljesen lefoglalt helyek elrejtése",
   "Enable": "Engedélyezze",

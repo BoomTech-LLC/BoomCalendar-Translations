@@ -1,4 +1,8 @@
 let sk = {
+  "Layout": "Rozloženie",
+  "Acending": "Vzostupne",
+  "Yearly": "Ročne",
+  "Layout device": "Zariadenie na usporiadanie",
   "Date container font": "Písmo kontajnera dátumu",
   "Hide Fully Booked Slots": "Skryť plne obsadené sloty",
   "Enable": "Povoliť",

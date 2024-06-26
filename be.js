@@ -1,4 +1,8 @@
 let be = {
+  "Layout": "Макет",
+  "Acending": "Нарастаючы",
+  "Yearly": "Штогод",
+  "Layout device": "Прылада кампаноўкі",
   "Date container font": "Шрыфт кантэйнера даты",
   "Hide Fully Booked Slots": "Схаваць цалкам забраніраваныя слоты",
   "Enable": "Уключыць",

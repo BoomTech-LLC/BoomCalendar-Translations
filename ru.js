@@ -1,4 +1,8 @@
 let ru = {
+  "Layout": "Макет",
+  "Acending": "Последующий",
+  "Yearly": "Ежегодно",
+  "Layout device": "Устройство макета",
   "Date container font": "Шрифт контейнера даты",
   "Hide Fully Booked Slots": "Скрыть полностью забронированные слоты",
   "Enable": "Давать возможность",

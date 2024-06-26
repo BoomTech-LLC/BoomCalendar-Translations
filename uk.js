@@ -1,4 +1,8 @@
 let uk = {
+  "Layout": "Макет",
+  "Acending": "Наростаючий",
+  "Yearly": "щорічно",
+  "Layout device": "Макетний пристрій",
   "Date container font": "Шрифт контейнера дати",
   "Hide Fully Booked Slots": "Приховати повністю заброньовані слоти",
   "Enable": "Увімкнути",

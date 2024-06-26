@@ -1,4 +1,8 @@
 let lt = {
+  "Layout": "Išdėstymas",
+  "Acending": "Didėjantis",
+  "Yearly": "Kasmet",
+  "Layout device": "Išdėstymo įrenginys",
   "Date container font": "Datos konteinerio šriftas",
   "Hide Fully Booked Slots": "Slėpti visiškai rezervuotus laiko tarpsnius",
   "Enable": "Įgalinti",
