@@ -1,4 +1,8 @@
 let id = {
+  "Layout": "Tata Letak",
+  "Acending": "Menaik",
+  "Yearly": "Tahunan",
+  "Layout device": "Perangkat tata letak",
   "Date container font": "Font wadah tanggal",
   "Hide Fully Booked Slots": "Sembunyikan Slot yang Dipesan Sepenuhnya",
   "Enable": "Memungkinkan",

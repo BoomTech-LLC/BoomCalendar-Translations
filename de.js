@@ -1,4 +1,8 @@
 let de = {
+  "Layout": "Layout",
+  "Acending": "Aufsteigend",
+  "Yearly": "Jährlich",
+  "Layout device": "Layoutgerät",
   "Date container font": "Schriftart für Datumscontainer",
   "Hide Fully Booked Slots": "Ausgebuchte Slots ausblenden",
   "Enable": "Aktivieren",

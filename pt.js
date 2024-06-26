@@ -1,4 +1,8 @@
 let pt = {
+  "Layout": "Disposição",
+  "Acending": "Acendendo",
+  "Yearly": "Anual",
+  "Layout device": "Dispositivo de layout",
   "Date container font": "Fonte do contêiner de data",
   "Hide Fully Booked Slots": "Ocultar slots totalmente reservados",
   "Enable": "Habilitar",

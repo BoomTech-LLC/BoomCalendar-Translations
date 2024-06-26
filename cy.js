@@ -1,4 +1,8 @@
 let cy = {
+  "Layout": "Gosodiad",
+  "Acending": "Acending",
+  "Yearly": "Yn flynyddol",
+  "Layout device": "Dyfais gosodiad",
   "Date container font": "Ffont cynhwysydd dyddiad",
   "Hide Fully Booked Slots": "Cuddio Slotiau Llawn Archebu",
   "Enable": "Galluogi",

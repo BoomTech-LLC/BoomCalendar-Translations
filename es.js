@@ -1,4 +1,8 @@
 let es = {
+  "Layout": "Disposición",
+  "Acending": "Ascendente",
+  "Yearly": "Anual",
+  "Layout device": "Dispositivo de diseño",
   "Date container font": "Fuente del contenedor de fecha",
   "Hide Fully Booked Slots": "Ocultar espacios completamente reservados",
   "Enable": "Permitir",

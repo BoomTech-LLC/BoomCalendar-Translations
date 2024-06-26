@@ -1,4 +1,8 @@
 let bg = {
+  "Layout": "Оформление",
+  "Acending": "Възходящо",
+  "Yearly": "Годишно",
+  "Layout device": "Устройство за оформление",
   "Date container font": "Шрифт на контейнера за дата",
   "Hide Fully Booked Slots": "Скрийте напълно резервираните слотове",
   "Enable": "Активиране",

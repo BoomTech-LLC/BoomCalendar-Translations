@@ -1,4 +1,8 @@
 let mn = {
+  "Layout": "Зохион байгуулалт",
+  "Acending": "Нэмэлт",
+  "Yearly": "Жил бүр",
+  "Layout device": "Байршлын төхөөрөмж",
   "Date container font": "Огнооны савны фонт",
   "Hide Fully Booked Slots": "Бүрэн захиалсан слотуудыг нуу",
   "Enable": "Идэвхжүүлэх",

@@ -1,4 +1,8 @@
 let ms = {
+  "Layout": "Susun atur",
+  "Acending": "Menaik",
+  "Yearly": "setiap tahun",
+  "Layout device": "Peranti reka letak",
   "Date container font": "Fon bekas tarikh",
   "Hide Fully Booked Slots": "Sembunyikan Slot Tempahan Penuh",
   "Enable": "Dayakan",

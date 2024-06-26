@@ -1,4 +1,8 @@
 let el = {
+  "Layout": "Διάταξη",
+  "Acending": "Αύξουσα",
+  "Yearly": "Ετήσια",
+  "Layout device": "Συσκευή διάταξης",
   "Date container font": "Γραμματοσειρά κοντέινερ ημερομηνίας",
   "Hide Fully Booked Slots": "Απόκρυψη Πλήρως κρατημένων κουλοχέρηδων",
   "Enable": "επιτρέπω",

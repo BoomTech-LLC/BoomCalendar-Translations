@@ -1,4 +1,8 @@
 let mr = {
+  "Layout": "मांडणी",
+  "Acending": "वरती",
+  "Yearly": "वार्षिक",
+  "Layout device": "लेआउट डिव्हाइस",
   "Date container font": "तारीख कंटेनर फॉन्ट",
   "Hide Fully Booked Slots": "पूर्णपणे बुक केलेले स्लॉट लपवा",
   "Enable": "सक्षम करा",

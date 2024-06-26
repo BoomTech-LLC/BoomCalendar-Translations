@@ -1,4 +1,8 @@
 let fr = {
+  "Layout": "Mise en page",
+  "Acending": "Accroissant",
+  "Yearly": "Annuel",
+  "Layout device": "Dispositif de mise en page",
   "Date container font": "Police du conteneur de dates",
   "Hide Fully Booked Slots": "Masquer les emplacements entièrement réservés",
   "Enable": "Activer",

@@ -1,4 +1,8 @@
 let fi = {
+  "Layout": "Layout",
+  "Acending": "Nouseva",
+  "Yearly": "Vuosittain",
+  "Layout device": "Asettelulaite",
   "Date container font": "Päivämääräsäilön fontti",
   "Hide Fully Booked Slots": "Piilota täysin varatut paikat",
   "Enable": "ota käyttöön",

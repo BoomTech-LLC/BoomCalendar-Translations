@@ -1,4 +1,8 @@
 let eu = {
+  "Layout": "Diseinua",
+  "Acending": "Goragotuz",
+  "Yearly": "Urtero",
+  "Layout device": "Diseinu gailua",
   "Date container font": "Data edukiontziaren letra-tipoa",
   "Hide Fully Booked Slots": "Ezkutatu guztiz erreserbatutako zirrikituak",
   "Enable": "Gaitu",

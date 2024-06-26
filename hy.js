@@ -1,4 +1,8 @@
 let hy = {
+  "Layout": "Դասավորություն",
+  "Acending": "Աճող",
+  "Yearly": "Տարեկան",
+  "Layout device": "Դասավորության սարք",
   "Date container font": "Ամսաթվի կոնտեյների տառատեսակ",
   "Hide Fully Booked Slots": "Թաքցնել ամբողջությամբ ամրագրված սլոթերը",
   "Enable": "Միացնել",

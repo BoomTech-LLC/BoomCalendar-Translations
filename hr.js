@@ -1,4 +1,8 @@
 let hr = {
+  "Layout": "Raspored",
+  "Acending": "Uzlazno",
+  "Yearly": "Godišnje",
+  "Layout device": "Uređaj za raspored",
   "Date container font": "Font spremnika datuma",
   "Hide Fully Booked Slots": "Sakrij potpuno popunjena mjesta",
   "Enable": "Omogućiti",

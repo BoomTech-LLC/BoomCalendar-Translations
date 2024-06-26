@@ -1,4 +1,8 @@
 let he = {
+  "Layout": "מַעֲרָך",
+  "Acending": "מתקדם",
+  "Yearly": "שְׁנָתִי",
+  "Layout device": "מכשיר פריסה",
   "Date container font": "גופן מיכל תאריך",
   "Hide Fully Booked Slots": "הסתר משבצות בהזמנה מלאה",
   "Enable": "לְאַפשֵׁר",

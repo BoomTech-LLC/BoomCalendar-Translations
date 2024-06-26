@@ -1,4 +1,8 @@
 let da = {
+  "Layout": "Layout",
+  "Acending": "Acending",
+  "Yearly": "Årligt",
+  "Layout device": "Layout enhed",
   "Date container font": "Datobeholderskrifttype",
   "Hide Fully Booked Slots": "Skjul fuldt bookede spillemaskiner",
   "Enable": "Aktiver",

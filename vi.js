@@ -1,4 +1,8 @@
 let vi = {
+  "Layout": "Cách trình bày",
+  "Acending": "Đang tăng dần",
+  "Yearly": "Hàng năm",
+  "Layout device": "Thiết bị bố trí",
   "Date container font": "Phông chữ chứa ngày",
   "Hide Fully Booked Slots": "Ẩn các vị trí đã đặt đầy đủ",
   "Enable": "Cho phép",

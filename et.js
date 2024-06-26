@@ -1,4 +1,8 @@
 let et = {
+  "Layout": "Paigutus",
+  "Acending": "Tõusev",
+  "Yearly": "Aastane",
+  "Layout device": "Paigutusseade",
   "Date container font": "Kuupäevakonteineri font",
   "Hide Fully Booked Slots": "Peida täielikult broneeritud teenindusajad",
   "Enable": "Luba",

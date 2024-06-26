@@ -1,4 +1,8 @@
 let sv = {
+  "Layout": "Layout",
+  "Acending": "Acending",
+  "Yearly": "Årlig",
+  "Layout device": "Layoutenhet",
   "Date container font": "Teckensnitt för datumbehållare",
   "Hide Fully Booked Slots": "Göm fullbokade spelautomater",
   "Enable": "Gör det möjligt",

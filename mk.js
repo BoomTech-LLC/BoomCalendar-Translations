@@ -1,4 +1,8 @@
 let mk = {
+  "Layout": "Распоред",
+  "Acending": "Надополнување",
+  "Yearly": "Годишно",
+  "Layout device": "Уред за распоред",
   "Date container font": "Фонт на контејнер за датум",
   "Hide Fully Booked Slots": "Сокриј ги целосно резервираните слотови",
   "Enable": "Овозможи",

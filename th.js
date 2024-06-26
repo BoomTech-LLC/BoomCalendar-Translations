@@ -1,4 +1,8 @@
 let th = {
+  "Layout": "เค้าโครง",
+  "Acending": "การเน้นเสียง",
+  "Yearly": "เป็นประจำทุกปี",
+  "Layout device": "อุปกรณ์เค้าโครง",
   "Date container font": "แบบอักษรคอนเทนเนอร์วันที่",
   "Hide Fully Booked Slots": "ซ่อนช่องที่มีการจองเต็มแล้ว",
   "Enable": "เปิดใช้งาน",
