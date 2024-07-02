@@ -1,4 +1,5 @@
 let hr = {
+  "To Event Page": "Na stranicu događaja",
   "Layout": "Raspored",
   "Acending": "Uzlazno",
   "Yearly": "Godišnje",

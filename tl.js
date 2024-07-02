@@ -1,4 +1,5 @@
 let tl = {
+  "To Event Page": "Sa Pahina ng Kaganapan",
   "Layout": "Layout",
   "Acending": "Acending",
   "Yearly": "Taon-taon",

@@ -1,4 +1,5 @@
 let it = {
+  "To Event Page": "Alla pagina dell'evento",
   "Layout": "Disposizione",
   "Acending": "Ascendente",
   "Yearly": "Annuale",

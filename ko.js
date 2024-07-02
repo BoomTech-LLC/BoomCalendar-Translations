@@ -1,4 +1,5 @@
 let ko = {
+  "To Event Page": "이벤트 페이지로",
   "Layout": "공들여 나열한 것",
   "Acending": "오름차순",
   "Yearly": "매년",

@@ -1,4 +1,5 @@
 let eu = {
+  "To Event Page": "Gertaeren orrira",
   "Layout": "Diseinua",
   "Acending": "Goragotuz",
   "Yearly": "Urtero",

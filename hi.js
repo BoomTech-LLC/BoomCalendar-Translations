@@ -1,4 +1,5 @@
 let hi = {
+  "To Event Page": "इवेंट पेज पर",
   "Layout": "लेआउट",
   "Acending": "आरोहण",
   "Yearly": "सालाना",

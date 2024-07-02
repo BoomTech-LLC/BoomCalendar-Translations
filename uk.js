@@ -1,4 +1,5 @@
 let uk = {
+  "To Event Page": "На сторінку події",
   "Layout": "Макет",
   "Acending": "Наростаючий",
   "Yearly": "щорічно",

@@ -1,4 +1,5 @@
 let nl = {
+  "To Event Page": "Naar evenementenpagina",
   "Layout": "Indeling",
   "Acending": "Acending",
   "Yearly": "Jaarlijks",

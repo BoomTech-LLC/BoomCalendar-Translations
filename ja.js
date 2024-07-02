@@ -1,4 +1,5 @@
 let ja = {
+  "To Event Page": "イベントページへ",
   "Layout": "レイアウト",
   "Acending": "昇順",
   "Yearly": "毎年",

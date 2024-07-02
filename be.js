@@ -1,4 +1,5 @@
 let be = {
+  "To Event Page": "На старонку падзеі",
   "Layout": "Макет",
   "Acending": "Нарастаючы",
   "Yearly": "Штогод",

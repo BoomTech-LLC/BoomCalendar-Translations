@@ -1,4 +1,5 @@
 let da = {
+  "To Event Page": "Til begivenhedssiden",
   "Layout": "Layout",
   "Acending": "Acending",
   "Yearly": "Årligt",

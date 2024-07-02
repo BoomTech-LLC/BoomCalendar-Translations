@@ -1,4 +1,5 @@
 let ro = {
+  "To Event Page": "La pagina evenimentului",
   "Layout": "Aspect",
   "Acending": "Ascendente",
   "Yearly": "Anual",

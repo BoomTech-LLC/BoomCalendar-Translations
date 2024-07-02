@@ -1,4 +1,5 @@
 let sv = {
+  "To Event Page": "Till evenemangssidan",
   "Layout": "Layout",
   "Acending": "Acending",
   "Yearly": "Årlig",

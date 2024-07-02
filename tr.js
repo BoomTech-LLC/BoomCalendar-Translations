@@ -1,4 +1,5 @@
 let tr = {
+  "To Event Page": "Etkinlik Sayfasına",
   "Layout": "Düzen",
   "Acending": "Artan",
   "Yearly": "Yıllık",

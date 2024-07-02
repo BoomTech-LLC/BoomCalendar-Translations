@@ -1,4 +1,5 @@
 let ms = {
+  "To Event Page": "Ke Halaman Acara",
   "Layout": "Susun atur",
   "Acending": "Menaik",
   "Yearly": "setiap tahun",

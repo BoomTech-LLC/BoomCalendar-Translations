@@ -1,4 +1,5 @@
 let ca = {
+  "To Event Page": "A la pàgina de l'esdeveniment",
   "Layout": "Disseny",
   "Acending": "Creixent",
   "Yearly": "Anualment",

@@ -1,4 +1,5 @@
 let cy = {
+  "To Event Page": "I Dudalen Digwyddiad",
   "Layout": "Gosodiad",
   "Acending": "Acending",
   "Yearly": "Yn flynyddol",

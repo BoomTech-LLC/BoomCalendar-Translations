@@ -1,4 +1,5 @@
 let zh = {
+  "To Event Page": "前往活动页面",
   "Layout": "布局",
   "Acending": "升序",
   "Yearly": "每年",

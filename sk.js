@@ -1,4 +1,5 @@
 let sk = {
+  "To Event Page": "Na stránku udalosti",
   "Layout": "Rozloženie",
   "Acending": "Vzostupne",
   "Yearly": "Ročne",
