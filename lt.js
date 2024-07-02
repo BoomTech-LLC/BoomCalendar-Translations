@@ -1,4 +1,5 @@
 let lt = {
+  "To Event Page": "Į renginio puslapį",
   "Layout": "Išdėstymas",
   "Acending": "Didėjantis",
   "Yearly": "Kasmet",

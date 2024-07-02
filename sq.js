@@ -1,4 +1,5 @@
 let sq = {
+  "To Event Page": "Në faqen e ngjarjes",
   "Layout": "Paraqitja",
   "Acending": "Duke u rritur",
   "Yearly": "vjetore",

@@ -1,4 +1,5 @@
 let mr = {
+  "To Event Page": "इव्हेंट पृष्ठावर",
   "Layout": "मांडणी",
   "Acending": "वरती",
   "Yearly": "वार्षिक",

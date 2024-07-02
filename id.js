@@ -1,4 +1,5 @@
 let id = {
+  "To Event Page": "Ke Halaman Acara",
   "Layout": "Tata Letak",
   "Acending": "Menaik",
   "Yearly": "Tahunan",

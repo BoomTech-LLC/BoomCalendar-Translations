@@ -1,4 +1,5 @@
 let et = {
+  "To Event Page": "Sündmuse lehele",
   "Layout": "Paigutus",
   "Acending": "Tõusev",
   "Yearly": "Aastane",

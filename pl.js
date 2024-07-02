@@ -1,4 +1,5 @@
 let pl = {
+  "To Event Page": "Do strony wydarzenia",
   "Layout": "Układ",
   "Acending": "Rosnąco",
   "Yearly": "Rocznie",

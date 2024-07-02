@@ -1,4 +1,5 @@
 let fi = {
+  "To Event Page": "Tapahtumasivulle",
   "Layout": "Layout",
   "Acending": "Nouseva",
   "Yearly": "Vuosittain",

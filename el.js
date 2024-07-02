@@ -1,4 +1,5 @@
 let el = {
+  "To Event Page": "Στη σελίδα συμβάντος",
   "Layout": "Διάταξη",
   "Acending": "Αύξουσα",
   "Yearly": "Ετήσια",

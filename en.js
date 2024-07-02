@@ -1,4 +1,5 @@
 let en = {
+  "To Event Page": "To Event Page",
   "Layout": "Layout",
   "Acending": "Acending",
   "Yearly": "Yearly",

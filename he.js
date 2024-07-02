@@ -1,4 +1,5 @@
 let he = {
+  "To Event Page": "לדף האירוע",
   "Layout": "מַעֲרָך",
   "Acending": "מתקדם",
   "Yearly": "שְׁנָתִי",

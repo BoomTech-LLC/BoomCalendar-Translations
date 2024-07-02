@@ -1,4 +1,5 @@
 let hu = {
+  "To Event Page": "Az esemény oldalára",
   "Layout": "Elrendezés",
   "Acending": "Acending",
   "Yearly": "Évi",

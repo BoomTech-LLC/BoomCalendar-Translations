@@ -1,4 +1,5 @@
 let cs = {
+  "To Event Page": "Na stránku události",
   "Layout": "Rozložení",
   "Acending": "Vzestupně",
   "Yearly": "Roční",

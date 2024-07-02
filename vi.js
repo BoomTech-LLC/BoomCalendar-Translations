@@ -1,4 +1,5 @@
 let vi = {
+  "To Event Page": "Đến trang sự kiện",
   "Layout": "Cách trình bày",
   "Acending": "Đang tăng dần",
   "Yearly": "Hàng năm",

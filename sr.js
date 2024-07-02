@@ -1,4 +1,5 @@
 let sr = {
+  "To Event Page": "На страницу догађаја",
   "Layout": "Лаиоут",
   "Acending": "Ацендинг",
   "Yearly": "Годишње",

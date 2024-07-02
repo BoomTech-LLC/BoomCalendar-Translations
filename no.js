@@ -1,4 +1,5 @@
 let no = {
+  "To Event Page": "Til hendelsessiden",
   "Layout": "Oppsett",
   "Acending": "Acending",
   "Yearly": "Årlig",

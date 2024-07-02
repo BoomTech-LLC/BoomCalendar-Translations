@@ -1,4 +1,5 @@
 let ar = {
+  "To Event Page": "إلى صفحة الحدث",
   "Layout": "تَخطِيط",
   "Acending": "تصاعدي",
   "Yearly": "سنوي",

@@ -1,4 +1,5 @@
 let is = {
+  "To Event Page": "Að viðburðasíðu",
   "Layout": "Skipulag",
   "Acending": "Árangursríkur",
   "Yearly": "Árlega",

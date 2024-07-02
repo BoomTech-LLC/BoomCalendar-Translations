@@ -1,4 +1,5 @@
 let lv = {
+  "To Event Page": "Uz notikuma lapu",
   "Layout": "Izkārtojums",
   "Acending": "Acending",
   "Yearly": "Ik gadu",

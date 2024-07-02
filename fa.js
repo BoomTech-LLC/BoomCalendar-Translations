@@ -1,4 +1,5 @@
 let fa = {
+  "To Event Page": "به صفحه رویداد",
   "Layout": "چیدمان",
   "Acending": "صعودی",
   "Yearly": "سالانه",
