@@ -1,4 +1,8 @@
 let sr = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Тицкет Таилор синхронизација вам омогућава да интегришете своје догађаје и сесије са вашим Боом календаром.",
+  "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Прикажи време догађаја поред наслова. Ово подешавање је применљиво само на месечне, дневне и недељне приказе.",
+  "Show Staff Member": "Прикажи члан особља",
+  "Show Price": "Прикажи цену",
   "To Event Page": "На страницу догађаја",
   "Layout": "Лаиоут",
   "Acending": "Ацендинг",

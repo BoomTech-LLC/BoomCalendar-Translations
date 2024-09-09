@@ -1,4 +1,8 @@
 let ja = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor 同期を使用すると、イベントやセッションを Boom カレンダーと統合できます。",
+  "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "タイトルの横にイベント時間を表示します。この設定は、月次、日次、および週次のビューにのみ適用されます。",
+  "Show Staff Member": "ショースタッフ",
+  "Show Price": "価格を表示",
   "To Event Page": "イベントページへ",
   "Layout": "レイアウト",
   "Acending": "昇順",

@@ -1,4 +1,8 @@
 let ms = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Penyegerakan Penjahit Tiket membolehkan anda menyepadukan acara dan sesi anda dengan Kalendar Boom anda.",
+  "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Tunjukkan masa acara di sebelah tajuk. Tetapan ini hanya terpakai pada paparan Bulanan, Harian dan Mingguan.",
+  "Show Staff Member": "Tunjukkan Ahli Kakitangan",
+  "Show Price": "Tunjukkan Harga",
   "To Event Page": "Ke Halaman Acara",
   "Layout": "Susun atur",
   "Acending": "Menaik",

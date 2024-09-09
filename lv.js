@@ -1,4 +1,8 @@
 let lv = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor sinhronizācija ļauj integrēt pasākumus un sesijas ar jūsu Boom Calendar.",
+  "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Rādīt pasākuma laiku blakus nosaukumam. Šis iestatījums attiecas tikai uz ikmēneša, dienas un nedēļas skatiem.",
+  "Show Staff Member": "Rādīt personāla locekli",
+  "Show Price": "Rādīt cenu",
   "To Event Page": "Uz notikuma lapu",
   "Layout": "Izkārtojums",
   "Acending": "Acending",

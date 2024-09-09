@@ -1,4 +1,8 @@
 let vi = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Đồng bộ hóa Ticket Tailor cho phép bạn tích hợp các sự kiện và phiên của mình với Lịch bùng nổ.",
+  "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Hiển thị thời gian sự kiện bên cạnh tiêu đề. Cài đặt này chỉ áp dụng cho chế độ xem Hàng tháng, Hàng ngày và Hàng tuần.",
+  "Show Staff Member": "Hiển thị Thành viên Nhân viên",
+  "Show Price": "Hiển thị giá",
   "To Event Page": "Đến trang sự kiện",
   "Layout": "Cách trình bày",
   "Acending": "Đang tăng dần",
