@@ -1,4 +1,8 @@
 let he = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "סנכרון כרטיסים Tailor מאפשר לך לשלב את האירועים וההפעלות שלך עם לוח השנה של Boom שלך.",
+  "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "הצג את זמן האירוע ליד הכותרת. הגדרה זו חלה רק על התצוגות החודשיות, היומיות והשבועיות.",
+  "Show Staff Member": "הצג חבר צוות",
+  "Show Price": "הצג מחיר",
   "To Event Page": "לדף האירוע",
   "Layout": "מַעֲרָך",
   "Acending": "מתקדם",

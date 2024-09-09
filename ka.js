@@ -1,4 +1,8 @@
 let ka = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor-ის სინქრონიზაცია საშუალებას გაძლევთ გააერთიანოთ თქვენი მოვლენები და სესიები თქვენს Boom Calendar-თან.",
+  "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "ღონისძიების დროის ჩვენება სათაურის გვერდით. ეს პარამეტრი გამოიყენება მხოლოდ ყოველთვიური, ყოველდღიური და ყოველკვირეული ნახვებისთვის.",
+  "Show Staff Member": "პერსონალის ჩვენება",
+  "Show Price": "ფასის ჩვენება",
   "To Event Page": "ღონისძიების გვერდზე",
   "Layout": "განლაგება",
   "Acending": "აღმავალი",

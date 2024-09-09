@@ -1,4 +1,8 @@
 let cy = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Mae cysoni Ticket Tailor yn caniatáu ichi integreiddio'ch digwyddiadau a'ch sesiynau â'ch Calendr Boom.",
+  "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Dangos amser digwyddiad wrth ymyl y teitl. Dim ond i'r golygfeydd Misol, Dyddiol ac Wythnosol y mae'r gosodiad hwn yn berthnasol.",
+  "Show Staff Member": "Aelod o Staff y Sioe",
+  "Show Price": "Dangos Pris",
   "To Event Page": "I Dudalen Digwyddiad",
   "Layout": "Gosodiad",
   "Acending": "Acending",

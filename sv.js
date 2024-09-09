@@ -1,4 +1,8 @@
 let sv = {
+  "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor sync låter dig integrera dina evenemang och sessioner med din Boom-kalender.",
+  "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Visa händelsetid bredvid titeln. Den här inställningen är endast tillämplig på vyerna Månatlig, Daglig och Veckovis.",
+  "Show Staff Member": "Visa personalmedlem",
+  "Show Price": "Visa pris",
   "To Event Page": "Till evenemangssidan",
   "Layout": "Layout",
   "Acending": "Acending",
