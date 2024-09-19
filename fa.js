@@ -1,4 +1,5 @@
 let fa = {
+  "Change the category": "دسته بندی را تغییر دهید",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "همگام سازی Ticket Tailor به شما امکان می دهد رویدادها و جلسات خود را با تقویم Boom خود ادغام کنید.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "نمایش زمان رویداد در کنار عنوان. این تنظیم فقط برای نماهای ماهانه، روزانه و هفتگی قابل اعمال است.",
   "Show Staff Member": "نمایش اعضای کارکنان",

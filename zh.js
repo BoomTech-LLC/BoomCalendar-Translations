@@ -1,4 +1,5 @@
 let zh = {
+  "Change the category": "更改类别",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor 同步允许您将活动和会议与 Boom 日历集成。",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "在标题旁边显示活动时间。此设置仅适用于每月、每日和每周视图。",
   "Show Staff Member": "展会工作人员",

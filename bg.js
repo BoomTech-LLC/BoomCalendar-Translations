@@ -1,4 +1,5 @@
 let bg = {
+  "Change the category": "Променете категорията",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Синхронизирането на Ticket Tailor ви позволява да интегрирате вашите събития и сесии с вашия Boom Calendar.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Показване на часа на събитието до заглавието. Тази настройка е приложима само за изгледи Месечен, Ежедневен и Седмичен.",
   "Show Staff Member": "Покажи член на персонала",

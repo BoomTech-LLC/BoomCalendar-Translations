@@ -1,4 +1,5 @@
 let uk = {
+  "Change the category": "Змініть категорію",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.":
     "Синхронізація Ticket Tailor дозволяє інтегрувати ваші події та сеанси з календарем Boom.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": `Показувати час події біля назви. Цей параметр застосовний лише до переглядів "Місяць", "Щодня" та "Щотижневий".`,

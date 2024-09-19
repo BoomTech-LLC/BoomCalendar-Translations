@@ -1,4 +1,5 @@
 let mr = {
+  "Change the category": "श्रेणी बदला",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "तिकीट टेलर सिंक तुम्हाला तुमच्या बूम कॅलेंडरसह तुमचे इव्हेंट आणि सत्रे समाकलित करण्याची परवानगी देते.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "शीर्षकाच्या पुढे इव्हेंट वेळ दर्शवा. ही सेटिंग केवळ मासिक, दैनिक आणि साप्ताहिक दृश्यांना लागू आहे.",
   "Show Staff Member": "कर्मचारी सदस्य दाखवा",

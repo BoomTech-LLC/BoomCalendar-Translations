@@ -1,4 +1,5 @@
 let tr = {
+  "Change the category": "Kategoriyi değiştir",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor senkronizasyonu, etkinliklerinizi ve oturumlarınızı Boom Takviminizle entegre etmenize olanak tanır.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Başlığın yanında etkinlik zamanını göster. Bu ayar yalnızca Aylık, Günlük ve Haftalık görünümler için geçerlidir.",
   "Show Staff Member": "Personeli Göster",
