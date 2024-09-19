@@ -1,4 +1,5 @@
 let hr = {
+  "Change the category": "Promijenite kategoriju",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor sinkronizacija omogućuje vam integraciju događaja i sesija s vašim Boom kalendarom.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Prikaži vrijeme događaja pored naslova. Ova je postavka primjenjiva samo na mjesečni, dnevni i tjedni prikaz.",
   "Show Staff Member": "Show Staff Member",

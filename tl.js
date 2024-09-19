@@ -1,4 +1,5 @@
 let tl = {
+  "Change the category": "Baguhin ang kategorya",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Nagbibigay-daan sa iyo ang pag-sync ng Ticket Tailor na isama ang iyong mga event at session sa iyong Boom Calendar.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Ipakita ang oras ng kaganapan sa tabi ng pamagat. Ang setting na ito ay naaangkop lamang sa Buwanang, Araw-araw, at Lingguhang mga view.",
   "Show Staff Member": "Ipakita ang Miyembro ng Tauhan",

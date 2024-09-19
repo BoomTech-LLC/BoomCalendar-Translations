@@ -1,4 +1,5 @@
 let lt = {
+  "Change the category": "Keisti kategoriją",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "„Ticket Tailor“ sinchronizavimas leidžia integruoti įvykius ir seansus su „Boom“ kalendoriumi.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Rodyti įvykio laiką šalia pavadinimo. Šis nustatymas taikomas tik mėnesio, dienos ir savaitės rodiniams.",
   "Show Staff Member": "Rodyti personalo narį",

@@ -1,4 +1,5 @@
 let et = {
+  "Change the category": "Muuda kategooriat",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailori sünkroonimine võimaldab teil integreerida oma sündmused ja seansid oma Boom Calendariga.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Näita pealkirja kõrval sündmuse aega. See säte kehtib ainult kuu-, päeva- ja nädalavaadete puhul.",
   "Show Staff Member": "Näita töötajat",

@@ -1,4 +1,5 @@
 let mn = {
+  "Change the category": "Ангилалыг өөрчлөх",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor синхрончлол нь танд өөрийн үйл явдал, сессийг Boom Calendar-тай нэгтгэх боломжийг олгоно.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Гарчгийн хажууд үйл явдлын цагийг харуул. Энэ тохиргоо нь зөвхөн Сар, Өдөр, Долоо хоног тутмын харагдацад хамаарна.",
   "Show Staff Member": "Ажилтны гишүүнийг харуулах",
