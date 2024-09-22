@@ -810,5 +810,7 @@ let sr = {
   "There are no synchronized pages": "Нема синхронизованих страница",
   "Choose page": "Изаберите страницу",
   "You have no events": "Немате догађаја",
+  "script bound": "Ова скрипта је већ везана, молимо изаберите друге детаље!",
+  "Add Script": "Додај скрипту",
 };
 export default sr;

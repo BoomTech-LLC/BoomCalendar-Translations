@@ -820,5 +820,7 @@ let be = {
   "There are no synchronized pages": "Няма сінхранізаваных старонак",
   "Choose page": "Выберыце старонку",
   "You have no events": "У вас няма падзей",
+  "Add Script": "Дадаць скрыпт",
+  "script bound": "Гэты скрыпт ужо прывязаны, выберыце іншыя дэталі!",
 };
 export default be;

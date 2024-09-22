@@ -810,5 +810,7 @@ let ja = {
   "There are no synchronized pages": "同期されたページはありません",
   "Choose page": "ページを選択してください",
   "You have no events": "イベントはありません",
+  "Add Script": "スクリプトの追加",
+  "script bound": "このスクリプトはすでにバインドされています。他の詳細を選択してください。",
 };
 export default ja;

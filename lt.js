@@ -683,5 +683,7 @@ let lt = {
   "There are no synchronized pages": "Sinchronizuotų puslapių nėra",
   "Choose page": "Pasirinkite puslapį",
   "You have no events": "Jūs neturite įvykių",
+  "Add Script": "Pridėti scenarijų",
+  "script bound": "Šis scenarijus jau yra surištas, pasirinkite kitą informaciją!",
 };
 export default lt;

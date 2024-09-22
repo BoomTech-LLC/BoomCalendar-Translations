@@ -802,5 +802,7 @@ let en = {
   "There are no synchronized pages": "There are no synchronized pages",
   "Choose page": "Choose page",
   "You have no events": "You have no events",
+  "Add Script": "Add Script",
+  "script bound": "This script is already bound, please select other details!",
 };
 export default en;

@@ -821,5 +821,7 @@ let he = {
   "There are no synchronized pages": "אין דפים מסונכרנים",
   "Choose page": "בחר עמוד",
   "You have no events": "אין לך אירועים",
+  "Add Script": "הוסף סקריפט",
+  "script bound": "הסקריפט הזה כבר קשור, אנא בחר פרטים אחרים!",
 };
 export default he;

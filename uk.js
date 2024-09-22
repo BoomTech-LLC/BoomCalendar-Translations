@@ -836,5 +836,7 @@ let uk = {
   "There are no synchronized pages": "Немає синхронізованих сторінок",
   "Choose page": "Виберіть сторінку",
   "You have no events": "У вас немає подій",
+  "Add Script": "Додати сценарій",
+  "script bound": "Цей сценарій уже прив'язаний, виберіть інші деталі!",
 };
 export default uk;

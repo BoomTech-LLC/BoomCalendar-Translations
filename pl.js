@@ -806,5 +806,7 @@ let pl = {
   "There are no synchronized pages": "Brak zsynchronizowanych stron",
   "Choose page": "Wybierz stronę",
   "You have no events": "Nie masz wydarzeń",
+  "Add Script": "Dodaj skrypt",
+  "script bound": "Ten skrypt jest już związany, wybierz inne szczegóły!",
 };
 export default pl;

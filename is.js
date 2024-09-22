@@ -811,5 +811,7 @@ let is = {
   "There are no synchronized pages": "Það eru engar samstilltar síður",
   "Choose page": "Veldu síðu",
   "You have no events": "Þú hefur enga atburði",
+  "Add Script": "Bæta við Script",
+  "script bound": "Þetta handrit er þegar bundið, vinsamlegast veldu aðrar upplýsingar!",
 };
 export default is;

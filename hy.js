@@ -829,5 +829,7 @@ let hy = {
   "There are no synchronized pages": "Սինքրոնացված էջեր չկան",
   "Choose page": "Ընտրեք էջը",
   "You have no events": "Դուք միջոցառումներ չունեք",
+  "Add Script": "Ավելացնել սցենար",
+  "script bound": "Այս սցենարն արդեն ամրացված է, խնդրում ենք ընտրել այլ մանրամասներ:",
 };
 export default hy;

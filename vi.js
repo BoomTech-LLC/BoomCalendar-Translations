@@ -744,5 +744,7 @@ let vi = {
   "There are no synchronized pages": "Không có trang nào được đồng bộ hóa",
   "Choose page": "Chọn trang",
   "You have no events": "Bạn không có sự kiện",
+  "Add Script": "Thêm tập lệnh",
+  "script bound": "Kịch bản này đã được ràng buộc, vui lòng chọn các chi tiết khác!",
 };
 export default vi;

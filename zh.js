@@ -793,5 +793,7 @@ let zh = {
   "There are no synchronized pages": "没有同步页面",
   "Choose page": "选择页面",
   "You have no events": "你没有事件",
+  "Add Script": "添加脚本",
+  "script bound": "该脚本已绑定，请选择其他详细信息！",
 };
 export default zh;

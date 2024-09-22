@@ -811,5 +811,7 @@ let lv = {
   "There are no synchronized pages": "Nav sinhronizētu lapu",
   "Choose page": "Izvēlieties lapu",
   "You have no events": "Jums nav notikumu",
+  "Add Script": "Pievienot skriptu",
+  "script bound": "Šis skripts jau ir saistīts, lūdzu, atlasiet citu informāciju!",
 };
 export default lv;

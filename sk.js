@@ -812,5 +812,7 @@ let sk = {
     "Neexistujú žiadne synchronizované stránky",
   "Choose page": "Vyberte stránku",
   "You have no events": "Nemáte žiadne udalosti",
+  "Add Script": "Pridať skript",
+  "script bound": "Tento skript je už viazaný, vyberte ďalšie podrobnosti!",
 };
 export default sk;

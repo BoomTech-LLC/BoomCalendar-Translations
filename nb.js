@@ -645,5 +645,7 @@ let nb = {
   "Synchronized Pages": "Synkroniserte sider",
   "There are no synchronized pages": "Det er ingen synkroniserte sider",
   "Choose page": "Velg side",
+  "Add Script": "Legg til skript",
+  "script bound": "Dette skriptet er allerede bundet, velg andre detaljer!",
 };
 export default nb;

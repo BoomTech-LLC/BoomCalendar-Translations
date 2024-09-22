@@ -836,5 +836,7 @@ let no = {
   "There are no synchronized pages": "Det er ingen synkroniserte sider",
   "Choose page": "Velg side",
   "You have no events": "Du har ingen hendelser",
+  "Add Script": "Legg til skript",
+  "script bound": "Dette skriptet er allerede bundet, velg andre detaljer!",
 };
 export default no;

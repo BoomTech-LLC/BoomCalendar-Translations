@@ -845,5 +845,7 @@ let ru = {
   "There are no synchronized pages": "Нет синхронизированных страниц",
   "Choose page": "Выберите страницу",
   "You have no events": "У тебя нет событий",
+  "Add Script": "Добавить скрипт",
+  "script bound": "Этот скрипт уже связан, выберите другие данные!",
 };
 export default ru;

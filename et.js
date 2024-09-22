@@ -808,5 +808,7 @@ let et = {
   "There are no synchronized pages": "Sünkroonitud lehti pole",
   "Choose page": "Valige leht",
   "You have no events": "Teil pole üritusi",
+  "Add Script": "Lisa skript",
+  "script bound": "See skript on juba köidetud, palun valige muud üksikasjad!",
 };
 export default et;

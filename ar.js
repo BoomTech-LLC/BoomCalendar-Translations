@@ -809,5 +809,7 @@ let ar = {
   "There are no synchronized pages": "لا توجد صفحات متزامنة",
   "Choose page": "اختر الصفحة",
   "You have no events": "ليس لديك أحداث",
+  "Add Script": "إضافة البرنامج النصي",
+  "script bound": "هذا البرنامج النصي مرتبط بالفعل، يرجى تحديد تفاصيل أخرى!",
 };
 export default ar;

@@ -809,5 +809,7 @@ let id = {
   "There are no synchronized pages": "Tidak ada halaman yang disinkronkan",
   "Choose page": "Pilih halaman",
   "You have no events": "Anda tidak memiliki acara",
+  "Add Script": "Tambahkan Skrip",
+  "script bound": "Skrip ini sudah terikat, silakan pilih detail lainnya!",
 };
 export default id;

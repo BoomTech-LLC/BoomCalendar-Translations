@@ -812,5 +812,7 @@ let ro = {
   "There are no synchronized pages": "Nu există pagini sincronizate",
   "Choose page": "Alege pagina",
   "You have no events": "Nu ai evenimente",
+  "Add Script": "Adăugați script",
+  "script bound": "Acest script este deja legat, vă rugăm să selectați alte detalii!",
 };
 export default ro;

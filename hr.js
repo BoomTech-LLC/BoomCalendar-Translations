@@ -818,5 +818,7 @@ let hr = {
   "There are no synchronized pages": "Nema sinkroniziranih stranica",
   "Choose page": "Odaberite stranicu",
   "You have no events": "Nemate događaja",
+  "Add Script": "Dodaj skriptu",
+  "script bound": "Ova skripta je već vezana, odaberite druge detalje!",
 };
 export default hr;

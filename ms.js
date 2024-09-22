@@ -810,5 +810,7 @@ let ms = {
   "There are no synchronized pages": "Tiada halaman yang disegerakkan",
   "Choose page": "Pilih halaman",
   "You have no events": "Anda tidak mempunyai acara",
+  "Add Script": "Tambah Skrip",
+  "script bound": "Skrip ini sudah terikat, sila pilih butiran lain!",
 };
 export default ms;

@@ -811,5 +811,7 @@ let eu = {
   "There are no synchronized pages": "Ez dago orrialde sinkronizaturik",
   "Choose page": "Aukeratu orria",
   "You have no events": "Ez duzu gertaerarik",
+  "Add Script": "Gehitu gidoia",
+  "script bound": "Script hau dagoeneko lotuta dago, hautatu beste xehetasun batzuk!",
 };
 export default eu;

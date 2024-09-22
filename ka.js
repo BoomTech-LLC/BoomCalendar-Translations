@@ -811,5 +811,7 @@ let ka = {
   "There are no synchronized pages": "არ არის სინქრონიზებული გვერდები",
   "Choose page": "აირჩიეთ გვერდი",
   "You have no events": "თქვენ არ გაქვთ მოვლენები",
+  "Add Script": "სკრიპტის დამატება",
+  "script bound": "ეს სკრიპტი უკვე შეკრულია, გთხოვთ, აირჩიოთ სხვა დეტალები!",
 };
 export default ka;
