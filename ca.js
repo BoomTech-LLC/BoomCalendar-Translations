@@ -839,5 +839,7 @@ let ca = {
   "You have no events": "No teniu esdeveniments",
   "Add Script": "Afegeix script",
   "script bound": "Aquest script ja està lligat, seleccioneu altres detalls!",
+  "Choose account": "Tria el compte",
+  "Choose resource": "Triar el recurs",
 };
 export default ca;

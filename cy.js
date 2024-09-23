@@ -817,5 +817,7 @@ let cy = {
   "You have no events": "Nid oes gennych unrhyw ddigwyddiadau",
   "Add Script": "Ychwanegu Sgript",
   "script bound": "Mae'r sgript hon eisoes wedi'i rhwymo, dewiswch fanylion eraill!",
+  "Choose account": "Dewis Cyfrif",
+  "Choose resource": "Dewiswch Adnodd",
 };
 export default cy;

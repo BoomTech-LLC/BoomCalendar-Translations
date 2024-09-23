@@ -808,5 +808,7 @@ let pl = {
   "You have no events": "Nie masz wydarzeń",
   "Add Script": "Dodaj skrypt",
   "script bound": "Ten skrypt jest już związany, wybierz inne szczegóły!",
+  "Choose account": "Wybierz konto",
+  "Choose resource": "Wybierz zasób",
 };
 export default pl;

@@ -685,5 +685,7 @@ let lt = {
   "You have no events": "Jūs neturite įvykių",
   "Add Script": "Pridėti scenarijų",
   "script bound": "Šis scenarijus jau yra surištas, pasirinkite kitą informaciją!",
+  "Choose account": "Pasirinkite sąskaitą",
+  "Choose resource": "Pasirinkite šaltinį",
 };
 export default lt;

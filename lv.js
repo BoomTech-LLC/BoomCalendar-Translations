@@ -813,5 +813,7 @@ let lv = {
   "You have no events": "Jums nav notikumu",
   "Add Script": "Pievienot skriptu",
   "script bound": "Šis skripts jau ir saistīts, lūdzu, atlasiet citu informāciju!",
+  "Choose account": "Izvēlieties kontu",
+  "Choose resource": "Izvēlieties resursu",
 };
 export default lv;

@@ -813,5 +813,7 @@ let fi = {
   "You have no events": "Sinulla ei ole tapahtumia",
   "Add Script": "Lisää komentosarja",
   "script bound": "Tämä kirjoitus on jo sidottu, valitse muut tiedot!",
+  "Choose account": "Valitse tili",
+  "Choose resource": "Valitse resurssi",
 };
 export default fi;

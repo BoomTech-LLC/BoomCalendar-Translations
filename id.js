@@ -811,5 +811,7 @@ let id = {
   "You have no events": "Anda tidak memiliki acara",
   "Add Script": "Tambahkan Skrip",
   "script bound": "Skrip ini sudah terikat, silakan pilih detail lainnya!",
+  "Choose account": "Pilih Akun",
+  "Choose resource": "Pilih Sumber Daya",
 };
 export default id;

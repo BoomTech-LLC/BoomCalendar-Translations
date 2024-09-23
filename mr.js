@@ -813,5 +813,7 @@ let mr = {
   "You have no events": "आपल्याकडे कोणतेही कार्यक्रम नाहीत",
   "Add Script": "स्क्रिप्ट जोडा",
   "script bound": "ही स्क्रिप्ट आधीपासूनच बंधनकारक आहे, कृपया इतर तपशील निवडा!",
+  "Choose account": "खाते निवडा",
+  "Choose resource": "संसाधन निवडा",
 };
 export default mr;

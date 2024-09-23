@@ -812,5 +812,7 @@ let nl = {
   "You have no events": "Je hebt geen evenementen",
   "Add Script": "Script toevoegen",
   "script bound": "Dit script is al gebonden, selecteer andere details!",
+  "Choose account": "Kies account",
+  "Choose resource": "Kies resource",
 };
 export default nl;

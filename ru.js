@@ -847,5 +847,7 @@ let ru = {
   "You have no events": "У тебя нет событий",
   "Add Script": "Добавить скрипт",
   "script bound": "Этот скрипт уже связан, выберите другие данные!",
+  "Choose account": "Выберите аккаунт",
+  "Choose resource": "Выберите ресурс",
 };
 export default ru;

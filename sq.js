@@ -814,5 +814,7 @@ let sq = {
   "You have no events": "Ju nuk keni asnjë ngjarje",
   "Add Script": "Shto skenarin",
   "script bound": "Ky skenar tashmë është i lidhur, ju lutemi zgjidhni detaje të tjera!",
+  "Choose account": "Zgjidhni Llogari",
+  "Choose resource": "Zgjidhni Burimin",
 };
 export default sq;

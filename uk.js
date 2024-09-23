@@ -838,5 +838,7 @@ let uk = {
   "You have no events": "У вас немає подій",
   "Add Script": "Додати сценарій",
   "script bound": "Цей сценарій уже прив'язаний, виберіть інші деталі!",
+  "Choose account": "Виберіть рахунок",
+  "Choose resource": "Виберіть ресурс",
 };
 export default uk;

@@ -809,5 +809,7 @@ let th = {
   "You have no events": "คุณไม่มีกิจกรรม",
   "Add Script": "เพิ่มสคริปต์",
   "script bound": "สคริปต์นี้ถูกผูกไว้แล้วโปรดเลือกรายละเอียดอื่น ๆ !",
+  "Choose account": "เลือกบัญชี",
+  "Choose resource": "เลือกทรัพยากร",
 };
 export default th;

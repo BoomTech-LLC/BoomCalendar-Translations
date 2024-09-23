@@ -779,5 +779,7 @@ let tl = {
   "You have no events": "Wala kang mga kaganapan",
   "script bound": "Ang script na ito ay nakatali na, mangyaring pumili ng iba pang mga detalye!",
   "Add Script": "Magdagdag ng script",
+  "Choose account": "Pumili ng account",
+  "Choose resource": "Pumili ng mapagkukunan",
 };
 export default tl;

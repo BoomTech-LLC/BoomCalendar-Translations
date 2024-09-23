@@ -821,5 +821,7 @@ let fr = {
   "You have no events": "Vous n'avez pas d'événements",
   "Add Script": "Ajouter un script",
   "script bound": "Ce script est déjà lié, veuillez sélectionner d'autres détails !",
+  "Choose account": "Choisissez le compte",
+  "Choose resource": "Choisissez la ressource",
 };
 export default fr;

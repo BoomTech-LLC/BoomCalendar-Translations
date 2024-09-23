@@ -813,5 +813,7 @@ let eu = {
   "You have no events": "Ez duzu gertaerarik",
   "Add Script": "Gehitu gidoia",
   "script bound": "Script hau dagoeneko lotuta dago, hautatu beste xehetasun batzuk!",
+  "Choose account": "Aukeratu kontua",
+  "Choose resource": "Aukeratu baliabidea",
 };
 export default eu;

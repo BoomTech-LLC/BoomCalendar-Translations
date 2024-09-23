@@ -813,5 +813,7 @@ let pt = {
   "You have no events": "Você não tem eventos",
   "Add Script": "Adicionar roteiro",
   "script bound": "Este script já está vinculado, selecione outros detalhes!",
+  "Choose account": "Escolha a conta",
+  "Choose resource": "Escolha o recurso",
 };
 export default pt;

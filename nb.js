@@ -647,5 +647,7 @@ let nb = {
   "Choose page": "Velg side",
   "Add Script": "Legg til skript",
   "script bound": "Dette skriptet er allerede bundet, velg andre detaljer!",
+  "Choose account": "Velg konto",
+  "Choose resource": "Velg ressurs",
 };
 export default nb;

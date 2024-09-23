@@ -814,5 +814,7 @@ let cs = {
   "You have no events": "Nemáte žádné události",
   "Add Script": "Přidat skript",
   "script bound": "Tento skript je již svázán, vyberte prosím jiné podrobnosti!",
+  "Choose account": "Vyberte účet",
+  "Choose resource": "Vyberte zdroj",
 };
 export default cs;

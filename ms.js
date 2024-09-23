@@ -812,5 +812,7 @@ let ms = {
   "You have no events": "Anda tidak mempunyai acara",
   "Add Script": "Tambah Skrip",
   "script bound": "Skrip ini sudah terikat, sila pilih butiran lain!",
+  "Choose account": "Pilih akaun",
+  "Choose resource": "Pilih Sumber",
 };
 export default ms;
