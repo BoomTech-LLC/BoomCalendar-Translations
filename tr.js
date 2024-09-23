@@ -815,5 +815,7 @@ let tr = {
   "You have no events": "Etkinliğin yok",
   "Add Script": "Komut Dosyası Ekle",
   "script bound": "Bu senaryo zaten bağlı, lütfen diğer ayrıntıları seçin!",
+  "Choose account": "Hesabı Seçin",
+  "Choose resource": "Kaynak seçin",
 };
 export default tr;

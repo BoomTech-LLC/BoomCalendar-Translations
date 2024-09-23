@@ -823,5 +823,7 @@ let he = {
   "You have no events": "אין לך אירועים",
   "Add Script": "הוסף סקריפט",
   "script bound": "הסקריפט הזה כבר קשור, אנא בחר פרטים אחרים!",
+  "Choose account": "בחר חשבון",
+  "Choose resource": "בחר משאב",
 };
 export default he;

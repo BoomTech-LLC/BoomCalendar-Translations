@@ -795,5 +795,7 @@ let zh = {
   "You have no events": "你没有事件",
   "Add Script": "添加脚本",
   "script bound": "该脚本已绑定，请选择其他详细信息！",
+  "Choose account": "选择帐户",
+  "Choose resource": "选择资源",
 };
 export default zh;

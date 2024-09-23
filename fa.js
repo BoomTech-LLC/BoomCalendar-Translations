@@ -810,5 +810,7 @@ let fa = {
   "You have no events": "شما هیچ رویدادی ندارید",
   "Add Script": "اضافه کردن اسکریپت",
   "script bound": "این اسکریپت قبلاً صحافی شده است، لطفاً جزئیات دیگر را انتخاب کنید!",
+  "Choose account": "حساب را انتخاب کنید",
+  "Choose resource": "منبع را انتخاب کنید",
 };
 export default fa;

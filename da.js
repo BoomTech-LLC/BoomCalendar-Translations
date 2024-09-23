@@ -813,5 +813,7 @@ let da = {
   "You have no events": "Du har ingen begivenheder",
   "Add Script": "Tilføj script",
   "script bound": "Dette script er allerede bundet, vælg venligst andre detaljer!",
+  "Choose account": "Vælg konto",
+  "Choose resource": "Vælg ressource",
 };
 export default da;

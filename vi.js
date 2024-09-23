@@ -746,5 +746,7 @@ let vi = {
   "You have no events": "Bạn không có sự kiện",
   "Add Script": "Thêm tập lệnh",
   "script bound": "Kịch bản này đã được ràng buộc, vui lòng chọn các chi tiết khác!",
+  "Choose account": "Chọn tài khoản",
+  "Choose resource": "Chọn tài nguyên",
 };
 export default vi;

@@ -811,5 +811,7 @@ let ar = {
   "You have no events": "ليس لديك أحداث",
   "Add Script": "إضافة البرنامج النصي",
   "script bound": "هذا البرنامج النصي مرتبط بالفعل، يرجى تحديد تفاصيل أخرى!",
+  "Choose account": "اختر الحساب",
+  "Choose resource": "اختر المورد",
 };
 export default ar;

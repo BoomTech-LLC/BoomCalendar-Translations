@@ -824,5 +824,7 @@ let sv = {
   "You have no events": "Du har inga händelser",
   "Add Script": "Lägg till skript",
   "script bound": "Det här skriptet är redan bundet, välj andra detaljer!",
+  "Choose account": "Välj konto",
+  "Choose resource": "Välj resurs",
 };
 export default sv;

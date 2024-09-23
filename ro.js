@@ -814,5 +814,7 @@ let ro = {
   "You have no events": "Nu ai evenimente",
   "Add Script": "Adăugați script",
   "script bound": "Acest script este deja legat, vă rugăm să selectați alte detalii!",
+  "Choose account": "Alegeți cont",
+  "Choose resource": "Alegeți resursa",
 };
 export default ro;

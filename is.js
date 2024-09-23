@@ -813,5 +813,7 @@ let is = {
   "You have no events": "Þú hefur enga atburði",
   "Add Script": "Bæta við Script",
   "script bound": "Þetta handrit er þegar bundið, vinsamlegast veldu aðrar upplýsingar!",
+  "Choose account": "Veldu reikning",
+  "Choose resource": "Veldu auðlind",
 };
 export default is;

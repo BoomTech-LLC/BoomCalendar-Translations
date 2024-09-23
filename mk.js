@@ -814,5 +814,7 @@ let mk = {
   "You have no events": "Немате настани",
   "Add Script": "Додадете скрипта",
   "script bound": "Оваа скрипта е веќе ограничена, изберете други детали!",
+  "Choose account": "Изберете сметка",
+  "Choose resource": "Изберете ресурс",
 };
 export default mk;

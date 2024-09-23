@@ -831,5 +831,7 @@ let hy = {
   "You have no events": "Դուք միջոցառումներ չունեք",
   "Add Script": "Ավելացնել սցենար",
   "script bound": "Այս սցենարն արդեն ամրացված է, խնդրում ենք ընտրել այլ մանրամասներ:",
+  "Choose account": "Ընտրեք հաշիվ",
+  "Choose resource": "Ընտրեք ռեսուրս",
 };
 export default hy;

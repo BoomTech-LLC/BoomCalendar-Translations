@@ -814,5 +814,7 @@ let it = {
   "You have no events": "Non hai eventi",
   "Add Script": "Aggiungi copione",
   "script bound": "Questo script è già associato, seleziona altri dettagli!",
+  "Choose account": "Scegli l'account",
+  "Choose resource": "Scegli la risorsa",
 };
 export default it;

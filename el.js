@@ -818,5 +818,7 @@ let el = {
   "You have no events": "Δεν έχετε γεγονότα",
   "Add Script": "Προσθήκη Σεναρίου",
   "script bound": "Αυτό το σενάριο είναι ήδη δεσμευμένο, επιλέξτε άλλες λεπτομέρειες!",
+  "Choose account": "Επιλέξτε λογαριασμό",
+  "Choose resource": "Επιλέξτε πόρο",
 };
 export default el;

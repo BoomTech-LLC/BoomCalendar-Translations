@@ -813,5 +813,7 @@ let es = {
   "You have no events": "No tienes eventos",
   "Add Script": "Agregar guión",
   "script bound": "Este script ya está enlazado, ¡seleccione otros detalles!",
+  "Choose account": "Elegir cuenta",
+  "Choose resource": "Elija recursos",
 };
 export default es;

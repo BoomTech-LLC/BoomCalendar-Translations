@@ -812,5 +812,7 @@ let ja = {
   "You have no events": "イベントはありません",
   "Add Script": "スクリプトの追加",
   "script bound": "このスクリプトはすでにバインドされています。他の詳細を選択してください。",
+  "Choose account": "アカウントを選択します",
+  "Choose resource": "リソースを選択します",
 };
 export default ja;

@@ -812,5 +812,7 @@ let sr = {
   "You have no events": "Немате догађаја",
   "script bound": "Ова скрипта је већ везана, молимо изаберите друге детаље!",
   "Add Script": "Додај скрипту",
+  "Choose account": "Изаберите налог",
+  "Choose resource": "Изаберите ресурс",
 };
 export default sr;

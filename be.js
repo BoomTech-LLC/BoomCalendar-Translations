@@ -822,5 +822,7 @@ let be = {
   "You have no events": "У вас няма падзей",
   "Add Script": "Дадаць скрыпт",
   "script bound": "Гэты скрыпт ужо прывязаны, выберыце іншыя дэталі!",
+  "Choose account": "Выберыце ўліковы запіс",
+  "Choose resource": "Выберыце рэсурс",
 };
 export default be;

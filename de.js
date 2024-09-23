@@ -843,5 +843,7 @@ let de = {
   "You have no events": "Sie haben keine Veranstaltungen",
   "Add Script": "Skript hinzufügen",
   "script bound": "Dieses Skript ist bereits gebunden, bitte wählen Sie weitere Details aus!",
+  "Choose account": "Wählen Sie Konto",
+  "Choose resource": "Wählen Sie Ressource",
 };
 export default de;

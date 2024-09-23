@@ -814,5 +814,7 @@ let sk = {
   "You have no events": "Nemáte žiadne udalosti",
   "Add Script": "Pridať skript",
   "script bound": "Tento skript je už viazaný, vyberte ďalšie podrobnosti!",
+  "Choose account": "Vyberte účet",
+  "Choose resource": "Vyberte zdroj",
 };
 export default sk;

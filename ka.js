@@ -813,5 +813,7 @@ let ka = {
   "You have no events": "თქვენ არ გაქვთ მოვლენები",
   "Add Script": "სკრიპტის დამატება",
   "script bound": "ეს სკრიპტი უკვე შეკრულია, გთხოვთ, აირჩიოთ სხვა დეტალები!",
+  "Choose account": "აირჩიეთ ანგარიში",
+  "Choose resource": "აირჩიეთ რესურსი",
 };
 export default ka;
