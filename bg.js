@@ -821,5 +821,7 @@ let bg = {
   "There are no synchronized pages": "Няма синхронизирани страници",
   "Choose page": "Изберете страница",
   "You have no events": "Нямате събития",
+  "Add Script": "Добавяне на скрипт",
+  "script bound": "Този скрипт вече е обвързан, моля изберете други подробности!",
 };
 export default bg;

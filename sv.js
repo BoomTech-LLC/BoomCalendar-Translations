@@ -822,5 +822,7 @@ let sv = {
   "There are no synchronized pages": "Det finns inga synkroniserade sidor",
   "Choose page": "Välj sida",
   "You have no events": "Du har inga händelser",
+  "Add Script": "Lägg till skript",
+  "script bound": "Det här skriptet är redan bundet, välj andra detaljer!",
 };
 export default sv;

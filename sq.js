@@ -812,5 +812,7 @@ let sq = {
   "There are no synchronized pages": "Nuk ka faqe të sinkronizuara",
   "Choose page": "Zgjidhni faqen",
   "You have no events": "Ju nuk keni asnjë ngjarje",
+  "Add Script": "Shto skenarin",
+  "script bound": "Ky skenar tashmë është i lidhur, ju lutemi zgjidhni detaje të tjera!",
 };
 export default sq;

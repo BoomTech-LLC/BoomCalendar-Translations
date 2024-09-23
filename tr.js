@@ -813,5 +813,7 @@ let tr = {
   "There are no synchronized pages": "Senkronize sayfa yok",
   "Choose page": "Sayfa seç",
   "You have no events": "Etkinliğin yok",
+  "Add Script": "Komut Dosyası Ekle",
+  "script bound": "Bu senaryo zaten bağlı, lütfen diğer ayrıntıları seçin!",
 };
 export default tr;

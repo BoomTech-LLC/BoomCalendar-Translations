@@ -813,5 +813,7 @@ let mn = {
   "There are no synchronized pages": "Синхрончлогдсон хуудас байхгүй байна",
   "Choose page": "Хуудсыг сонгоно уу",
   "You have no events": "Танд арга хэмжээ байхгүй байна",
+  "Add Script": "Скрипт нэмэх",
+  "script bound": "Энэ скрипт аль хэдийн холбогдсон байна, бусад дэлгэрэнгүй мэдээллийг сонгоно уу!",
 };
 export default mn;

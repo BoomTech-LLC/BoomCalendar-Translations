@@ -807,5 +807,7 @@ let th = {
   "There are no synchronized pages": "ไม่มีหน้าซิงโครไนซ์",
   "Choose page": "เลือกหน้า",
   "You have no events": "คุณไม่มีกิจกรรม",
+  "Add Script": "เพิ่มสคริปต์",
+  "script bound": "สคริปต์นี้ถูกผูกไว้แล้วโปรดเลือกรายละเอียดอื่น ๆ !",
 };
 export default th;

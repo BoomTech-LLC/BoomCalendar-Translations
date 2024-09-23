@@ -837,5 +837,7 @@ let ca = {
   "There are no synchronized pages": "No hi ha pàgines sincronitzades",
   "Choose page": "Trieu pàgina",
   "You have no events": "No teniu esdeveniments",
+  "Add Script": "Afegeix script",
+  "script bound": "Aquest script ja està lligat, seleccioneu altres detalls!",
 };
 export default ca;

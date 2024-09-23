@@ -819,5 +819,7 @@ let fr = {
   "There are no synchronized pages": "Il n'y a pas de pages synchronisées",
   "Choose page": "Choisir la page",
   "You have no events": "Vous n'avez pas d'événements",
+  "Add Script": "Ajouter un script",
+  "script bound": "Ce script est déjà lié, veuillez sélectionner d'autres détails !",
 };
 export default fr;

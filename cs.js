@@ -812,5 +812,7 @@ let cs = {
   "There are no synchronized pages": "Neexistují žádné synchronizované stránky",
   "Choose page": "Vyberte stránku",
   "You have no events": "Nemáte žádné události",
+  "Add Script": "Přidat skript",
+  "script bound": "Tento skript je již svázán, vyberte prosím jiné podrobnosti!",
 };
 export default cs;

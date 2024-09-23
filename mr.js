@@ -811,5 +811,7 @@ let mr = {
   "There are no synchronized pages": "कोणतीही समक्रमित पृष्ठे नाहीत",
   "Choose page": "पृष्ठ निवडा",
   "You have no events": "आपल्याकडे कोणतेही कार्यक्रम नाहीत",
+  "Add Script": "स्क्रिप्ट जोडा",
+  "script bound": "ही स्क्रिप्ट आधीपासूनच बंधनकारक आहे, कृपया इतर तपशील निवडा!",
 };
 export default mr;

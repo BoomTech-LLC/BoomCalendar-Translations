@@ -815,5 +815,7 @@ let cy = {
   "There are no synchronized pages": "Nid oes unrhyw dudalennau wedi'u cysoni",
   "Choose page": "Dewiswch dudalen",
   "You have no events": "Nid oes gennych unrhyw ddigwyddiadau",
+  "Add Script": "Ychwanegu Sgript",
+  "script bound": "Mae'r sgript hon eisoes wedi'i rhwymo, dewiswch fanylion eraill!",
 };
 export default cy;

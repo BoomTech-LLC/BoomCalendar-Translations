@@ -809,5 +809,7 @@ let hi = {
   "There are no synchronized pages": "कोई समकालिक पृष्ठ नहीं हैं",
   "Choose page": "पेज चुनें",
   "You have no events": "आपके पास कोई घटना नहीं है",
+  "Add Script": "स्क्रिप्ट जोड़ें",
+  "script bound": "यह स्क्रिप्ट पहले से ही बाध्य है, कृपया अन्य विवरण चुनें!",
 };
 export default hi;

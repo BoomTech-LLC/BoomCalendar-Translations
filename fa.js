@@ -808,5 +808,7 @@ let fa = {
   "There are no synchronized pages": "هیچ صفحه همگام سازی شده ای وجود ندارد",
   "Choose page": "صفحه را انتخاب کنید",
   "You have no events": "شما هیچ رویدادی ندارید",
+  "Add Script": "اضافه کردن اسکریپت",
+  "script bound": "این اسکریپت قبلاً صحافی شده است، لطفاً جزئیات دیگر را انتخاب کنید!",
 };
 export default fa;

@@ -816,5 +816,7 @@ let el = {
   "There are no synchronized pages": "Δεν υπάρχουν συγχρονισμένες σελίδες",
   "Choose page": "Επιλέξτε σελίδα",
   "You have no events": "Δεν έχετε γεγονότα",
+  "Add Script": "Προσθήκη Σεναρίου",
+  "script bound": "Αυτό το σενάριο είναι ήδη δεσμευμένο, επιλέξτε άλλες λεπτομέρειες!",
 };
 export default el;

@@ -811,5 +811,7 @@ let da = {
   "There are no synchronized pages": "Der er ingen synkroniserede sider",
   "Choose page": "Vælg side",
   "You have no events": "Du har ingen begivenheder",
+  "Add Script": "Tilføj script",
+  "script bound": "Dette script er allerede bundet, vælg venligst andre detaljer!",
 };
 export default da;

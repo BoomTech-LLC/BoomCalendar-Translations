@@ -810,5 +810,7 @@ let hu = {
   "There are no synchronized pages": "Nincsenek szinkronizált oldalak",
   "Choose page": "Válasszon oldalt",
   "You have no events": "Nincsenek eseményeid",
+  "Add Script": "Szkript hozzáadása",
+  "script bound": "Ez a szkript már be van kötve, kérjük, válasszon további részleteket!",
 };
 export default hu;

@@ -811,5 +811,7 @@ let fi = {
   "There are no synchronized pages": "Synkronoituja sivuja ei ole",
   "Choose page": "Valitse sivu",
   "You have no events": "Sinulla ei ole tapahtumia",
+  "Add Script": "Lisää komentosarja",
+  "script bound": "Tämä kirjoitus on jo sidottu, valitse muut tiedot!",
 };
 export default fi;

@@ -812,5 +812,7 @@ let it = {
   "There are no synchronized pages": "Non ci sono pagine sincronizzate",
   "Choose page": "Scegli pagina",
   "You have no events": "Non hai eventi",
+  "Add Script": "Aggiungi copione",
+  "script bound": "Questo script è già associato, seleziona altri dettagli!",
 };
 export default it;

@@ -812,5 +812,7 @@ let mk = {
   "There are no synchronized pages": "Нема синхронизирани страници",
   "Choose page": "Изберете страница",
   "You have no events": "Немате настани",
+  "Add Script": "Додадете скрипта",
+  "script bound": "Оваа скрипта е веќе ограничена, изберете други детали!",
 };
 export default mk;

@@ -810,5 +810,7 @@ let nl = {
   "There are no synchronized pages": "Er zijn geen gesynchroniseerde pagina's",
   "Choose page": "Kies pagina",
   "You have no events": "Je hebt geen evenementen",
+  "Add Script": "Script toevoegen",
+  "script bound": "Dit script is al gebonden, selecteer andere details!",
 };
 export default nl;
