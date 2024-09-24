@@ -815,5 +815,6 @@ let fi = {
   "script bound": "Tämä kirjoitus on jo sidottu, valitse muut tiedot!",
   "Choose account": "Valitse tili",
   "Choose resource": "Valitse resurssi",
+  "Reconnect": "Yhdistää uudelleen",
 };
 export default fi;

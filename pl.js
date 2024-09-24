@@ -810,5 +810,6 @@ let pl = {
   "script bound": "Ten skrypt jest już związany, wybierz inne szczegóły!",
   "Choose account": "Wybierz konto",
   "Choose resource": "Wybierz zasób",
+  "Reconnect": "Na nowo połączyć",
 };
 export default pl;

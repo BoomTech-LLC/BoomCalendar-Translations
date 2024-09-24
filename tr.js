@@ -817,5 +817,6 @@ let tr = {
   "script bound": "Bu senaryo zaten bağlı, lütfen diğer ayrıntıları seçin!",
   "Choose account": "Hesabı Seçin",
   "Choose resource": "Kaynak seçin",
+  "Reconnect": "Yeniden bağlanmak",
 };
 export default tr;

@@ -815,5 +815,6 @@ let lv = {
   "script bound": "Šis skripts jau ir saistīts, lūdzu, atlasiet citu informāciju!",
   "Choose account": "Izvēlieties kontu",
   "Choose resource": "Izvēlieties resursu",
+  "Reconnect": "Atjaunot savienojumu",
 };
 export default lv;

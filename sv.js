@@ -826,5 +826,6 @@ let sv = {
   "script bound": "Det här skriptet är redan bundet, välj andra detaljer!",
   "Choose account": "Välj konto",
   "Choose resource": "Välj resurs",
+  "Reconnect": "Återansluta",
 };
 export default sv;

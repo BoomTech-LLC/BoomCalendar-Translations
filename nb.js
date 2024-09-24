@@ -649,5 +649,6 @@ let nb = {
   "script bound": "Dette skriptet er allerede bundet, velg andre detaljer!",
   "Choose account": "Velg konto",
   "Choose resource": "Velg ressurs",
+  "Recconect": "Koble til på nytt",
 };
 export default nb;

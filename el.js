@@ -820,5 +820,6 @@ let el = {
   "script bound": "Αυτό το σενάριο είναι ήδη δεσμευμένο, επιλέξτε άλλες λεπτομέρειες!",
   "Choose account": "Επιλέξτε λογαριασμό",
   "Choose resource": "Επιλέξτε πόρο",
+  "Reconnect": "Επανασυνδέομαι",
 };
 export default el;

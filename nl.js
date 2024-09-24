@@ -814,5 +814,6 @@ let nl = {
   "script bound": "Dit script is al gebonden, selecteer andere details!",
   "Choose account": "Kies account",
   "Choose resource": "Kies resource",
+  "Reconnect": "Opnieuw verbinden",
 };
 export default nl;

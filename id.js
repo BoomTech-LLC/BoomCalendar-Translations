@@ -813,5 +813,6 @@ let id = {
   "script bound": "Skrip ini sudah terikat, silakan pilih detail lainnya!",
   "Choose account": "Pilih Akun",
   "Choose resource": "Pilih Sumber Daya",
+  "Reconnect": "Terhubung kembali",
 };
 export default id;

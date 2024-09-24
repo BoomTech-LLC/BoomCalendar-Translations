@@ -806,5 +806,6 @@ let en = {
   "script bound": "This script is already bound, please select other details!",
   "Choose account": "Choose account",
   "Choose resource": "Choose resource",
+  "Reconnect": "Reconnect",
 };
 export default en;

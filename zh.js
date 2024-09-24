@@ -797,5 +797,6 @@ let zh = {
   "script bound": "该脚本已绑定，请选择其他详细信息！",
   "Choose account": "选择帐户",
   "Choose resource": "选择资源",
+  "Reconnect": "重新连接",
 };
 export default zh;

@@ -817,5 +817,6 @@ let mn = {
   "script bound": "Энэ скрипт аль хэдийн холбогдсон байна, бусад дэлгэрэнгүй мэдээллийг сонгоно уу!",
   "Choose account": "Данкыг сонгоно уу",
   "Choose resource": "Нөөцийг сонгоно уу",
+  "Reconnect": "Хувгах",
 };
 export default mn;

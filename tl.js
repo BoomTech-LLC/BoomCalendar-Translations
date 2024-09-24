@@ -781,5 +781,6 @@ let tl = {
   "Add Script": "Magdagdag ng script",
   "Choose account": "Pumili ng account",
   "Choose resource": "Pumili ng mapagkukunan",
+  "Reconnect": "Kumonekta muli",
 };
 export default tl;

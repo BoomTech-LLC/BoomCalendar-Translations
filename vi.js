@@ -748,5 +748,6 @@ let vi = {
   "script bound": "Kịch bản này đã được ràng buộc, vui lòng chọn các chi tiết khác!",
   "Choose account": "Chọn tài khoản",
   "Choose resource": "Chọn tài nguyên",
+  "Reconnect": "Kết nối lại",
 };
 export default vi;

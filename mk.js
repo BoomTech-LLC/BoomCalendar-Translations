@@ -816,5 +816,6 @@ let mk = {
   "script bound": "Оваа скрипта е веќе ограничена, изберете други детали!",
   "Choose account": "Изберете сметка",
   "Choose resource": "Изберете ресурс",
+  "Reconnect": "Повторно поврзување",
 };
 export default mk;

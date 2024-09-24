@@ -814,5 +814,6 @@ let ms = {
   "script bound": "Skrip ini sudah terikat, sila pilih butiran lain!",
   "Choose account": "Pilih akaun",
   "Choose resource": "Pilih Sumber",
+  "Reconnect": "Sambung semula",
 };
 export default ms;

@@ -815,5 +815,6 @@ let is = {
   "script bound": "Þetta handrit er þegar bundið, vinsamlegast veldu aðrar upplýsingar!",
   "Choose account": "Veldu reikning",
   "Choose resource": "Veldu auðlind",
+  "Reconnect": "Tengdu aftur",
 };
 export default is;

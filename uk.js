@@ -840,5 +840,6 @@ let uk = {
   "script bound": "Цей сценарій уже прив'язаний, виберіть інші деталі!",
   "Choose account": "Виберіть рахунок",
   "Choose resource": "Виберіть ресурс",
+  "Reconnect": "Підключитися",
 };
 export default uk;

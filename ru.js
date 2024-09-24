@@ -849,5 +849,6 @@ let ru = {
   "script bound": "Этот скрипт уже связан, выберите другие данные!",
   "Choose account": "Выберите аккаунт",
   "Choose resource": "Выберите ресурс",
+  "Reconnect": "Восстановить связь",
 };
 export default ru;

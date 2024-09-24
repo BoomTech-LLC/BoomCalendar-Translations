@@ -825,5 +825,6 @@ let he = {
   "script bound": "הסקריפט הזה כבר קשור, אנא בחר פרטים אחרים!",
   "Choose account": "בחר חשבון",
   "Choose resource": "בחר משאב",
+  "Reconnect": "התחבר מחדש",
 };
 export default he;

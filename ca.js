@@ -841,5 +841,6 @@ let ca = {
   "script bound": "Aquest script ja està lligat, seleccioneu altres detalls!",
   "Choose account": "Tria el compte",
   "Choose resource": "Triar el recurs",
+  "Reconnect": "Tornar a connectar",
 };
 export default ca;

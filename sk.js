@@ -816,5 +816,6 @@ let sk = {
   "script bound": "Tento skript je už viazaný, vyberte ďalšie podrobnosti!",
   "Choose account": "Vyberte účet",
   "Choose resource": "Vyberte zdroj",
+  "Reconnect": "Znovu pripojiť",
 };
 export default sk;

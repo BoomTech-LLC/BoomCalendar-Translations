@@ -687,5 +687,6 @@ let lt = {
   "script bound": "Šis scenarijus jau yra surištas, pasirinkite kitą informaciją!",
   "Choose account": "Pasirinkite sąskaitą",
   "Choose resource": "Pasirinkite šaltinį",
+  "Reconnect": "Vėl prisijungti",
 };
 export default lt;

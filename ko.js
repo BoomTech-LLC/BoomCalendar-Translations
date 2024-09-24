@@ -812,5 +812,6 @@ let ko = {
   "script bound": "이 스크립트는 이미 바운드되었습니다. 다른 세부 사항을 선택하십시오!",
   "Choose account": "계정을 선택하십시오",
   "Choose resource": "리소스를 선택하십시오",
+  "Reconnect": "다시 연결하십시오",
 };
 export default ko;

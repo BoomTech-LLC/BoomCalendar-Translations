@@ -812,5 +812,6 @@ let fa = {
   "script bound": "این اسکریپت قبلاً صحافی شده است، لطفاً جزئیات دیگر را انتخاب کنید!",
   "Choose account": "حساب را انتخاب کنید",
   "Choose resource": "منبع را انتخاب کنید",
+  "Reconnect": "دوباره وصل کردن",
 };
 export default fa;
