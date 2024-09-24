@@ -840,5 +840,6 @@ let no = {
   "script bound": "Dette skriptet er allerede bundet, velg andre detaljer!",
   "Choose account": "Velg konto",
   "Choose resource": "Velg ressurs",
+  "Reconnect": "Koble til igjen",
 };
 export default no;

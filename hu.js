@@ -814,5 +814,6 @@ let hu = {
   "script bound": "Ez a szkript már be van kötve, kérjük, válasszon további részleteket!",
   "Choose account": "Válassza ki a fiókot",
   "Choose resource": "Válassza ki az erőforrásokat",
+  "Reconnect": "Újracsatlakoztat",
 };
 export default hu;

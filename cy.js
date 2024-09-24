@@ -819,5 +819,6 @@ let cy = {
   "script bound": "Mae'r sgript hon eisoes wedi'i rhwymo, dewiswch fanylion eraill!",
   "Choose account": "Dewis Cyfrif",
   "Choose resource": "Dewiswch Adnodd",
+  "Reconnect": "Ailgysylltent",
 };
 export default cy;

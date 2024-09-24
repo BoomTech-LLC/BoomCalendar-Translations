@@ -816,5 +816,6 @@ let sq = {
   "script bound": "Ky skenar tashmë është i lidhur, ju lutemi zgjidhni detaje të tjera!",
   "Choose account": "Zgjidhni Llogari",
   "Choose resource": "Zgjidhni Burimin",
+  "Reconnect": "Përsëri",
 };
 export default sq;

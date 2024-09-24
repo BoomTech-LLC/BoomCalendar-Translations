@@ -814,5 +814,6 @@ let ja = {
   "script bound": "このスクリプトはすでにバインドされています。他の詳細を選択してください。",
   "Choose account": "アカウントを選択します",
   "Choose resource": "リソースを選択します",
+  "Reconnect": "再接続します",
 };
 export default ja;

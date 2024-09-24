@@ -815,5 +815,6 @@ let da = {
   "script bound": "Dette script er allerede bundet, vælg venligst andre detaljer!",
   "Choose account": "Vælg konto",
   "Choose resource": "Vælg ressource",
+  "Reconnect": "Tilslut igen",
 };
 export default da;

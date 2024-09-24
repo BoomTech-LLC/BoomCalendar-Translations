@@ -815,5 +815,6 @@ let eu = {
   "script bound": "Script hau dagoeneko lotuta dago, hautatu beste xehetasun batzuk!",
   "Choose account": "Aukeratu kontua",
   "Choose resource": "Aukeratu baliabidea",
+  "Reconnect": "Berriroizatu",
 };
 export default eu;

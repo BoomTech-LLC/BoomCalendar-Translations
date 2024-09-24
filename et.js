@@ -812,5 +812,6 @@ let et = {
   "script bound": "See skript on juba köidetud, palun valige muud üksikasjad!",
   "Choose account": "Valige konto",
   "Choose resource": "Valige ressurss",
+  "Reconnect": "Uuesti ühendama",
 };
 export default et;

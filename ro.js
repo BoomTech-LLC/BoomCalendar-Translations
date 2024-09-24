@@ -816,5 +816,6 @@ let ro = {
   "script bound": "Acest script este deja legat, vă rugăm să selectați alte detalii!",
   "Choose account": "Alegeți cont",
   "Choose resource": "Alegeți resursa",
+  "Reconnect": "Reconectați",
 };
 export default ro;

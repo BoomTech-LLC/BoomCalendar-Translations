@@ -823,5 +823,6 @@ let fr = {
   "script bound": "Ce script est déjà lié, veuillez sélectionner d'autres détails !",
   "Choose account": "Choisissez le compte",
   "Choose resource": "Choisissez la ressource",
+  "Reconnect": "Reconnecter",
 };
 export default fr;

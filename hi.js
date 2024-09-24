@@ -813,5 +813,6 @@ let hi = {
   "script bound": "यह स्क्रिप्ट पहले से ही बाध्य है, कृपया अन्य विवरण चुनें!",
   "Choose account": "खाता चुनें",
   "Choose resource": "संसाधन चुनें",
+  "Reconnect": "रिकनेक्ट",
 };
 export default hi;

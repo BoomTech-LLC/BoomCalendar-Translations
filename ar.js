@@ -813,5 +813,6 @@ let ar = {
   "script bound": "هذا البرنامج النصي مرتبط بالفعل، يرجى تحديد تفاصيل أخرى!",
   "Choose account": "اختر الحساب",
   "Choose resource": "اختر المورد",
+  "Reconnect": "إعادة الاتصال",
 };
 export default ar;

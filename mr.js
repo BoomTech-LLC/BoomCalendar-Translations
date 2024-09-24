@@ -815,5 +815,6 @@ let mr = {
   "script bound": "ही स्क्रिप्ट आधीपासूनच बंधनकारक आहे, कृपया इतर तपशील निवडा!",
   "Choose account": "खाते निवडा",
   "Choose resource": "संसाधन निवडा",
+  "Reconnect": "पुन्हा कनेक्ट करा",
 };
 export default mr;

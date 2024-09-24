@@ -845,5 +845,6 @@ let de = {
   "script bound": "Dieses Skript ist bereits gebunden, bitte wählen Sie weitere Details aus!",
   "Choose account": "Wählen Sie Konto",
   "Choose resource": "Wählen Sie Ressource",
+  "Reconnect": "Wieder verbinden",
 };
 export default de;

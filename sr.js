@@ -814,5 +814,6 @@ let sr = {
   "Add Script": "Додај скрипту",
   "Choose account": "Изаберите налог",
   "Choose resource": "Изаберите ресурс",
+  "Reconnect": "Поново повезати",
 };
 export default sr;

@@ -816,5 +816,6 @@ let it = {
   "script bound": "Questo script è già associato, seleziona altri dettagli!",
   "Choose account": "Scegli l'account",
   "Choose resource": "Scegli la risorsa",
+  "Reconnect": "Riconnettersi",
 };
 export default it;

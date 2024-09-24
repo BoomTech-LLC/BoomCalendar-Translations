@@ -824,5 +824,6 @@ let be = {
   "script bound": "Гэты скрыпт ужо прывязаны, выберыце іншыя дэталі!",
   "Choose account": "Выберыце ўліковы запіс",
   "Choose resource": "Выберыце рэсурс",
+  "Reconnect": "Зноў злучыцца",
 };
 export default be;

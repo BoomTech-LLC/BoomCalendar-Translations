@@ -825,5 +825,6 @@ let bg = {
   "script bound": "Този скрипт вече е обвързан, моля изберете други подробности!",
   "Choose account": "Изберете акаунт",
   "Choose resource": "Изберете ресурс",
+  "Reconnect": "Свържете се отново",
 };
 export default bg;

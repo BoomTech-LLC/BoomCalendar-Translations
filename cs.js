@@ -816,5 +816,6 @@ let cs = {
   "script bound": "Tento skript je již svázán, vyberte prosím jiné podrobnosti!",
   "Choose account": "Vyberte účet",
   "Choose resource": "Vyberte zdroj",
+  "Reconnect": "Znovu připojit",
 };
 export default cs;

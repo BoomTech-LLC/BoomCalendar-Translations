@@ -833,5 +833,6 @@ let hy = {
   "script bound": "Այս սցենարն արդեն ամրացված է, խնդրում ենք ընտրել այլ մանրամասներ:",
   "Choose account": "Ընտրեք հաշիվ",
   "Choose resource": "Ընտրեք ռեսուրս",
+  "Reconnect": "Միացնել",
 };
 export default hy;

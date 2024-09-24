@@ -822,5 +822,6 @@ let hr = {
   "script bound": "Ova skripta je već vezana, odaberite druge detalje!",
   "Choose account": "Odaberite račun",
   "Choose resource": "Odaberite resurs",
+  "Reconnect": "Ponovno povezati",
 };
 export default hr;

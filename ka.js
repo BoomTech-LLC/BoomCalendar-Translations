@@ -815,5 +815,6 @@ let ka = {
   "script bound": "ეს სკრიპტი უკვე შეკრულია, გთხოვთ, აირჩიოთ სხვა დეტალები!",
   "Choose account": "აირჩიეთ ანგარიში",
   "Choose resource": "აირჩიეთ რესურსი",
+  "Reconnect": "ხელახლა კავშირი",
 };
 export default ka;
