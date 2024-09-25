@@ -813,5 +813,6 @@ let fa = {
   "Choose account": "حساب را انتخاب کنید",
   "Choose resource": "منبع را انتخاب کنید",
   "Reconnect": "دوباره وصل کردن",
+  "script disappear": "این اسکریپت وجود ندارد ، لطفاً اسکریپت را در Google Analytics خود اضافه کنید!",
 };
 export default fa;

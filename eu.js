@@ -816,5 +816,6 @@ let eu = {
   "Choose account": "Aukeratu kontua",
   "Choose resource": "Aukeratu baliabidea",
   "Reconnect": "Berriroizatu",
+  "script disappear": "Gidoia ez da existitzen, gehitu gidoia zure Google Analytics-en!",
 };
 export default eu;

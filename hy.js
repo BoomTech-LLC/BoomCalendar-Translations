@@ -834,5 +834,6 @@ let hy = {
   "Choose account": "Ընտրեք հաշիվ",
   "Choose resource": "Ընտրեք ռեսուրս",
   "Reconnect": "Միացնել",
+  "script disappear": "Այս սցենարը գոյություն չունի, խնդրում ենք ավելացնել սցենարը ձեր Google Analytics- ում:",
 };
 export default hy;

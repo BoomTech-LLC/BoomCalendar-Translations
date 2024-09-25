@@ -841,5 +841,6 @@ let uk = {
   "Choose account": "Виберіть рахунок",
   "Choose resource": "Виберіть ресурс",
   "Reconnect": "Підключитися",
+  "script disappear": "Цей сценарій не існує, будь ласка, додайте сценарій у свою Google Analytics!",
 };
 export default uk;

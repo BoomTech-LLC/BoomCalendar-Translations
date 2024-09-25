@@ -812,5 +812,6 @@ let th = {
   "Choose account": "เลือกบัญชี",
   "Choose resource": "เลือกทรัพยากร",
   "Reconnect": "เชื่อมต่อใหม่",
+  "script disappear": "สคริปต์นี้ไม่มีอยู่โปรดเพิ่มสคริปต์ใน Google Analytics ของคุณ!",
 };
 export default th;

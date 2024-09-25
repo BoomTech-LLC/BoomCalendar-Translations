@@ -816,5 +816,6 @@ let is = {
   "Choose account": "Veldu reikning",
   "Choose resource": "Veldu auðlind",
   "Reconnect": "Tengdu aftur",
+  "script disappear": "Þetta handrit er ekki til, vinsamlegast bættu við handriti í Google Analytics þínum!",
 };
 export default is;

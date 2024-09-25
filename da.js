@@ -816,5 +816,6 @@ let da = {
   "Choose account": "Vælg konto",
   "Choose resource": "Vælg ressource",
   "Reconnect": "Tilslut igen",
+  "script disappear": "Dette script findes ikke, tilføj venligst script i din Google Analytics!",
 };
 export default da;

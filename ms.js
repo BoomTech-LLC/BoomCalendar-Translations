@@ -815,5 +815,6 @@ let ms = {
   "Choose account": "Pilih akaun",
   "Choose resource": "Pilih Sumber",
   "Reconnect": "Sambung semula",
+  "script disappear": "Skrip ini tidak wujud, sila tambahkan skrip dalam Google Analytics anda!",
 };
 export default ms;

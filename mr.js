@@ -816,5 +816,6 @@ let mr = {
   "Choose account": "खाते निवडा",
   "Choose resource": "संसाधन निवडा",
   "Reconnect": "पुन्हा कनेक्ट करा",
+  "script disappear": "ही स्क्रिप्ट अस्तित्त्वात नाही, कृपया आपल्या Google विश्लेषणेमध्ये स्क्रिप्ट जोडा!",
 };
 export default mr;

@@ -818,5 +818,6 @@ let tr = {
   "Choose account": "Hesabı Seçin",
   "Choose resource": "Kaynak seçin",
   "Reconnect": "Yeniden bağlanmak",
+  "script disappear": "Bu komut dosyası mevcut değil, lütfen Google Analytics'inize komut dosyası ekleyin!",
 };
 export default tr;

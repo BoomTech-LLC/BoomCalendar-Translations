@@ -688,5 +688,6 @@ let lt = {
   "Choose account": "Pasirinkite sąskaitą",
   "Choose resource": "Pasirinkite šaltinį",
   "Reconnect": "Vėl prisijungti",
+  "script disappear": "Šis scenarijus neegzistuoja, pridėkite scenarijų į savo „Google Analytics“!",
 };
 export default lt;

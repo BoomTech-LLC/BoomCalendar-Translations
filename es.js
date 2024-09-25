@@ -816,5 +816,6 @@ let es = {
   "Choose account": "Elegir cuenta",
   "Choose resource": "Elija recursos",
   "Reconnect": "Volver a conectar",
+  "script disappear": "Este script no existe, ¡agregue el script en su análisis de Google!",
 };
 export default es;

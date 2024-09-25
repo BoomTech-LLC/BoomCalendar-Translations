@@ -820,5 +820,6 @@ let cy = {
   "Choose account": "Dewis Cyfrif",
   "Choose resource": "Dewiswch Adnodd",
   "Reconnect": "Ailgysylltent",
+  "script disappear": "Nid yw'r sgript hon yn bodoli, ychwanegwch sgript yn eich Google Analytics!",
 };
 export default cy;

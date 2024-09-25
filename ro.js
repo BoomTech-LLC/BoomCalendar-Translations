@@ -817,5 +817,6 @@ let ro = {
   "Choose account": "Alegeți cont",
   "Choose resource": "Alegeți resursa",
   "Reconnect": "Reconectați",
+  "script disappear": "Acest script nu există, vă rugăm să adăugați script în Google Analytics!",
 };
 export default ro;

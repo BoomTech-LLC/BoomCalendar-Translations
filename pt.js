@@ -816,5 +816,6 @@ let pt = {
   "Choose account": "Escolha a conta",
   "Choose resource": "Escolha o recurso",
   "Reconnect": "Reconectar",
+  "script disappear": "Este script não existe, adicione o script no seu Google Analytics!",
 };
 export default pt;

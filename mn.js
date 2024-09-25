@@ -818,5 +818,6 @@ let mn = {
   "Choose account": "Данкыг сонгоно уу",
   "Choose resource": "Нөөцийг сонгоно уу",
   "Reconnect": "Хувгах",
+  "script disappear": "Энэ скрипт байхгүй байна, Google Analytics дээр скрипт нэмнэ үү!",
 };
 export default mn;

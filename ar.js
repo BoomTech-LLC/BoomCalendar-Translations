@@ -814,5 +814,6 @@ let ar = {
   "Choose account": "اختر الحساب",
   "Choose resource": "اختر المورد",
   "Reconnect": "إعادة الاتصال",
+  "script disappear": "هذا البرنامج النصي غير موجود ، يرجى إضافة برنامج نصي في Google Analytics!",
 };
 export default ar;

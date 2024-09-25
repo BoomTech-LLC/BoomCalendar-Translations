@@ -826,5 +826,6 @@ let he = {
   "Choose account": "בחר חשבון",
   "Choose resource": "בחר משאב",
   "Reconnect": "התחבר מחדש",
+  "script disappear": "סקריפט זה אינו קיים, אנא הוסף סקריפט ב- Google Analytics שלך!",
 };
 export default he;

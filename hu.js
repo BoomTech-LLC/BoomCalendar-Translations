@@ -815,5 +815,6 @@ let hu = {
   "Choose account": "Válassza ki a fiókot",
   "Choose resource": "Válassza ki az erőforrásokat",
   "Reconnect": "Újracsatlakoztat",
+  "script disappear": "Ez a szkript nem létezik, kérjük, adjon hozzá szkriptet a Google Analytics -be!",
 };
 export default hu;

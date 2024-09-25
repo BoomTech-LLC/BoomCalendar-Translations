@@ -816,5 +816,6 @@ let lv = {
   "Choose account": "Izvēlieties kontu",
   "Choose resource": "Izvēlieties resursu",
   "Reconnect": "Atjaunot savienojumu",
+  "script disappear": "Šis skripts neeksistē, lūdzu, pievienojiet skriptu savā Google Analytics!",
 };
 export default lv;

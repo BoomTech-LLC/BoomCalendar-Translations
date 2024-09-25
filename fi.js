@@ -816,5 +816,6 @@ let fi = {
   "Choose account": "Valitse tili",
   "Choose resource": "Valitse resurssi",
   "Reconnect": "Yhdistää uudelleen",
+  "script disappear": "Tätä käsikirjoitusta ei ole, lisää komentosarja Google Analyticsiin!",
 };
 export default fi;
