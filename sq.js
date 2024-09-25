@@ -817,5 +817,6 @@ let sq = {
   "Choose account": "Zgjidhni Llogari",
   "Choose resource": "Zgjidhni Burimin",
   "Reconnect": "Përsëri",
+  "script disappear": "Ky skenar nuk ekziston, ju lutemi shtoni skenar në Google Analytics!",
 };
 export default sq;

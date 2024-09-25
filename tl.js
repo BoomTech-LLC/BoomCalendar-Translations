@@ -782,5 +782,6 @@ let tl = {
   "Choose account": "Pumili ng account",
   "Choose resource": "Pumili ng mapagkukunan",
   "Reconnect": "Kumonekta muli",
+  "script disappear": "Ang script na ito ay hindi umiiral, mangyaring magdagdag ng script sa iyong Google Analytics!",
 };
 export default tl;

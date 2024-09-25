@@ -817,5 +817,6 @@ let sk = {
   "Choose account": "Vyberte účet",
   "Choose resource": "Vyberte zdroj",
   "Reconnect": "Znovu pripojiť",
+  "script disappear": "Tento skript neexistuje, pridajte skript do svojej služby Google Analytics!",
 };
 export default sk;

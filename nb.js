@@ -650,5 +650,6 @@ let nb = {
   "Choose account": "Velg konto",
   "Choose resource": "Velg ressurs",
   "Recconect": "Koble til på nytt",
+  "script disappear": "Dette skriptet eksisterer ikke, vennligst legg til skript i Google Analytics!",
 };
 export default nb;

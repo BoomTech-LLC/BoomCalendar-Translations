@@ -749,5 +749,6 @@ let vi = {
   "Choose account": "Chọn tài khoản",
   "Choose resource": "Chọn tài nguyên",
   "Reconnect": "Kết nối lại",
+  "script disappear": "Kịch bản này không tồn tại, vui lòng thêm tập lệnh vào Google Analytics của bạn!",
 };
 export default vi;

@@ -798,5 +798,6 @@ let zh = {
   "Choose account": "选择帐户",
   "Choose resource": "选择资源",
   "Reconnect": "重新连接",
+  "script disappear": "此脚本不存在，请在您的Google Analytics（分析）中添加脚本！",
 };
 export default zh;

@@ -826,5 +826,6 @@ let bg = {
   "Choose account": "Изберете акаунт",
   "Choose resource": "Изберете ресурс",
   "Reconnect": "Свържете се отново",
+  "script disappear": "Този скрипт не съществува, моля, добавете скрипт във вашата Google Analytics!",
 };
 export default bg;

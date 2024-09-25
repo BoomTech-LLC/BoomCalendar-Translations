@@ -846,5 +846,6 @@ let de = {
   "Choose account": "Wählen Sie Konto",
   "Choose resource": "Wählen Sie Ressource",
   "Reconnect": "Wieder verbinden",
+  "script disappear": "Dieses Skript existiert nicht. Bitte fügen Sie Skript in Ihre Google Analytics hinzu!",
 };
 export default de;

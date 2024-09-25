@@ -825,5 +825,6 @@ let be = {
   "Choose account": "Выберыце ўліковы запіс",
   "Choose resource": "Выберыце рэсурс",
   "Reconnect": "Зноў злучыцца",
+  "script disappear": "Гэтага сцэнарыя не існуе, калі ласка, дадайце сцэнар у свой Google Analytics!",
 };
 export default be;

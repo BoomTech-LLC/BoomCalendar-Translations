@@ -821,5 +821,6 @@ let el = {
   "Choose account": "Επιλέξτε λογαριασμό",
   "Choose resource": "Επιλέξτε πόρο",
   "Reconnect": "Επανασυνδέομαι",
+  "script disappear": "Αυτό το σενάριο δεν υπάρχει, προσθέστε σενάριο στο Google Analytics!",
 };
 export default el;

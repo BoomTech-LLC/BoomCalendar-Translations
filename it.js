@@ -817,5 +817,6 @@ let it = {
   "Choose account": "Scegli l'account",
   "Choose resource": "Scegli la risorsa",
   "Reconnect": "Riconnettersi",
+  "script disappear": "Questo script non esiste, aggiungi lo script nella tua analisi di Google!",
 };
 export default it;

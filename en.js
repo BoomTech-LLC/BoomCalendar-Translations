@@ -807,5 +807,6 @@ let en = {
   "Choose account": "Choose account",
   "Choose resource": "Choose resource",
   "Reconnect": "Reconnect",
+  "script disappear": "This script doesn't exist, please add script in your Google Analytics!",
 };
 export default en;

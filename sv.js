@@ -827,5 +827,6 @@ let sv = {
   "Choose account": "Välj konto",
   "Choose resource": "Välj resurs",
   "Reconnect": "Återansluta",
+  "script disappear": "Det här skriptet finns inte, lägg till skript i din Google Analytics!",
 };
 export default sv;

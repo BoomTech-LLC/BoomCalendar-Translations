@@ -842,5 +842,6 @@ let ca = {
   "Choose account": "Tria el compte",
   "Choose resource": "Triar el recurs",
   "Reconnect": "Tornar a connectar",
+  "script disappear": "Aquest script no existeix, afegiu script al vostre Google Analytics.",
 };
 export default ca;

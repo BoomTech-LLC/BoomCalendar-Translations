@@ -850,5 +850,6 @@ let ru = {
   "Choose account": "Выберите аккаунт",
   "Choose resource": "Выберите ресурс",
   "Reconnect": "Восстановить связь",
+  "script disappear": "Этого сценария не существует, пожалуйста, добавьте скрипт в свою Google Analytics!",
 };
 export default ru;

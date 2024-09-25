@@ -841,5 +841,6 @@ let no = {
   "Choose account": "Velg konto",
   "Choose resource": "Velg ressurs",
   "Reconnect": "Koble til igjen",
+  "script disappear": "Dette skriptet eksisterer ikke, legg til skript i Google Analytics!",
 };
 export default no;

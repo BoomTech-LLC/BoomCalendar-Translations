@@ -815,5 +815,6 @@ let nl = {
   "Choose account": "Kies account",
   "Choose resource": "Kies resource",
   "Reconnect": "Opnieuw verbinden",
+  "script disappear": "Dit script bestaat niet, voeg script toe aan uw Google Analytics!",
 };
 export default nl;

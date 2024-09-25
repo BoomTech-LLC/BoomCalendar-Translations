@@ -816,5 +816,6 @@ let ka = {
   "Choose account": "აირჩიეთ ანგარიში",
   "Choose resource": "აირჩიეთ რესურსი",
   "Reconnect": "ხელახლა კავშირი",
+  "script disappear": "ეს სკრიპტი არ არსებობს, გთხოვთ, დაამატოთ სკრიპტი თქვენს Google Analytics– ში!",
 };
 export default ka;

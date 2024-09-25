@@ -814,5 +814,6 @@ let hi = {
   "Choose account": "खाता चुनें",
   "Choose resource": "संसाधन चुनें",
   "Reconnect": "रिकनेक्ट",
+  "script disappear": "यह स्क्रिप्ट मौजूद नहीं है, कृपया अपने Google Analytics में स्क्रिप्ट जोड़ें!",
 };
 export default hi;

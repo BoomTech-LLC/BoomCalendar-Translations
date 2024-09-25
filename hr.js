@@ -823,5 +823,6 @@ let hr = {
   "Choose account": "Odaberite račun",
   "Choose resource": "Odaberite resurs",
   "Reconnect": "Ponovno povezati",
+  "script disappear": "Ova skripta ne postoji, dodajte skriptu u svoju Google Analytics!",
 };
 export default hr;

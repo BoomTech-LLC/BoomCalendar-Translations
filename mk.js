@@ -817,5 +817,6 @@ let mk = {
   "Choose account": "Изберете сметка",
   "Choose resource": "Изберете ресурс",
   "Reconnect": "Повторно поврзување",
+  "script disappear": "Оваа скрипта не постои, ве молиме додадете скрипта во вашата Google Analytics!",
 };
 export default mk;

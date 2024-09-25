@@ -815,5 +815,6 @@ let sr = {
   "Choose account": "Изаберите налог",
   "Choose resource": "Изаберите ресурс",
   "Reconnect": "Поново повезати",
+  "script disappear": "Овај скрипт не постоји, додајте скрипту у своју Гоогле Аналитику!",
 };
 export default sr;

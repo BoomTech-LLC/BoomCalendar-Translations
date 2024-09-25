@@ -813,5 +813,6 @@ let et = {
   "Choose account": "Valige konto",
   "Choose resource": "Valige ressurss",
   "Reconnect": "Uuesti ühendama",
+  "script disappear": "Seda skripti pole olemas, lisage palun skript oma Google Analyticsisse!",
 };
 export default et;

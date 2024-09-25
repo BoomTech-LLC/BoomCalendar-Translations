@@ -815,5 +815,6 @@ let ja = {
   "Choose account": "アカウントを選択します",
   "Choose resource": "リソースを選択します",
   "Reconnect": "再接続します",
+  "script disappear": "このスクリプトは存在しません。Googleアナリティクスにスクリプトを追加してください！",
 };
 export default ja;

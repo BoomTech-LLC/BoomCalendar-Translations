@@ -814,5 +814,6 @@ let id = {
   "Choose account": "Pilih Akun",
   "Choose resource": "Pilih Sumber Daya",
   "Reconnect": "Terhubung kembali",
+  "script disappear": "Skrip ini tidak ada, silakan tambahkan skrip di Google Analytics Anda!",
 };
 export default id;

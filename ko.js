@@ -813,5 +813,6 @@ let ko = {
   "Choose account": "계정을 선택하십시오",
   "Choose resource": "리소스를 선택하십시오",
   "Reconnect": "다시 연결하십시오",
+  "script disappear": "이 스크립트는 존재하지 않습니다. Google 웹 로그 분석에 스크립트를 추가하십시오!",
 };
 export default ko;
