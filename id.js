@@ -1,4 +1,8 @@
 let id = {
+  "To": "Ke",
+  "From": "Dari",
+  "Ahead": "Di depan",
+  "Ago": "Yang lalu",
   "Change the category": "Ubah kategori",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Sinkronisasi Penjahit Tiket memungkinkan Anda mengintegrasikan acara dan sesi dengan Kalender Boom Anda.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Tampilkan waktu acara di sebelah judul. Pengaturan ini hanya berlaku untuk tampilan Bulanan, Harian, dan Mingguan.",

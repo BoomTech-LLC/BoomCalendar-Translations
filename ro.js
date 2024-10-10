@@ -1,4 +1,8 @@
 let ro = {
+  "To": "La",
+  "From": "Din",
+  "Ahead": "Înainte",
+  "Ago": "În urmă",
   "Change the category": "Schimbați categoria",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Sincronizarea Ticket Tailor vă permite să vă integrați evenimentele și sesiunile cu Calendarul dvs. Boom.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Afișați ora evenimentului lângă titlu. Această setare se aplică numai vizualizărilor Lunar, Zilnic și Săptămânal.",

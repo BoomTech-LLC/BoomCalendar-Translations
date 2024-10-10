@@ -1,4 +1,8 @@
 let is = {
+  "To": "Til",
+  "From": "Frá",
+  "Ahead": "Framundan",
+  "Ago": "Fyrir",
   "Change the category": "Skiptu um flokk",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor samstilling gerir þér kleift að samþætta viðburði þína og fundi með Boom dagatalinu þínu.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Sýna viðburðartíma við hliðina á titli. Þessi stilling á aðeins við um mánaðarlega, daglega og vikulega skoðanir.",

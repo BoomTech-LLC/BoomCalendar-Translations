@@ -1,4 +1,8 @@
 let fi = {
+  "To": "Vastaanottaja",
+  "From": "From",
+  "Ahead": "Eteenpäin",
+  "Ago": "Sitten",
   "Change the category": "Vaihda luokkaa",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor -synkronoinnin avulla voit integroida tapahtumat ja istunnot Boom-kalenteriin.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Näytä tapahtuman aika otsikon vieressä. Tämä asetus koskee vain kuukausi-, päivä- ja viikkonäkymiä.",

@@ -1,4 +1,8 @@
 let ja = {
+  "To": "に",
+  "From": "から",
+  "Ahead": "先に",
+  "Ago": "前",
   "Change the category": "カテゴリを変更する",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor 同期を使用すると、イベントやセッションを Boom カレンダーと統合できます。",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "タイトルの横にイベント時間を表示します。この設定は、月次、日次、および週次のビューにのみ適用されます。",

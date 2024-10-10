@@ -1,4 +1,8 @@
 let pt = {
+  "To": "Para",
+  "From": "De",
+  "Ahead": "À frente",
+  "Ago": "Atrás",
   "Change the category": "Alterar a categoria",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "A sincronização do Ticket Tailor permite integrar seus eventos e sessões ao seu Boom Calendar.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Mostrar a hora do evento ao lado do título. Esta configuração só é aplicável às visualizações Mensal, Diária e Semanal.",

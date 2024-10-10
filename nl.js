@@ -1,4 +1,8 @@
 let nl = {
+  "To": "Naar",
+  "From": "Van",
+  "Ahead": "Vooruit",
+  "Ago": "Geleden",
   "Change the category": "Wijzig de categorie",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Met Ticket Tailor-synchronisatie kunt u uw evenementen en sessies integreren met uw Boom Agenda.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Toon de tijd van het evenement naast de titel. Deze instelling is alleen van toepassing op de maand-, dag- en weekweergave.",

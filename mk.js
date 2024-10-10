@@ -1,4 +1,8 @@
 let mk = {
+  "To": "На",
+  "From": "Од",
+  "Ahead": "Напред",
+  "Ago": "Пред",
   "Change the category": "Променете ја категоријата",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Синхронизацијата на Ticket Tailor ви овозможува да ги интегрирате вашите настани и сесии со вашиот Boom Calendar.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Прикажи го времето на настанот до насловот. Оваа поставка е применлива само за месечни, дневни и неделни прикази.",

@@ -1,4 +1,8 @@
 let be = {
+  "To": "каб",
+  "From": "Ад",
+  "Ahead": "Наперадзе",
+  "Ago": "таму",
   "Change the category": "Змяніць катэгорыю",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Сінхранізацыя Ticket Tailor дазваляе інтэграваць вашы падзеі і сесіі з календаром Boom.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Паказаць час падзеі побач з назвай. Гэты параметр прымяняецца толькі да штомесячнага, штодзённага і штотыднёвага праглядаў.",

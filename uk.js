@@ -1,4 +1,8 @@
 let uk = {
+  "To": "до",
+  "From": "Від",
+  "Ahead": "Попереду",
+  "Ago": "тому",
   "Change the category": "Змініть категорію",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.":
     "Синхронізація Ticket Tailor дозволяє інтегрувати ваші події та сеанси з календарем Boom.",

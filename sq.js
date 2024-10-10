@@ -1,4 +1,8 @@
 let sq = {
+  "To": "te",
+  "From": "Nga",
+  "Ahead": "Përpara",
+  "Ago": "Më parë",
   "Change the category": "Ndryshoni kategorinë",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Sinkronizimi i Biletave Tailor ju lejon të integroni ngjarjet dhe seancat tuaja me Kalendarin tuaj Boom.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Shfaq kohën e ngjarjes pranë titullit. Ky cilësim zbatohet vetëm për pamjet mujore, ditore dhe javore.",

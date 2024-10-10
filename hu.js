@@ -1,4 +1,8 @@
 let hu = {
+  "To": "To",
+  "From": "Tól",
+  "Ahead": "Előre",
+  "Ago": "Ezelőtt",
   "Change the category": "Változtasd meg a kategóriát",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "A Ticket Tailor szinkronizálás lehetővé teszi az események és munkamenetek integrálását a Boom-naptárral.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Az esemény időpontjának megjelenítése a cím mellett. Ez a beállítás csak a Havi, Napi és Heti nézetekre vonatkozik.",

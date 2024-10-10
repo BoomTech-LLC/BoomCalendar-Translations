@@ -1,4 +1,8 @@
 let vi = {
+  "To": "ĐẾN",
+  "From": "Từ",
+  "Ahead": "Phía trước",
+  "Ago": "Trước kia",
   "Change the category": "Thay đổi danh mục",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Đồng bộ hóa Ticket Tailor cho phép bạn tích hợp các sự kiện và phiên của mình với Lịch bùng nổ.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Hiển thị thời gian sự kiện bên cạnh tiêu đề. Cài đặt này chỉ áp dụng cho chế độ xem Hàng tháng, Hàng ngày và Hàng tuần.",

@@ -1,4 +1,8 @@
 let hy = {
+  "To": "Դեպի",
+  "From": "Սկսած",
+  "Ahead": "Առջևում",
+  "Ago": "առաջ",
   "Change the category": "Փոխեք կատեգորիան",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor-ի համաժամացումը թույլ է տալիս ինտեգրել ձեր իրադարձություններն ու նիստերը ձեր Boom Օրացույցի հետ:",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Ցույց տալ միջոցառման ժամանակը վերնագրի կողքին: Այս կարգավորումը կիրառելի է միայն Ամսական, Ամենօրյա և Շաբաթական դիտումների համար:",

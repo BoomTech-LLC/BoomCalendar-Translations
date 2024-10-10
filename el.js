@@ -1,4 +1,8 @@
 let el = {
+  "To": "Να",
+  "From": "Από",
+  "Ahead": "Εμπρός",
+  "Ago": "Πριν",
   "Change the category": "Αλλάξτε την κατηγορία",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ο συγχρονισμός Ticket Tailor σάς επιτρέπει να ενσωματώνετε τις εκδηλώσεις και τις συνεδρίες σας με το Ημερολόγιο Boom.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Εμφάνιση ώρας εκδήλωσης δίπλα στον τίτλο. Αυτή η ρύθμιση ισχύει μόνο για τις μηνιαίες, ημερήσιες και εβδομαδιαίες προβολές.",

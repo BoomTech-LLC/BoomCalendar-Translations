@@ -1,4 +1,8 @@
 let eu = {
+  "To": "To",
+  "From": "Bertatik",
+  "Ahead": "Aurrera",
+  "Ago": "Duela",
   "Change the category": "Aldatu kategoria",
   "Ticket Tailor sync allows you to integrate your events and sessions with your Boom Calendar.": "Ticket Tailor sync-ek zure ekitaldiak eta saioak zure Boom egutegiarekin integratzeko aukera ematen dizu.",
   "Show event time next to title. This setting is only applicable to the Monthly, Daily, and Weekly views.": "Erakutsi gertaeraren ordua izenburuaren ondoan. Ezarpen hau Hileroko, Eguneroko eta Asteko ikuspegietarako soilik da aplikagarria.",
