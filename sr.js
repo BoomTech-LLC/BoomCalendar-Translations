@@ -1,4 +1,7 @@
 let sr = {
+  "Payable with a plan": "Плаћа се планом",
+  "Service Details": "Детаљи услуге",
+  "participants": "учесника",
   "To": "То",
   "From": "Од",
   "Ahead": "Ахеад",

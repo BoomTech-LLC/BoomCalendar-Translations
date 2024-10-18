@@ -1,4 +1,7 @@
 let ru = {
+  "Payable with a plan": "Оплата по плану",
+  "Service Details": "Детали услуги",
+  "participants": "участники",
   "To": "К",
   "From": "От",
   "Ahead": "Предстоящий",

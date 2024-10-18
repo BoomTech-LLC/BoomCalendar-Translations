@@ -1,4 +1,7 @@
 let zh = {
+  "Payable with a plan": "按计划付费",
+  "Service Details": "服务详情",
+  "participants": "参与者",
   "To": "到",
   "From": "从",
   "Ahead": "前进",

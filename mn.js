@@ -1,4 +1,7 @@
 let mn = {
+  "Payable with a plan": "Төлөвлөгөөний дагуу төлнө",
+  "Service Details": "Үйлчилгээний дэлгэрэнгүй мэдээлэл",
+  "participants": "оролцогчид",
   "To": "руу",
   "From": "-аас",
   "Ahead": "Урагшаа",

@@ -1,4 +1,7 @@
 let fa = {
+  "Payable with a plan": "قابل پرداخت با طرح",
+  "Service Details": "جزئیات خدمات",
+  "participants": "شرکت کنندگان",
   "To": "به",
   "From": "از",
   "Ahead": "جلوتر",

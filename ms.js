@@ -1,4 +1,7 @@
 let ms = {
+  "Payable with a plan": "Boleh dibayar dengan pelan",
+  "Service Details": "Butiran Perkhidmatan",
+  "participants": "peserta",
   "To": "Kepada",
   "From": "daripada",
   "Ahead": "Di hadapan",

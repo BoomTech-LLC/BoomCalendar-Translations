@@ -1,4 +1,7 @@
 let tr = {
+  "Payable with a plan": "Planla ödenebilir",
+  "Service Details": "Hizmet Detayları",
+  "participants": "katılımcılar",
   "To": "İle",
   "From": "İtibaren",
   "Ahead": "İlerde",

@@ -1,4 +1,7 @@
 let hr = {
+  "Payable with a plan": "Plativo uz plan",
+  "Service Details": "Pojedinosti usluge",
+  "participants": "sudionika",
   "To": "Do",
   "From": "Iz",
   "Ahead": "Naprijed",

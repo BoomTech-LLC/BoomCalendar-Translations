@@ -1,4 +1,7 @@
 let lt = {
+  "Payable with a plan": "Mokama pagal planą",
+  "Service Details": "Paslaugos informacija",
+  "participants": "dalyvių",
   "To": "Į",
   "From": "Iš",
   "Ahead": "Pirmyn",

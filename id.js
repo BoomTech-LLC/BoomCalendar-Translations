@@ -1,4 +1,7 @@
 let id = {
+  "Payable with a plan": "Dibayar dengan rencana",
+  "Service Details": "Detail Layanan",
+  "participants": "peserta",
   "To": "Ke",
   "From": "Dari",
   "Ahead": "Di depan",

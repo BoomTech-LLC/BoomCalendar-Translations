@@ -1,4 +1,7 @@
 let ca = {
+  "Payable with a plan": "Es paga amb un pla",
+  "Service Details": "Detalls del servei",
+  "participants": "participants",
   "To": "A",
   "From": "Des de",
   "Ahead": "Endavant",

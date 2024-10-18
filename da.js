@@ -1,4 +1,7 @@
 let da = {
+  "Payable with a plan": "Betales med en plan",
+  "Service Details": "Servicedetaljer",
+  "participants": "deltagere",
   "To": "Til",
   "From": "Fra",
   "Ahead": "Foran",

@@ -1,4 +1,7 @@
 let it = {
+  "Payable with a plan": "Pagabile con un piano",
+  "Service Details": "Dettagli del servizio",
+  "participants": "partecipanti",
   "To": "A",
   "From": "Da",
   "Ahead": "Avanti",

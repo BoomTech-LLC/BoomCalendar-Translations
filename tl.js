@@ -1,4 +1,7 @@
 let tl = {
+  "Payable with a plan": "Mababayaran gamit ang isang plano",
+  "Service Details": "Mga Detalye ng Serbisyo",
+  "participants": "mga kalahok",
   "To": "Upang",
   "From": "Mula sa",
   "Ahead": "Sa unahan",

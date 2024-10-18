@@ -1,4 +1,7 @@
 let mk = {
+  "Payable with a plan": "Се плаќа со план",
+  "Service Details": "Детали за услугата",
+  "participants": "учесниците",
   "To": "На",
   "From": "Од",
   "Ahead": "Напред",

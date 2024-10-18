@@ -1,4 +1,7 @@
 let uk = {
+  "Payable with a plan": "Оплачується планом",
+  "Service Details": "Деталі послуги",
+  "participants": "учасників",
   "To": "до",
   "From": "Від",
   "Ahead": "Попереду",

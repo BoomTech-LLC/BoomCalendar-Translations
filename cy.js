@@ -1,4 +1,7 @@
 let cy = {
+  "Payable with a plan": "Yn daladwy gyda chynllun",
+  "Service Details": "Manylion Gwasanaeth",
+  "participants": "cyfranogwyr",
   "To": "I",
   "From": "Oddiwrth",
   "Ahead": "Ymlaen",

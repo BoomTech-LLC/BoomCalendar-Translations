@@ -1,4 +1,7 @@
 let hu = {
+  "Payable with a plan": "Tervvel fizetendő",
+  "Service Details": "Szolgáltatás részletei",
+  "participants": "résztvevők",
   "To": "To",
   "From": "Tól",
   "Ahead": "Előre",

@@ -1,4 +1,7 @@
 let ko = {
+  "Payable with a plan": "플랜으로 지불 가능",
+  "Service Details": "서비스 내용",
+  "participants": "참가자들",
   "To": "에게",
   "From": "에서",
   "Ahead": "앞으로",

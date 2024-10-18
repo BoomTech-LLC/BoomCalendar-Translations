@@ -1,4 +1,7 @@
 let el = {
+  "Payable with a plan": "Πληρωμή με σχέδιο",
+  "Service Details": "Στοιχεία υπηρεσίας",
+  "participants": "συμμετέχοντες",
   "To": "Να",
   "From": "Από",
   "Ahead": "Εμπρός",

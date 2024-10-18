@@ -1,4 +1,7 @@
 let hy = {
+  "Payable with a plan": "Վճարելի է պլանով",
+  "Service Details": "Ծառայության մանրամասները",
+  "participants": "մասնակիցներին",
   "To": "Դեպի",
   "From": "Սկսած",
   "Ahead": "Առջևում",

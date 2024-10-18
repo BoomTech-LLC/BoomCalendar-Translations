@@ -1,4 +1,7 @@
 let ja = {
+  "Payable with a plan": "プランでお支払い可能",
+  "Service Details": "サービス内容",
+  "participants": "参加者",
   "To": "に",
   "From": "から",
   "Ahead": "先に",

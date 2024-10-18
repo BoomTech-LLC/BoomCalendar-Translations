@@ -1,4 +1,7 @@
 let vi = {
+  "Payable with a plan": "Có thể thanh toán theo kế hoạch",
+  "Service Details": "Chi tiết dịch vụ",
+  "participants": "người tham gia",
   "To": "ĐẾN",
   "From": "Từ",
   "Ahead": "Phía trước",

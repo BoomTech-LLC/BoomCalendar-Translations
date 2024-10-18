@@ -1,4 +1,7 @@
 let is = {
+  "Payable with a plan": "Greiðist með áætlun",
+  "Service Details": "Þjónustuupplýsingar",
+  "participants": "þátttakendur",
   "To": "Til",
   "From": "Frá",
   "Ahead": "Framundan",

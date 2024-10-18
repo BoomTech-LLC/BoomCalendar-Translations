@@ -1,4 +1,7 @@
 let mr = {
+  "Payable with a plan": "योजनेसह देय",
+  "Service Details": "सेवा तपशील",
+  "participants": "सहभागी",
   "To": "ला",
   "From": "पासून",
   "Ahead": "पुढे",

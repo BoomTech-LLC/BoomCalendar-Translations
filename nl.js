@@ -1,4 +1,7 @@
 let nl = {
+  "Payable with a plan": "Betaalbaar met een abonnement",
+  "Service Details": "Servicedetails",
+  "participants": "deelnemers",
   "To": "Naar",
   "From": "Van",
   "Ahead": "Vooruit",

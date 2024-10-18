@@ -1,4 +1,7 @@
 let bg = {
+  "Payable with a plan": "Заплаща се с план",
+  "Service Details": "Подробности за услугата",
+  "participants": "участници",
   "To": "до",
   "From": "от",
   "Ahead": "Напред",

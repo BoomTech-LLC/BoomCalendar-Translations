@@ -1,4 +1,7 @@
 let hi = {
+  "Payable with a plan": "एक योजना के साथ देय",
+  "Service Details": "सेवा विवरण",
+  "participants": "प्रतिभागियों",
   "To": "को",
   "From": "से",
   "Ahead": "आगे",

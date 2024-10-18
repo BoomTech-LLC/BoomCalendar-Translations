@@ -1,4 +1,7 @@
 let he = {
+  "Payable with a plan": "ניתן לשלם עם תוכנית",
+  "Service Details": "פרטי שירות",
+  "participants": "משתתפים",
   "To": "אֶל",
   "From": "מִן",
   "Ahead": "קָדִימָה",

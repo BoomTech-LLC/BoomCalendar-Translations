@@ -1,4 +1,7 @@
 let be = {
+  "Payable with a plan": "Аплачваецца планам",
+  "Service Details": "Падрабязнасці абслугоўвання",
+  "participants": "удзельнікаў",
   "To": "каб",
   "From": "Ад",
   "Ahead": "Наперадзе",

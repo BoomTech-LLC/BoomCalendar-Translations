@@ -1,4 +1,7 @@
 let ar = {
+  "Payable with a plan": "تدفع مع الخطة",
+  "Service Details": "تفاصيل الخدمة",
+  "participants": "مشاركون",
   "To": "ل",
   "From": "من",
   "Ahead": "الى الامام",

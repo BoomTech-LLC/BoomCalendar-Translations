@@ -1,4 +1,7 @@
 let de = {
+  "Payable with a plan": "Zahlbar mit einem Plan",
+  "Service Details": "Servicedetails",
+  "participants": "Teilnehmer",
   "To": "Zu",
   "From": "Aus",
   "Ahead": "Voraus",

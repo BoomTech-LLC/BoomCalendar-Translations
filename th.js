@@ -1,4 +1,7 @@
 let th = {
+  "Payable with a plan": "ชำระได้ตามแผน",
+  "Service Details": "รายละเอียดบริการ",
+  "participants": "ผู้เข้าร่วม",
   "To": "ถึง",
   "From": "จาก",
   "Ahead": "ข้างหน้า",

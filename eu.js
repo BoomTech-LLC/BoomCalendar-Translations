@@ -1,4 +1,7 @@
 let eu = {
+  "Payable with a plan": "Plan batekin ordaindu beharrekoa",
+  "Service Details": "Zerbitzuaren xehetasunak",
+  "participants": "parte hartzaileak",
   "To": "To",
   "From": "Bertatik",
   "Ahead": "Aurrera",

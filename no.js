@@ -1,4 +1,7 @@
 let no = {
+  "Payable with a plan": "Betales med en plan",
+  "Service Details": "Tjenestedetaljer",
+  "participants": "deltakere",
   "To": "Til",
   "From": "Fra",
   "Ahead": "Foran",

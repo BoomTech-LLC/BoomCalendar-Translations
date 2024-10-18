@@ -1,4 +1,7 @@
 let cs = {
+  "Payable with a plan": "Splatné podle plánu",
+  "Service Details": "Podrobnosti o službě",
+  "participants": "účastníků",
   "To": "Na",
   "From": "Z",
   "Ahead": "Napřed",

@@ -1,4 +1,7 @@
 let et = {
+  "Payable with a plan": "Tasuda plaaniga",
+  "Service Details": "Teenuse üksikasjad",
+  "participants": "osalejad",
   "To": "To",
   "From": "Alates",
   "Ahead": "Edasi",

@@ -1,4 +1,7 @@
 let ro = {
+  "Payable with a plan": "Plătibil cu un plan",
+  "Service Details": "Detalii serviciu",
+  "participants": "participanții",
   "To": "La",
   "From": "Din",
   "Ahead": "Înainte",

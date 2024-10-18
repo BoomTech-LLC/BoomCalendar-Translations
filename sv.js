@@ -1,4 +1,7 @@
 let sv = {
+  "Payable with a plan": "Betalas med plan",
+  "Service Details": "Servicedetaljer",
+  "participants": "deltagare",
   "To": "Till",
   "From": "Från",
   "Ahead": "Framåt",

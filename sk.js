@@ -1,4 +1,7 @@
 let sk = {
+  "Payable with a plan": "Splatné podľa plánu",
+  "Service Details": "Podrobnosti o službe",
+  "participants": "účastníkov",
   "To": "Komu",
   "From": "Od",
   "Ahead": "Vpredu",

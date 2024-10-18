@@ -1,4 +1,7 @@
 let lv = {
+  "Payable with a plan": "Jāmaksā ar plānu",
+  "Service Details": "Sīkāka informācija par pakalpojumu",
+  "participants": "dalībniekiem",
   "To": "Uz",
   "From": "No",
   "Ahead": "Uz priekšu",

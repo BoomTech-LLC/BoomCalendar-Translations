@@ -1,4 +1,7 @@
 let ka = {
+  "Payable with a plan": "გადასახდელია გეგმით",
+  "Service Details": "სერვისის დეტალები",
+  "participants": "მონაწილეები",
   "To": "რომ",
   "From": "დან",
   "Ahead": "წინ",

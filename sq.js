@@ -1,4 +1,7 @@
 let sq = {
+  "Payable with a plan": "E pagueshme me plan",
+  "Service Details": "Detajet e Shërbimit",
+  "participants": "pjesëmarrësit",
   "To": "te",
   "From": "Nga",
   "Ahead": "Përpara",

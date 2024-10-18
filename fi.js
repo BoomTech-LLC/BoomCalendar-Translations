@@ -1,4 +1,7 @@
 let fi = {
+  "Payable with a plan": "Maksetaan suunnitelmalla",
+  "Service Details": "Palvelun tiedot",
+  "participants": "osallistujia",
   "To": "Vastaanottaja",
   "From": "From",
   "Ahead": "Eteenpäin",
