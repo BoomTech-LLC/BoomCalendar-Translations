@@ -1,4 +1,6 @@
 let sq = {
+  "Automatically approve events from these addresses": "Mirato automatikisht ngjarjet nga këto adresa",
+  "Approve events": "Miratoni ngjarjet",
   "Payable with a plan": "E pagueshme me plan",
   "Service Details": "Detajet e Shërbimit",
   "participants": "pjesëmarrësit",

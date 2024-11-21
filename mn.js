@@ -1,4 +1,6 @@
 let mn = {
+  "Automatically approve events from these addresses": "Эдгээр хаягуудаас үйл явдлуудыг автоматаар зөвшөөрөх",
+  "Approve events": "Үйл явдлыг зөвшөөрөх",
   "Payable with a plan": "Төлөвлөгөөний дагуу төлнө",
   "Service Details": "Үйлчилгээний дэлгэрэнгүй мэдээлэл",
   "participants": "оролцогчид",

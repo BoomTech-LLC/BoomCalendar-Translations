@@ -1,4 +1,6 @@
 let id = {
+  "Automatically approve events from these addresses": "Secara otomatis menyetujui acara dari alamat ini",
+  "Approve events": "Menyetujui acara",
   "Payable with a plan": "Dibayar dengan rencana",
   "Service Details": "Detail Layanan",
   "participants": "peserta",

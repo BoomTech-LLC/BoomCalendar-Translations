@@ -1,4 +1,6 @@
 let tr = {
+  "Automatically approve events from these addresses": "Bu adreslerden gelen etkinlikleri otomatik olarak onayla",
+  "Approve events": "Etkinlikleri onayla",
   "Payable with a plan": "Planla ödenebilir",
   "Service Details": "Hizmet Detayları",
   "participants": "katılımcılar",

@@ -1,4 +1,6 @@
 let el = {
+  "Automatically approve events from these addresses": "Αυτόματη έγκριση συμβάντων από αυτές τις διευθύνσεις",
+  "Approve events": "Έγκριση συμβάντων",
   "Payable with a plan": "Πληρωμή με σχέδιο",
   "Service Details": "Στοιχεία υπηρεσίας",
   "participants": "συμμετέχοντες",

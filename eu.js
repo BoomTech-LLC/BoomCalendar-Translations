@@ -1,4 +1,6 @@
 let eu = {
+  "Automatically approve events from these addresses": "Onartu automatikoki helbide hauetako gertaerak",
+  "Approve events": "Gertaerak onartzea",
   "Payable with a plan": "Plan batekin ordaindu beharrekoa",
   "Service Details": "Zerbitzuaren xehetasunak",
   "participants": "parte hartzaileak",

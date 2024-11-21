@@ -1,4 +1,6 @@
 let nl = {
+  "Automatically approve events from these addresses": "Keur automatisch evenementen van deze adressen goed",
+  "Approve events": "Evenementen goedkeuren",
   "Payable with a plan": "Betaalbaar met een abonnement",
   "Service Details": "Servicedetails",
   "participants": "deelnemers",

@@ -1,4 +1,6 @@
 let ko = {
+  "Automatically approve events from these addresses": "이 주소의 이벤트를 자동으로 승인합니다.",
+  "Approve events": "이벤트 승인",
   "Payable with a plan": "플랜으로 지불 가능",
   "Service Details": "서비스 내용",
   "participants": "참가자들",

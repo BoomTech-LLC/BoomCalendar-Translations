@@ -1,4 +1,6 @@
 let uk = {
+  "Automatically approve events from these addresses": "Автоматично затверджувати події з цих адрес",
+  "Approve events": "Затвердити заходи",
   "Payable with a plan": "Оплачується планом",
   "Service Details": "Деталі послуги",
   "participants": "учасників",

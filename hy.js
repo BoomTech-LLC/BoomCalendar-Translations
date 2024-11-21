@@ -1,4 +1,6 @@
 let hy = {
+  "Automatically approve events from these addresses": "Ավտոմատ հաստատեք իրադարձություններն այս հասցեներից",
+  "Approve events": "Հաստատել իրադարձությունները",
   "Payable with a plan": "Վճարելի է պլանով",
   "Service Details": "Ծառայության մանրամասները",
   "participants": "մասնակիցներին",

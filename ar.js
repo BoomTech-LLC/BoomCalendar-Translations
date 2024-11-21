@@ -1,4 +1,6 @@
 let ar = {
+  "Automatically approve events from these addresses": "الموافقة تلقائيًا على الأحداث من هذه العناوين",
+  "Approve events": "الموافقة على الأحداث",
   "Payable with a plan": "تدفع مع الخطة",
   "Service Details": "تفاصيل الخدمة",
   "participants": "مشاركون",

@@ -1,4 +1,6 @@
 let hu = {
+  "Automatically approve events from these addresses": "Események automatikus jóváhagyása ezekről a címekről",
+  "Approve events": "Jóváhagyni az eseményeket",
   "Payable with a plan": "Tervvel fizetendő",
   "Service Details": "Szolgáltatás részletei",
   "participants": "résztvevők",

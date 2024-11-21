@@ -1,4 +1,6 @@
 let da = {
+  "Automatically approve events from these addresses": "Godkend automatisk begivenheder fra disse adresser",
+  "Approve events": "Godkend begivenheder",
   "Payable with a plan": "Betales med en plan",
   "Service Details": "Servicedetaljer",
   "participants": "deltagere",

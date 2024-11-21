@@ -1,4 +1,6 @@
 let fa = {
+  "Automatically approve events from these addresses": "به طور خودکار رویدادها را از این آدرس ها تأیید کنید",
+  "Approve events": "رویدادها را تایید کنید",
   "Payable with a plan": "قابل پرداخت با طرح",
   "Service Details": "جزئیات خدمات",
   "participants": "شرکت کنندگان",

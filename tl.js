@@ -1,4 +1,6 @@
 let tl = {
+  "Automatically approve events from these addresses": "Awtomatikong aprubahan ang mga kaganapan mula sa mga address na ito",
+  "Approve events": "Aprubahan ang mga kaganapan",
   "Payable with a plan": "Mababayaran gamit ang isang plano",
   "Service Details": "Mga Detalye ng Serbisyo",
   "participants": "mga kalahok",

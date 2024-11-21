@@ -1,4 +1,6 @@
 let zh = {
+  "Automatically approve events from these addresses": "自动批准来自这些地址的事件",
+  "Approve events": "批准活动",
   "Payable with a plan": "按计划付费",
   "Service Details": "服务详情",
   "participants": "参与者",

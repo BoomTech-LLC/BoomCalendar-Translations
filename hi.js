@@ -1,4 +1,6 @@
 let hi = {
+  "Automatically approve events from these addresses": "इन पतों से ईवेंट को स्वचालित रूप से स्वीकृत करें",
+  "Approve events": "घटनाओं को मंजूरी दें",
   "Payable with a plan": "एक योजना के साथ देय",
   "Service Details": "सेवा विवरण",
   "participants": "प्रतिभागियों",

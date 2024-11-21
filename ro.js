@@ -1,4 +1,6 @@
 let ro = {
+  "Automatically approve events from these addresses": "Aprobați automat evenimentele de la aceste adrese",
+  "Approve events": "Aprobați evenimente",
   "Payable with a plan": "Plătibil cu un plan",
   "Service Details": "Detalii serviciu",
   "participants": "participanții",

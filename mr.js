@@ -1,4 +1,6 @@
 let mr = {
+  "Automatically approve events from these addresses": "या पत्त्यांमधून इव्हेंट स्वयंचलितपणे मंजूर करा",
+  "Approve events": "कार्यक्रम मंजूर करा",
   "Payable with a plan": "योजनेसह देय",
   "Service Details": "सेवा तपशील",
   "participants": "सहभागी",

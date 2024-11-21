@@ -1,4 +1,6 @@
 let et = {
+  "Automatically approve events from these addresses": "Kinnitage sündmused nendelt aadressidelt automaatselt",
+  "Approve events": "Kinnitage sündmused",
   "Payable with a plan": "Tasuda plaaniga",
   "Service Details": "Teenuse üksikasjad",
   "participants": "osalejad",

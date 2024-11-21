@@ -1,4 +1,6 @@
 let sv = {
+  "Automatically approve events from these addresses": "Godkänn automatiskt händelser från dessa adresser",
+  "Approve events": "Godkänn evenemang",
   "Payable with a plan": "Betalas med plan",
   "Service Details": "Servicedetaljer",
   "participants": "deltagare",

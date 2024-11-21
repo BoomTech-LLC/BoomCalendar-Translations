@@ -1,4 +1,6 @@
 let ja = {
+  "Automatically approve events from these addresses": "これらのアドレスからのイベントを自動的に承認します",
+  "Approve events": "イベントの承認",
   "Payable with a plan": "プランでお支払い可能",
   "Service Details": "サービス内容",
   "participants": "参加者",

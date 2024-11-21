@@ -1,4 +1,6 @@
 let is = {
+  "Automatically approve events from these addresses": "Samþykkja sjálfkrafa viðburði frá þessum netföngum",
+  "Approve events": "Samþykkja viðburði",
   "Payable with a plan": "Greiðist með áætlun",
   "Service Details": "Þjónustuupplýsingar",
   "participants": "þátttakendur",

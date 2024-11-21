@@ -1,4 +1,6 @@
 let lt = {
+  "Automatically approve events from these addresses": "Automatiškai patvirtinti įvykius iš šių adresų",
+  "Approve events": "Patvirtinti įvykius",
   "Payable with a plan": "Mokama pagal planą",
   "Service Details": "Paslaugos informacija",
   "participants": "dalyvių",

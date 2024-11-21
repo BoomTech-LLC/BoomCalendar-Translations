@@ -1,4 +1,6 @@
 let cs = {
+  "Automatically approve events from these addresses": "Automaticky schvalovat události z těchto adres",
+  "Approve events": "Schvalovat události",
   "Payable with a plan": "Splatné podle plánu",
   "Service Details": "Podrobnosti o službě",
   "participants": "účastníků",

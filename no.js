@@ -1,4 +1,6 @@
 let no = {
+  "Automatically approve events from these addresses": "Godkjenn automatisk hendelser fra disse adressene",
+  "Approve events": "Godkjenne arrangementer",
   "Payable with a plan": "Betales med en plan",
   "Service Details": "Tjenestedetaljer",
   "participants": "deltakere",

@@ -1,4 +1,6 @@
 let ka = {
+  "Automatically approve events from these addresses": "ამ მისამართებიდან მოვლენების ავტომატურად დამტკიცება",
+  "Approve events": "მოვლენების დამტკიცება",
   "Payable with a plan": "გადასახდელია გეგმით",
   "Service Details": "სერვისის დეტალები",
   "participants": "მონაწილეები",

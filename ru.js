@@ -1,4 +1,6 @@
 let ru = {
+  "Automatically approve events from these addresses": "Автоматически утверждать события с этих адресов",
+  "Approve events": "Утвердить события",
   "Payable with a plan": "Оплата по плану",
   "Service Details": "Детали услуги",
   "participants": "участники",

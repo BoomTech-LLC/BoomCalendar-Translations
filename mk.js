@@ -1,4 +1,6 @@
 let mk = {
+  "Automatically approve events from these addresses": "Автоматски одобрувајте настани од овие адреси",
+  "Approve events": "Одобри настани",
   "Payable with a plan": "Се плаќа со план",
   "Service Details": "Детали за услугата",
   "participants": "учесниците",

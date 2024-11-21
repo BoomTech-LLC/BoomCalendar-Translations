@@ -1,4 +1,6 @@
 let he = {
+  "Automatically approve events from these addresses": "אשר באופן אוטומטי אירועים מכתובות אלו",
+  "Approve events": "לאשר אירועים",
   "Payable with a plan": "ניתן לשלם עם תוכנית",
   "Service Details": "פרטי שירות",
   "participants": "משתתפים",

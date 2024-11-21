@@ -1,4 +1,6 @@
 let hr = {
+  "Automatically approve events from these addresses": "Automatski odobri događaje s ovih adresa",
+  "Approve events": "Odobravanje događaja",
   "Payable with a plan": "Plativo uz plan",
   "Service Details": "Pojedinosti usluge",
   "participants": "sudionika",

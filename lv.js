@@ -1,4 +1,6 @@
 let lv = {
+  "Automatically approve events from these addresses": "Automātiski apstiprināt pasākumus no šīm adresēm",
+  "Approve events": "Apstiprināt notikumus",
   "Payable with a plan": "Jāmaksā ar plānu",
   "Service Details": "Sīkāka informācija par pakalpojumu",
   "participants": "dalībniekiem",

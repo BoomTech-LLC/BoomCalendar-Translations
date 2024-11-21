@@ -1,4 +1,6 @@
 let pl = {
+  "Automatically approve events from these addresses": "Automatycznie zatwierdzaj wydarzenia z tych adresów",
+  "Approve events": "Zatwierdź wydarzenia",
   "Payable with a plan": "Płatne z planem",
   "Service Details": "Szczegóły usługi",
   "participants": "uczestnicy",

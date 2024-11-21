@@ -1,4 +1,6 @@
 let sk = {
+  "Automatically approve events from these addresses": "Automaticky schvaľovať udalosti z týchto adries",
+  "Approve events": "Schvaľujte udalosti",
   "Payable with a plan": "Splatné podľa plánu",
   "Service Details": "Podrobnosti o službe",
   "participants": "účastníkov",

@@ -1,4 +1,6 @@
 let th = {
+  "Automatically approve events from these addresses": "อนุมัติกิจกรรมจากที่อยู่เหล่านี้โดยอัตโนมัติ",
+  "Approve events": "อนุมัติกิจกรรม",
   "Payable with a plan": "ชำระได้ตามแผน",
   "Service Details": "รายละเอียดบริการ",
   "participants": "ผู้เข้าร่วม",

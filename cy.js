@@ -1,4 +1,6 @@
 let cy = {
+  "Automatically approve events from these addresses": "Cymeradwyo digwyddiadau o'r cyfeiriadau hyn yn awtomatig",
+  "Approve events": "Cymeradwyo digwyddiadau",
   "Payable with a plan": "Yn daladwy gyda chynllun",
   "Service Details": "Manylion Gwasanaeth",
   "participants": "cyfranogwyr",

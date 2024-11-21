@@ -1,4 +1,6 @@
 let vi = {
+  "Automatically approve events from these addresses": "Tự động phê duyệt sự kiện từ các địa chỉ này",
+  "Approve events": "Phê duyệt sự kiện",
   "Payable with a plan": "Có thể thanh toán theo kế hoạch",
   "Service Details": "Chi tiết dịch vụ",
   "participants": "người tham gia",

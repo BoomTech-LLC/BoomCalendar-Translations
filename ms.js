@@ -1,4 +1,6 @@
 let ms = {
+  "Automatically approve events from these addresses": "Luluskan acara secara automatik daripada alamat ini",
+  "Approve events": "Luluskan acara",
   "Payable with a plan": "Boleh dibayar dengan pelan",
   "Service Details": "Butiran Perkhidmatan",
   "participants": "peserta",

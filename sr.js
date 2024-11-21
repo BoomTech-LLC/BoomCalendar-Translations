@@ -1,4 +1,6 @@
 let sr = {
+  "Automatically approve events from these addresses": "Аутоматски одобри догађаје са ових адреса",
+  "Approve events": "Одобравање догађаја",
   "Payable with a plan": "Плаћа се планом",
   "Service Details": "Детаљи услуге",
   "participants": "учесника",

@@ -1,4 +1,6 @@
 let fi = {
+  "Automatically approve events from these addresses": "Hyväksy tapahtumat automaattisesti näistä osoitteista",
+  "Approve events": "Hyväksy tapahtumat",
   "Payable with a plan": "Maksetaan suunnitelmalla",
   "Service Details": "Palvelun tiedot",
   "participants": "osallistujia",

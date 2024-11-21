@@ -1,4 +1,6 @@
 let ca = {
+  "Automatically approve events from these addresses": "Aprova automàticament els esdeveniments d'aquestes adreces",
+  "Approve events": "Aprovar esdeveniments",
   "Payable with a plan": "Es paga amb un pla",
   "Service Details": "Detalls del servei",
   "participants": "participants",

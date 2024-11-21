@@ -1,4 +1,6 @@
 let bg = {
+  "Automatically approve events from these addresses": "Автоматично одобряване на събития от тези адреси",
+  "Approve events": "Одобряване на събития",
   "Payable with a plan": "Заплаща се с план",
   "Service Details": "Подробности за услугата",
   "participants": "участници",

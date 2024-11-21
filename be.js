@@ -1,4 +1,6 @@
 let be = {
+  "Automatically approve events from these addresses": "Аўтаматычна зацвярджаць падзеі з гэтых адрасоў",
+  "Approve events": "Зацвердзіць падзеі",
   "Payable with a plan": "Аплачваецца планам",
   "Service Details": "Падрабязнасці абслугоўвання",
   "participants": "удзельнікаў",
