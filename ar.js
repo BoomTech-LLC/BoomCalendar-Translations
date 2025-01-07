@@ -867,7 +867,7 @@ let ar = {
   "One Line": "سطر واحد",
   "Show Icons": "عرض الرموز",
   "Design Settings": "إعدادات التصميم",
-  "Personalize your editor to match your style and preferences, customize every detail in this settings tab !": "تخصيص المحرر الخاص بك لمطابقة أسلوبك وتفضيلاتك ، وقم بتخصيص كل التفاصيل في علامة التبويب "الإعدادات هذه"!",
+  "Personalize your editor to match your style and preferences, customize every detail in this settings tab !": "قم بتخصيص محرر النصوص الخاص بك ليتناسب مع أسلوبك وتفضيلاتك، وقم بتخصيص كل التفاصيل في علامة تبويب الإعدادات هذه!",
   "Divider": "مقسم",
   "Ellipse": "القطع الناقص",
   "Rhombus": "المعين",
