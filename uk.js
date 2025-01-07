@@ -867,5 +867,6 @@ let uk = {
   "component removed": "компонент видалений з редактора.",
   "component duplicate": "Додано компонент, примітка: дублікат запису!",
   "component added": "Компонент успішно додав до редактора.",
+  "Component Preview": "Попередній перегляд компонентів",
 };
 export default uk;

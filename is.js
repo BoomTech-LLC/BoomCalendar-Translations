@@ -842,5 +842,6 @@ let is = {
   "component removed": "hluti fjarlægður úr ritstjóranum.",
   "component duplicate": "Íhlut bætt við, athugið: afrit færsla!",
   "component added": "hluti bætt við ritstjóra með góðum árangri.",
+  "Component Preview": "Forskoðun íhluta",
 };
 export default is;

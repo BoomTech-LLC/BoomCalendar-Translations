@@ -843,5 +843,6 @@ let sk = {
   "component removed": "komponent odstránený z editora.",
   "component duplicate": "Pridaný komponent, Poznámka: Duplicitný záznam!",
   "component added": "Komponent úspešne pridal do editora.",
+  "Component Preview": "Ukážka komponentu",
 };
 export default sk;

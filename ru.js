@@ -876,5 +876,6 @@ let ru = {
   "component removed": "компонент удален из редактора.",
   "component duplicate": "Добавлен компонент, примечание: дубликат входа!",
   "component added": "Компонент успешно добавлен в редактор.",
+  "Component Preview": "Предварительный просмотр компонента",
 };
 export default ru;

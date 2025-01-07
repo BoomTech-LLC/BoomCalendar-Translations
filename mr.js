@@ -842,5 +842,6 @@ let mr = {
   "component removed": "संपादकातून घटक काढला.",
   "component duplicate": "घटक जोडले, टीप: डुप्लिकेट एंट्री!",
   "component added": "घटक संपादकात यशस्वीरित्या जोडले.",
+  "Component Preview": "घटक पूर्वावलोकन",
 };
 export default mr;

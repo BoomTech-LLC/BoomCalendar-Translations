@@ -840,5 +840,6 @@ let ar = {
   "component removed": "مكون إزالته من المحرر.",
   "component duplicate": "إضافة المكون ، ملاحظة: دخول مكرر!",
   "component added": "مكون يضاف بنجاح إلى المحرر.",
+  "Component Preview": "معاينة المكون",
 };
 export default ar;

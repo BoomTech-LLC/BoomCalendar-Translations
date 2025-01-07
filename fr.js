@@ -850,5 +850,6 @@ let fr = {
   "component removed": "composant supprimé de l'éditeur.",
   "component duplicate": "Composant ajouté, Remarque: Entrée en double!",
   "component added": "Composant Ajout avec succès à l'éditeur.",
+  "Component Preview": "Aperçu des composants",
 };
 export default fr;

@@ -842,5 +842,6 @@ let ka = {
   "component removed": "კომპონენტი ამოღებულია რედაქტორიდან.",
   "component duplicate": "კომპონენტი დამატებულია, შენიშვნა: დუბლიკატი შესვლა!",
   "component added": "კომპონენტი წარმატებით დაემატა რედაქტორს.",
+  "Component Preview": "კომპონენტის გადახედვა",
 };
 export default ka;

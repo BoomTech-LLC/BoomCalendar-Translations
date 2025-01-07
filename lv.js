@@ -842,5 +842,6 @@ let lv = {
   "component removed": "Komponents, kas noņemts no redaktora.",
   "component duplicate": "Pievienots komponents, piezīme: Dublikāta ieraksts!",
   "component added": "komponents veiksmīgi pievienots redaktoram.",
+  "Component Preview": "Komponentu priekšskatījums",
 };
 export default lv;

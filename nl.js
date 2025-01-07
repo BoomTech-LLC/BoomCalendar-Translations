@@ -841,5 +841,6 @@ let nl = {
   "component removed": "Component verwijderd van de editor.",
   "component duplicate": "Component toegevoegd, Opmerking: Duplicate Entry!",
   "component added": "Component met succes toegevoegd aan de editor.",
+  "Component Preview": "Component Preview",
 };
 export default nl;

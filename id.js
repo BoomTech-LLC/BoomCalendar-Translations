@@ -840,5 +840,6 @@ let id = {
   "component removed": "Komponen dihapus dari editor.",
   "component duplicate": "Komponen Ditambahkan, Catatan: Duplikat Entri!",
   "component added": "Komponen berhasil ditambahkan ke editor.",
+  "Component Preview": "Pratinjau Komponen",
 };
 export default id;

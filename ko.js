@@ -839,5 +839,6 @@ let ko = {
   "component removed": "편집기에서 구성 요소가 제거되었습니다.",
   "component duplicate": "구성 요소 추가, 참고 : 중복 항목!",
   "component added": "구성 요소는 편집기에 성공적으로 추가되었습니다.",
+  "Component Preview": "구성 요소 미리보기",
 };
 export default ko;

@@ -842,5 +842,6 @@ let da = {
   "component removed": "Komponent fjernet fra redaktøren.",
   "component duplicate": "Komponent tilføjet, bemærk: duplikatindgang!",
   "component added": "Komponent tilføjet til redaktør.",
+  "Component Preview": "Komponenteksempel",
 };
 export default da;

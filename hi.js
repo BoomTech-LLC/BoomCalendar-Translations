@@ -840,5 +840,6 @@ let hi = {
   "component removed": "संपादक से हटाए गए घटक।",
   "component duplicate": "घटक जोड़ा, नोट: डुप्लिकेट प्रविष्टि!",
   "component added": "घटक सफलतापूर्वक संपादक में जोड़ा गया।",
+  "Component Preview": "घटक पूर्वावलोकन",
 };
 export default hi;

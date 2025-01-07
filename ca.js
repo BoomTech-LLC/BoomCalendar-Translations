@@ -868,5 +868,6 @@ let ca = {
   "component removed": "Component eliminat de l'editor.",
   "component duplicate": "Component S'ha afegit, nota: Entrada duplicada.",
   "component added": "El component es va afegir amb èxit a l'editor.",
+  "Component Preview": "Vista prèvia del component",
 };
 export default ca;

@@ -851,5 +851,6 @@ let be = {
   "component removed": "Кампанент выдалены з рэдактара.",
   "component duplicate": "Дададзены кампанент, Заўвага: Дублікат запісу!",
   "component added": "Кампанент паспяхова дададзены ў рэдактар.",
+  "Component Preview": "Папярэдні прагляд кампанента",
 };
 export default be;

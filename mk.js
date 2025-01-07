@@ -843,5 +843,6 @@ let mk = {
   "component removed": "компонента отстранета од уредникот.",
   "component duplicate": "Додадена компонента, белешка: дупликат влез!",
   "component added": "компонентата успешно додадена на уредникот.",
+  "Component Preview": "Преглед на компонентата",
 };
 export default mk;

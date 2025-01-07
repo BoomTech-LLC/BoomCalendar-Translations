@@ -846,5 +846,6 @@ let cy = {
   "component removed": "cydran wedi'i dynnu o'r golygydd.",
   "component duplicate": "Ychwanegwyd y gydran, nodyn: Mynediad dyblyg!",
   "component added": "Cydran wedi'i hychwanegu'n llwyddiannus at y Golygydd.",
+  "Component Preview": "Rhagolwg Cydran",
 };
 export default cy;

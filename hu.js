@@ -841,5 +841,6 @@ let hu = {
   "component removed": "A szerkesztőtől eltávolított összetevő.",
   "component duplicate": "Komponens hozzáadva, megjegyzés: Másolatú bejegyzés!",
   "component added": "A komponens sikeresen hozzáadva a szerkesztőhöz.",
+  "Component Preview": "Összetevő előnézete",
 };
 export default hu;

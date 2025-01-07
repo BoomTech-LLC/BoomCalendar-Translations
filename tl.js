@@ -808,5 +808,6 @@ let tl = {
   "component removed": "Ang sangkap ay tinanggal mula sa editor.",
   "component duplicate": "Idinagdag ang Component, Tandaan: Duplicate Entry!",
   "component added": "Matagumpay na naidagdag ang sangkap sa editor.",
+  "Component Preview": "Component Preview",
 };
 export default tl;

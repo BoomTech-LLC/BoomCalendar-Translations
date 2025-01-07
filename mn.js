@@ -844,5 +844,6 @@ let mn = {
   "component removed": "CONDONTENTINT нь редактороос хасагдсан.",
   "component duplicate": "Бүрэлдэхүүн хэсэг нэмэгдсэн, Тэмдэглэл: Давхардсан бичлэг!",
   "component added": "CONDONTENT нь редактор руу амжилттай нэмсэн.",
+  "Component Preview": "Бүрэлдэхүүн хэсэг урьдчилан харах",
 };
 export default mn;

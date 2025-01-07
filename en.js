@@ -833,5 +833,6 @@ let en = {
   "component removed": "component removed from the editor.",
   "component duplicate": "component added, note: duplicate entry !",
   "component added": "component successfully added to editor.",
+  "Component Preview": "Component Preview",
 };
 export default en;
