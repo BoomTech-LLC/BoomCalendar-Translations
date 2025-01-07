@@ -841,5 +841,6 @@ let ja = {
   "component removed": "エディターから削除されたコンポーネント。",
   "component duplicate": "コンポーネントが追加されました、注：エントリの複製！",
   "component added": "コンポーネントはエディターに正常に追加されました。",
+  "Component Preview": "コンポーネントプレビュー",
 };
 export default ja;

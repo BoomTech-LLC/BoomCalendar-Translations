@@ -860,5 +860,6 @@ let hy = {
   "component removed": "բաղադրիչը հանվել է խմբագրից:",
   "component duplicate": "բաղադրիչ ավելացված է, նշում. Կրկնօրինակ մուտք:",
   "component added": "բաղադրիչը հաջողությամբ ավելացավ խմբագրին:",
+  "Component Preview": "Բաղադրիչի նախադիտում",
 };
 export default hy;

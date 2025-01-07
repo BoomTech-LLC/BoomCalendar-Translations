@@ -842,5 +842,6 @@ let eu = {
   "component removed": "editorearengandik kendutako osagaia.",
   "component duplicate": "Osagaia gehitu da, Oharra: sarrera bikoiztua!",
   "component added": "Osagaia editoreari gehitu zaio.",
+  "Component Preview": "Osagaiaren aurrebista",
 };
 export default eu;

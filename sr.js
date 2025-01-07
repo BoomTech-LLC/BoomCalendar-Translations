@@ -841,5 +841,6 @@ let sr = {
   "component removed": "Компонента уклоњена из уређивача.",
   "component duplicate": "Додато компонента, напомена: дупликат уноса!",
   "component added": "Компонента је успешно додата уреднику.",
+  "Component Preview": "Преглед компоненти",
 };
 export default sr;

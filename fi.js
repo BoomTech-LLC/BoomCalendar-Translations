@@ -842,5 +842,6 @@ let fi = {
   "component removed": "Komponentti, joka on poistettu editorista.",
   "component duplicate": "Komponentti lisätty, Huomaa: Kopioi merkintä!",
   "component added": "Komponentti lisätty toimittajaan onnistuneesti.",
+  "Component Preview": "Komponenttien esikatselu",
 };
 export default fi;

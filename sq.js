@@ -843,5 +843,6 @@ let sq = {
   "component removed": "Komponenti i hequr nga redaktori.",
   "component duplicate": "Komponenti i shtuar, Shënim: Hyrja e kopjuar!",
   "component added": "Komponenti i shtuar me sukses Redaktorit.",
+  "Component Preview": "Vrojtim i komponentëve",
 };
 export default sq;

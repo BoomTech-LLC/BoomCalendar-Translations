@@ -837,5 +837,6 @@ let pl = {
   "component removed": "Komponent usunięty z edytora.",
   "component duplicate": "Dodano komponent, Uwaga: duplikat wpisu!",
   "component added": "komponent z powodzeniem dodany do edytora.",
+  "Component Preview": "Podgląd komponentów",
 };
 export default pl;

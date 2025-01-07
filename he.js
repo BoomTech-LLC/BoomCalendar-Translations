@@ -852,5 +852,6 @@ let he = {
   "component removed": "הרכיב הוסר מהעורך.",
   "component duplicate": "רכיב נוסף, הערה: כניסה כפולה!",
   "component added": "רכיב נוסף בהצלחה לעורך.",
+  "Component Preview": "תצוגה מקדימה של רכיב",
 };
 export default he;

@@ -843,5 +843,6 @@ let cs = {
   "component removed": "Komponenta odstraněna z editoru.",
   "component duplicate": "Komponenta přidána, Poznámka: Duplicitní položka!",
   "component added": "Komponenta úspěšně přidána do editoru.",
+  "Component Preview": "Náhled komponenty",
 };
 export default cs;

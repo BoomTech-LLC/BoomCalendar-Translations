@@ -839,5 +839,6 @@ let fa = {
   "component removed": "مؤلفه از ویرایشگر حذف شد.",
   "component duplicate": "مؤلفه اضافه شده ، توجه: ورودی تکراری!",
   "component added": "مؤلفه با موفقیت به ویرایشگر اضافه شد.",
+  "Component Preview": "پیش نمایش مؤلفه",
 };
 export default fa;

@@ -852,5 +852,6 @@ let bg = {
   "component removed": "компонент, отстранен от редактора.",
   "component duplicate": "Добавен компонент, Забележка: Дублиращ запис!",
   "component added": "Компонентът успешно се добавя към редактора.",
+  "Component Preview": "Преглед на компонента",
 };
 export default bg;

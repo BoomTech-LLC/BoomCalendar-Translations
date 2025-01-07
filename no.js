@@ -867,5 +867,6 @@ let no = {
   "component removed": "Komponent fjernet fra redaktøren.",
   "component duplicate": "Komponent lagt til, merk: duplikatoppføring!",
   "component added": "komponent med hell lagt til redaktør.",
+  "Component Preview": "Forhåndsvisning av komponenter",
 };
 export default no;

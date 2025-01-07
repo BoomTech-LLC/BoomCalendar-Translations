@@ -824,5 +824,6 @@ let zh = {
   "component removed": "从编辑器中删除组件。",
   "component duplicate": "添加了组件，请注意：重复条目！",
   "component added": "组件成功添加到编辑器。",
+  "Component Preview": "组件预览",
 };
 export default zh;

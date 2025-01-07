@@ -844,5 +844,6 @@ let tr = {
   "component removed": "Bileşen editörden kaldırıldı.",
   "component duplicate": "Bileşen eklendi, Not: Yinelenen giriş!",
   "component added": "Bileşen, editöre başarıyla eklendi.",
+  "Component Preview": "Bileşen Önizleme",
 };
 export default tr;

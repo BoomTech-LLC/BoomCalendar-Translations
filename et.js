@@ -839,5 +839,6 @@ let et = {
   "component removed": "Komponent eemaldatakse redaktorist.",
   "component duplicate": "Komponent on lisatud, märkus: duplikaat!",
   "component added": "Komponent lisati toimetajale edukalt.",
+  "Component Preview": "Komponendi eelvaade",
 };
 export default et;

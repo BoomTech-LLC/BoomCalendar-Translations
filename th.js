@@ -869,5 +869,6 @@ let th = {
   "component removed": "ส่วนประกอบลบออกจากตัวแก้ไข",
   "component duplicate": "เพิ่มส่วนประกอบหมายเหตุ: รายการซ้ำ!",
   "component added": "ส่วนประกอบเพิ่มเข้ากับตัวแก้ไขได้สำเร็จ",
+  "Component Preview": "ตัวอย่างส่วนประกอบ",
 };
 export default th;

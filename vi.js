@@ -775,5 +775,6 @@ let vi = {
   "component removed": "Thành phần bị xóa khỏi trình soạn thảo.",
   "component duplicate": "Thành phần được thêm vào, Lưu ý: Mục nhập trùng lặp!",
   "component added": "Thành phần được thêm thành công vào biên tập viên.",
+  "Component Preview": "Xem trước thành phần",
 };
 export default vi;

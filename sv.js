@@ -853,5 +853,6 @@ let sv = {
   "component removed": "Komponent tas bort från redaktören.",
   "component duplicate": "Komponent Tillagd, Obs: Duplicate Entry!",
   "component added": "Komponent läggs framgångsrikt till redaktören.",
+  "Component Preview": "Komponentförhandsvisning",
 };
 export default sv;

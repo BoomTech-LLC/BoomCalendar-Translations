@@ -841,5 +841,6 @@ let ms = {
   "component removed": "Komponen dikeluarkan dari editor.",
   "component duplicate": "Komponen Ditambah, Nota: Kemasukan Duplikat!",
   "component added": "Komponen berjaya ditambah kepada editor.",
+  "Component Preview": "Pratonton Komponen",
 };
 export default ms;

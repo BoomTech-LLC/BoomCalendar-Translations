@@ -714,5 +714,6 @@ let lt = {
   "component removed": "Komponentas pašalintas iš redaktoriaus.",
   "component duplicate": "Pridedama komponentas, pastaba: įrašas kopijuoja!",
   "component added": "Komponentas sėkmingai pridėtas prie redaktoriaus.",
+  "Component Preview": "Komponentų peržiūra",
 };
 export default lt;

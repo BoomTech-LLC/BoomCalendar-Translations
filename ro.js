@@ -843,5 +843,6 @@ let ro = {
   "component removed": "Componenta eliminată din editor.",
   "component duplicate": "Componenta adăugată, notă: intrare duplicată!",
   "component added": "Componenta adăugată cu succes la editor.",
+  "Component Preview": "Previzualizare componentă",
 };
 export default ro;

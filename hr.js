@@ -849,5 +849,6 @@ let hr = {
   "component removed": "komponenta uklonjena iz uređivača.",
   "component duplicate": "komponenta je dodana, napomena: duplikat unos!",
   "component added": "Komponenta je uspješno dodana uređivaču.",
+  "Component Preview": "Pregled komponenti",
 };
 export default hr;
