@@ -1,4 +1,5 @@
 let vi = {
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Chọn Danh mục để hiển thị các sự kiện liên quan đến chúng hoặc chọn thủ công các sự kiện cụ thể trong Sự kiện",
   "Automatically approve events from these addresses": "Tự động phê duyệt sự kiện từ các địa chỉ này",
   "Approve events": "Phê duyệt sự kiện",
   "Payable with a plan": "Có thể thanh toán theo kế hoạch",

@@ -1,4 +1,5 @@
 let tr = {
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Kendileriyle ilgili etkinlikleri görüntülemek için Kategoriler'i seçin veya Etkinlikler altında belirli etkinlikleri manuel olarak seçin.",
   "Automatically approve events from these addresses": "Bu adreslerden gelen etkinlikleri otomatik olarak onayla",
   "Approve events": "Etkinlikleri onayla",
   "Payable with a plan": "Planla ödenebilir",

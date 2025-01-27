@@ -1,4 +1,5 @@
 let el = {
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Επιλέξτε Κατηγορίες για να εμφανίσετε συμβάντα που σχετίζονται με αυτές ή επιλέξτε με μη αυτόματο τρόπο συγκεκριμένα συμβάντα στην ενότητα Εκδηλώσεις",
   "Automatically approve events from these addresses": "Αυτόματη έγκριση συμβάντων από αυτές τις διευθύνσεις",
   "Approve events": "Έγκριση συμβάντων",
   "Payable with a plan": "Πληρωμή με σχέδιο",

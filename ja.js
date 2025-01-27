@@ -1,4 +1,5 @@
 let ja = {
+  "Select Categories to display events related to them, or manually choose specific events under Events": "カテゴリを選択してそれに関連するイベントを表示するか、イベントで特定のイベントを手動で選択します",
   "Automatically approve events from these addresses": "これらのアドレスからのイベントを自動的に承認します",
   "Approve events": "イベントの承認",
   "Payable with a plan": "プランでお支払い可能",

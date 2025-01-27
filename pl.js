@@ -1,4 +1,5 @@
 let pl = {
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Wybierz Kategorie, aby wyświetlić powiązane z nimi zdarzenia, lub ręcznie wybierz określone zdarzenia w obszarze Zdarzenia",
   "Automatically approve events from these addresses": "Automatycznie zatwierdzaj wydarzenia z tych adresów",
   "Approve events": "Zatwierdź wydarzenia",
   "Payable with a plan": "Płatne z planem",

@@ -1,4 +1,5 @@
 let de = {
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Wählen Sie „Kategorien“ aus, um damit verbundene Ereignisse anzuzeigen, oder wählen Sie unter „Ereignisse“ manuell bestimmte Ereignisse aus",
   "Automatically approve events from these addresses": "Ereignisse von diesen Adressen automatisch genehmigen",
   "Approve events": "Veranstaltungen genehmigen",
   "Payable with a plan": "Zahlbar mit einem Plan",

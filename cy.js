@@ -1,4 +1,5 @@
 let cy = {
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Dewiswch Categorïau i arddangos digwyddiadau sy'n gysylltiedig â nhw, neu dewiswch ddigwyddiadau penodol â llaw o dan Digwyddiadau",
   "Automatically approve events from these addresses": "Cymeradwyo digwyddiadau o'r cyfeiriadau hyn yn awtomatig",
   "Approve events": "Cymeradwyo digwyddiadau",
   "Payable with a plan": "Yn daladwy gyda chynllun",

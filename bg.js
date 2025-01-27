@@ -1,4 +1,5 @@
 let bg = {
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Изберете Категории, за да покажете събития, свързани с тях, или изберете ръчно конкретни събития под Събития",
   "Automatically approve events from these addresses": "Автоматично одобряване на събития от тези адреси",
   "Approve events": "Одобряване на събития",
   "Payable with a plan": "Заплаща се с план",

@@ -1,4 +1,5 @@
 let nl = {
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Selecteer Categorieën om gebeurtenissen weer te geven die daaraan gerelateerd zijn, of kies handmatig specifieke gebeurtenissen onder Gebeurtenissen",
   "Automatically approve events from these addresses": "Keur automatisch evenementen van deze adressen goed",
   "Approve events": "Evenementen goedkeuren",
   "Payable with a plan": "Betaalbaar met een abonnement",

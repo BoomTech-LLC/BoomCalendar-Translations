@@ -1,4 +1,5 @@
 let et = {
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Valige Kategooriad, et kuvada nendega seotud sündmusi, või valige sündmused käsitsi konkreetsed sündmused",
   "Automatically approve events from these addresses": "Kinnitage sündmused nendelt aadressidelt automaatselt",
   "Approve events": "Kinnitage sündmused",
   "Payable with a plan": "Tasuda plaaniga",

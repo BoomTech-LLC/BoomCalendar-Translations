@@ -1,4 +1,5 @@
 let uk = {
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Виберіть «Категорії», щоб відобразити пов’язані з ними події, або вручну виберіть певні події в розділі «Події».",
   "Automatically approve events from these addresses": "Автоматично затверджувати події з цих адрес",
   "Approve events": "Затвердити заходи",
   "Payable with a plan": "Оплачується планом",
