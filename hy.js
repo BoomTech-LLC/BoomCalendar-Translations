@@ -1,5 +1,5 @@
 let hy = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Ընտրեք կատեգորիաներ՝ դրանց հետ կապված իրադարձությունները ցուցադրելու համար կամ ձեռքով ընտրեք կոնկրետ իրադարձություններ «Իրադարձություններ» բաժնում:",
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Ընտրեք Կատեգորիաներ՝ դրանց հետ կապված իրադարձությունները ցուցադրելու համար, կամ ձեռքով ընտրեք կոնկրետ իրադարձություններ Իրադարձություններում",
   "Automatically approve events from these addresses": "Ավտոմատ հաստատեք իրադարձություններն այս հասցեներից",
   "Approve events": "Հաստատել իրադարձությունները",
   "Payable with a plan": "Վճարելի է պլանով",

@@ -1,5 +1,5 @@
 let ru = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Выберите категории, чтобы отображать связанные с ними события, или вручную выберите конкретные события в разделе «События».",
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Выберите «Категории», чтобы отобразить связанные с ними события, или вручную выберите конкретные события в разделе «События».",
   "Automatically approve events from these addresses":
     "Автоматически утверждать события с этих адресов",
   "Approve events": "Утвердить события",

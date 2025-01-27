@@ -1,5 +1,5 @@
 let eu = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Hautatu kategoriak haiekin erlazionatutako gertaerak bistaratzeko, edo eskuz aukeratu gertaera zehatzak 'Gertaerak' atalean.",
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Hautatu Kategoriak haiekin erlazionatutako gertaerak bistaratzeko, edo eskuz aukeratu gertaera zehatzak Gertaerak atalean",
   "Automatically approve events from these addresses": "Onartu automatikoki helbide hauetako gertaerak",
   "Approve events": "Gertaerak onartzea",
   "Payable with a plan": "Plan batekin ordaindu beharrekoa",

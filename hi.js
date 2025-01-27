@@ -1,5 +1,5 @@
 let hi = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "उनसे संबंधित घटनाओं को प्रदर्शित करने के लिए श्रेणियों का चयन करें, या 'इवेंट' के अंतर्गत विशिष्ट घटनाओं को मैन्युअल रूप से चुनें।",
+  "Select Categories to display events related to them, or manually choose specific events under Events": "उनसे संबंधित घटनाओं को प्रदर्शित करने के लिए श्रेणियों का चयन करें, या इवेंट के अंतर्गत विशिष्ट घटनाओं को मैन्युअल रूप से चुनें",
   "Automatically approve events from these addresses": "इन पतों से ईवेंट को स्वचालित रूप से स्वीकृत करें",
   "Approve events": "घटनाओं को मंजूरी दें",
   "Payable with a plan": "एक योजना के साथ देय",

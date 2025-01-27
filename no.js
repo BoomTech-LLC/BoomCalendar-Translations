@@ -1,5 +1,5 @@
 let no = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Velg kategorier for å vise hendelser relatert til dem, eller velg spesifikke hendelser manuelt under "Hendelser".",
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Velg kategorier for å vise hendelser relatert til dem, eller velg spesifikke hendelser manuelt under hendelser",
   "Automatically approve events from these addresses": "Godkjenn automatisk hendelser fra disse adressene",
   "Approve events": "Godkjenne arrangementer",
   "Payable with a plan": "Betales med en plan",

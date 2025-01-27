@@ -1,5 +1,5 @@
 let ro = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Selectați categorii pentru a afișa evenimente legate de acestea sau alegeți manual anumite evenimente sub „Evenimente”.",
+  "Select Categories to display events related to them, or manually choose specific events under Events": "Selectați Categorii pentru a afișa evenimente legate de acestea sau alegeți manual anumite evenimente din Evenimente",
   "Automatically approve events from these addresses": "Aprobați automat evenimentele de la aceste adrese",
   "Approve events": "Aprobați evenimente",
   "Payable with a plan": "Plătibil cu un plan",
