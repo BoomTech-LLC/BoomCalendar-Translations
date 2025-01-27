@@ -1,5 +1,4 @@
 let be = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Выберыце катэгорыі для адлюстравання звязаных з імі падзей або ўручную выберыце канкрэтныя падзеі ў раздзеле "Падзеі".",
   "Automatically approve events from these addresses": "Аўтаматычна зацвярджаць падзеі з гэтых адрасоў",
   "Approve events": "Зацвердзіць падзеі",
   "Payable with a plan": "Аплачваецца планам",

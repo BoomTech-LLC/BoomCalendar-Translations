@@ -1,5 +1,4 @@
 let ka = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "აირჩიეთ კატეგორიები მათთან დაკავშირებული მოვლენების საჩვენებლად, ან ხელით აირჩიეთ კონკრეტული მოვლენები „მოვლენების“ ქვეშ.",
   "Automatically approve events from these addresses": "ამ მისამართებიდან მოვლენების ავტომატურად დამტკიცება",
   "Approve events": "მოვლენების დამტკიცება",
   "Payable with a plan": "გადასახდელია გეგმით",

@@ -1,5 +1,4 @@
 let mk = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Изберете категории за прикажување настани поврзани со нив или рачно изберете конкретни настани под „Настани“.",
   "Automatically approve events from these addresses": "Автоматски одобрувајте настани од овие адреси",
   "Approve events": "Одобри настани",
   "Payable with a plan": "Се плаќа со план",

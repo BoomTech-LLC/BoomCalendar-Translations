@@ -1,5 +1,4 @@
 let tl = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Pumili ng mga kategorya upang ipakita ang mga kaganapang nauugnay sa kanila, o manu-manong pumili ng mga partikular na kaganapan sa ilalim ng 'Mga Kaganapan'.",
   "Automatically approve events from these addresses": "Awtomatikong aprubahan ang mga kaganapan mula sa mga address na ito",
   "Approve events": "Aprubahan ang mga kaganapan",
   "Payable with a plan": "Mababayaran gamit ang isang plano",

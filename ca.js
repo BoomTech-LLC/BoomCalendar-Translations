@@ -1,5 +1,4 @@
 let ca = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Seleccioneu categories per mostrar esdeveniments relacionats amb elles o trieu manualment esdeveniments específics a "Esdeveniments".",
   "Automatically approve events from these addresses": "Aprova automàticament els esdeveniments d'aquestes adreces",
   "Approve events": "Aprovar esdeveniments",
   "Payable with a plan": "Es paga amb un pla",

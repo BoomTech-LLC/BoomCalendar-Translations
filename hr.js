@@ -1,5 +1,4 @@
 let hr = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Odaberite kategorije za prikaz događaja povezanih s njima ili ručno odaberite određene događaje pod 'Događaji'.",
   "Automatically approve events from these addresses": "Automatski odobri događaje s ovih adresa",
   "Approve events": "Odobravanje događaja",
   "Payable with a plan": "Plativo uz plan",

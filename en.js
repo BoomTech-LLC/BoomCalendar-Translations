@@ -1,5 +1,4 @@
 let en = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Select categories to display events related to them, or manually choose specific events under 'Events'.",
   "Automatically approve events from these addresses": "Automatically approve events from these addresses",
   "Approve events": "Approve events",
   "Payable with a plan": "Payable with a plan",

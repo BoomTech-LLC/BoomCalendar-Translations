@@ -1,5 +1,4 @@
 let mr = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "त्यांच्याशी संबंधित कार्यक्रम प्रदर्शित करण्यासाठी श्रेणी निवडा किंवा 'इव्हेंट' अंतर्गत विशिष्ट इव्हेंट व्यक्तिचलितपणे निवडा.",
   "Automatically approve events from these addresses": "या पत्त्यांमधून इव्हेंट स्वयंचलितपणे मंजूर करा",
   "Approve events": "कार्यक्रम मंजूर करा",
   "Payable with a plan": "योजनेसह देय",

@@ -1,5 +1,4 @@
 let it = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Seleziona le categorie per visualizzare gli eventi ad esse correlati oppure scegli manualmente eventi specifici in "Eventi".",
   "Automatically approve events from these addresses": "Approva automaticamente gli eventi da questi indirizzi",
   "Approve events": "Approvare eventi",
   "Payable with a plan": "Pagabile con un piano",

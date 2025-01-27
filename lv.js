@@ -1,5 +1,4 @@
 let lv = {
-  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Atlasiet kategorijas, lai parādītu ar tām saistītos notikumus, vai manuāli izvēlieties konkrētus notikumus sadaļā Notikumi.",
   "Automatically approve events from these addresses": "Automātiski apstiprināt pasākumus no šīm adresēm",
   "Approve events": "Apstiprināt notikumus",
   "Payable with a plan": "Jāmaksā ar plānu",
