@@ -1,4 +1,5 @@
 let sr = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Изаберите категорије да бисте приказали догађаје у вези са њима или ручно изаберите одређене догађаје под „Догађаји“.",
   "Automatically approve events from these addresses": "Аутоматски одобри догађаје са ових адреса",
   "Approve events": "Одобравање догађаја",
   "Payable with a plan": "Плаћа се планом",

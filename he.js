@@ -1,4 +1,5 @@
 let he = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "בחר קטגוריות כדי להציג אירועים הקשורים אליהם, או בחר ידנית אירועים ספציפיים תחת 'אירועים'.",
   "Automatically approve events from these addresses": "אשר באופן אוטומטי אירועים מכתובות אלו",
   "Approve events": "לאשר אירועים",
   "Payable with a plan": "ניתן לשלם עם תוכנית",

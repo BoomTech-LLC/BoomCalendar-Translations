@@ -1,4 +1,5 @@
 let fa = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "دسته‌ها را برای نمایش رویدادهای مرتبط با آن‌ها انتخاب کنید، یا به صورت دستی رویدادهای خاصی را در زیر «رویدادها» انتخاب کنید.",
   "Automatically approve events from these addresses": "به طور خودکار رویدادها را از این آدرس ها تأیید کنید",
   "Approve events": "رویدادها را تایید کنید",
   "Payable with a plan": "قابل پرداخت با طرح",

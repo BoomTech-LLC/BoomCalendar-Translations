@@ -1,4 +1,5 @@
 let sk = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Vyberte kategórie na zobrazenie udalostí, ktoré s nimi súvisia, alebo manuálne vyberte konkrétne udalosti v časti „Udalosti“.",
   "Automatically approve events from these addresses": "Automaticky schvaľovať udalosti z týchto adries",
   "Approve events": "Schvaľujte udalosti",
   "Payable with a plan": "Splatné podľa plánu",
