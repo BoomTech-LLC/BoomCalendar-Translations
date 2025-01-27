@@ -1,4 +1,5 @@
 let sv = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Välj kategorier för att visa händelser relaterade till dem, eller välj manuellt specifika händelser under "Händelser".",
   "Automatically approve events from these addresses": "Godkänn automatiskt händelser från dessa adresser",
   "Approve events": "Godkänn evenemang",
   "Payable with a plan": "Betalas med plan",

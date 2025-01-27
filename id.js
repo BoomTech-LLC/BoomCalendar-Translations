@@ -1,4 +1,5 @@
 let id = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Pilih kategori untuk menampilkan acara yang terkait dengannya, atau pilih acara tertentu secara manual di bawah 'Acara'.",
   "Automatically approve events from these addresses": "Secara otomatis menyetujui acara dari alamat ini",
   "Approve events": "Menyetujui acara",
   "Payable with a plan": "Dibayar dengan rencana",

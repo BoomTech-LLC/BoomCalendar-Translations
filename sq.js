@@ -1,4 +1,5 @@
 let sq = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Zgjidhni kategoritë për të shfaqur ngjarjet që lidhen me to, ose zgjidhni manualisht ngjarje specifike nën "Ngjarjet".",
   "Automatically approve events from these addresses": "Mirato automatikisht ngjarjet nga këto adresa",
   "Approve events": "Miratoni ngjarjet",
   "Payable with a plan": "E pagueshme me plan",

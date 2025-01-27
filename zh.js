@@ -1,4 +1,5 @@
 let zh = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "选择类别以显示与其相关的事件，或在“事件”下手动选择特定事件。",
   "Automatically approve events from these addresses": "自动批准来自这些地址的事件",
   "Approve events": "批准活动",
   "Payable with a plan": "按计划付费",

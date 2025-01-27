@@ -1,4 +1,5 @@
 let lt = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Pasirinkite kategorijas, kad būtų rodomi su jomis susiję įvykiai, arba rankiniu būdu pasirinkite konkrečius įvykius skiltyje „Įvykiai“.",
   "Automatically approve events from these addresses": "Automatiškai patvirtinti įvykius iš šių adresų",
   "Approve events": "Patvirtinti įvykius",
   "Payable with a plan": "Mokama pagal planą",

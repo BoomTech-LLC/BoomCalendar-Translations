@@ -1,4 +1,5 @@
 let ko = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "카테고리를 선택하여 관련 이벤트를 표시하거나 '이벤트'에서 특정 이벤트를 수동으로 선택하세요.",
   "Automatically approve events from these addresses": "이 주소의 이벤트를 자동으로 승인합니다.",
   "Approve events": "이벤트 승인",
   "Payable with a plan": "플랜으로 지불 가능",

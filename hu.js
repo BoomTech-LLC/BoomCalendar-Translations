@@ -1,4 +1,5 @@
 let hu = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Válassza ki a kategóriákat a hozzájuk kapcsolódó események megjelenítéséhez, vagy válasszon manuálisan konkrét eseményeket az „Események” alatt.",
   "Automatically approve events from these addresses": "Események automatikus jóváhagyása ezekről a címekről",
   "Approve events": "Jóváhagyni az eseményeket",
   "Payable with a plan": "Tervvel fizetendő",

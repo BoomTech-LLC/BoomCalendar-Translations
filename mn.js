@@ -1,4 +1,5 @@
 let mn = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Тэдэнтэй холбоотой үйл явдлуудыг харуулахын тулд категориудыг сонгох эсвэл "Үйл явдал" дотроос тодорхой үйл явдлуудыг гараар сонгоно уу.",
   "Automatically approve events from these addresses": "Эдгээр хаягуудаас үйл явдлуудыг автоматаар зөвшөөрөх",
   "Approve events": "Үйл явдлыг зөвшөөрөх",
   "Payable with a plan": "Төлөвлөгөөний дагуу төлнө",

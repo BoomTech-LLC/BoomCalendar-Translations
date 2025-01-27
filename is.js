@@ -1,4 +1,5 @@
 let is = {
+  "Select categories to display events related to them, or manually choose specific events under 'Events'.": "Veldu flokka til að sýna viðburði sem tengjast þeim, eða veldu handvirkt sérstaka viðburði undir 'Viðburðir'.",
   "Automatically approve events from these addresses": "Samþykkja sjálfkrafa viðburði frá þessum netföngum",
   "Approve events": "Samþykkja viðburði",
   "Payable with a plan": "Greiðist með áætlun",
