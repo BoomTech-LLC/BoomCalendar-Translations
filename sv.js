@@ -1,4 +1,11 @@
 let sv = {
+  "Custom Link": "Anpassad länk",
+  "Link to event page": "Länk till eventsidan",
+  "No link": "Ingen länk",
+  "Attach File": "Bifoga fil",
+  "To be announced": "Ska meddelas",
+  "Online": "Online",
+  "Physical": "Fysisk",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Välj Kategorier för att visa händelser relaterade till dem, eller välj manuellt specifika händelser under Händelser",
   "Automatically approve events from these addresses": "Godkänn automatiskt händelser från dessa adresser",
   "Approve events": "Godkänn evenemang",

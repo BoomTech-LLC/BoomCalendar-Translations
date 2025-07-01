@@ -1,4 +1,11 @@
 let de = {
+  "Custom Link": "Benutzerdefinierter Link",
+  "Link to event page": "Link zur Veranstaltungsseite",
+  "No link": "Kein Link",
+  "Attach File": "Datei anhängen",
+  "To be announced": "Wird noch bekannt gegeben",
+  "Online": "Online",
+  "Physical": "Physikalisch",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Wählen Sie „Kategorien“ aus, um damit verbundene Ereignisse anzuzeigen, oder wählen Sie unter „Ereignisse“ manuell bestimmte Ereignisse aus",
   "Automatically approve events from these addresses": "Ereignisse von diesen Adressen automatisch genehmigen",
   "Approve events": "Veranstaltungen genehmigen",

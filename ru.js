@@ -1,4 +1,11 @@
 let ru = {
+  "Custom Link": "Пользовательская ссылка",
+  "Link to event page": "Ссылка на страницу мероприятия",
+  "No link": "Нет ссылки",
+  "Attach File": "Прикрепить файл",
+  "To be announced": "Будет объявлено дополнительно",
+  "Online": "Онлайн",
+  "Physical": "Физический",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Выберите «Категории», чтобы отобразить связанные с ними события, или вручную выберите конкретные события в разделе «События».",
   "Automatically approve events from these addresses":
     "Автоматически утверждать события с этих адресов",

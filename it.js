@@ -1,4 +1,11 @@
 let it = {
+  "Custom Link": "Collegamento personalizzato",
+  "Link to event page": "Collegamento alla pagina dell'evento",
+  "No link": "Nessun collegamento",
+  "Attach File": "Allega file",
+  "To be announced": "Da annunciare",
+  "Online": "In linea",
+  "Physical": "Fisico",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Seleziona Categorie per visualizzare gli eventi ad esse correlati oppure scegli manualmente eventi specifici in Eventi",
   "Automatically approve events from these addresses": "Approva automaticamente gli eventi da questi indirizzi",
   "Approve events": "Approvare eventi",

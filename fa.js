@@ -1,4 +1,11 @@
 let fa = {
+  "Custom Link": "لینک سفارشی",
+  "Link to event page": "پیوند به صفحه رویداد",
+  "No link": "بدون لینک",
+  "Attach File": "فایل پیوست کنید",
+  "To be announced": "اعلام می شود",
+  "Online": "آنلاین",
+  "Physical": "فیزیکی",
   "Select Categories to display events related to them, or manually choose specific events under Events": "دسته ها را برای نمایش رویدادهای مرتبط با آنها انتخاب کنید یا به صورت دستی رویدادهای خاصی را در زیر رویدادها انتخاب کنید",
   "Automatically approve events from these addresses": "به طور خودکار رویدادها را از این آدرس ها تأیید کنید",
   "Approve events": "رویدادها را تایید کنید",

@@ -1,4 +1,11 @@
 let fi = {
+  "Custom Link": "Mukautettu linkki",
+  "Link to event page": "Linkki tapahtumasivulle",
+  "No link": "Ei linkkiä",
+  "Attach File": "Liitä tiedosto",
+  "To be announced": "Ilmoitetaan",
+  "Online": "verkossa",
+  "Physical": "Fyysinen",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Valitse Luokat näyttääksesi niihin liittyvät tapahtumat tai valitse tietyt tapahtumat manuaalisesti Tapahtumat-kohdasta",
   "Automatically approve events from these addresses": "Hyväksy tapahtumat automaattisesti näistä osoitteista",
   "Approve events": "Hyväksy tapahtumat",

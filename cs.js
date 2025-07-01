@@ -1,4 +1,11 @@
 let cs = {
+  "Custom Link": "Vlastní odkaz",
+  "Link to event page": "Odkaz na stránku události",
+  "No link": "Žádný odkaz",
+  "Attach File": "Připojit soubor",
+  "To be announced": "Bude oznámeno",
+  "Online": "Online",
+  "Physical": "Fyzikální",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Vyberte Kategorie, chcete-li zobrazit události, které se k nim vztahují, nebo ručně vyberte konkrétní události v části Události",
   "Automatically approve events from these addresses": "Automaticky schvalovat události z těchto adres",
   "Approve events": "Schvalovat události",

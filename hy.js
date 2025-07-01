@@ -1,4 +1,11 @@
 let hy = {
+  "Custom Link": "Պատվերով հղում",
+  "Link to event page": "Հղում դեպի միջոցառման էջ",
+  "No link": "Ոչ մի հղում",
+  "Attach File": "Կցել Ֆայլը",
+  "To be announced": "Կհայտարարվի",
+  "Online": "Առցանց",
+  "Physical": "Ֆիզիկական",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Ընտրեք Կատեգորիաներ՝ դրանց հետ կապված իրադարձությունները ցուցադրելու համար, կամ ձեռքով ընտրեք կոնկրետ իրադարձություններ Իրադարձություններում",
   "Automatically approve events from these addresses": "Ավտոմատ հաստատեք իրադարձություններն այս հասցեներից",
   "Approve events": "Հաստատել իրադարձությունները",

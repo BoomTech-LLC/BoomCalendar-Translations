@@ -1,4 +1,11 @@
 let sr = {
+  "Custom Link": "Цустом Линк",
+  "Link to event page": "Линк до странице догађаја",
+  "No link": "Нема везе",
+  "Attach File": "Приложите датотеку",
+  "To be announced": "Биће објављено",
+  "Online": "Онлине",
+  "Physical": "Физички",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Изаберите Категорије да бисте приказали догађаје у вези са њима или ручно изаберите одређене догађаје у оквиру Догађаји",
   "Automatically approve events from these addresses": "Аутоматски одобри догађаје са ових адреса",
   "Approve events": "Одобравање догађаја",

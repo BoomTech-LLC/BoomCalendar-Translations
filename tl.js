@@ -1,4 +1,11 @@
 let tl = {
+  "Custom Link": "Custom na Link",
+  "Link to event page": "Link sa page ng event",
+  "No link": "Walang link",
+  "Attach File": "Mag-attach ng File",
+  "To be announced": "Upang ipahayag",
+  "Online": "Online",
+  "Physical": "Pisikal",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Piliin ang Mga Kategorya upang ipakita ang mga kaganapang nauugnay sa kanila, o manu-manong pumili ng mga partikular na kaganapan sa ilalim ng Mga Kaganapan",
   "Automatically approve events from these addresses": "Awtomatikong aprubahan ang mga kaganapan mula sa mga address na ito",
   "Approve events": "Aprubahan ang mga kaganapan",

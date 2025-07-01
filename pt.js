@@ -1,4 +1,11 @@
 let pt = {
+  "Custom Link": "Link personalizado",
+  "Link to event page": "Link para a página do evento",
+  "No link": "Nenhum link",
+  "Attach File": "Anexar arquivo",
+  "To be announced": "A ser anunciado",
+  "Online": "On-line",
+  "Physical": "Físico",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Selecione Categorias para exibir eventos relacionados a elas ou escolha manualmente eventos específicos em Eventos",
   "Automatically approve events from these addresses": "Aprovar automaticamente eventos destes endereços",
   "Approve events": "Aprovar eventos",

@@ -1,4 +1,11 @@
 let ar = {
+  "Custom Link": "رابط مخصص",
+  "Link to event page": "رابط لصفحة الحدث",
+  "No link": "لا يوجد رابط",
+  "Attach File": "إرفاق الملف",
+  "To be announced": "سيتم الإعلان عنه",
+  "Online": "متصل",
+  "Physical": "بدني",
   "Select Categories to display events related to them, or manually choose specific events under Events": "حدد الفئات لعرض الأحداث المتعلقة بها، أو اختر أحداثًا معينة يدويًا ضمن الأحداث",
   "Automatically approve events from these addresses": "الموافقة تلقائيًا على الأحداث من هذه العناوين",
   "Approve events": "الموافقة على الأحداث",

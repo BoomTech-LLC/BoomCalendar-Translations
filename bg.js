@@ -1,4 +1,11 @@
 let bg = {
+  "Custom Link": "Персонализирана връзка",
+  "Link to event page": "Връзка към страницата на събитието",
+  "No link": "Няма връзка",
+  "Attach File": "Прикачване на файл",
+  "To be announced": "Предстои да бъде обявено",
+  "Online": "Онлайн",
+  "Physical": "Физически",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Изберете Категории, за да покажете събития, свързани с тях, или изберете ръчно конкретни събития под Събития",
   "Automatically approve events from these addresses": "Автоматично одобряване на събития от тези адреси",
   "Approve events": "Одобряване на събития",

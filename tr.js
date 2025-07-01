@@ -1,4 +1,11 @@
 let tr = {
+  "Custom Link": "Özel Bağlantı",
+  "Link to event page": "Etkinlik sayfasına bağlantı",
+  "No link": "Bağlantı yok",
+  "Attach File": "Dosya Ekle",
+  "To be announced": "Duyurulacak",
+  "Online": "Çevrimiçi",
+  "Physical": "Fiziksel",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Kendileriyle ilgili etkinlikleri görüntülemek için Kategoriler'i seçin veya Etkinlikler altında belirli etkinlikleri manuel olarak seçin.",
   "Automatically approve events from these addresses": "Bu adreslerden gelen etkinlikleri otomatik olarak onayla",
   "Approve events": "Etkinlikleri onayla",

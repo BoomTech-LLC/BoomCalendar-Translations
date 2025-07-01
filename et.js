@@ -1,4 +1,11 @@
 let et = {
+  "Custom Link": "Kohandatud link",
+  "Link to event page": "Link sündmuse lehele",
+  "No link": "Link puudub",
+  "Attach File": "Manusta fail",
+  "To be announced": "Tuleb välja kuulutada",
+  "Online": "Internetis",
+  "Physical": "Füüsiline",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Valige Kategooriad, et kuvada nendega seotud sündmusi, või valige sündmused käsitsi konkreetsed sündmused",
   "Automatically approve events from these addresses": "Kinnitage sündmused nendelt aadressidelt automaatselt",
   "Approve events": "Kinnitage sündmused",

@@ -1,4 +1,11 @@
 let ka = {
+  "Custom Link": "მორგებული ბმული",
+  "Link to event page": "ბმული ღონისძიების გვერდზე",
+  "No link": "ბმული არ არის",
+  "Attach File": "მიამაგრეთ ფაილი",
+  "To be announced": "გამოცხადდება",
+  "Online": "ონლაინ",
+  "Physical": "ფიზიკური",
   "Select Categories to display events related to them, or manually choose specific events under Events": "აირჩიეთ კატეგორიები მათთან დაკავშირებული მოვლენების საჩვენებლად, ან ხელით აირჩიეთ კონკრეტული მოვლენები მოვლენების ქვეშ",
   "Automatically approve events from these addresses": "ამ მისამართებიდან მოვლენების ავტომატურად დამტკიცება",
   "Approve events": "მოვლენების დამტკიცება",

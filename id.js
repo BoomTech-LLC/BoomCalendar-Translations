@@ -1,4 +1,11 @@
 let id = {
+  "Custom Link": "Tautan Kustom",
+  "Link to event page": "Tautan ke halaman acara",
+  "No link": "Tidak ada tautan",
+  "Attach File": "Lampirkan File",
+  "To be announced": "Akan diumumkan",
+  "Online": "On line",
+  "Physical": "Fisik",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Pilih Kategori untuk menampilkan acara yang terkait dengannya, atau pilih acara tertentu secara manual di bawah Acara",
   "Automatically approve events from these addresses": "Secara otomatis menyetujui acara dari alamat ini",
   "Approve events": "Menyetujui acara",

@@ -1,4 +1,11 @@
 let no = {
+  "Custom Link": "Egendefinert kobling",
+  "Link to event page": "Link til arrangementssiden",
+  "No link": "Ingen lenke",
+  "Attach File": "Legg ved fil",
+  "To be announced": "Skal annonseres",
+  "Online": "Online",
+  "Physical": "Fysisk",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Velg kategorier for å vise hendelser relatert til dem, eller velg spesifikke hendelser manuelt under hendelser",
   "Automatically approve events from these addresses": "Godkjenn automatisk hendelser fra disse adressene",
   "Approve events": "Godkjenne arrangementer",

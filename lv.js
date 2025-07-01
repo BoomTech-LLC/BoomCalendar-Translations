@@ -1,4 +1,11 @@
 let lv = {
+  "Custom Link": "Pielāgota saite",
+  "Link to event page": "Saite uz pasākuma lapu",
+  "No link": "Nav saites",
+  "Attach File": "Pievienot failu",
+  "To be announced": "Tiks paziņots",
+  "Online": "Tiešsaistē",
+  "Physical": "Fiziskā",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Atlasiet Kategorijas, lai parādītu ar tām saistītos notikumus, vai manuāli izvēlieties konkrētus notikumus sadaļā Notikumi",
   "Automatically approve events from these addresses": "Automātiski apstiprināt pasākumus no šīm adresēm",
   "Approve events": "Apstiprināt notikumus",

@@ -1,4 +1,11 @@
 let is = {
+  "Custom Link": "Sérsniðinn hlekkur",
+  "Link to event page": "Tengill á viðburðarsíðu",
+  "No link": "Enginn hlekkur",
+  "Attach File": "Hengja skrá",
+  "To be announced": "Verður tilkynnt",
+  "Online": "Á netinu",
+  "Physical": "Líkamlegt",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Veldu Flokkar til að birta atburði sem tengjast þeim, eða veldu handvirkt sérstaka viðburði undir Viðburðir",
   "Automatically approve events from these addresses": "Samþykkja sjálfkrafa viðburði frá þessum netföngum",
   "Approve events": "Samþykkja viðburði",

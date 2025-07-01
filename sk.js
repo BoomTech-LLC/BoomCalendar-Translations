@@ -1,4 +1,11 @@
 let sk = {
+  "Custom Link": "Vlastný odkaz",
+  "Link to event page": "Odkaz na stránku udalosti",
+  "No link": "Žiadny odkaz",
+  "Attach File": "Pripojiť súbor",
+  "To be announced": "Bude oznámené",
+  "Online": "Online",
+  "Physical": "Fyzické",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Vyberte Kategórie, ak chcete zobraziť udalosti, ktoré s nimi súvisia, alebo manuálne vyberte konkrétne udalosti v časti Udalosti",
   "Automatically approve events from these addresses": "Automaticky schvaľovať udalosti z týchto adries",
   "Approve events": "Schvaľujte udalosti",
