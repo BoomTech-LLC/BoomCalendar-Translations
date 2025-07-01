@@ -1,4 +1,11 @@
 let eu = {
+  "Custom Link": "Esteka pertsonalizatua",
+  "Link to event page": "Gertaeren orrirako esteka",
+  "No link": "Estekarik ez",
+  "Attach File": "Erantsi Fitxategia",
+  "To be announced": "Iragartzeko",
+  "Online": "Sarean",
+  "Physical": "Fisikoa",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Hautatu Kategoriak haiekin erlazionatutako gertaerak bistaratzeko, edo eskuz aukeratu gertaera zehatzak Gertaerak atalean",
   "Automatically approve events from these addresses": "Onartu automatikoki helbide hauetako gertaerak",
   "Approve events": "Gertaerak onartzea",

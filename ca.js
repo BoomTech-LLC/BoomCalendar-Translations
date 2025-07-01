@@ -1,4 +1,11 @@
 let ca = {
+  "Custom Link": "Enllaç personalitzat",
+  "Link to event page": "Enllaç a la pàgina de l'esdeveniment",
+  "No link": "Sense enllaç",
+  "Attach File": "Adjuntar fitxer",
+  "To be announced": "A anunciar",
+  "Online": "En línia",
+  "Physical": "Física",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Seleccioneu Categories per mostrar esdeveniments relacionats amb elles, o trieu manualment esdeveniments específics a Esdeveniments",
   "Automatically approve events from these addresses": "Aprova automàticament els esdeveniments d'aquestes adreces",
   "Approve events": "Aprovar esdeveniments",

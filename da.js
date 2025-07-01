@@ -1,4 +1,11 @@
 let da = {
+  "Custom Link": "Brugerdefineret link",
+  "Link to event page": "Link til begivenhedssiden",
+  "No link": "Intet link",
+  "Attach File": "Vedhæft fil",
+  "To be announced": "Skal annonceres",
+  "Online": "Online",
+  "Physical": "Fysisk",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Vælg kategorier for at vise begivenheder relateret til dem, eller vælg manuelt specifikke begivenheder under begivenheder",
   "Automatically approve events from these addresses": "Godkend automatisk begivenheder fra disse adresser",
   "Approve events": "Godkend begivenheder",

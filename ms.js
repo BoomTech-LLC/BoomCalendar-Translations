@@ -1,4 +1,11 @@
 let ms = {
+  "Custom Link": "Pautan Tersuai",
+  "Link to event page": "Pautan ke halaman acara",
+  "No link": "Tiada pautan",
+  "Attach File": "Lampirkan Fail",
+  "To be announced": "Akan diumumkan",
+  "Online": "dalam talian",
+  "Physical": "Fizikal",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Pilih Kategori untuk memaparkan acara yang berkaitan dengannya atau pilih acara tertentu secara manual di bawah Acara",
   "Automatically approve events from these addresses": "Luluskan acara secara automatik daripada alamat ini",
   "Approve events": "Luluskan acara",

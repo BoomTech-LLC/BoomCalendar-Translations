@@ -1,4 +1,11 @@
 let zh = {
+  "Custom Link": "自定义链接",
+  "Link to event page": "活动页面链接",
+  "No link": "没有链接",
+  "Attach File": "附加文件",
+  "To be announced": "待公布",
+  "Online": "在线的",
+  "Physical": "身体的",
   "Select Categories to display events related to them, or manually choose specific events under Events": "选择类别以显示与其相关的事件，或在事件下手动选择特定事件",
   "Automatically approve events from these addresses": "自动批准来自这些地址的事件",
   "Approve events": "批准活动",

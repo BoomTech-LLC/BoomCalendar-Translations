@@ -1,4 +1,11 @@
 let he = {
+  "Custom Link": "קישור מותאם אישית",
+  "Link to event page": "קישור לעמוד האירוע",
+  "No link": "אין קישור",
+  "Attach File": "צרף קובץ",
+  "To be announced": "להכריז",
+  "Online": "באינטרנט",
+  "Physical": "גוּפָנִי",
   "Select Categories to display events related to them, or manually choose specific events under Events": "בחר קטגוריות כדי להציג אירועים הקשורים אליהם, או בחר ידנית אירועים ספציפיים תחת אירועים",
   "Automatically approve events from these addresses": "אשר באופן אוטומטי אירועים מכתובות אלו",
   "Approve events": "לאשר אירועים",

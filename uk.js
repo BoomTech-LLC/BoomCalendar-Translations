@@ -1,4 +1,11 @@
 let uk = {
+  "Custom Link": "Спеціальне посилання",
+  "Link to event page": "Посилання на сторінку події",
+  "No link": "Немає посилання",
+  "Attach File": "Прикріпити файл",
+  "To be announced": "Буде оголошено",
+  "Online": "Онлайн",
+  "Physical": "фізичний",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Виберіть «Категорії», щоб відобразити пов’язані з ними події, або вручну виберіть певні події в розділі «Події».",
   "Automatically approve events from these addresses": "Автоматично затверджувати події з цих адрес",
   "Approve events": "Затвердити заходи",

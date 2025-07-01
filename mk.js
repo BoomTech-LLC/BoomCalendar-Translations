@@ -1,4 +1,11 @@
 let mk = {
+  "Custom Link": "Прилагодена врска",
+  "Link to event page": "Врска до страницата за настан",
+  "No link": "Нема врска",
+  "Attach File": "Прикачи датотека",
+  "To be announced": "Да се ​​објави",
+  "Online": "Онлајн",
+  "Physical": "Физички",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Изберете Категории за прикажување настани поврзани со нив или рачно изберете конкретни настани под Настани",
   "Automatically approve events from these addresses": "Автоматски одобрувајте настани од овие адреси",
   "Approve events": "Одобри настани",

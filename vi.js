@@ -1,4 +1,11 @@
 let vi = {
+  "Custom Link": "Liên kết tùy chỉnh",
+  "Link to event page": "Liên kết đến trang sự kiện",
+  "No link": "Không có liên kết",
+  "Attach File": "Đính kèm tập tin",
+  "To be announced": "Sẽ được công bố",
+  "Online": "Trực tuyến",
+  "Physical": "Thuộc vật chất",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Chọn Danh mục để hiển thị các sự kiện liên quan đến chúng hoặc chọn thủ công các sự kiện cụ thể trong Sự kiện",
   "Automatically approve events from these addresses": "Tự động phê duyệt sự kiện từ các địa chỉ này",
   "Approve events": "Phê duyệt sự kiện",

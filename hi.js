@@ -1,4 +1,11 @@
 let hi = {
+  "Custom Link": "विशिष्ट संबंध",
+  "Link to event page": "इवेंट पेज का लिंक",
+  "No link": "कोई लिंक नहीं",
+  "Attach File": "फ़ाइल जोड़ें",
+  "To be announced": "घोषित किए जाने हेतु",
+  "Online": "ऑनलाइन",
+  "Physical": "भौतिक",
   "Select Categories to display events related to them, or manually choose specific events under Events": "उनसे संबंधित घटनाओं को प्रदर्शित करने के लिए श्रेणियों का चयन करें, या इवेंट के अंतर्गत विशिष्ट घटनाओं को मैन्युअल रूप से चुनें",
   "Automatically approve events from these addresses": "इन पतों से ईवेंट को स्वचालित रूप से स्वीकृत करें",
   "Approve events": "घटनाओं को मंजूरी दें",

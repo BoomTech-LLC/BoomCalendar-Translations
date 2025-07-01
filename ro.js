@@ -1,4 +1,11 @@
 let ro = {
+  "Custom Link": "Link personalizat",
+  "Link to event page": "Link către pagina evenimentului",
+  "No link": "Niciun link",
+  "Attach File": "Atașați fișierul",
+  "To be announced": "De anunțat",
+  "Online": "Online",
+  "Physical": "Fizic",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Selectați Categorii pentru a afișa evenimente legate de acestea sau alegeți manual anumite evenimente din Evenimente",
   "Automatically approve events from these addresses": "Aprobați automat evenimentele de la aceste adrese",
   "Approve events": "Aprobați evenimente",

@@ -1,4 +1,11 @@
 let sq = {
+  "Custom Link": "Lidhje e personalizuar",
+  "Link to event page": "Lidhja me faqen e ngjarjes",
+  "No link": "Asnjë lidhje",
+  "Attach File": "Bashkangjit skedarin",
+  "To be announced": "Për tu shpallur",
+  "Online": "Online",
+  "Physical": "Fizike",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Zgjidhni Kategoritë për të shfaqur ngjarje që lidhen me to, ose zgjidhni manualisht ngjarje specifike nën Ngjarjet",
   "Automatically approve events from these addresses": "Mirato automatikisht ngjarjet nga këto adresa",
   "Approve events": "Miratoni ngjarjet",

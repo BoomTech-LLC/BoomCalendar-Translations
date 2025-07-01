@@ -1,4 +1,11 @@
 let mn = {
+  "Custom Link": "Тусгай холбоос",
+  "Link to event page": "Үйл явдлын хуудас руу холбоно уу",
+  "No link": "Холбоос байхгүй",
+  "Attach File": "Файл хавсаргах",
+  "To be announced": "Зарлах гэж байна",
+  "Online": "Онлайн",
+  "Physical": "Физик",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Тэдэнтэй холбоотой үйл явдлуудыг харуулахын тулд Ангилалуудыг сонгох эсвэл Үйл явдлын доор тодорхой үйл явдлуудыг гараар сонгоно уу",
   "Automatically approve events from these addresses": "Эдгээр хаягуудаас үйл явдлуудыг автоматаар зөвшөөрөх",
   "Approve events": "Үйл явдлыг зөвшөөрөх",

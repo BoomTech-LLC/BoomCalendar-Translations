@@ -1,4 +1,11 @@
 let hu = {
+  "Custom Link": "Egyéni link",
+  "Link to event page": "Link az esemény oldalára",
+  "No link": "Nincs link",
+  "Attach File": "Fájl csatolása",
+  "To be announced": "Be kell jelenteni",
+  "Online": "Online",
+  "Physical": "Fizikai",
   "Select Categories to display events related to them, or manually choose specific events under Events": "Válassza a Kategóriák lehetőséget a hozzájuk kapcsolódó események megjelenítéséhez, vagy válasszon manuálisan konkrét eseményeket az Események alatt",
   "Automatically approve events from these addresses": "Események automatikus jóváhagyása ezekről a címekről",
   "Approve events": "Jóváhagyni az eseményeket",

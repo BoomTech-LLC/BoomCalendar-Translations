@@ -1,4 +1,11 @@
 let th = {
+  "Custom Link": "ลิงค์ที่กำหนดเอง",
+  "Link to event page": "ลิงค์ไปยังหน้ากิจกรรม",
+  "No link": "ไม่มีลิงค์",
+  "Attach File": "แนบไฟล์",
+  "To be announced": "จะแจ้งให้ทราบต่อไป",
+  "Online": "ออนไลน์",
+  "Physical": "ทางกายภาพ",
   "Select Categories to display events related to them, or manually choose specific events under Events": "เลือกหมวดหมู่เพื่อแสดงเหตุการณ์ที่เกี่ยวข้อง หรือเลือกเหตุการณ์เฉพาะด้วยตนเองภายใต้เหตุการณ์",
   "Automatically approve events from these addresses":
     "อนุมัติกิจกรรมจากที่อยู่เหล่านี้โดยอัตโนมัติ",
