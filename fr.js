@@ -830,7 +830,6 @@ let fr = {
   Save: "Sauvegarder",
   "Last Name": "Nom de famille",
   "Personal Info": "Informations personnelles",
-  Back: "Dos",
   "This field is required": "Ce champ est obligatoire",
   "Your event has been submitted": "Votre événement a été soumis",
   "Enter a location": "Entrez un emplacement",
