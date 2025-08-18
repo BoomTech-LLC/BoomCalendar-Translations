@@ -1,4 +1,5 @@
 let bg = {
+  "Your Api Key": "Вашият API ключ",
   "Fahrenheit": "Фаренхайт",
   "Celsius": "Целзий",
   "Select the city from the suggestions": "Изберете града от предложенията",

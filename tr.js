@@ -1,4 +1,5 @@
 let tr = {
+  "Your Api Key": "API Anahtarınız",
   "Fahrenheit": "Fahrenhayt",
   "Celsius": "Santigrat derece",
   "Select the city from the suggestions": "Önerilerden şehri seçin",

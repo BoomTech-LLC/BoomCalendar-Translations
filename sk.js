@@ -1,4 +1,5 @@
 let sk = {
+  "Your Api Key": "Váš kľúč API",
   "Fahrenheit": "Fahrenheita",
   "Celsius": "Celzia",
   "Select the city from the suggestions": "Vyberte mesto z návrhov",

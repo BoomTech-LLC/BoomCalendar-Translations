@@ -1,4 +1,5 @@
 let eu = {
+  "Your Api Key": "Zure Api gakoa",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Hautatu hiria iradokizunetatik",

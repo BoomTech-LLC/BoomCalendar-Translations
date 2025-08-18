@@ -1,4 +1,5 @@
 let mr = {
+  "Your Api Key": "तुमची Api की",
   "Fahrenheit": "फॅरेनहाइट",
   "Celsius": "सेल्सिअस",
   "Select the city from the suggestions": "सूचनांमधून शहर निवडा",

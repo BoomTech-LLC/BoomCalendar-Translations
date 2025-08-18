@@ -1,4 +1,5 @@
 let he = {
+  "Your Api Key": "מפתח ה-API שלך",
   "Fahrenheit": "פרנהייט",
   "Celsius": "צֶלסִיוּס",
   "Select the city from the suggestions": "בחר את העיר מתוך ההצעות",

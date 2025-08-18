@@ -1,4 +1,5 @@
 let ar = {
+  "Your Api Key": "مفتاح API الخاص بك",
   "Fahrenheit": "فهرنهايت",
   "Celsius": "درجة مئوية",
   "Select the city from the suggestions": "اختر المدينة من الاقتراحات",

@@ -1,4 +1,5 @@
 let pl = {
+  "Your Api Key": "Twój klucz API",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsjusz",
   "Select the city from the suggestions": "Wybierz miasto z sugestii",

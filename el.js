@@ -1,4 +1,5 @@
 let el = {
+  "Your Api Key": "Το κλειδί Api σας",
   "Fahrenheit": "θερμόμετρο Φαρενάιτ",
   "Celsius": "Κελσίου",
   "Select the city from the suggestions": "Επιλέξτε την πόλη από τις προτάσεις",

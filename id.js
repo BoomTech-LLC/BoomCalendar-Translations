@@ -1,4 +1,5 @@
 let id = {
+  "Your Api Key": "Kunci Api Anda",
   "Fahrenheit": "derajat fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Pilih kota dari saran",

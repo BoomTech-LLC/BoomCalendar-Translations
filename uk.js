@@ -1,4 +1,5 @@
 let uk = {
+  "Your Api Key": "Ваш ключ API",
   "Fahrenheit": "Фаренгейт",
   "Celsius": "за Цельсієм",
   "Select the city from the suggestions": "Виберіть місто з пропозицій",

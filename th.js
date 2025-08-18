@@ -1,4 +1,5 @@
 let th = {
+  "Your Api Key": "รหัส API ของคุณ",
   "Fahrenheit": "ฟาเรนไฮต์",
   "Celsius": "เซลเซียส",
   "Select the city from the suggestions": "เลือกเมืองจากข้อเสนอแนะ",

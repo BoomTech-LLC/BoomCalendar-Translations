@@ -1,4 +1,5 @@
 let hy = {
+  "Your Api Key": "Ձեր Api բանալին",
   "Fahrenheit": "Ֆարենհեյթ",
   "Celsius": "Ցելսիուս",
   "Select the city from the suggestions": "Ընտրեք քաղաքը առաջարկներից",

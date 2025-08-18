@@ -1,4 +1,5 @@
 let tl = {
+  "Your Api Key": "Ang iyong Api Key",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Piliin ang lungsod mula sa mga mungkahi",

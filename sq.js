@@ -1,4 +1,5 @@
 let sq = {
+  "Your Api Key": "Çelësi juaj Api",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Zgjidhni qytetin nga sugjerimet",

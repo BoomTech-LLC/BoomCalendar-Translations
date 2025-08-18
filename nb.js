@@ -1,4 +1,5 @@
 let nb = {
+  "Your Api Key": "Din Api-nøkkel",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Velg byen fra forslagene",

@@ -1,4 +1,5 @@
 let vi = {
+  "Your Api Key": "Khóa API của bạn",
   "Fahrenheit": "độ F",
   "Celsius": "độ C",
   "Select the city from the suggestions": "Chọn thành phố từ các gợi ý",

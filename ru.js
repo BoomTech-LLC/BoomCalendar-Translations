@@ -1,4 +1,5 @@
 let ru = {
+  "Your Api Key": "Ваш API-ключ",
   "Fahrenheit": "по Фаренгейту",
   "Celsius": "Цельсий",
   "Select the city from the suggestions": "Выберите город из предложенных",

@@ -1,4 +1,5 @@
 let mn = {
+  "Your Api Key": "Таны Api түлхүүр",
   "Fahrenheit": "Фаренгейт",
   "Celsius": "Цельсийн",
   "Select the city from the suggestions": "Санал болгож буй хотыг сонго",

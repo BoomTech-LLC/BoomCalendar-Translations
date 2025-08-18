@@ -1,4 +1,5 @@
 let lv = {
+  "Your Api Key": "Jūsu API atslēga",
   "Fahrenheit": "Fārenheita",
   "Celsius": "Celsija",
   "Select the city from the suggestions": "Izvēlieties pilsētu no ieteikumiem",

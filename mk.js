@@ -1,4 +1,5 @@
 let mk = {
+  "Your Api Key": "Вашиот Api клуч",
   "Fahrenheit": "Фаренхајт",
   "Celsius": "Целзиусови",
   "Select the city from the suggestions": "Изберете го градот од предлозите",

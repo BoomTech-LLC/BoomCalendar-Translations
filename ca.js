@@ -1,4 +1,5 @@
 let ca = {
+  "Your Api Key": "La teva clau de l'API",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Seleccioneu la ciutat entre els suggeriments",

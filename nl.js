@@ -1,4 +1,5 @@
 let nl = {
+  "Your Api Key": "Uw API-sleutel",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Selecteer de stad uit de suggesties",
