@@ -1,4 +1,5 @@
 let hu = {
+  "Your Api Key": "Az Ön API-kulcsa",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Válassza ki a várost a javaslatok közül",

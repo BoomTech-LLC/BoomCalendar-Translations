@@ -1,4 +1,5 @@
 let lt = {
+  "Your Api Key": "Jūsų API raktas",
   "Fahrenheit": "Farenheito",
   "Celsius": "Celsijaus",
   "Select the city from the suggestions": "Pasirinkite miestą iš pasiūlymų",

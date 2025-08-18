@@ -1,4 +1,5 @@
 let cy = {
+  "Your Api Key": "Eich Allwedd Api",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Dewiswch y ddinas o'r awgrymiadau",

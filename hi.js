@@ -1,4 +1,5 @@
 let hi = {
+  "Your Api Key": "आपकी एपीआई कुंजी",
   "Fahrenheit": "फ़ारेनहाइट",
   "Celsius": "सेल्सीयस",
   "Select the city from the suggestions": "सुझावों में से शहर का चयन करें",

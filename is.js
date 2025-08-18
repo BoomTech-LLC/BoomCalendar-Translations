@@ -1,4 +1,5 @@
 let is = {
+  "Your Api Key": "Api lykillinn þinn",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsíus",
   "Select the city from the suggestions": "Veldu borgina úr tillögunum",

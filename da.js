@@ -1,4 +1,5 @@
 let da = {
+  "Your Api Key": "Din Api-nøgle",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Vælg byen fra forslagene",

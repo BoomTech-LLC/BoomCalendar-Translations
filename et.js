@@ -1,4 +1,5 @@
 let et = {
+  "Your Api Key": "Teie Api võti",
   "Fahrenheit": "Fahrenheiti järgi",
   "Celsius": "Celsiuse järgi",
   "Select the city from the suggestions": "Valige soovituste hulgast linn",

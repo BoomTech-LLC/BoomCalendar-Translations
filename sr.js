@@ -1,4 +1,5 @@
 let sr = {
+  "Your Api Key": "Ваш АПИ кључ",
   "Fahrenheit": "Фаренхајта",
   "Celsius": "Целзијуса",
   "Select the city from the suggestions": "Изаберите град из предлога",

@@ -1,4 +1,5 @@
 let ko = {
+  "Your Api Key": "귀하의 API 키",
   "Fahrenheit": "화씨",
   "Celsius": "섭씨",
   "Select the city from the suggestions": "제안에서 도시를 선택하세요",

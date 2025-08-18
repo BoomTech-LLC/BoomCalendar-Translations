@@ -1,4 +1,5 @@
 let ro = {
+  "Your Api Key": "Cheia dvs. API",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Selectați orașul din sugestii",

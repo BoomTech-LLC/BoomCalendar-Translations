@@ -1,4 +1,5 @@
 let fi = {
+  "Your Api Key": "Api-avaimesi",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Valitse kaupunki ehdotuksista",

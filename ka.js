@@ -1,4 +1,5 @@
 let ka = {
+  "Your Api Key": "თქვენი Api გასაღები",
   "Fahrenheit": "ფარენჰაიტი",
   "Celsius": "ცელსიუსი",
   "Select the city from the suggestions": "აირჩიეთ ქალაქი შემოთავაზებებიდან",

@@ -1,4 +1,5 @@
 let hr = {
+  "Your Api Key": "Vaš API ključ",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celzija",
   "Select the city from the suggestions": "Odaberite grad iz prijedloga",

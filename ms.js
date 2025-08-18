@@ -1,4 +1,5 @@
 let ms = {
+  "Your Api Key": "Kunci Api anda",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celcius",
   "Select the city from the suggestions": "Pilih bandar daripada cadangan",

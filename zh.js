@@ -1,4 +1,5 @@
 let zh = {
+  "Your Api Key": "您的 API 密钥",
   "Fahrenheit": "华氏度",
   "Celsius": "摄氏度",
   "Select the city from the suggestions": "从建议中选择城市",

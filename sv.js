@@ -1,4 +1,5 @@
 let sv = {
+  "Your Api Key": "Din API-nyckel",
   "Fahrenheit": "Fahrenheit",
   "Celsius": "Celsius",
   "Select the city from the suggestions": "Välj stad från förslagen",

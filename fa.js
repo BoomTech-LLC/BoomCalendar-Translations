@@ -1,4 +1,5 @@
 let fa = {
+  "Your Api Key": "کلید Api شما",
   "Fahrenheit": "فارنهایت",
   "Celsius": "درجه سانتیگراد",
   "Select the city from the suggestions": "شهر را از میان پیشنهادات انتخاب کنید",

@@ -1,4 +1,5 @@
 let ja = {
+  "Your Api Key": "APIキー",
   "Fahrenheit": "華氏",
   "Celsius": "摂氏",
   "Select the city from the suggestions": "候補から都市を選択してください",
