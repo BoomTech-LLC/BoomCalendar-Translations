@@ -770,5 +770,7 @@ let nb = {
   "ticket": "billett",
   "About This Event": "Om dette arrangementet",
   "Gallery": "Galleri",
+  "Thank You!": "Takk!",
+  "Your registration was successful.": "Registreringen din var vellykket.",
 };
 export default nb;

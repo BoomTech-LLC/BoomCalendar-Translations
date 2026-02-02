@@ -931,5 +931,7 @@ let pl = {
   "ticket": "bilet",
   "About This Event": "O tym wydarzeniu",
   "Gallery": "Galeria",
+  "Thank You!": "Dziękujemy!",
+  "Your registration was successful.": "Twoja rejestracja przebiegła pomyślnie.",
 };
 export default pl;

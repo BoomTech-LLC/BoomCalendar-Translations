@@ -933,5 +933,7 @@ let ko = {
   "ticket": "티켓",
   "About This Event": "이 이벤트 소개",
   "Gallery": "갤러리",
+  "Thank You!": "감사합니다!",
+  "Your registration was successful.": "등록이 완료되었습니다.",
 };
 export default ko;

@@ -934,5 +934,7 @@ let hi = {
   "ticket": "टिकट",
   "About This Event": "इस इवेंट के बारे में",
   "Gallery": "गैलरी",
+  "Thank You!": "धन्यवाद!",
+  "Your registration was successful.": "आपका पंजीकरण सफल रहा।",
 };
 export default hi;

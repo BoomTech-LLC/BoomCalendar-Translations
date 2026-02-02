@@ -869,5 +869,7 @@ let vi = {
   "ticket": "vé",
   "About This Event": "Về sự kiện này",
   "Gallery": "Thư viện ảnh",
+  "Thank You!": "Cảm ơn bạn!",
+  "Your registration was successful.": "Đăng ký của bạn đã thành công.",
 };
 export default vi;

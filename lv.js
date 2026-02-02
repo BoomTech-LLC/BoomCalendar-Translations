@@ -936,5 +936,7 @@ let lv = {
   "ticket": "biļete",
   "About This Event": "Par šo pasākumu",
   "Gallery": "Galerija",
+  "Thank You!": "Paldies!",
+  "Your registration was successful.": "Jūsu reģistrācija bija veiksmīga.",
 };
 export default lv;

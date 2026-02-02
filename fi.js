@@ -936,5 +936,7 @@ let fi = {
   "ticket": "lippu",
   "About This Event": "Tästä tapahtumasta",
   "Gallery": "Galleria",
+  "Thank You!": "Kiitos!",
+  "Your registration was successful.": "Rekisteröitymisesi onnistui.",
 };
 export default fi;

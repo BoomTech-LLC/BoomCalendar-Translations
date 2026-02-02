@@ -937,5 +937,7 @@ let it = {
   "ticket": "biglietto",
   "About This Event": "Informazioni su questo evento",
   "Gallery": "Galleria",
+  "Thank You!": "Grazie!",
+  "Your registration was successful.": "La tua registrazione è avvenuta con successo.",
 };
 export default it;

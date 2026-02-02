@@ -935,5 +935,7 @@ let nl = {
   "ticket": "ticket",
   "About This Event": "Over dit evenement",
   "Gallery": "Galerij",
+  "Thank You!": "Dank u!",
+  "Your registration was successful.": "Uw registratie is gelukt.",
 };
 export default nl;

@@ -946,5 +946,7 @@ let he = {
   "ticket": "כרטיס",
   "About This Event": "אודות אירוע זה",
   "Gallery": "גלריה",
+  "Thank You!": "תודה!",
+  "Your registration was successful.": "ההרשמה שלך בוצעה בהצלחה.",
 };
 export default he;

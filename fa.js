@@ -933,5 +933,7 @@ let fa = {
   "ticket": "بلیت",
   "About This Event": "درباره این رویداد",
   "Gallery": "گالری",
+  "Thank You!": "با تشکر!",
+  "Your registration was successful.": "ثبت‌نام شما با موفقیت انجام شد.",
 };
 export default fa;

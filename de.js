@@ -978,5 +978,7 @@ let de = {
   "ticket": "Ticket",
   "About This Event": "Über diese Veranstaltung",
   "Gallery": "Galerie",
+  "Thank You!": "Vielen Dank!",
+  "Your registration was successful.": "Ihre Registrierung war erfolgreich.",
 };
 export default de;

@@ -961,5 +961,7 @@ let uk = {
   "ticket": "квиток",
   "About This Event": "Про цю подію",
   "Gallery": "Галерея",
+  "Thank You!": "Дякуємо!",
+  "Your registration was successful.": "Ваша реєстрація пройшла успішно.",
 };
 export default uk;

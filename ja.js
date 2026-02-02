@@ -935,5 +935,7 @@ let ja = {
   "ticket": "チケット",
   "About This Event": "このイベントについて",
   "Gallery": "ギャラリー",
+  "Thank You!": "ありがとうございます！",
+  "Your registration was successful.": "登録が完了しました。",
 };
 export default ja;

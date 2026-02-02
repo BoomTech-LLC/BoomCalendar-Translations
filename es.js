@@ -975,5 +975,7 @@ let es = {
   "ticket": "entrada",
   "About This Event": "Acerca de este evento",
   "Gallery": "Galería",
+  "Thank You!": "¡Gracias!",
+  "Your registration was successful.": "Su registro fue exitoso.",
 };
 export default es;

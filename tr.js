@@ -938,5 +938,7 @@ let tr = {
   "ticket": "bilet",
   "About This Event": "Bu etkinlik hakkında",
   "Gallery": "Galeri",
+  "Thank You!": "Teşekkürler!",
+  "Your registration was successful.": "Kaydınız başarılı oldu.",
 };
 export default tr;
