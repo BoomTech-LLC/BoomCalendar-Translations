@@ -899,6 +899,8 @@ let ar = {
   "Star": "نجم",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "معلومات الحضور",
+  "To Event": "إلى الحدث",
   "A confirmation email has been sent to you": "تم إرسال بريد إلكتروني للتأكيد إليك",
   "Available Spots": "الأماكن المتاحة",
   "Event Details": "تفاصيل الحدث",

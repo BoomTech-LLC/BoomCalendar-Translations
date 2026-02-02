@@ -912,6 +912,8 @@ let sv = {
   "Star": "Stjärna",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Deltagarinformation",
+  "To Event": "Till evenemanget",
   "A confirmation email has been sent to you": "Ett bekräftelsemail har skickats till dig",
   "Available Spots": "Tillgängliga platser",
   "Event Details": "Evenemangsdetaljer",

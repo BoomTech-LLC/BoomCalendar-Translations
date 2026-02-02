@@ -906,6 +906,8 @@ let el = {
   "Star": "Αστέρι",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Πληροφορίες συμμετέχοντα",
+  "To Event": "Στην εκδήλωση",
   "A confirmation email has been sent to you": "Σας έχει σταλεί email επιβεβαίωσης",
   "Available Spots": "Διαθέσιμες θέσεις",
   "Event Details": "Λεπτομέρειες εκδήλωσης",

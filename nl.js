@@ -900,6 +900,8 @@ let nl = {
   "Star": "Ster",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Deelnemerinformatie",
+  "To Event": "Naar evenement",
   "A confirmation email has been sent to you": "Er is een bevestigingsmail naar u verzonden",
   "Available Spots": "Beschikbare plaatsen",
   "Event Details": "Evenementdetails",

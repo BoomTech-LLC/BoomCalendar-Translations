@@ -902,6 +902,8 @@ let it = {
   "Star": "Stella",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Informazioni partecipante",
+  "To Event": "All'evento",
   "A confirmation email has been sent to you": "Ti è stata inviata un'e-mail di conferma",
   "Available Spots": "Posti disponibili",
   "Event Details": "Dettagli dell'evento",

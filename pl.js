@@ -896,6 +896,8 @@ let pl = {
   "Star": "Gwiazda",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Informacje o uczestniku",
+  "To Event": "Do wydarzenia",
   "A confirmation email has been sent to you": "Wysłano do Ciebie e-mail z potwierdzeniem",
   "Available Spots": "Dostępne miejsca",
   "Event Details": "Szczegóły wydarzenia",

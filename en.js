@@ -892,6 +892,8 @@ let en = {
   "Star": "Star",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Attendee Information",
+  "To Event": "To Event",
   "A confirmation email has been sent to you": "A confirmation email has been sent to you",
   "Available Spots": "Available Spots",
   "Event Details": "Event Details",

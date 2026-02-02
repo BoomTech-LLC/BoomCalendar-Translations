@@ -940,6 +940,8 @@ let es = {
   Star: "Estrella",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Información del asistente",
+  "To Event": "Al evento",
   "A confirmation email has been sent to you": "Se le ha enviado un correo electrónico de confirmación",
   "Available Spots": "Plazas disponibles",
   "Event Details": "Detalles del evento",

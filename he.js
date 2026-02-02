@@ -911,6 +911,8 @@ let he = {
   "Star": "כּוֹכָב",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "מידע על המשתתף",
+  "To Event": "לאירוע",
   "A confirmation email has been sent to you": "נשלח אליך אימייל אישור",
   "Available Spots": "מקומות פנויים",
   "Event Details": "פרטי האירוע",

@@ -926,6 +926,8 @@ let uk = {
   "Star": "Зірка",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Інформація про учасника",
+  "To Event": "До події",
   "A confirmation email has been sent to you": "Вам надіслано електронний лист з підтвердженням",
   "Available Spots": "Доступні місця",
   "Event Details": "Деталі події",

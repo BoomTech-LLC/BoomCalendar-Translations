@@ -903,6 +903,8 @@ let tr = {
   "Star": "Yıldız",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Katılımcı Bilgileri",
+  "To Event": "Etkinliğe",
   "A confirmation email has been sent to you": "Size bir onay e-postası gönderildi",
   "Available Spots": "Müsait yerler",
   "Event Details": "Etkinlik detayları",

@@ -898,6 +898,8 @@ let ko = {
   "Star": "별",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "참석자 정보",
+  "To Event": "이벤트로",
   "A confirmation email has been sent to you": "확인 이메일이 발송되었습니다",
   "Available Spots": "이용 가능한 자리",
   "Event Details": "이벤트 세부 정보",

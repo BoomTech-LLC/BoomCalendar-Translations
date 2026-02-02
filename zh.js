@@ -883,6 +883,8 @@ let zh = {
   "Star": "星星",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "与会者信息",
+  "To Event": "前往活动",
   "A confirmation email has been sent to you": "确认邮件已发送给您",
   "Available Spots": "可用名额",
   "Event Details": "活动详情",
