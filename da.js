@@ -936,5 +936,7 @@ let da = {
   "ticket": "billet",
   "About This Event": "Om denne begivenhed",
   "Gallery": "Galleri",
+  "Thank You!": "Tak!",
+  "Your registration was successful.": "Din tilmelding var vellykket.",
 };
 export default da;

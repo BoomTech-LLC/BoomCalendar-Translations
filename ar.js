@@ -934,5 +934,7 @@ let ar = {
   "ticket": "تذكرة",
   "About This Event": "حول هذا الحدث",
   "Gallery": "معرض الصور",
+  "Thank You!": "شكراً لك!",
+  "Your registration was successful.": "تم تسجيلك بنجاح.",
 };
 export default ar;

@@ -941,5 +941,7 @@ let el = {
   "ticket": "εισιτήριο",
   "About This Event": "Σχετικά με αυτήν την εκδήλωση",
   "Gallery": "Γκαλερί",
+  "Thank You!": "Ευχαριστούμε!",
+  "Your registration was successful.": "Η εγγραφή σας ήταν επιτυχής.",
 };
 export default el;

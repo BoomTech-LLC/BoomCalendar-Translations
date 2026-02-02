@@ -937,5 +937,7 @@ let cs = {
   "ticket": "vstupenka",
   "About This Event": "O této události",
   "Gallery": "Galerie",
+  "Thank You!": "Děkujeme!",
+  "Your registration was successful.": "Vaše registrace proběhla úspěšně.",
 };
 export default cs;

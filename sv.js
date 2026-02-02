@@ -947,5 +947,7 @@ let sv = {
   "ticket": "biljett",
   "About This Event": "Om detta evenemang",
   "Gallery": "Galleri",
+  "Thank You!": "Tack!",
+  "Your registration was successful.": "Din registrering lyckades.",
 };
 export default sv;

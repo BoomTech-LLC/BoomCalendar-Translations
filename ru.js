@@ -979,5 +979,7 @@ let ru = {
   "ticket": "билет",
   "About This Event": "О мероприятии",
   "Gallery": "Галерея",
+  "Thank You!": "Спасибо!",
+  "Your registration was successful.": "Ваша регистрация прошла успешно.",
 };
 export default ru;

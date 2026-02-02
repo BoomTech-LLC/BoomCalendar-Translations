@@ -946,5 +946,7 @@ let bg = {
   "ticket": "билет",
   "About This Event": "За това събитие",
   "Gallery": "Галерия",
+  "Thank You!": "Благодарим!",
+  "Your registration was successful.": "Вашата регистрация беше успешна.",
 };
 export default bg;

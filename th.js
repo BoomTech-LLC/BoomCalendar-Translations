@@ -963,5 +963,7 @@ let th = {
   "ticket": "บัตร",
   "About This Event": "เกี่ยวกับกิจกรรมนี้",
   "Gallery": "แกลเลอรี",
+  "Thank You!": "ขอบคุณ!",
+  "Your registration was successful.": "การลงทะเบียนของคุณสำเร็จแล้ว",
 };
 export default th;

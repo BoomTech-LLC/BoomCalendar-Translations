@@ -935,5 +935,7 @@ let hu = {
   "ticket": "jegy",
   "About This Event": "Az eseményről",
   "Gallery": "Galéria",
+  "Thank You!": "Köszönjük!",
+  "Your registration was successful.": "A regisztrációja sikeres volt.",
 };
 export default hu;

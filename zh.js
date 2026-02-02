@@ -918,5 +918,7 @@ let zh = {
   "ticket": "门票",
   "About This Event": "关于此活动",
   "Gallery": "图库",
+  "Thank You!": "谢谢！",
+  "Your registration was successful.": "您的注册已成功。",
 };
 export default zh;
