@@ -902,6 +902,8 @@ let cs = {
   "Star": "Hvězda",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Informace o účastníkovi",
+  "To Event": "K události",
   "A confirmation email has been sent to you": "Byl vám zaslán potvrzovací e-mail",
   "Available Spots": "Dostupná místa",
   "Event Details": "Podrobnosti události",

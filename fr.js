@@ -908,6 +908,8 @@ let fr = {
   "Star": "Étoile",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Informations sur le participant",
+  "To Event": "Vers l'événement",
   "A confirmation email has been sent to you": "Un e-mail de confirmation vous a été envoyé",
   "Available Spots": "Places disponibles",
   "Event Details": "Détails de l'événement",

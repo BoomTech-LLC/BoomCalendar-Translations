@@ -943,6 +943,8 @@ let de = {
   Star: "Stern",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Teilnehmerinformationen",
+  "To Event": "Zur Veranstaltung",
   "A confirmation email has been sent to you": "Eine Bestätigungs-E-Mail wurde an Sie gesendet",
   "Available Spots": "Verfügbare Plätze",
   "Event Details": "Veranstaltungsdetails",

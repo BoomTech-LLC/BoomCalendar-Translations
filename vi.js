@@ -834,6 +834,8 @@ let vi = {
   "Star": "Ngôi sao",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Thông tin người tham dự",
+  "To Event": "Đến sự kiện",
   "A confirmation email has been sent to you": "Email xác nhận đã được gửi đến bạn",
   "Available Spots": "Chỗ trống",
   "Event Details": "Chi tiết sự kiện",

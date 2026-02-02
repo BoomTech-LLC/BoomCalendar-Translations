@@ -926,6 +926,8 @@ let no = {
   "Star": "Stjerne",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Deltakerinformasjon",
+  "To Event": "Til arrangementet",
   "A confirmation email has been sent to you": "En bekreftelsesmail har blitt sendt til deg",
   "Available Spots": "Tilgjengelige plasser",
   "Event Details": "Arrangementsdetaljer",

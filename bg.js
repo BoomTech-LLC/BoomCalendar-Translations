@@ -911,6 +911,8 @@ let bg = {
   "Star": "Звезда",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Информация за участника",
+  "To Event": "Към събитието",
   "A confirmation email has been sent to you": "Изпратен ви е имейл за потвърждение",
   "Available Spots": "Налични места",
   "Event Details": "Детайли за събитието",

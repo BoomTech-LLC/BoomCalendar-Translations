@@ -944,6 +944,8 @@ let ru = {
   "Star": "Звезда",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Информация об участнике",
+  "To Event": "К мероприятию",
   "A confirmation email has been sent to you": "Вам отправлено письмо с подтверждением",
   "Available Spots": "Доступные места",
   "Event Details": "Детали мероприятия",

@@ -898,6 +898,8 @@ let fa = {
   "Star": "ستاره",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "اطلاعات شرکت‌کننده",
+  "To Event": "به رویداد",
   "A confirmation email has been sent to you": "یک ایمیل تأیید برای شما ارسال شده است",
   "Available Spots": "جاهای خالی",
   "Event Details": "جزئیات رویداد",

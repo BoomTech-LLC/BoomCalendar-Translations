@@ -900,6 +900,8 @@ let ja = {
   "Star": "星",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "参加者情報",
+  "To Event": "イベントへ",
   "A confirmation email has been sent to you": "確認メールが送信されました",
   "Available Spots": "空席数",
   "Event Details": "イベント詳細",

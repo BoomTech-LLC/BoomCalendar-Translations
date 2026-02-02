@@ -900,6 +900,8 @@ let hu = {
   "Star": "Csillag",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Résztvevő adatai",
+  "To Event": "Az eseményhez",
   "A confirmation email has been sent to you": "Megerősítő e-mailt küldtünk Önnek",
   "Available Spots": "Elérhető helyek",
   "Event Details": "Esemény részletei",

@@ -901,6 +901,8 @@ let fi = {
   "Star": "Tähti",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Osallistujan tiedot",
+  "To Event": "Tapahtumaan",
   "A confirmation email has been sent to you": "Sinulle on lähetetty vahvistussähköposti",
   "Available Spots": "Vapaita paikkoja",
   "Event Details": "Tapahtuman tiedot",

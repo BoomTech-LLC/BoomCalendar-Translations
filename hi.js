@@ -899,6 +899,8 @@ let hi = {
   "Star": "तारा",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "प्रतिभागी जानकारी",
+  "To Event": "इवेंट पर",
   "A confirmation email has been sent to you": "आपको एक पुष्टिकरण ईमेल भेजा गया है",
   "Available Spots": "उपलब्ध स्थान",
   "Event Details": "इवेंट विवरण",

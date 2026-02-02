@@ -901,6 +901,8 @@ let da = {
   "Star": "Stjerne",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Deltagerinformation",
+  "To Event": "Til begivenheden",
   "A confirmation email has been sent to you": "En bekræftelsesmail er blevet sendt til dig",
   "Available Spots": "Ledige pladser",
   "Event Details": "Begivenhedsdetaljer",

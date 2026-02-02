@@ -901,6 +901,8 @@ let lv = {
   "Star": "Zvaigzne",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "Dalībnieka informācija",
+  "To Event": "Uz pasākumu",
   "A confirmation email has been sent to you": "Jums ir nosūtīts apstiprinājuma e-pasts",
   "Available Spots": "Pieejamās vietas",
   "Event Details": "Pasākuma informācija",

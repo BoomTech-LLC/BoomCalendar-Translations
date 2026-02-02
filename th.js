@@ -928,6 +928,8 @@ let th = {
   "Star": "ดาว",
 
   /* Event Page & Registration - New Keys */
+  "Attendee Information": "ข้อมูลผู้เข้าร่วม",
+  "To Event": "ไปยังกิจกรรม",
   "A confirmation email has been sent to you": "อีเมลยืนยันถูกส่งไปยังคุณแล้ว",
   "Available Spots": "ที่นั่งว่าง",
   "Event Details": "รายละเอียดกิจกรรม",
