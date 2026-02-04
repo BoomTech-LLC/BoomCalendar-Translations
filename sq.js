@@ -900,5 +900,18 @@ let sq = {
   "Square": "Katror",
   "Triangle": "Trekëndësh",
   "Star": "Yll",
+  "Ticket Not Found": "Bileta Nuk U Gjet",
+  "Your Ticket": "Bileta Juaj",
+  "Loading your ticket...": "Duke ngarkuar bileten tuaj...",
+  "Show this QR code at the entrance or": "Shfaqni këtë kod QR në hyrje ose",
+  "Show this QR code at the entrance.": "Shfaqni këtë kod QR në hyrje.",
+  "Download QR": "Shkarko QR",
+  "Individual Tickets": "Bileta Individuale",
+  "QR Code for All Tickets": "Kodi QR për Të Gjitha Biletat",
+  "Scan this QR for all tickets": "Skanoni këtë kod QR për të gjitha biletat",
+  "Individual ticket": "Biletë individuale",
+  "All Tickets QR": "QR i Të Gjitha Biletave",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Nuk mund të ngarkohet informacioni i biletës. Ju lutemi kontrolloni URL-në dhe provoni përsëri.",
 };
 export default sq;

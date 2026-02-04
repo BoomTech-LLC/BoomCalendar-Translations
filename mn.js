@@ -901,5 +901,18 @@ let mn = {
   "Square": "Дөрвөлжин",
   "Triangle": "Гурвалжин",
   "Star": "Хувө тавилан",
+  "Ticket Not Found": "Тасалбар Олдсонгүй",
+  "Your Ticket": "Таны Тасалбар",
+  "Loading your ticket...": "Тасалбараа ачааллаж байна...",
+  "Show this QR code at the entrance or": "Энэ QR кодыг оролтын хаалга дээр харуул эсвэл",
+  "Show this QR code at the entrance.": "Энэ QR кодыг оролтын хаалга дээр харуул.",
+  "Download QR": "QR Татах",
+  "Individual Tickets": "Хувь Хувьд Тасалбар",
+  "QR Code for All Tickets": "Бүх Тасалбарын QR Код",
+  "Scan this QR for all tickets": "Бүх тасалбарт энэ QR кодыг сканнердэх",
+  "Individual ticket": "Хувь хувьд тасалбар",
+  "All Tickets QR": "Бүх Тасалбарын QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Тасалбарын мэдээллийг ачаалах боломжгүй байна. URL-ийг шалгаад дахин оролдоно уу.",
 };
 export default mn;

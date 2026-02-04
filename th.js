@@ -967,5 +967,18 @@ let th = {
   "Gallery": "แกลเลอรี",
   "Thank You!": "ขอบคุณ!",
   "Your registration was successful.": "การลงทะเบียนของคุณสำเร็จแล้ว",
+  "Ticket Not Found": "ไม่พบตั๋ว",
+  "Your Ticket": "ตั๋วของคุณ",
+  "Loading your ticket...": "กำลังโหลดตั๋วของคุณ...",
+  "Show this QR code at the entrance or": "แสดงรหัส QR นี้ที่ทางเข้าหรือ",
+  "Show this QR code at the entrance.": "แสดงรหัส QR นี้ที่ทางเข้า",
+  "Download QR": "ดาวน์โหลด QR",
+  "Individual Tickets": "ตั๋วรายบุคคล",
+  "QR Code for All Tickets": "รหัส QR สำหรับตั๋วทั้งหมด",
+  "Scan this QR for all tickets": "สแกน QR นี้สำหรับตั๋วทั้งหมด",
+  "Individual ticket": "ตั๋วรายบุคคล",
+  "All Tickets QR": "QR ตั๋วทั้งหมด",
+  "ID": "รหัส",
+  "Unable to load ticket information. Please check the URL and try again.": "ไม่สามารถโหลดข้อมูลตั๋วได้ กรุณาตรวจสอบ URL และลองอีกครั้ง",
 };
 export default th;

@@ -900,5 +900,18 @@ let mk = {
   "Square": "Плоштад",
   "Triangle": "Триаголник",
   "Star": "Starвезда",
+  "Ticket Not Found": "Билетот Не Е Пронајден",
+  "Your Ticket": "Вашиот Билет",
+  "Loading your ticket...": "Вчитување на вашиот билет...",
+  "Show this QR code at the entrance or": "Покажете го овој QR код на влезот или",
+  "Show this QR code at the entrance.": "Покажете го овој QR код на влезот.",
+  "Download QR": "Преземи QR",
+  "Individual Tickets": "Индивидуални Билети",
+  "QR Code for All Tickets": "QR Код за Сите Билети",
+  "Scan this QR for all tickets": "Скенирајте го овој QR код за сите билети",
+  "Individual ticket": "Индивидуален билет",
+  "All Tickets QR": "QR на Сите Билети",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Не може да се вчитаат информациите за билетот. Ве молиме проверете ја URL адресата и обидете се повторно.",
 };
 export default mk;

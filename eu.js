@@ -899,5 +899,18 @@ let eu = {
   "Square": "Plaza",
   "Triangle": "Triangelu",
   "Star": "Izar",
+  "Ticket Not Found": "Sarrera Ez Aurkitu",
+  "Your Ticket": "Zure Sarrera",
+  "Loading your ticket...": "Zure sarrera kargatzen...",
+  "Show this QR code at the entrance or": "Erakutsi QR kode hau sarreran edo",
+  "Show this QR code at the entrance.": "Erakutsi QR kode hau sarreran.",
+  "Download QR": "Deskargatu QR",
+  "Individual Tickets": "Sarrerak Banaka",
+  "QR Code for All Tickets": "QR Kodea Sarrera Guztientzat",
+  "Scan this QR for all tickets": "Eskaneatu QR kode hau sarrera guztientzat",
+  "Individual ticket": "Sarrera banaka",
+  "All Tickets QR": "Sarrera Guztien QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Ezin da sarreraren informazioa kargatu. Mesedez, egiaztatu URL-a eta saiatu berriro.",
 };
 export default eu;

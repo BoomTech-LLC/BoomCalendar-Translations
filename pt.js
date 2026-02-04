@@ -940,5 +940,18 @@ let pt = {
   "Gallery": "Galeria",
   "Thank You!": "Obrigado!",
   "Your registration was successful.": "Seu registro foi bem-sucedido.",
+  "Ticket Not Found": "Ingresso Não Encontrado",
+  "Your Ticket": "Seu Ingresso",
+  "Loading your ticket...": "Carregando seu ingresso...",
+  "Show this QR code at the entrance or": "Mostre este código QR na entrada ou",
+  "Show this QR code at the entrance.": "Mostre este código QR na entrada.",
+  "Download QR": "Baixar QR",
+  "Individual Tickets": "Ingressos Individuais",
+  "QR Code for All Tickets": "Código QR para Todos os Ingressos",
+  "Scan this QR for all tickets": "Escaneie este QR para todos os ingressos",
+  "Individual ticket": "Ingresso individual",
+  "All Tickets QR": "QR de Todos os Ingressos",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Não foi possível carregar as informações do ingresso. Verifique o URL e tente novamente.",
 };
 export default pt;

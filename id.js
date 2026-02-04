@@ -897,5 +897,18 @@ let id = {
   "Square": "Persegi",
   "Triangle": "Segi tiga",
   "Star": "Bintang",
+  "Ticket Not Found": "Tiket Tidak Ditemukan",
+  "Your Ticket": "Tiket Anda",
+  "Loading your ticket...": "Memuat tiket Anda...",
+  "Show this QR code at the entrance or": "Tunjukkan kode QR ini di pintu masuk atau",
+  "Show this QR code at the entrance.": "Tunjukkan kode QR ini di pintu masuk.",
+  "Download QR": "Unduh QR",
+  "Individual Tickets": "Tiket Individu",
+  "QR Code for All Tickets": "Kode QR untuk Semua Tiket",
+  "Scan this QR for all tickets": "Pindai kode QR ini untuk semua tiket",
+  "Individual ticket": "Tiket individu",
+  "All Tickets QR": "QR Semua Tiket",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Tidak dapat memuat informasi tiket. Silakan periksa URL dan coba lagi.",
 };
 export default id;

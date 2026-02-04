@@ -865,5 +865,18 @@ let tl = {
   "Square": "Parisukat",
   "Triangle": "Tatsulok",
   "Star": "Bituin",
+  "Ticket Not Found": "Hindi Natagpuan ang Tiket",
+  "Your Ticket": "Ang Iyong Tiket",
+  "Loading your ticket...": "Naglo-load ng iyong tiket...",
+  "Show this QR code at the entrance or": "Ipakita ang QR code na ito sa entrada o",
+  "Show this QR code at the entrance.": "Ipakita ang QR code na ito sa entrada.",
+  "Download QR": "I-download ang QR",
+  "Individual Tickets": "Mga Indibidwal na Tiket",
+  "QR Code for All Tickets": "QR Code para sa Lahat ng Tiket",
+  "Scan this QR for all tickets": "I-scan ang QR code na ito para sa lahat ng tiket",
+  "Individual ticket": "Indibidwal na tiket",
+  "All Tickets QR": "QR ng Lahat ng Tiket",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Hindi ma-load ang impormasyon ng tiket. Pakisuri ang URL at subukan muli.",
 };
 export default tl;

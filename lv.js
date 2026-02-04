@@ -940,5 +940,18 @@ let lv = {
   "Gallery": "Galerija",
   "Thank You!": "Paldies!",
   "Your registration was successful.": "Jūsu reģistrācija bija veiksmīga.",
+  "Ticket Not Found": "Biļete Nav Atrasta",
+  "Your Ticket": "Jūsu Biļete",
+  "Loading your ticket...": "Ielādē jūsu biļeti...",
+  "Show this QR code at the entrance or": "Parādiet šo QR kodu pie ieejas vai",
+  "Show this QR code at the entrance.": "Parādiet šo QR kodu pie ieejas.",
+  "Download QR": "Lejupielādēt QR",
+  "Individual Tickets": "Atsevišķas Biļetes",
+  "QR Code for All Tickets": "QR Kods Visām Biļetēm",
+  "Scan this QR for all tickets": "Skenējiet šo QR kodu visām biļetēm",
+  "Individual ticket": "Atsevišķa biļete",
+  "All Tickets QR": "Visu Biļešu QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Nevar ielādēt biļetes informāciju. Lūdzu, pārbaudiet URL un mēģiniet vēlreiz.",
 };
 export default lv;

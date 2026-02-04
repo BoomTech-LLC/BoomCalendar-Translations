@@ -940,5 +940,18 @@ let fi = {
   "Gallery": "Galleria",
   "Thank You!": "Kiitos!",
   "Your registration was successful.": "Rekisteröitymisesi onnistui.",
+  "Ticket Not Found": "Lippua Ei Löytynyt",
+  "Your Ticket": "Lippusi",
+  "Loading your ticket...": "Ladataan lippuasi...",
+  "Show this QR code at the entrance or": "Näytä tämä QR-koodi sisäänkäynnillä tai",
+  "Show this QR code at the entrance.": "Näytä tämä QR-koodi sisäänkäynnillä.",
+  "Download QR": "Lataa QR",
+  "Individual Tickets": "Yksittäiset Liput",
+  "QR Code for All Tickets": "QR-koodi Kaikille Lipuille",
+  "Scan this QR for all tickets": "Skannaa tämä QR-koodi kaikille lipuille",
+  "Individual ticket": "Yksittäinen lippu",
+  "All Tickets QR": "Kaikki Liput QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Lipun tietoja ei voitu ladata. Tarkista URL-osoite ja yritä uudelleen.",
 };
 export default fi;

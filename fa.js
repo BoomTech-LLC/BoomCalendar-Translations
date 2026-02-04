@@ -937,5 +937,18 @@ let fa = {
   "Gallery": "گالری",
   "Thank You!": "با تشکر!",
   "Your registration was successful.": "ثبت‌نام شما با موفقیت انجام شد.",
+  "Ticket Not Found": "بلیت یافت نشد",
+  "Your Ticket": "بلیت شما",
+  "Loading your ticket...": "در حال بارگذاری بلیت شما...",
+  "Show this QR code at the entrance or": "این کد QR را در ورودی نشان دهید یا",
+  "Show this QR code at the entrance.": "این کد QR را در ورودی نشان دهید.",
+  "Download QR": "دانلود QR",
+  "Individual Tickets": "بلیت‌های جداگانه",
+  "QR Code for All Tickets": "کد QR برای همه بلیت‌ها",
+  "Scan this QR for all tickets": "این کد QR را برای همه بلیت‌ها اسکن کنید",
+  "Individual ticket": "بلیت جداگانه",
+  "All Tickets QR": "QR همه بلیت‌ها",
+  "ID": "شناسه",
+  "Unable to load ticket information. Please check the URL and try again.": "امکان بارگذاری اطلاعات بلیت وجود ندارد. لطفاً URL را بررسی کرده و دوباره تلاش کنید.",
 };
 export default fa;

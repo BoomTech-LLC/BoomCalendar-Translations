@@ -939,5 +939,18 @@ let nl = {
   "Gallery": "Galerij",
   "Thank You!": "Dank u!",
   "Your registration was successful.": "Uw registratie is gelukt.",
+  "Ticket Not Found": "Ticket Niet Gevonden",
+  "Your Ticket": "Uw Ticket",
+  "Loading your ticket...": "Uw ticket laden...",
+  "Show this QR code at the entrance or": "Toon deze QR-code bij de ingang of",
+  "Show this QR code at the entrance.": "Toon deze QR-code bij de ingang.",
+  "Download QR": "QR Downloaden",
+  "Individual Tickets": "Individuele Tickets",
+  "QR Code for All Tickets": "QR-code voor Alle Tickets",
+  "Scan this QR for all tickets": "Scan deze QR-code voor alle tickets",
+  "Individual ticket": "Individueel ticket",
+  "All Tickets QR": "Alle Tickets QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Kan ticketinformatie niet laden. Controleer de URL en probeer het opnieuw.",
 };
 export default nl;

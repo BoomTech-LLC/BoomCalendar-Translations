@@ -896,5 +896,18 @@ let et = {
   "Square": "Ruut",
   "Triangle": "Kolmnurk",
   "Star": "Staar",
+  "Ticket Not Found": "Piletit Ei Leitud",
+  "Your Ticket": "Sinu Pilet",
+  "Loading your ticket...": "Pileti laadimine...",
+  "Show this QR code at the entrance or": "Näita seda QR-koodi sissepääsu juures või",
+  "Show this QR code at the entrance.": "Näita seda QR-koodi sissepääsu juures.",
+  "Download QR": "Laadi QR alla",
+  "Individual Tickets": "Üksikpiletid",
+  "QR Code for All Tickets": "QR-kood Kõigile Piletitele",
+  "Scan this QR for all tickets": "Skaneeri see QR-kood kõigi piletite jaoks",
+  "Individual ticket": "Üksikpilet",
+  "All Tickets QR": "Kõigi Piletite QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Pileti teavet ei saanud laadida. Palun kontrollige URL-i ja proovige uuesti.",
 };
 export default et;

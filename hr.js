@@ -906,5 +906,18 @@ let hr = {
   "Square": "Kvadrat",
   "Triangle": "Trokut",
   "Star": "Zvjezdica",
+  "Ticket Not Found": "Ulaznica Nije Pronađena",
+  "Your Ticket": "Vaša Ulaznica",
+  "Loading your ticket...": "Učitavanje vaše ulaznice...",
+  "Show this QR code at the entrance or": "Pokažite ovaj QR kod na ulazu ili",
+  "Show this QR code at the entrance.": "Pokažite ovaj QR kod na ulazu.",
+  "Download QR": "Preuzmi QR",
+  "Individual Tickets": "Pojedinačne Ulaznice",
+  "QR Code for All Tickets": "QR Kod za Sve Ulaznice",
+  "Scan this QR for all tickets": "Skenirajte ovaj QR kod za sve ulaznice",
+  "Individual ticket": "Pojedinačna ulaznica",
+  "All Tickets QR": "QR Svih Ulaznica",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Nije moguće učitati informacije o ulaznici. Molimo provjerite URL i pokušajte ponovno.",
 };
 export default hr;

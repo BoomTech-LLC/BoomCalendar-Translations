@@ -899,5 +899,18 @@ let is = {
   "Square": "Square",
   "Triangle": "Þríhyrningur",
   "Star": "Stjarna",
+  "Ticket Not Found": "Miði Fannst Ekki",
+  "Your Ticket": "Þinn Miði",
+  "Loading your ticket...": "Hleður miðanum þínum...",
+  "Show this QR code at the entrance or": "Sýndu þennan QR kóða við innganginn eða",
+  "Show this QR code at the entrance.": "Sýndu þennan QR kóða við innganginn.",
+  "Download QR": "Sækja QR",
+  "Individual Tickets": "Einstakir Miðar",
+  "QR Code for All Tickets": "QR Kóði fyrir Alla Miða",
+  "Scan this QR for all tickets": "Skannaðu þennan QR kóða fyrir alla miða",
+  "Individual ticket": "Einstakur miði",
+  "All Tickets QR": "QR Allra Miða",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Ekki tókst að hlaða upplýsingum um miða. Vinsamlegast athugaðu slóðina og reyndu aftur.",
 };
 export default is;

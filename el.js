@@ -945,5 +945,18 @@ let el = {
   "Gallery": "Γκαλερί",
   "Thank You!": "Ευχαριστούμε!",
   "Your registration was successful.": "Η εγγραφή σας ήταν επιτυχής.",
+  "Ticket Not Found": "Εισιτήριο Δεν Βρέθηκε",
+  "Your Ticket": "Το Εισιτήριό Σας",
+  "Loading your ticket...": "Φόρτωση του εισιτηρίου σας...",
+  "Show this QR code at the entrance or": "Δείξτε αυτόν τον κωδικό QR στην είσοδο ή",
+  "Show this QR code at the entrance.": "Δείξτε αυτόν τον κωδικό QR στην είσοδο.",
+  "Download QR": "Λήψη QR",
+  "Individual Tickets": "Ατομικά Εισιτήρια",
+  "QR Code for All Tickets": "Κωδικός QR για Όλα τα Εισιτήρια",
+  "Scan this QR for all tickets": "Σαρώστε αυτόν τον κωδικό QR για όλα τα εισιτήρια",
+  "Individual ticket": "Ατομικό εισιτήριο",
+  "All Tickets QR": "QR Όλων των Εισιτηρίων",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Δεν ήταν δυνατή η φόρτωση των πληροφοριών εισιτηρίου. Ελέγξτε τη διεύθυνση URL και δοκιμάστε ξανά.",
 };
 export default el;

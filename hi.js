@@ -938,5 +938,18 @@ let hi = {
   "Gallery": "गैलरी",
   "Thank You!": "धन्यवाद!",
   "Your registration was successful.": "आपका पंजीकरण सफल रहा।",
+  "Ticket Not Found": "टिकट नहीं मिला",
+  "Your Ticket": "आपका टिकट",
+  "Loading your ticket...": "आपका टिकट लोड हो रहा है...",
+  "Show this QR code at the entrance or": "प्रवेश द्वार पर इस QR कोड को दिखाएं या",
+  "Show this QR code at the entrance.": "प्रवेश द्वार पर इस QR कोड को दिखाएं।",
+  "Download QR": "QR डाउनलोड करें",
+  "Individual Tickets": "व्यक्तिगत टिकट",
+  "QR Code for All Tickets": "सभी टिकटों के लिए QR कोड",
+  "Scan this QR for all tickets": "सभी टिकटों के लिए इस QR को स्कैन करें",
+  "Individual ticket": "व्यक्तिगत टिकट",
+  "All Tickets QR": "सभी टिकट QR",
+  "ID": "आईडी",
+  "Unable to load ticket information. Please check the URL and try again.": "टिकट जानकारी लोड करने में असमर्थ। कृपया URL जांचें और पुनः प्रयास करें।",
 };
 export default hi;

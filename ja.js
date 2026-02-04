@@ -939,5 +939,18 @@ let ja = {
   "Gallery": "ギャラリー",
   "Thank You!": "ありがとうございます！",
   "Your registration was successful.": "登録が完了しました。",
+  "Ticket Not Found": "チケットが見つかりません",
+  "Your Ticket": "あなたのチケット",
+  "Loading your ticket...": "チケットを読み込んでいます...",
+  "Show this QR code at the entrance or": "入口でこのQRコードを提示するか、",
+  "Show this QR code at the entrance.": "入口でこのQRコードを提示してください。",
+  "Download QR": "QRをダウンロード",
+  "Individual Tickets": "個別チケット",
+  "QR Code for All Tickets": "全チケット用QRコード",
+  "Scan this QR for all tickets": "すべてのチケット用にこのQRコードをスキャン",
+  "Individual ticket": "個別チケット",
+  "All Tickets QR": "全チケットQR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "チケット情報を読み込めませんでした。URLを確認して再試行してください。",
 };
 export default ja;

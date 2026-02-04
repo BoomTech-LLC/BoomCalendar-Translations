@@ -942,5 +942,18 @@ let tr = {
   "Gallery": "Galeri",
   "Thank You!": "Teşekkürler!",
   "Your registration was successful.": "Kaydınız başarılı oldu.",
+  "Ticket Not Found": "Bilet Bulunamadı",
+  "Your Ticket": "Biletiniz",
+  "Loading your ticket...": "Biletiniz yükleniyor...",
+  "Show this QR code at the entrance or": "Girişte bu QR kodunu gösterin veya",
+  "Show this QR code at the entrance.": "Girişte bu QR kodunu gösterin.",
+  "Download QR": "QR İndir",
+  "Individual Tickets": "Bireysel Biletler",
+  "QR Code for All Tickets": "Tüm Biletler İçin QR Kodu",
+  "Scan this QR for all tickets": "Tüm biletler için bu QR kodunu tarayın",
+  "Individual ticket": "Bireysel bilet",
+  "All Tickets QR": "Tüm Biletler QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Bilet bilgileri yüklenemedi. Lütfen URL'yi kontrol edin ve tekrar deneyin.",
 };
 export default tr;

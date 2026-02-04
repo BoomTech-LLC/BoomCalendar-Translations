@@ -771,5 +771,18 @@ let lt = {
   "Square": "Kvadratas",
   "Triangle": "Trikampis",
   "Star": "Žvaigždė",
+  "Ticket Not Found": "Bilietas Nerastas",
+  "Your Ticket": "Jūsų Bilietas",
+  "Loading your ticket...": "Įkeliamas jūsų bilietas...",
+  "Show this QR code at the entrance or": "Parodykite šį QR kodą prie įėjimo arba",
+  "Show this QR code at the entrance.": "Parodykite šį QR kodą prie įėjimo.",
+  "Download QR": "Atsisiųsti QR",
+  "Individual Tickets": "Atskiri Bilietai",
+  "QR Code for All Tickets": "QR Kodas Visiems Bilietams",
+  "Scan this QR for all tickets": "Nuskaitykite šį QR kodą visiems bilietams",
+  "Individual ticket": "Atskiras bilietas",
+  "All Tickets QR": "QR Visų Bilietų",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Nepavyko įkelti bilieto informacijos. Patikrinkite URL ir bandykite dar kartą.",
 };
 export default lt;

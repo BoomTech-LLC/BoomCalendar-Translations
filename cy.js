@@ -903,5 +903,18 @@ let cy = {
   "Square": "Sgwariant",
   "Triangle": "Triongl",
   "Star": "Sêr",
+  "Ticket Not Found": "Tocyn Heb ei Ddod o Hyd",
+  "Your Ticket": "Eich Tocyn",
+  "Loading your ticket...": "Llwytho eich tocyn...",
+  "Show this QR code at the entrance or": "Dangoswch y cod QR hwn wrth y fynedfa neu",
+  "Show this QR code at the entrance.": "Dangoswch y cod QR hwn wrth y fynedfa.",
+  "Download QR": "Lawrlwytho QR",
+  "Individual Tickets": "Tocynnau Unigol",
+  "QR Code for All Tickets": "Cod QR ar gyfer Pob Tocyn",
+  "Scan this QR for all tickets": "Sganiwch y cod QR hwn ar gyfer pob tocyn",
+  "Individual ticket": "Tocyn unigol",
+  "All Tickets QR": "QR Pob Tocyn",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Methu llwytho gwybodaeth y tocyn. Gwiriwch yr URL a rhoi cynnig arall arni.",
 };
 export default cy;

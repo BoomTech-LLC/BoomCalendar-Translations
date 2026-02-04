@@ -925,5 +925,18 @@ let ca = {
   "Square": "Quadrat",
   "Triangle": "Triangle",
   "Star": "Estrella",
+  "Ticket Not Found": "Entrada No Trobada",
+  "Your Ticket": "La Teva Entrada",
+  "Loading your ticket...": "Carregant la teva entrada...",
+  "Show this QR code at the entrance or": "Mostra aquest codi QR a l'entrada o",
+  "Show this QR code at the entrance.": "Mostra aquest codi QR a l'entrada.",
+  "Download QR": "Descarregar QR",
+  "Individual Tickets": "Entrades Individuals",
+  "QR Code for All Tickets": "Codi QR per a Totes les Entrades",
+  "Scan this QR for all tickets": "Escaneja aquest QR per a totes les entrades",
+  "Individual ticket": "Entrada individual",
+  "All Tickets QR": "QR de Totes les Entrades",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "No s'ha pogut carregar la informació de l'entrada. Si us plau, comprova la URL i torna-ho a provar.",
 };
 export default ca;

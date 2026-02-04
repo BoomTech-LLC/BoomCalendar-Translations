@@ -873,5 +873,18 @@ let vi = {
   "Gallery": "Thư viện ảnh",
   "Thank You!": "Cảm ơn bạn!",
   "Your registration was successful.": "Đăng ký của bạn đã thành công.",
+  "Ticket Not Found": "Không Tìm Thấy Vé",
+  "Your Ticket": "Vé Của Bạn",
+  "Loading your ticket...": "Đang tải vé của bạn...",
+  "Show this QR code at the entrance or": "Hiển thị mã QR này tại lối vào hoặc",
+  "Show this QR code at the entrance.": "Hiển thị mã QR này tại lối vào.",
+  "Download QR": "Tải Xuống QR",
+  "Individual Tickets": "Vé Cá Nhân",
+  "QR Code for All Tickets": "Mã QR Cho Tất Cả Vé",
+  "Scan this QR for all tickets": "Quét mã QR này cho tất cả vé",
+  "Individual ticket": "Vé cá nhân",
+  "All Tickets QR": "QR Tất Cả Vé",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Không thể tải thông tin vé. Vui lòng kiểm tra URL và thử lại.",
 };
 export default vi;
