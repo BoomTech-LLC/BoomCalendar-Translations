@@ -697,6 +697,10 @@ let lt = {
   "Personal Info": "Asmeninė informacija",
   Back: "Atgal",
   "This field is required": "Šį lauką būtina užpildyti",
+  Phone: "Phone",
+  Number: "Number",
+  "Select Options": "Select Options",
+  "Select One": "Select One",
   "Your event has been submitted": "Jūsų renginys buvo pateiktas",
   "Enter a location": "Įveskite vietą",
   "Display the time zone alongside the event date.":

@@ -566,7 +566,10 @@ let ru = {
   "Back to calendar": "Вернуться к календарю",
   "This field is required": "Это поле обязательно к заполнению",
   Phone: "Телефон",
+  Number: "Число",
   "Number field": "Поле числа",
+  "Select Options": "Выберите варианты",
+  "Select One": "Выберите один",
   "Please provide a valid email":
     "Пожалуйста, предоставьте действительный адрес электронной почты",
   "Select at least one option": "Выберите хотя бы один вариант",

@@ -659,6 +659,10 @@ let nb = {
   "Personal Info": "Personlig informasjon",
   Back: "Tilbake",
   "This field is required": "Dette feltet er obligatorisk",
+  Phone: "Phone",
+  Number: "Number",
+  "Select Options": "Select Options",
+  "Select One": "Select One",
   "Your event has been submitted": "Arrangementet ditt er sendt inn",
   "Enter a location": "Skriv inn et sted",
   "Display the time zone alongside the event date.":
