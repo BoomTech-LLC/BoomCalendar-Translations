@@ -898,5 +898,18 @@ let sr = {
   "Square": "Квадрат",
   "Triangle": "Троугао",
   "Star": "Звезда",
+  "Ticket Not Found": "Улазница Није Пронађена",
+  "Your Ticket": "Ваша Улазница",
+  "Loading your ticket...": "Учитавање ваше улазнице...",
+  "Show this QR code at the entrance or": "Покажите овај QR код на улазу или",
+  "Show this QR code at the entrance.": "Покажите овај QR код на улазу.",
+  "Download QR": "Преузми QR",
+  "Individual Tickets": "Појединачне Улазнице",
+  "QR Code for All Tickets": "QR Код за Све Улазнице",
+  "Scan this QR for all tickets": "Скенирајте овај QR код за све улазнице",
+  "Individual ticket": "Појединачна улазница",
+  "All Tickets QR": "QR Свих Улазница",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Није могуће учитати информације о улазници. Молимо проверите URL и покушајте поново.",
 };
 export default sr;

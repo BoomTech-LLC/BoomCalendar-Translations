@@ -908,5 +908,18 @@ let be = {
   "Square": "Квадрат",
   "Triangle": "Трохкутнік",
   "Star": "Зорка",
+  "Ticket Not Found": "Білет Не Знойдзены",
+  "Your Ticket": "Ваш Білет",
+  "Loading your ticket...": "Загрузка вашага білета...",
+  "Show this QR code at the entrance or": "Пакажыце гэты QR-код на ўваходзе або",
+  "Show this QR code at the entrance.": "Пакажыце гэты QR-код на ўваходзе.",
+  "Download QR": "Спампаваць QR",
+  "Individual Tickets": "Асобныя Білеты",
+  "QR Code for All Tickets": "QR-код для Усіх Білетаў",
+  "Scan this QR for all tickets": "Скануйце гэты QR-код для ўсіх білетаў",
+  "Individual ticket": "Асобны білет",
+  "All Tickets QR": "QR Усіх Білетаў",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Не ўдалося загрузіць інфармацыю пра білет. Калі ласка, праверце URL і паспрабуйце яшчэ раз.",
 };
 export default be;

@@ -950,5 +950,18 @@ let bg = {
   "Gallery": "Галерия",
   "Thank You!": "Благодарим!",
   "Your registration was successful.": "Вашата регистрация беше успешна.",
+  "Ticket Not Found": "Билет Не Намерен",
+  "Your Ticket": "Вашият Билет",
+  "Loading your ticket...": "Зареждане на вашия билет...",
+  "Show this QR code at the entrance or": "Покажете този QR код на входа или",
+  "Show this QR code at the entrance.": "Покажете този QR код на входа.",
+  "Download QR": "Изтегли QR",
+  "Individual Tickets": "Отделни Билети",
+  "QR Code for All Tickets": "QR Код за Всички Билети",
+  "Scan this QR for all tickets": "Сканирайте този QR код за всички билети",
+  "Individual ticket": "Отделен билет",
+  "All Tickets QR": "QR на Всички Билети",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Не може да се зареди информацията за билета. Моля, проверете URL адреса и опитайте отново.",
 };
 export default bg;

@@ -900,5 +900,18 @@ let ro = {
   "Square": "Pătrat",
   "Triangle": "Triunghi",
   "Star": "Stea",
+  "Ticket Not Found": "Bilet Nu a Fost Găsit",
+  "Your Ticket": "Biletul Tău",
+  "Loading your ticket...": "Se încarcă biletul tău...",
+  "Show this QR code at the entrance or": "Afișează acest cod QR la intrare sau",
+  "Show this QR code at the entrance.": "Afișează acest cod QR la intrare.",
+  "Download QR": "Descarcă QR",
+  "Individual Tickets": "Bilete Individuale",
+  "QR Code for All Tickets": "Cod QR pentru Toate Biletele",
+  "Scan this QR for all tickets": "Scanează acest cod QR pentru toate biletele",
+  "Individual ticket": "Bilet individual",
+  "All Tickets QR": "QR Toate Biletele",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Nu s-au putut încărca informațiile biletului. Te rugăm să verifici URL-ul și să încerci din nou.",
 };
 export default ro;

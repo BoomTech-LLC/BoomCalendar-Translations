@@ -898,5 +898,18 @@ let ms = {
   "Square": "Dataran",
   "Triangle": "Segitiga",
   "Star": "Bintang",
+  "Ticket Not Found": "Tiket Tidak Dijumpai",
+  "Your Ticket": "Tiket Anda",
+  "Loading your ticket...": "Memuatkan tiket anda...",
+  "Show this QR code at the entrance or": "Tunjukkan kod QR ini di pintu masuk atau",
+  "Show this QR code at the entrance.": "Tunjukkan kod QR ini di pintu masuk.",
+  "Download QR": "Muat Turun QR",
+  "Individual Tickets": "Tiket Individu",
+  "QR Code for All Tickets": "Kod QR untuk Semua Tiket",
+  "Scan this QR for all tickets": "Imbas kod QR ini untuk semua tiket",
+  "Individual ticket": "Tiket individu",
+  "All Tickets QR": "QR Semua Tiket",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Tidak dapat memuatkan maklumat tiket. Sila semak URL dan cuba lagi.",
 };
 export default ms;

@@ -900,5 +900,18 @@ let sk = {
   "Square": "Štvorcový",
   "Triangle": "Trojuholník",
   "Star": "Hviezda",
+  "Ticket Not Found": "Lístok Nenájdený",
+  "Your Ticket": "Váš Lístok",
+  "Loading your ticket...": "Načítanie vášho lístka...",
+  "Show this QR code at the entrance or": "Ukážte tento QR kód pri vchode alebo",
+  "Show this QR code at the entrance.": "Ukážte tento QR kód pri vchode.",
+  "Download QR": "Stiahnuť QR",
+  "Individual Tickets": "Jednotlivé Lístky",
+  "QR Code for All Tickets": "QR Kód pre Všetky Lístky",
+  "Scan this QR for all tickets": "Naskenujte tento QR kód pre všetky lístky",
+  "Individual ticket": "Jednotlivý lístok",
+  "All Tickets QR": "QR Všetkých Lístkov",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Nepodarilo sa načítať informácie o lístku. Skontrolujte prosím URL a skúste to znova.",
 };
 export default sk;

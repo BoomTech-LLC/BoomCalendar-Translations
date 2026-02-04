@@ -938,5 +938,18 @@ let ar = {
   "Gallery": "معرض الصور",
   "Thank You!": "شكراً لك!",
   "Your registration was successful.": "تم تسجيلك بنجاح.",
+  "Ticket Not Found": "التذكرة غير موجودة",
+  "Your Ticket": "تذكرتك",
+  "Loading your ticket...": "جارٍ تحميل تذكرتك...",
+  "Show this QR code at the entrance or": "اعرض رمز QR هذا عند المدخل أو",
+  "Show this QR code at the entrance.": "اعرض رمز QR هذا عند المدخل.",
+  "Download QR": "تحميل رمز الاستجابة السريعة",
+  "Individual Tickets": "التذاكر الفردية",
+  "QR Code for All Tickets": "رمز QR لجميع التذاكر",
+  "Scan this QR for all tickets": "امسح رمز QR هذا لجميع التذاكر",
+  "Individual ticket": "تذكرة فردية",
+  "All Tickets QR": "QR لجميع التذاكر",
+  "ID": "المعرف",
+  "Unable to load ticket information. Please check the URL and try again.": "تعذر تحميل معلومات التذكرة. يرجى التحقق من الرابط والمحاولة مرة أخرى.",
 };
 export default ar;

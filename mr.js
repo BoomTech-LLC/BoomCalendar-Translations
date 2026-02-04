@@ -899,5 +899,18 @@ let mr = {
   "Square": "चौरस",
   "Triangle": "त्रिकोण",
   "Star": "तारा",
+  "Ticket Not Found": "तिकीट सापडले नाही",
+  "Your Ticket": "तुमचे तिकीट",
+  "Loading your ticket...": "तुमचे तिकीट लोड होत आहे...",
+  "Show this QR code at the entrance or": "प्रवेशद्वारावर हा QR कोड दाखवा किंवा",
+  "Show this QR code at the entrance.": "प्रवेशद्वारावर हा QR कोड दाखवा.",
+  "Download QR": "QR डाउनलोड करा",
+  "Individual Tickets": "वैयक्तिक तिकीटे",
+  "QR Code for All Tickets": "सर्व तिकीटांसाठी QR कोड",
+  "Scan this QR for all tickets": "सर्व तिकीटांसाठी हा QR स्कॅन करा",
+  "Individual ticket": "वैयक्तिक तिकीट",
+  "All Tickets QR": "सर्व तिकीटांचा QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "तिकीट माहिती लोड करू शकत नाही. कृपया URL तपासा आणि पुन्हा प्रयत्न करा.",
 };
 export default mr;

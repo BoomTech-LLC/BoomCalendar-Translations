@@ -951,5 +951,18 @@ let sv = {
   "Gallery": "Galleri",
   "Thank You!": "Tack!",
   "Your registration was successful.": "Din registrering lyckades.",
+  "Ticket Not Found": "Biljett Hittades Inte",
+  "Your Ticket": "Din Biljett",
+  "Loading your ticket...": "Laddar din biljett...",
+  "Show this QR code at the entrance or": "Visa denna QR-kod vid ingången eller",
+  "Show this QR code at the entrance.": "Visa denna QR-kod vid ingången.",
+  "Download QR": "Ladda Ner QR",
+  "Individual Tickets": "Individuella Biljetter",
+  "QR Code for All Tickets": "QR-kod för Alla Biljetter",
+  "Scan this QR for all tickets": "Skanna denna QR-kod för alla biljetter",
+  "Individual ticket": "Individuell biljett",
+  "All Tickets QR": "Alla Biljetter QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Kunde inte ladda biljettinformation. Kontrollera URL:en och försök igen.",
 };
 export default sv;

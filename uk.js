@@ -965,5 +965,18 @@ let uk = {
   "Gallery": "Галерея",
   "Thank You!": "Дякуємо!",
   "Your registration was successful.": "Ваша реєстрація пройшла успішно.",
+  "Ticket Not Found": "Квиток Не Знайдено",
+  "Your Ticket": "Ваш Квиток",
+  "Loading your ticket...": "Завантаження вашого квитка...",
+  "Show this QR code at the entrance or": "Покажіть цей QR-код на вході або",
+  "Show this QR code at the entrance.": "Покажіть цей QR-код на вході.",
+  "Download QR": "Завантажити QR",
+  "Individual Tickets": "Окремі Квитки",
+  "QR Code for All Tickets": "QR-код для Всіх Квитків",
+  "Scan this QR for all tickets": "Відскануйте цей QR-код для всіх квитків",
+  "Individual ticket": "Окремий квиток",
+  "All Tickets QR": "QR Всіх Квитків",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Не вдалося завантажити інформацію про квиток. Будь ласка, перевірте URL і спробуйте ще раз.",
 };
 export default uk;

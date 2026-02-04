@@ -917,5 +917,18 @@ let hy = {
   "Square": "Քառակուսի",
   "Triangle": "Եռանկյունի",
   "Star": "Աստղ",
+  "Ticket Not Found": "Տոմսը Չի Գտնվել",
+  "Your Ticket": "Ձեր Տոմսը",
+  "Loading your ticket...": "Ձեր տոմսի բեռնում...",
+  "Show this QR code at the entrance or": "Ցույց տվեք այս QR կոդը մուտքի մոտ կամ",
+  "Show this QR code at the entrance.": "Ցույց տվեք այս QR կոդը մուտքի մոտ:",
+  "Download QR": "Ներբեռնել QR",
+  "Individual Tickets": "Անհատական Տոմսեր",
+  "QR Code for All Tickets": "QR Կոդ Բոլոր Տոմսերի Համար",
+  "Scan this QR for all tickets": "Սկանավորեք այս QR կոդը բոլոր տոմսերի համար",
+  "Individual ticket": "Անհատական տոմս",
+  "All Tickets QR": "Բոլոր Տոմսերի QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Չհաջողվեց բեռնել տոմսի տեղեկատվությունը: Խնդրում ենք ստուգել URL-ը և կրկին փորձել:",
 };
 export default hy;

@@ -941,5 +941,18 @@ let cs = {
   "Gallery": "Galerie",
   "Thank You!": "Děkujeme!",
   "Your registration was successful.": "Vaše registrace proběhla úspěšně.",
+  "Ticket Not Found": "Vstupenka Nenalezena",
+  "Your Ticket": "Vaše Vstupenka",
+  "Loading your ticket...": "Načítání vaší vstupenky...",
+  "Show this QR code at the entrance or": "Ukažte tento QR kód u vstupu nebo",
+  "Show this QR code at the entrance.": "Ukažte tento QR kód u vstupu.",
+  "Download QR": "Stáhnout QR",
+  "Individual Tickets": "Jednotlivé Vstupenky",
+  "QR Code for All Tickets": "QR Kód pro Všechny Vstupenky",
+  "Scan this QR for all tickets": "Naskenujte tento QR kód pro všechny vstupenky",
+  "Individual ticket": "Jednotlivá vstupenka",
+  "All Tickets QR": "QR Všech Vstupenek",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Nelze načíst informace o vstupence. Zkontrolujte prosím URL a zkuste to znovu.",
 };
 export default cs;

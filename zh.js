@@ -922,5 +922,18 @@ let zh = {
   "Gallery": "图库",
   "Thank You!": "谢谢！",
   "Your registration was successful.": "您的注册已成功。",
+  "Ticket Not Found": "未找到门票",
+  "Your Ticket": "您的门票",
+  "Loading your ticket...": "正在加载您的门票...",
+  "Show this QR code at the entrance or": "在入口处出示此二维码或",
+  "Show this QR code at the entrance.": "在入口处出示此二维码。",
+  "Download QR": "下载二维码",
+  "Individual Tickets": "个人门票",
+  "QR Code for All Tickets": "所有门票的二维码",
+  "Scan this QR for all tickets": "扫描此二维码以获取所有门票",
+  "Individual ticket": "个人门票",
+  "All Tickets QR": "所有门票二维码",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "无法加载门票信息。请检查URL并重试。",
 };
 export default zh;

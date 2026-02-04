@@ -937,5 +937,18 @@ let ko = {
   "Gallery": "갤러리",
   "Thank You!": "감사합니다!",
   "Your registration was successful.": "등록이 완료되었습니다.",
+  "Ticket Not Found": "티켓을 찾을 수 없습니다",
+  "Your Ticket": "귀하의 티켓",
+  "Loading your ticket...": "티켓을 불러오는 중...",
+  "Show this QR code at the entrance or": "입구에서 이 QR 코드를 보여주거나",
+  "Show this QR code at the entrance.": "입구에서 이 QR 코드를 보여주세요.",
+  "Download QR": "QR 다운로드",
+  "Individual Tickets": "개별 티켓",
+  "QR Code for All Tickets": "모든 티켓용 QR 코드",
+  "Scan this QR for all tickets": "모든 티켓에 대해 이 QR 코드를 스캔하세요",
+  "Individual ticket": "개별 티켓",
+  "All Tickets QR": "모든 티켓 QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "티켓 정보를 불러올 수 없습니다. URL을 확인하고 다시 시도하세요.",
 };
 export default ko;

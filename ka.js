@@ -899,5 +899,18 @@ let ka = {
   "Square": "კვადრატი",
   "Triangle": "სამკუთხედი",
   "Star": "ვარსკვლავი",
+  "Ticket Not Found": "ბილეთი ვერ მოიძებნა",
+  "Your Ticket": "თქვენი ბილეთი",
+  "Loading your ticket...": "ბილეთის ჩატვირთვა...",
+  "Show this QR code at the entrance or": "აჩვენეთ ეს QR კოდი შესასვლელთან ან",
+  "Show this QR code at the entrance.": "აჩვენეთ ეს QR კოდი შესასვლელთან.",
+  "Download QR": "QR-ის ჩამოტვირთვა",
+  "Individual Tickets": "ინდივიდუალური ბილეთები",
+  "QR Code for All Tickets": "QR კოდი ყველა ბილეთისთვის",
+  "Scan this QR for all tickets": "სკანირება ამ QR კოდის ყველა ბილეთისთვის",
+  "Individual ticket": "ინდივიდუალური ბილეთი",
+  "All Tickets QR": "ყველა ბილეთის QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "ბილეთის ინფორმაციის ჩატვირთვა ვერ მოხერხდა. გთხოვთ, შეამოწმოთ URL და სცადოთ კვლავ.",
 };
 export default ka;

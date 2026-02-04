@@ -939,5 +939,18 @@ let hu = {
   "Gallery": "Galéria",
   "Thank You!": "Köszönjük!",
   "Your registration was successful.": "A regisztrációja sikeres volt.",
+  "Ticket Not Found": "Jegy Nem Található",
+  "Your Ticket": "Az Ön Jegye",
+  "Loading your ticket...": "Jegy betöltése...",
+  "Show this QR code at the entrance or": "Mutassa meg ezt a QR-kódot a bejáratnál vagy",
+  "Show this QR code at the entrance.": "Mutassa meg ezt a QR-kódot a bejáratnál.",
+  "Download QR": "QR Letöltése",
+  "Individual Tickets": "Egyedi Jegyek",
+  "QR Code for All Tickets": "QR-kód Minden Jegyhez",
+  "Scan this QR for all tickets": "Olvassa be ezt a QR-kódot minden jegyhez",
+  "Individual ticket": "Egyedi jegy",
+  "All Tickets QR": "Minden Jegy QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Nem sikerült betölteni a jegy információkat. Kérjük, ellenőrizze az URL-t és próbálja újra.",
 };
 export default hu;

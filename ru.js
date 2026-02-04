@@ -983,5 +983,18 @@ let ru = {
   "Gallery": "Галерея",
   "Thank You!": "Спасибо!",
   "Your registration was successful.": "Ваша регистрация прошла успешно.",
+  "Ticket Not Found": "Билет Не Найден",
+  "Your Ticket": "Ваш Билет",
+  "Loading your ticket...": "Загрузка вашего билета...",
+  "Show this QR code at the entrance or": "Покажите этот QR-код на входе или",
+  "Show this QR code at the entrance.": "Покажите этот QR-код на входе.",
+  "Download QR": "Загрузить QR",
+  "Individual Tickets": "Отдельные Билеты",
+  "QR Code for All Tickets": "QR-код для Всех Билетов",
+  "Scan this QR for all tickets": "Отсканируйте этот QR-код для всех билетов",
+  "Individual ticket": "Отдельный билет",
+  "All Tickets QR": "QR Всех Билетов",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Не удалось загрузить информацию о билете. Пожалуйста, проверьте URL и попробуйте снова.",
 };
 export default ru;

@@ -950,5 +950,18 @@ let he = {
   "Gallery": "גלריה",
   "Thank You!": "תודה!",
   "Your registration was successful.": "ההרשמה שלך בוצעה בהצלחה.",
+  "Ticket Not Found": "כרטיס לא נמצא",
+  "Your Ticket": "הכרטיס שלך",
+  "Loading your ticket...": "טוען את הכרטיס שלך...",
+  "Show this QR code at the entrance or": "הצג את קוד ה-QR הזה בכניסה או",
+  "Show this QR code at the entrance.": "הצג את קוד ה-QR הזה בכניסה.",
+  "Download QR": "הורד QR",
+  "Individual Tickets": "כרטיסים בודדים",
+  "QR Code for All Tickets": "קוד QR לכל הכרטיסים",
+  "Scan this QR for all tickets": "סרוק את קוד ה-QR הזה עבור כל הכרטיסים",
+  "Individual ticket": "כרטיס בודד",
+  "All Tickets QR": "QR לכל הכרטיסים",
+  "ID": "מזהה",
+  "Unable to load ticket information. Please check the URL and try again.": "לא ניתן לטעון את פרטי הכרטיס. אנא בדוק את כתובת האתר ונסה שוב.",
 };
 export default he;

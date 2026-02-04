@@ -940,5 +940,18 @@ let da = {
   "Gallery": "Galleri",
   "Thank You!": "Tak!",
   "Your registration was successful.": "Din tilmelding var vellykket.",
+  "Ticket Not Found": "Billet Ikke Fundet",
+  "Your Ticket": "Din Billet",
+  "Loading your ticket...": "Indlæser din billet...",
+  "Show this QR code at the entrance or": "Vis denne QR-kode ved indgangen eller",
+  "Show this QR code at the entrance.": "Vis denne QR-kode ved indgangen.",
+  "Download QR": "Download QR",
+  "Individual Tickets": "Individuelle Billetter",
+  "QR Code for All Tickets": "QR-kode til Alle Billetter",
+  "Scan this QR for all tickets": "Scan denne QR-kode for alle billetter",
+  "Individual ticket": "Individuel billet",
+  "All Tickets QR": "Alle Billetter QR",
+  "ID": "ID",
+  "Unable to load ticket information. Please check the URL and try again.": "Kunne ikke indlæse billetinformation. Tjek venligst URL'en og prøv igen.",
 };
 export default da;
