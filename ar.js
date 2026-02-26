@@ -6,7 +6,7 @@ let ar = {
   "Sync categories": "مزامنة الفئات",
   "Hide event description": "إخفاء وصف الحدث",
   "Hide private events": "إخفاء الفعاليات الخاصة",
-  "No synchronized calendars yet. Select a calendar above and click Sync to start.": "لا توجد تقاويم متزامنة حتى الآن. حدد تقويمًا من الأعلى وانقر على "مزامنة" للبدء.",
+  "No synchronized calendars yet. Select a calendar above and click Sync to start.": "لا توجد تقاويم متزامنة حتى الآن. حدد تقويمًا من الأعلى وانقر على \"مزامنة\" للبدء.",
   "Fetches current events so you can add them one by one.": "يجلب الأحداث الجارية حتى تتمكن من إضافتها واحداً تلو الآخر.",
   "Keeps events continuously updated in real time.": "يُبقي الأحداث محدثة باستمرار في الوقت الفعلي.",
   "Your Api Key": "مفتاح API الخاص بك",
