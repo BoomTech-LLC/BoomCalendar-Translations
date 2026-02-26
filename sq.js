@@ -6,7 +6,7 @@ let sq = {
   "Sync categories": "Sinkronizoni kategoritë",
   "Hide event description": "Fshih përshkrimin e ngjarjes",
   "Hide private events": "Fshih ngjarjet private",
-  "No synchronized calendars yet. Select a calendar above and click Sync to start.": "Nuk ka ende kalendarë të sinkronizuar. Zgjidh një kalendar më sipër dhe kliko "Sinkronizo" për të filluar.",
+  "No synchronized calendars yet. Select a calendar above and click Sync to start.": "Nuk ka ende kalendarë të sinkronizuar. Zgjidh një kalendar më sipër dhe kliko \"Sinkronizo\" për të filluar.",
   "Fetches current events so you can add them one by one.": "Merr ngjarjet aktuale në mënyrë që t'i shtoni një nga një.",
   "Keeps events continuously updated in real time.": "Mban ngjarjet të azhurnuara vazhdimisht në kohë reale.",
   "Your Api Key": "Çelësi juaj Api",
