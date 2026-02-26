@@ -1,4 +1,5 @@
 let ja = {
+  "Sync": "同期",
   "Connected": "接続",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Googleアカウントへの接続を削除します。以前にインポートしたイベントはカレンダーに残ります。",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "範囲が広いほど、読み込むイベント数が増えます。カレンダーの表示が遅いと感じた場合は、最もよく使用する表示に合わせて範囲を狭めてみてください（例：月間表示では年間表示よりも範囲を狭めてください）。",

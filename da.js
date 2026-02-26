@@ -1,4 +1,5 @@
 let da = {
+  "Sync": "Synkroniser",
   "Connected": "Forbundet",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Fjerner forbindelsen til din Google-konto. Tidligere importerede begivenheder forbliver i din kalender.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Et bredere interval betyder flere begivenheder at indlæse. Hvis din kalender føles langsom, kan du prøve at indsnævre intervallet, så det passer til den visning, du bruger mest (f.eks. kræver månedsvisning et kortere interval end årlig).",

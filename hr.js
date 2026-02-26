@@ -1,4 +1,5 @@
 let hr = {
+  "Sync": "Sinkronizacija",
   "Connected": "Povezano",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Uklanja vezu s vašim Google računom. Prethodno uvezeni događaji ostat će u vašem kalendaru.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Širi raspon znači više događaja za učitavanje. Ako vam se kalendar čini sporim, pokušajte suziti raspon kako bi odgovarao prikazu koji najčešće koristite (npr. mjesečni prikaz treba kraći raspon od godišnjeg).",

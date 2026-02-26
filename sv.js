@@ -1,4 +1,5 @@
 let sv = {
+  "Sync": "Synkronisera",
   "Connected": "Ansluten",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Tar bort kopplingen till ditt Google-konto. Tidigare importerade händelser kommer att finnas kvar i din kalender.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Ett bredare intervall innebär fler händelser att ladda. Om din kalender känns långsam kan du försöka begränsa intervallet så att det matchar den vy du använder mest (t.ex. behöver månadsvyn ett kortare intervall än årsvyn).",

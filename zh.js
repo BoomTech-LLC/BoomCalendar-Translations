@@ -1,4 +1,5 @@
 let zh = {
+  "Sync": "同步",
   "Connected": "已连接",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "移除与您的 Google 帐户的连接。之前导入的事件将保留在您的日历中。",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "范围越广，需要加载的事件就越多。如果您的日历运行缓慢，请尝试缩小范围，使其与您最常用的视图相匹配（例如，月视图需要的范围比年视图要小）。",

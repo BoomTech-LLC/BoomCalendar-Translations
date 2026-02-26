@@ -1,4 +1,5 @@
 let ar = {
+  "Sync": "مزامنة",
   "Connected": "متصل",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "يزيل هذا الإجراء الربط بحسابك على جوجل. ستبقى الأحداث التي تم استيرادها مسبقًا في تقويمك.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "يعني النطاق الأوسع تحميل المزيد من الأحداث. إذا شعرتَ ببطء التقويم، فحاول تضييق النطاق ليتناسب مع طريقة العرض التي تستخدمها أكثر (على سبيل المثال، يحتاج العرض الشهري إلى نطاق أقصر من العرض السنوي).",

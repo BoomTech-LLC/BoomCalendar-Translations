@@ -1,4 +1,5 @@
 let el = {
+  "Sync": "Συγχρονισμός",
   "Connected": "Συνδεδεμένος",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Καταργεί τη σύνδεση με τον Λογαριασμό σας Google. Τα συμβάντα που έχουν εισαχθεί προηγουμένως θα παραμείνουν στο ημερολόγιό σας.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Ένα ευρύτερο εύρος σημαίνει περισσότερα συμβάντα για φόρτωση. Εάν το ημερολόγιό σας φαίνεται αργό, δοκιμάστε να περιορίσετε το εύρος ώστε να ταιριάζει με την προβολή που χρησιμοποιείτε περισσότερο (π.χ. η μηνιαία προβολή χρειάζεται μικρότερο εύρος από την ετήσια).",

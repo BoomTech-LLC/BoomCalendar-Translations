@@ -1,4 +1,5 @@
 let ko = {
+  "Sync": "동조",
   "Connected": "연결됨",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Google 계정과의 연결을 해제합니다. 이전에 가져온 이벤트는 캘린더에 그대로 유지됩니다.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "범위를 넓히면 불러와야 할 이벤트 수가 늘어납니다. 캘린더 속도가 느리다고 느껴지면 가장 많이 사용하는 보기 방식에 맞춰 범위를 좁혀 보세요(예: 월별 보기에는 연간 보기보다 더 짧은 범위가 필요합니다).",

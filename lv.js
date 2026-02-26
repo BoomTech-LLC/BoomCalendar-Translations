@@ -1,4 +1,5 @@
 let lv = {
+  "Sync": "Sinhronizācija",
   "Connected": "Savienots",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Noņem savienojumu ar jūsu Google kontu. Iepriekš importētie notikumi paliks jūsu kalendārā.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Plašāks diapazons nozīmē vairāk ielādējamu notikumu. Ja kalendārs šķiet lēns, mēģiniet sašaurināt diapazonu, lai tas atbilstu visbiežāk izmantotajam skatam (piemēram, mēneša skatam ir nepieciešams īsāks diapazons nekā gada skatam).",

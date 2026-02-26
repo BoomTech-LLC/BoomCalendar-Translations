@@ -1,4 +1,5 @@
 let es = {
+  "Sync": "Sincronizar",
   "Connected": "Conectado",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Elimina la conexión con tu cuenta de Google. Los eventos importados previamente permanecerán en tu calendario.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Un rango más amplio implica más eventos para cargar. Si tu calendario se ve lento, intenta reducir el rango para que coincida con la vista que usas con más frecuencia (por ejemplo, la vista mensual necesita un rango más corto que la anual).",

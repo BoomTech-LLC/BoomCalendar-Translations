@@ -1,4 +1,5 @@
 let vi = {
+  "Sync": "Đồng bộ hóa",
   "Connected": "Đã kết nối",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Ngắt kết nối với tài khoản Google của bạn. Các sự kiện đã nhập trước đó sẽ vẫn còn trên lịch của bạn.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Phạm vi rộng hơn đồng nghĩa với việc phải tải nhiều sự kiện hơn. Nếu bạn thấy lịch của mình chậm, hãy thử thu hẹp phạm vi cho phù hợp với chế độ xem bạn sử dụng nhiều nhất (ví dụ: chế độ xem hàng tháng cần phạm vi ngắn hơn chế độ xem hàng năm).",

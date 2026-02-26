@@ -1,4 +1,5 @@
 let fa = {
+  "Sync": "همگام‌سازی",
   "Connected": "متصل",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "اتصال به حساب گوگل شما را حذف می‌کند. رویدادهای وارد شده قبلی در تقویم شما باقی می‌مانند.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "محدوده وسیع‌تر به معنای بارگذاری رویدادهای بیشتر است. اگر تقویم شما کند به نظر می‌رسد، سعی کنید محدوده را محدود کنید تا با نمایی که بیشتر استفاده می‌کنید مطابقت داشته باشد (مثلاً نمای ماهانه به محدوده کوتاه‌تری نسبت به سالانه نیاز دارد).",

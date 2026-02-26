@@ -1,4 +1,5 @@
 let mn = {
+  "Sync": "Синк хийх",
   "Connected": "Холбогдсон",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Таны Google бүртгэлийн холболтыг устгана. Өмнө нь импортолсон үйл явдлууд таны хуанли дээр үлдэнэ.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Илүү өргөн хүрээтэй байх тусам ачаалах үйл явдлууд илүү их байна гэсэн үг юм. Хэрэв таны хуанли удаан санагдаж байвал хамгийн их ашигладаг харагдацтайгаа тохируулахын тулд хүрээг нарийсгаж үзээрэй (жишээ нь, сар бүрийн харагдац нь жил тутмынхаас богино хүрээ шаарддаг).",

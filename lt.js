@@ -1,4 +1,5 @@
 let lt = {
+  "Sync": "Sinchronizavimas",
   "Connected": "Prijungtas",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Pašalina ryšį su jūsų „Google“ paskyra. Anksčiau importuoti įvykiai liks jūsų kalendoriuje.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Platesnis diapazonas reiškia, kad reikia įkelti daugiau įvykių. Jei jūsų kalendorius veikia lėtai, pabandykite susiaurinti diapazoną, kad jis atitiktų dažniausiai naudojamą rodinį (pvz., mėnesiniam rodiniui reikia trumpesnio diapazono nei metiniam).",

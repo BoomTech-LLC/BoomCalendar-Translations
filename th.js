@@ -1,4 +1,5 @@
 let th = {
+  "Sync": "ซิงค์",
   "Connected": "เชื่อมต่อแล้ว",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "ยกเลิกการเชื่อมต่อกับบัญชี Google ของคุณ กิจกรรมที่นำเข้าไว้ก่อนหน้านี้จะยังคงอยู่ในปฏิทินของคุณ",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "ช่วงเวลาที่กว้างขึ้นหมายถึงต้องโหลดเหตุการณ์มากขึ้น หากปฏิทินของคุณทำงานช้า ลองลดช่วงเวลาให้แคบลงเพื่อให้ตรงกับมุมมองที่คุณใช้บ่อยที่สุด (เช่น มุมมองรายเดือนต้องการช่วงเวลาที่สั้นกว่ามุมมองรายปี)",

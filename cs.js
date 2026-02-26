@@ -1,4 +1,5 @@
 let cs = {
+  "Sync": "Synchronizace",
   "Connected": "Připojeno",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Odebere propojení s vaším účtem Google. Dříve importované události zůstanou ve vašem kalendáři.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Širší rozsah znamená více událostí k načtení. Pokud se vám kalendář zdá pomalý, zkuste rozsah zúžit tak, aby odpovídal zobrazení, které používáte nejčastěji (např. měsíční zobrazení potřebuje kratší rozsah než roční).",

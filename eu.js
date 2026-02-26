@@ -1,4 +1,5 @@
 let eu = {
+  "Sync": "Sinkronizatu",
   "Connected": "Konektatuta",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Zure Google konturako konexioa kentzen du. Aurretik inportatutako gertaerak zure egutegian mantenduko dira.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Barruti zabalago batek gertaera gehiago kargatzea esan nahi du. Zure egutegia motela bada, saiatu barrutia gehien erabiltzen duzun ikuspegiarekin bat etor dadin murrizten (adibidez, hileko ikuspegiak urtekoa baino barruti laburragoa behar du).",

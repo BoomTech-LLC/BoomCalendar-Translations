@@ -1,4 +1,5 @@
 let hi = {
+  "Sync": "साथ-साथ करना",
   "Connected": "जुड़े हुए",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "यह आपके Google खाते से कनेक्शन हटा देता है। पहले से आयात किए गए इवेंट आपके कैलेंडर पर बने रहेंगे।",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "विस्तृत रेंज का मतलब है अधिक इवेंट लोड करना। यदि आपका कैलेंडर धीमा चल रहा है, तो रेंज को कम करके उसे उस व्यू के अनुसार सेट करने का प्रयास करें जिसका आप सबसे अधिक उपयोग करते हैं (उदाहरण के लिए, मासिक व्यू के लिए वार्षिक व्यू की तुलना में छोटी रेंज की आवश्यकता होती है)।",

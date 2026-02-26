@@ -1,4 +1,5 @@
 let cy = {
+  "Sync": "Cysoni",
   "Connected": "Wedi'i gysylltu",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Yn tynnu'r cysylltiad â'ch cyfrif Google. Bydd digwyddiadau a fewnforiwyd yn flaenorol yn aros ar eich calendr.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Mae ystod ehangach yn golygu mwy o ddigwyddiadau i'w llwytho. Os yw'ch calendr yn teimlo'n araf, ceisiwch gulhau'r ystod i gyd-fynd â'r olygfa rydych chi'n ei defnyddio fwyaf (e.e. mae angen ystod fyrrach ar olygfa fisol na blynyddol).",

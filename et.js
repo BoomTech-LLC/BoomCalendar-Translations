@@ -1,4 +1,5 @@
 let et = {
+  "Sync": "Sünkroonimine",
   "Connected": "Ühendatud",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Eemaldab ühenduse teie Google'i kontoga. Varem imporditud sündmused jäävad teie kalendrisse alles.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Laiem vahemik tähendab rohkem sündmusi, mida laadida. Kui teie kalender tundub aeglane, proovige vahemikku kitsendada, et see vastaks teie kõige enam kasutatavale vaatele (nt kuuvaade vajab lühemat vahemikku kui aastavaade).",

@@ -1,4 +1,5 @@
 let hy = {
+  "Sync": "Համաժամեցում",
   "Connected": "Միացված է",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Հեռացնում է կապը ձեր Google հաշվի հետ։ Նախկինում ներմուծված միջոցառումները կմնան ձեր օրացույցում։",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Ավելի լայն միջակայքը նշանակում է ավելի շատ իրադարձություններ բեռնելու կարիք։ Եթե ձեր օրացույցը դանդաղ է թվում, փորձեք նեղացնել միջակայքը՝ համապատասխանեցնելով այն ամենաշատ օգտագործվող տեսքին (օրինակ՝ ամսական տեսքը պահանջում է ավելի կարճ միջակայք, քան տարեկանը)։",

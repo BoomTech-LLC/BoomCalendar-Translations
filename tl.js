@@ -1,4 +1,5 @@
 let tl = {
+  "Sync": "Pag-sync",
   "Connected": "Nakakonekta",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Aalisin ang koneksyon sa iyong Google account. Ang mga dating na-import na kaganapan ay mananatili sa iyong kalendaryo.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Ang mas malawak na saklaw ay nangangahulugan ng mas maraming kaganapang ilo-load. Kung ang iyong kalendaryo ay tila mabagal, subukang paliitin ang saklaw upang tumugma sa view na pinakamadalas mong ginagamit (hal. ang buwanang view ay nangangailangan ng mas maikling saklaw kaysa sa taunang).",

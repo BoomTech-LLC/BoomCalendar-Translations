@@ -1,4 +1,5 @@
 let mk = {
+  "Sync": "Синхронизирај",
   "Connected": "Поврзано",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Ја отстранува врската со вашата сметка на Google. Претходно увезените настани ќе останат во вашиот календар.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Поширок опсег значи повеќе настани за вчитување. Ако вашиот календар ви се чини бавен, обидете се да го стесните опсегот за да одговара на приказот што го користите најчесто (на пр., месечниот приказ бара пократок опсег од годишниот).",

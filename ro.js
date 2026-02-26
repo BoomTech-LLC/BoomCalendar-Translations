@@ -1,4 +1,5 @@
 let ro = {
+  "Sync": "Sincronizare",
   "Connected": "Conectat",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Elimină conexiunea cu contul tău Google. Evenimentele importate anterior vor rămâne în calendarul tău.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Un interval mai larg înseamnă mai multe evenimente de încărcat. Dacă calendarul tău pare lent, încearcă să restrângi intervalul pentru a se potrivi cu vizualizarea pe care o utilizezi cel mai des (de exemplu, vizualizarea lunară necesită un interval mai scurt decât cea anuală).",
