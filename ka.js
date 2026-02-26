@@ -1,4 +1,5 @@
 let ka = {
+  "Sync": "სინქრონიზაცია",
   "Connected": "დაკავშირებულია",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "შლის კავშირს თქვენს Google ანგარიშთან. ადრე იმპორტირებული ღონისძიებები თქვენს კალენდარში დარჩება.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "უფრო ფართო დიაპაზონი ნიშნავს მეტი ღონისძიების ჩატვირთვას. თუ თქვენი კალენდარი ნელა მუშაობს, სცადეთ დიაპაზონის შემცირება, რათა შეესაბამებოდეს ყველაზე ხშირად გამოყენებულ ხედს (მაგ., ყოველთვიურ ხედს უფრო მოკლე დიაპაზონი სჭირდება, ვიდრე წლიურს).",

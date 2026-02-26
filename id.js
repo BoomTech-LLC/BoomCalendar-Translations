@@ -1,4 +1,5 @@
 let id = {
+  "Sync": "Sinkronisasi",
   "Connected": "Terhubung",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Menghapus koneksi ke akun Google Anda. Acara yang sebelumnya diimpor akan tetap ada di kalender Anda.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Rentang yang lebih luas berarti lebih banyak acara yang perlu dimuat. Jika kalender Anda terasa lambat, coba persempit rentang agar sesuai dengan tampilan yang paling sering Anda gunakan (misalnya, tampilan bulanan membutuhkan rentang yang lebih pendek daripada tampilan tahunan).",

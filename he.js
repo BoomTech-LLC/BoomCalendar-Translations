@@ -1,4 +1,5 @@
 let he = {
+  "Sync": "סנכרון",
   "Connected": "מְחוּבָּר",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "מסיר את החיבור לחשבון גוגל שלך. אירועים שיובאו בעבר יישארו בלוח השנה שלך.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "טווח רחב יותר פירושו טעינת אירועים רבים יותר. אם לוח השנה שלך מרגיש איטי, נסה לצמצם את הטווח כך שיתאים לתצוגה שבה אתה משתמש הכי הרבה (לדוגמה, תצוגה חודשית דורשת טווח קצר יותר מאשר תצוגה שנתית).",

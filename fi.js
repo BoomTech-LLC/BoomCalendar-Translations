@@ -1,4 +1,5 @@
 let fi = {
+  "Sync": "Synkronoi",
   "Connected": "Yhdistetty",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Poistaa yhteyden Google-tiliisi. Aiemmin tuodut tapahtumat pysyvät kalenterissasi.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Laajempi aikaväli tarkoittaa enemmän ladattavia tapahtumia. Jos kalenterisi tuntuu hitaalta, kokeile rajata aikaväliä vastaamaan eniten käyttämääsi näkymää (esim. kuukausinäkymä tarvitsee lyhyemmän aikavälin kuin vuosinäkymän).",

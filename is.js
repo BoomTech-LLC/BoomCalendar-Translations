@@ -1,4 +1,5 @@
 let is = {
+  "Sync": "Samstilling",
   "Connected": "Tengt",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Fjarlægir tenginguna við Google reikninginn þinn. Áður innfluttir viðburðir verða áfram á dagatalinu þínu.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Breitt svið þýðir fleiri viðburði til að hlaða. Ef dagatalið þitt virðist hægt skaltu reyna að þrengja sviðið til að passa við þá sýn sem þú notar mest (t.d. þarf mánaðarsýn styttra svið en árssýn).",

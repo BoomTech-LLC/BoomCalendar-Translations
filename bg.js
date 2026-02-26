@@ -1,4 +1,5 @@
 let bg = {
+  "Sync": "Синхронизиране",
   "Connected": "Свързан",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Премахва връзката с вашия Google акаунт. Предишно импортираните събития ще останат в календара ви.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "По-широкият диапазон означава повече събития за зареждане. Ако календарът ви се струва бавен, опитайте да стесните диапазона, за да съответства на изгледа, който използвате най-много (например, месечният изглед се нуждае от по-кратък диапазон от годишния).",

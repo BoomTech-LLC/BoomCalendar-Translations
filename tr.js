@@ -1,4 +1,5 @@
 let tr = {
+  "Sync": "Senkronizasyon",
   "Connected": "Bağlı",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Google hesabınızla olan bağlantıyı kaldırır. Daha önce içe aktarılan etkinlikler takviminizde kalacaktır.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Daha geniş bir aralık, yüklenecek daha fazla etkinlik anlamına gelir. Takviminiz yavaş çalışıyorsa, en çok kullandığınız görünüme uyacak şekilde aralığı daraltmayı deneyin (örneğin, aylık görünüm yıllık görünümden daha kısa bir aralığa ihtiyaç duyar).",

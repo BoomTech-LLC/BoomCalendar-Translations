@@ -1,4 +1,5 @@
 let ru = {
+  "Sync": "Синхронизация",
   "Connected": "Подключено",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Удаляет привязку к вашему аккаунту Google. Ранее импортированные события останутся в вашем календаре.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Более широкий диапазон означает больше событий для загрузки. Если ваш календарь работает медленно, попробуйте сузить диапазон, чтобы он соответствовал наиболее часто используемому вами режиму просмотра (например, для ежемесячного просмотра требуется более короткий диапазон, чем для годового).",

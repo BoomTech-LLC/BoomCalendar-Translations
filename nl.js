@@ -1,4 +1,5 @@
 let nl = {
+  "Sync": "Synchroniseren",
   "Connected": "Aangesloten",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Verbreekt de koppeling met uw Google-account. Eerder geïmporteerde evenementen blijven in uw agenda staan.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Een groter bereik betekent dat er meer evenementen geladen moeten worden. Als je kalender traag aanvoelt, probeer dan het bereik te verkleinen zodat het overeenkomt met de weergave die je het meest gebruikt (bijvoorbeeld: de maandweergave heeft een korter bereik nodig dan de jaarweergave).",

@@ -1,4 +1,5 @@
 let sq = {
+  "Sync": "Sinkronizim",
   "Connected": "I lidhur",
   "Removes the connection to your Google account. Previously imported events will remain on your calendar.": "Heq lidhjen me llogarinë tënde të Google. Ngjarjet e importuara më parë do të mbeten në kalendarin tënd.",
   "A wider range means more events to load. If your calendar feels slow, try narrowing the range to match the view you use most (e.g. monthly view needs a shorter range than yearly).": "Një gamë më e gjerë do të thotë më shumë ngjarje për t'u ngarkuar. Nëse kalendari juaj duket i ngadaltë, provoni ta ngushtoni gamën për t'u përputhur me pamjen që përdorni më shumë (p.sh., pamja mujore ka nevojë për një gamë më të shkurtër se ajo vjetore).",
