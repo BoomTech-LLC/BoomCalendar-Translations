@@ -1,4 +1,10 @@
 let sv = {
+  "Missing guest ID": "Gäst-ID saknas",
+  "Failed to fetch guest data": "Misslyckades med att hämta gästdata",
+  "Failed to fetch tickets": "Misslyckades med att hämta biljetter",
+  "Failed to load ticket data": "Misslyckades med att ladda ärendedata",
+  "Ticket already bought": "Biljetten är redan köpt",
+  "Select Your Seats": "Välj dina platser",
   "Ticket Details": "Biljettinformation",
   "Per-Ticket QR Codes": "QR-koder per biljett",
   "each": "varje",

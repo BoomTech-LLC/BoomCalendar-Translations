@@ -1,4 +1,10 @@
 let vi = {
+  "Missing guest ID": "Thiếu ID khách",
+  "Failed to fetch guest data": "Không thể tải dữ liệu khách.",
+  "Failed to fetch tickets": "Không thể tải vé",
+  "Failed to load ticket data": "Không thể tải dữ liệu vé.",
+  "Ticket already bought": "Vé đã được mua",
+  "Select Your Seats": "Chọn chỗ ngồi của bạn",
   "Ticket Details": "Thông tin vé",
   "Per-Ticket QR Codes": "Mã QR cho mỗi vé",
   "each": "mỗi",

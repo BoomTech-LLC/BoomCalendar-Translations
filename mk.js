@@ -1,4 +1,10 @@
 let mk = {
+  "Missing guest ID": "Недостасува ID на гостин",
+  "Failed to fetch guest data": "Не успеаја да се преземат податоците за гостите",
+  "Failed to fetch tickets": "Не успеаја да се добијат билети",
+  "Failed to load ticket data": "Не успеаја да се вчитаат податоците за билетот",
+  "Ticket already bought": "Билетот е веќе купен",
+  "Select Your Seats": "Изберете ги вашите седишта",
   "Ticket Details": "Детали за билетот",
   "Per-Ticket QR Codes": "QR кодови по билет",
   "each": "секој",

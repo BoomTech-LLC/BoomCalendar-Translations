@@ -1,4 +1,10 @@
 let el = {
+  "Missing guest ID": "Λείπει το αναγνωριστικό επισκέπτη",
+  "Failed to fetch guest data": "Αποτυχία ανάκτησης δεδομένων επισκέπτη",
+  "Failed to fetch tickets": "Αποτυχία λήψης εισιτηρίων",
+  "Failed to load ticket data": "Αποτυχία φόρτωσης δεδομένων εισιτηρίου",
+  "Ticket already bought": "Το εισιτήριο έχει ήδη αγοραστεί",
+  "Select Your Seats": "Επιλέξτε τις θέσεις σας",
   "Ticket Details": "Λεπτομέρειες εισιτηρίου",
   "Per-Ticket QR Codes": "Κωδικοί QR ανά εισιτήριο",
   "each": "κάθε",

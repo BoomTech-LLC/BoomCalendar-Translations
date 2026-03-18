@@ -1,4 +1,10 @@
 let fr = {
+  "Missing guest ID": "Identifiant invité manquant",
+  "Failed to fetch guest data": "Impossible de récupérer les données des invités",
+  "Failed to fetch tickets": "Impossible de récupérer les billets",
+  "Failed to load ticket data": "Impossible de charger les données du billet",
+  "Ticket already bought": "Billet déjà acheté",
+  "Select Your Seats": "Choisissez vos sièges",
   "Ticket Details": "Détails du billet",
   "Per-Ticket QR Codes": "Codes QR par billet",
   "each": "chaque",

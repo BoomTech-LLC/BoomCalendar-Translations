@@ -1,4 +1,10 @@
 let ko = {
+  "Missing guest ID": "게스트 ID가 누락되었습니다",
+  "Failed to fetch guest data": "게스트 데이터를 가져오는 데 실패했습니다.",
+  "Failed to fetch tickets": "티켓을 가져오는 데 실패했습니다.",
+  "Failed to load ticket data": "티켓 데이터를 불러오는 데 실패했습니다.",
+  "Ticket already bought": "티켓 이미 구매했습니다",
+  "Select Your Seats": "좌석을 선택하세요",
   "Ticket Details": "티켓 상세 정보",
   "Per-Ticket QR Codes": "티켓별 QR 코드",
   "each": "각",

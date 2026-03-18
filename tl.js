@@ -1,4 +1,10 @@
 let tl = {
+  "Missing guest ID": "Nawawalang ID ng bisita",
+  "Failed to fetch guest data": "Nabigong makuha ang datos ng bisita",
+  "Failed to fetch tickets": "Nabigong kumuha ng mga tiket",
+  "Failed to load ticket data": "Nabigong i-load ang data ng tiket",
+  "Ticket already bought": "Nabili na ang tiket",
+  "Select Your Seats": "Piliin ang Iyong mga Upuan",
   "Ticket Details": "Mga Detalye ng Tiket",
   "Per-Ticket QR Codes": "Mga QR Code Bawat Tiket",
   "each": "bawat isa",

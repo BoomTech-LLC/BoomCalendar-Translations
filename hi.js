@@ -1,4 +1,10 @@
 let hi = {
+  "Missing guest ID": "अतिथि आईडी गुम है",
+  "Failed to fetch guest data": "अतिथि डेटा प्राप्त करने में विफल",
+  "Failed to fetch tickets": "टिकट प्राप्त करने में विफल",
+  "Failed to load ticket data": "टिकट डेटा लोड करने में विफल",
+  "Ticket already bought": "टिकट पहले ही खरीदा जा चुका है",
+  "Select Your Seats": "अपनी सीटें चुनें",
   "Ticket Details": "टिकट विवरण",
   "Per-Ticket QR Codes": "प्रति टिकट क्यूआर कोड",
   "each": "प्रत्येक",

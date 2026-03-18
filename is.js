@@ -1,4 +1,10 @@
 let is = {
+  "Missing guest ID": "Gestakenni vantar",
+  "Failed to fetch guest data": "Mistókst að sækja gögn gesta",
+  "Failed to fetch tickets": "Mistókst að sækja miða",
+  "Failed to load ticket data": "Mistókst að hlaða miðagögnum",
+  "Ticket already bought": "Miði þegar keyptur",
+  "Select Your Seats": "Veldu sætin þín",
   "Ticket Details": "Upplýsingar um miða",
   "Per-Ticket QR Codes": "QR kóðar fyrir hvern miða",
   "each": "hver",

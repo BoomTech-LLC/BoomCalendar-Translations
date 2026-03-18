@@ -1,4 +1,10 @@
 let mn = {
+  "Missing guest ID": "Зочны дугаар дутуу байна",
+  "Failed to fetch guest data": "Зочны өгөгдлийг авч чадсангүй",
+  "Failed to fetch tickets": "Тасалбар авч чадсангүй",
+  "Failed to load ticket data": "Тасалбарын мэдээллийг ачаалж чадсангүй",
+  "Ticket already bought": "Тасалбарыг аль хэдийн худалдаж авсан",
+  "Select Your Seats": "Суудлаа сонгоно уу",
   "Ticket Details": "Тасалбарын дэлгэрэнгүй мэдээлэл",
   "Per-Ticket QR Codes": "Тасалбар бүрийн QR кодууд",
   "each": "тус бүр",

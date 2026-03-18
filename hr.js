@@ -1,4 +1,10 @@
 let hr = {
+  "Missing guest ID": "Nedostaje ID gosta",
+  "Failed to fetch guest data": "Nije uspjelo dohvaćanje podataka o gostu",
+  "Failed to fetch tickets": "Nije uspjelo dohvaćanje ulaznica",
+  "Failed to load ticket data": "Nije uspjelo učitavanje podataka o karti",
+  "Ticket already bought": "Karta je već kupljena",
+  "Select Your Seats": "Odaberite svoja sjedala",
   "Ticket Details": "Detalji ulaznice",
   "Per-Ticket QR Codes": "QR kodovi po ulaznici",
   "each": "svaki",

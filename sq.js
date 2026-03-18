@@ -1,4 +1,10 @@
 let sq = {
+  "Missing guest ID": "Mungon ID-ja e mysafirit",
+  "Failed to fetch guest data": "Dështoi në marrjen e të dhënave të mysafirëve",
+  "Failed to fetch tickets": "Dështoi të merrte biletat",
+  "Failed to load ticket data": "Dështoi në ngarkimin e të dhënave të biletave",
+  "Ticket already bought": "Bileta është blerë tashmë",
+  "Select Your Seats": "Zgjidhni Vendet Tuaja",
   "Ticket Details": "Detajet e biletave",
   "Per-Ticket QR Codes": "Kodet QR për çdo biletë",
   "each": "secili",

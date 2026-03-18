@@ -1,4 +1,10 @@
 let ro = {
+  "Missing guest ID": "ID-ul invitatului lipsește",
+  "Failed to fetch guest data": "Nu s-au putut prelua datele oaspetelui",
+  "Failed to fetch tickets": "Biletele nu au fost preluate",
+  "Failed to load ticket data": "Nu s-au putut încărca datele biletului",
+  "Ticket already bought": "Bilet deja cumpărat",
+  "Select Your Seats": "Selectați-vă locurile",
   "Ticket Details": "Detalii bilet",
   "Per-Ticket QR Codes": "Coduri QR per bilet",
   "each": "fiecare",

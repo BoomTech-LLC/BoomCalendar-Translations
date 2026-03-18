@@ -1,4 +1,10 @@
 let ja = {
+  "Missing guest ID": "ゲストIDがありません",
+  "Failed to fetch guest data": "ゲストデータの取得に失敗しました",
+  "Failed to fetch tickets": "チケットの取得に失敗しました",
+  "Failed to load ticket data": "チケットデータの読み込みに失敗しました",
+  "Ticket already bought": "チケットは既に購入済みです。",
+  "Select Your Seats": "座席を選択してください",
   "Ticket Details": "チケットの詳細",
   "Per-Ticket QR Codes": "チケットごとのQRコード",
   "each": "それぞれ",

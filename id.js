@@ -1,4 +1,10 @@
 let id = {
+  "Missing guest ID": "ID tamu hilang",
+  "Failed to fetch guest data": "Gagal mengambil data tamu",
+  "Failed to fetch tickets": "Gagal mengambil tiket.",
+  "Failed to load ticket data": "Gagal memuat data tiket",
+  "Ticket already bought": "Tiket sudah dibeli",
+  "Select Your Seats": "Pilih Tempat Duduk Anda",
   "Ticket Details": "Rincian Tiket",
   "Per-Ticket QR Codes": "Kode QR Per Tiket",
   "each": "setiap",

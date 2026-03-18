@@ -1,4 +1,10 @@
 let ca = {
+  "Missing guest ID": "Falta l'ID de convidat",
+  "Failed to fetch guest data": "No s'han pogut obtenir les dades del convidat",
+  "Failed to fetch tickets": "No s'han pogut obtenir els tiquets",
+  "Failed to load ticket data": "No s'han pogut carregar les dades del tiquet",
+  "Ticket already bought": "Bitllet ja comprat",
+  "Select Your Seats": "Selecciona els teus seients",
   "Ticket Details": "Detalls del bitllet",
   "Per-Ticket QR Codes": "Codis QR per bitllet",
   "each": "cadascun",

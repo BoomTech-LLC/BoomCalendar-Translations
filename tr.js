@@ -1,4 +1,10 @@
 let tr = {
+  "Missing guest ID": "Misafir kimliği eksik.",
+  "Failed to fetch guest data": "Konuk verileri alınamadı.",
+  "Failed to fetch tickets": "Biletler alınamadı.",
+  "Failed to load ticket data": "Bilet verileri yüklenemedi.",
+  "Ticket already bought": "Bilet zaten satın alındı.",
+  "Select Your Seats": "Koltuklarınızı Seçin",
   "Ticket Details": "Bilet Detayları",
   "Per-Ticket QR Codes": "Bilet Başına QR Kodları",
   "each": "her biri",

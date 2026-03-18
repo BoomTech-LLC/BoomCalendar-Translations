@@ -1,4 +1,10 @@
 let ka = {
+  "Missing guest ID": "სტუმრის ID აკლია",
+  "Failed to fetch guest data": "სტუმრის მონაცემების მოძიება ვერ მოხერხდა",
+  "Failed to fetch tickets": "ბილეთების მიღება ვერ მოხერხდა",
+  "Failed to load ticket data": "ბილეთის მონაცემების ჩატვირთვა ვერ მოხერხდა",
+  "Ticket already bought": "ბილეთი უკვე შეძენილია",
+  "Select Your Seats": "აირჩიეთ თქვენი ადგილები",
   "Ticket Details": "ბილეთის დეტალები",
   "Per-Ticket QR Codes": "თითო ბილეთზე QR კოდები",
   "each": "თითოეული",

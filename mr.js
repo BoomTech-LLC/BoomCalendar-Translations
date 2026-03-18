@@ -1,4 +1,10 @@
 let mr = {
+  "Missing guest ID": "पाहुण्यांचे ओळखपत्र गहाळ आहे",
+  "Failed to fetch guest data": "अतिथी डेटा मिळवण्यात अयशस्वी",
+  "Failed to fetch tickets": "तिकिटे मिळवण्यात अयशस्वी",
+  "Failed to load ticket data": "तिकिट डेटा लोड करण्यात अयशस्वी झाले",
+  "Ticket already bought": "तिकीट आधीच खरेदी केले आहे",
+  "Select Your Seats": "तुमच्या जागा निवडा",
   "Ticket Details": "तिकिटाचा तपशील",
   "Per-Ticket QR Codes": "प्रत्येक तिकिटाचे क्यूआर कोड",
   "each": "प्रत्येक",

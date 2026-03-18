@@ -1,4 +1,10 @@
 let cs = {
+  "Missing guest ID": "Chybí ID hosta",
+  "Failed to fetch guest data": "Nepodařilo se načíst data hosta",
+  "Failed to fetch tickets": "Nepodařilo se načíst vstupenky",
+  "Failed to load ticket data": "Nepodařilo se načíst data o jízdence",
+  "Ticket already bought": "Jízdenka již zakoupena",
+  "Select Your Seats": "Vyberte si svá sedadla",
   "Ticket Details": "Podrobnosti o vstupenkách",
   "Per-Ticket QR Codes": "QR kódy pro jednotlivé jízdenky",
   "each": "každý",

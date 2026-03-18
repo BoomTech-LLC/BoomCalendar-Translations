@@ -1,4 +1,10 @@
 let th = {
+  "Missing guest ID": "รหัสผู้เข้าพักหายไป",
+  "Failed to fetch guest data": "ไม่สามารถดึงข้อมูลผู้เข้าพักได้",
+  "Failed to fetch tickets": "ไม่สามารถดึงข้อมูลตั๋วได้",
+  "Failed to load ticket data": "ไม่สามารถโหลดข้อมูลตั๋วได้",
+  "Ticket already bought": "ซื้อตั๋วเรียบร้อยแล้ว",
+  "Select Your Seats": "เลือกที่นั่งของคุณ",
   "Ticket Details": "รายละเอียดตั๋ว",
   "Per-Ticket QR Codes": "รหัส QR ต่อตั๋วแต่ละใบ",
   "each": "แต่ละ",

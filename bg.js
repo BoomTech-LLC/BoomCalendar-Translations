@@ -1,4 +1,10 @@
 let bg = {
+  "Missing guest ID": "Липсва идентификационен номер на гост",
+  "Failed to fetch guest data": "Извличането на данните за госта не бе успешно",
+  "Failed to fetch tickets": "Извличането на билети не бе успешно",
+  "Failed to load ticket data": "Зареждането на данните за билета не бе успешно",
+  "Ticket already bought": "Билетът вече е закупен",
+  "Select Your Seats": "Изберете Вашите места",
   "Ticket Details": "Детайли за билета",
   "Per-Ticket QR Codes": "QR кодове за билет",
   "each": "всеки",

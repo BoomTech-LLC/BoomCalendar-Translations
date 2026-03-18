@@ -1,4 +1,10 @@
 let et = {
+  "Missing guest ID": "Puudub külalise ID",
+  "Failed to fetch guest data": "Külalise andmete toomine ebaõnnestus",
+  "Failed to fetch tickets": "Piletite toomine ebaõnnestus",
+  "Failed to load ticket data": "Piletiandmete laadimine ebaõnnestus",
+  "Ticket already bought": "Pilet on juba ostetud",
+  "Select Your Seats": "Valige oma istekohad",
   "Ticket Details": "Pileti üksikasjad",
   "Per-Ticket QR Codes": "Piletipõhised QR-koodid",
   "each": "iga",

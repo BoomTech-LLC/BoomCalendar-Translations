@@ -1,4 +1,10 @@
 let he = {
+  "Missing guest ID": "חסר מזהה אורח",
+  "Failed to fetch guest data": "נכשל באחזור נתוני האורחים",
+  "Failed to fetch tickets": "לא ניתן היה לאסוף כרטיסים",
+  "Failed to load ticket data": "טעינת נתוני הכרטיס נכשלה",
+  "Ticket already bought": "כרטיס כבר נקנה",
+  "Select Your Seats": "בחר את המושבים שלך",
   "Ticket Details": "פרטי כרטיס",
   "Per-Ticket QR Codes": "קודי QR לכל כרטיס",
   "each": "כֹּל",

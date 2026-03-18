@@ -1,4 +1,10 @@
 let cy = {
+  "Missing guest ID": "ID gwestai ar goll",
+  "Failed to fetch guest data": "Methwyd nôl data gwestai",
+  "Failed to fetch tickets": "Methwyd nôl tocynnau",
+  "Failed to load ticket data": "Methwyd llwytho data tocynnau",
+  "Ticket already bought": "Tocyn eisoes wedi'i brynu",
+  "Select Your Seats": "Dewiswch Eich Seddau",
   "Ticket Details": "Manylion y Tocyn",
   "Per-Ticket QR Codes": "Codau QR Fesul Tocyn",
   "each": "pob un",

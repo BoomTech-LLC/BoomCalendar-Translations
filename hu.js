@@ -1,4 +1,10 @@
 let hu = {
+  "Missing guest ID": "Hiányzó vendégazonosító",
+  "Failed to fetch guest data": "Nem sikerült lekérni a vendég adatait",
+  "Failed to fetch tickets": "Nem sikerült lekérni a jegyeket",
+  "Failed to load ticket data": "Nem sikerült betölteni a jegyadatokat",
+  "Ticket already bought": "Jegy már megvásárolva",
+  "Select Your Seats": "Válassza ki az üléseit",
   "Ticket Details": "Jegy részletei",
   "Per-Ticket QR Codes": "Jegyenkénti QR-kódok",
   "each": "minden",

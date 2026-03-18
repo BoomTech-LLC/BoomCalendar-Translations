@@ -1,4 +1,10 @@
 let ar = {
+  "Missing guest ID": "هوية الضيف مفقودة",
+  "Failed to fetch guest data": "فشل في جلب بيانات الضيف",
+  "Failed to fetch tickets": "فشل في جلب التذاكر",
+  "Failed to load ticket data": "فشل تحميل بيانات التذكرة",
+  "Ticket already bought": "تم شراء التذكرة بالفعل",
+  "Select Your Seats": "اختر مقاعدك",
   "Ticket Details": "تفاصيل التذكرة",
   "Per-Ticket QR Codes": "رموز الاستجابة السريعة لكل تذكرة",
   "each": "كل",

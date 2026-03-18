@@ -1,4 +1,10 @@
 let sk = {
+  "Missing guest ID": "Chýba ID hosťa",
+  "Failed to fetch guest data": "Nepodarilo sa načítať údaje hosťa",
+  "Failed to fetch tickets": "Nepodarilo sa načítať lístky",
+  "Failed to load ticket data": "Nepodarilo sa načítať údaje o lístku",
+  "Ticket already bought": "Lístok už zakúpený",
+  "Select Your Seats": "Vyberte si svoje sedadlá",
   "Ticket Details": "Podrobnosti o lístku",
   "Per-Ticket QR Codes": "QR kódy pre jednotlivé lístky",
   "each": "každý",

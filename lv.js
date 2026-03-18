@@ -1,4 +1,10 @@
 let lv = {
+  "Missing guest ID": "Trūkst viesa ID",
+  "Failed to fetch guest data": "Neizdevās izgūt viesa datus.",
+  "Failed to fetch tickets": "Neizdevās izgūt biļetes",
+  "Failed to load ticket data": "Neizdevās ielādēt biļetes datus",
+  "Ticket already bought": "Biļete jau iegādāta",
+  "Select Your Seats": "Izvēlieties savas sēdvietas",
   "Ticket Details": "Biļetes informācija",
   "Per-Ticket QR Codes": "QR kodi katrai biļetei",
   "each": "katrs",

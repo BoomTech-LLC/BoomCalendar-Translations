@@ -1,4 +1,10 @@
 let pt = {
+  "Missing guest ID": "Identificação de hóspede ausente",
+  "Failed to fetch guest data": "Falha ao obter dados do convidado",
+  "Failed to fetch tickets": "Não foi possível obter os bilhetes.",
+  "Failed to load ticket data": "Falha ao carregar os dados do bilhete",
+  "Ticket already bought": "Bilhete já comprado",
+  "Select Your Seats": "Selecione seus assentos",
   "Ticket Details": "Detalhes do ingresso",
   "Per-Ticket QR Codes": "Códigos QR por bilhete",
   "each": "cada",

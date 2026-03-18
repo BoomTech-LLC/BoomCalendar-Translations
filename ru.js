@@ -1,4 +1,10 @@
 let ru = {
+  "Missing guest ID": "Отсутствует удостоверение личности гостя",
+  "Failed to fetch guest data": "Не удалось получить данные гостя.",
+  "Failed to fetch tickets": "Не удалось получить билеты",
+  "Failed to load ticket data": "Не удалось загрузить данные билета.",
+  "Ticket already bought": "Билет уже куплен",
+  "Select Your Seats": "Выберите места",
   "Ticket Details": "Информация о билетах",
   "Per-Ticket QR Codes": "QR-коды для каждого билета",
   "each": "каждый",

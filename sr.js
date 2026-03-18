@@ -1,4 +1,10 @@
 let sr = {
+  "Missing guest ID": "Недостаје ИД госта",
+  "Failed to fetch guest data": "Није успело преузимање података о гостима",
+  "Failed to fetch tickets": "Преузимање карата није успело",
+  "Failed to load ticket data": "Учитавање података о карти није успело",
+  "Ticket already bought": "Карта је већ купљена",
+  "Select Your Seats": "Изаберите своја седишта",
   "Ticket Details": "Детаљи о улазници",
   "Per-Ticket QR Codes": "QR кодови по карти",
   "each": "сваки",

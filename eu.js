@@ -1,4 +1,10 @@
 let eu = {
+  "Missing guest ID": "Gonbidatu IDa falta da",
+  "Failed to fetch guest data": "Ezin izan dira gonbidatuen datuak eskuratu",
+  "Failed to fetch tickets": "Ezin izan dira sarrerak eskuratu",
+  "Failed to load ticket data": "Txartelaren datuak kargatzea huts egin du",
+  "Ticket already bought": "Txartela erosita dago dagoeneko",
+  "Select Your Seats": "Aukeratu zure eserlekuak",
   "Ticket Details": "Txartelaren xehetasunak",
   "Per-Ticket QR Codes": "Txartel bakoitzeko QR kodeak",
   "each": "bakoitza",

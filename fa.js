@@ -1,4 +1,10 @@
 let fa = {
+  "Missing guest ID": "شناسه مهمان مفقود شده است",
+  "Failed to fetch guest data": "دریافت داده‌های مهمان ناموفق بود",
+  "Failed to fetch tickets": "بلیط فروشی انجام نشد",
+  "Failed to load ticket data": "بارگیری اطلاعات بلیط ناموفق بود",
+  "Ticket already bought": "بلیط قبلاً خریداری شده است",
+  "Select Your Seats": "صندلی‌های خود را انتخاب کنید",
   "Ticket Details": "جزئیات بلیط",
   "Per-Ticket QR Codes": "کدهای QR برای هر بلیط",
   "each": "هر کدام",

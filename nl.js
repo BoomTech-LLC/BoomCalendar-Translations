@@ -1,4 +1,10 @@
 let nl = {
+  "Missing guest ID": "Gast-ID ontbreekt",
+  "Failed to fetch guest data": "Het ophalen van gastgegevens is mislukt.",
+  "Failed to fetch tickets": "Tickets ophalen mislukt",
+  "Failed to load ticket data": "Het laden van ticketgegevens is mislukt.",
+  "Ticket already bought": "Ticket reeds gekocht",
+  "Select Your Seats": "Kies uw stoelen",
   "Ticket Details": "Ticketgegevens",
   "Per-Ticket QR Codes": "QR-codes per ticket",
   "each": "elk",

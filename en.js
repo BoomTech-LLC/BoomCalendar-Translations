@@ -1,4 +1,10 @@
 let en = {
+  "Missing guest ID": "Missing guest ID",
+  "Failed to fetch guest data": "Failed to fetch guest data",
+  "Failed to fetch tickets": "Failed to fetch tickets",
+  "Failed to load ticket data": "Failed to load ticket data",
+  "Ticket already bought": "Ticket already bought",
+  "Select Your Seats": "Select Your Seats",
   "Ticket Details": "Ticket Details",
   "Per-Ticket QR Codes": "Per-Ticket QR Codes",
   "each": "each",

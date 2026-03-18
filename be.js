@@ -1,4 +1,10 @@
 let be = {
+  "Missing guest ID": "Адсутнічае ідэнтыфікатар госця",
+  "Failed to fetch guest data": "Не атрымалася атрымаць дадзеныя госця",
+  "Failed to fetch tickets": "Не атрымалася атрымаць квіткі",
+  "Failed to load ticket data": "Не атрымалася загрузіць дадзеныя квітка",
+  "Ticket already bought": "Білет ужо куплены",
+  "Select Your Seats": "Выберыце свае месцы",
   "Ticket Details": "Падрабязнасці білета",
   "Per-Ticket QR Codes": "QR-коды для кожнага білета",
   "each": "кожны",

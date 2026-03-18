@@ -1,4 +1,10 @@
 let zh = {
+  "Missing guest ID": "缺少宾客 ID",
+  "Failed to fetch guest data": "获取访客数据失败",
+  "Failed to fetch tickets": "获取票务失败",
+  "Failed to load ticket data": "票务数据加载失败",
+  "Ticket already bought": "已购票",
+  "Select Your Seats": "选择您的座位",
   "Ticket Details": "票务详情",
   "Per-Ticket QR Codes": "每张票上的二维码",
   "each": "每个",

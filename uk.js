@@ -1,4 +1,10 @@
 let uk = {
+  "Missing guest ID": "Відсутній ідентифікатор гостя",
+  "Failed to fetch guest data": "Не вдалося отримати дані гостя",
+  "Failed to fetch tickets": "Не вдалося отримати квитки",
+  "Failed to load ticket data": "Не вдалося завантажити дані квитка",
+  "Ticket already bought": "Квиток вже куплений",
+  "Select Your Seats": "Виберіть свої місця",
   "Ticket Details": "Деталі квитка",
   "Per-Ticket QR Codes": "QR-коди для кожного квитка",
   "each": "кожен",

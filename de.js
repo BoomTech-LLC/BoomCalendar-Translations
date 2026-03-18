@@ -1,4 +1,10 @@
 let de = {
+  "Missing guest ID": "Fehlende Gast-ID",
+  "Failed to fetch guest data": "Gastdaten konnten nicht abgerufen werden",
+  "Failed to fetch tickets": "Tickets konnten nicht abgerufen werden",
+  "Failed to load ticket data": "Ticketdaten konnten nicht geladen werden",
+  "Ticket already bought": "Ticket bereits gekauft",
+  "Select Your Seats": "Wählen Sie Ihre Sitzplätze",
   "Ticket Details": "Ticketdetails",
   "Per-Ticket QR Codes": "QR-Codes pro Ticket",
   "each": "jede",

@@ -1,4 +1,10 @@
 let lt = {
+  "Missing guest ID": "Trūksta svečio ID",
+  "Failed to fetch guest data": "Nepavyko gauti svečio duomenų",
+  "Failed to fetch tickets": "Nepavyko gauti bilietų",
+  "Failed to load ticket data": "Nepavyko įkelti bilieto duomenų",
+  "Ticket already bought": "Bilietas jau nupirktas",
+  "Select Your Seats": "Pasirinkite savo vietas",
   "Ticket Details": "Bilieto informacija",
   "Per-Ticket QR Codes": "Bilietui skirti QR kodai",
   "each": "kiekvienas",

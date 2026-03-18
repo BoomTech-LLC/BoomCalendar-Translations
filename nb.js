@@ -1,4 +1,10 @@
 let nb = {
+  "Missing guest ID": "Mangler gjeste-ID",
+  "Failed to fetch guest data": "Kunne ikke hente gjestedata",
+  "Failed to fetch tickets": "Kunne ikke hente billetter",
+  "Failed to load ticket data": "Kunne ikke laste inn billettdata",
+  "Ticket already bought": "Billett allerede kjøpt",
+  "Select Your Seats": "Velg dine seter",
   "Ticket Details": "Billettdetaljer",
   "Per-Ticket QR Codes": "QR-koder per billett",
   "each": "hver",

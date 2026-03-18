@@ -1,4 +1,10 @@
 let fi = {
+  "Missing guest ID": "Puuttuva vierastunnus",
+  "Failed to fetch guest data": "Vierastietojen hakeminen epäonnistui",
+  "Failed to fetch tickets": "Lippujen hakeminen epäonnistui",
+  "Failed to load ticket data": "Lipputietojen lataus epäonnistui",
+  "Ticket already bought": "Lippu jo ostettu",
+  "Select Your Seats": "Valitse istumapaikkasi",
   "Ticket Details": "Lipun tiedot",
   "Per-Ticket QR Codes": "Lippukohtaiset QR-koodit",
   "each": "jokainen",
