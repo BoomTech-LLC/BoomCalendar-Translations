@@ -1,4 +1,9 @@
 let pt = {
+  "Instant confirmation": "Confirmação instantânea",
+  "Access to all performances": "Acesso a todas as apresentações",
+  "Total Amount": "Montante total",
+  "No tickets selected": "Nenhum ingresso selecionado",
+  "Order Summary": "Resumo do pedido",
   "Loading...": "Carregando...",
   "Guest Details": "Detalhes do hóspede",
   "To Event": "Para o evento",

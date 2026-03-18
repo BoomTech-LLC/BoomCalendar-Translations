@@ -1,4 +1,9 @@
 let ms = {
+  "Instant confirmation": "Pengesahan segera",
+  "Access to all performances": "Akses kepada semua persembahan",
+  "Total Amount": "Jumlah Keseluruhan",
+  "No tickets selected": "Tiada tiket dipilih",
+  "Order Summary": "Ringkasan Pesanan",
   "Loading...": "Memuatkan...",
   "Guest Details": "Butiran Tetamu",
   "To Event": "Kepada Acara",

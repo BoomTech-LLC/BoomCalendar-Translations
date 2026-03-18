@@ -1,4 +1,9 @@
 let mk = {
+  "Instant confirmation": "Моментална потврда",
+  "Access to all performances": "Пристап до сите претстави",
+  "Total Amount": "Вкупен износ",
+  "No tickets selected": "Не се избрани билети",
+  "Order Summary": "Резиме на нарачката",
   "Loading...": "Се вчитува...",
   "Guest Details": "Податоци за гостинот",
   "To Event": "До настан",

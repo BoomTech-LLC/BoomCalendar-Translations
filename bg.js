@@ -1,4 +1,9 @@
 let bg = {
+  "Instant confirmation": "Незабавно потвърждение",
+  "Access to all performances": "Достъп до всички представления",
+  "Total Amount": "Обща сума",
+  "No tickets selected": "Няма избрани билети",
+  "Order Summary": "Резюме на поръчката",
   "Loading...": "Зареждане...",
   "Guest Details": "Данни за госта",
   "To Event": "Към събитието",

@@ -1,4 +1,9 @@
 let he = {
+  "Instant confirmation": "אישור מיידי",
+  "Access to all performances": "גישה לכל ההופעות",
+  "Total Amount": "סכום כולל",
+  "No tickets selected": "לא נבחרו כרטיסים",
+  "Order Summary": "סיכום הזמנה",
   "Loading...": "טְעִינָה...",
   "Guest Details": "פרטי האורח",
   "To Event": "לאירוע",

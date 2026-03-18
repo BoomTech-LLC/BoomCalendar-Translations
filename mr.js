@@ -1,4 +1,9 @@
 let mr = {
+  "Instant confirmation": "त्वरित पुष्टीकरण",
+  "Access to all performances": "सर्व सादरीकरणांमध्ये प्रवेश",
+  "Total Amount": "एकूण रक्कम",
+  "No tickets selected": "कोणतेही तिकीट निवडलेले नाही",
+  "Order Summary": "ऑर्डर सारांश",
   "Loading...": "लोडिंग...",
   "Guest Details": "पाहुण्यांचा तपशील",
   "To Event": "कार्यक्रमासाठी",

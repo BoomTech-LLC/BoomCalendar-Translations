@@ -1,4 +1,9 @@
 let de = {
+  "Instant confirmation": "Sofortige Bestätigung",
+  "Access to all performances": "Zugang zu allen Aufführungen",
+  "Total Amount": "Gesamtbetrag",
+  "No tickets selected": "Keine Tickets ausgewählt",
+  "Order Summary": "Bestellübersicht",
   "Loading...": "Laden...",
   "Guest Details": "Gästedetails",
   "To Event": "Zum Event",

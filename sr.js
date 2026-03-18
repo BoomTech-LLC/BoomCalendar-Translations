@@ -1,4 +1,9 @@
 let sr = {
+  "Instant confirmation": "Тренутна потврда",
+  "Access to all performances": "Приступ свим представама",
+  "Total Amount": "Укупан износ",
+  "No tickets selected": "Ниједна карта није изабрана",
+  "Order Summary": "Резиме поруџбине",
   "Loading...": "Учитавање...",
   "Guest Details": "Подаци о госту",
   "To Event": "До догађаја",

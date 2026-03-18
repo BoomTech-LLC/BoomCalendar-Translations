@@ -1,4 +1,9 @@
 let id = {
+  "Instant confirmation": "Konfirmasi instan",
+  "Access to all performances": "Akses ke semua pertunjukan",
+  "Total Amount": "Jumlah Total",
+  "No tickets selected": "Tidak ada tiket yang dipilih",
+  "Order Summary": "Ringkasan Pesanan",
   "Loading...": "Memuat...",
   "Guest Details": "Detail Tamu",
   "To Event": "Ke Acara",

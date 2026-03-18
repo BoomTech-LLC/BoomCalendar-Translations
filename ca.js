@@ -1,4 +1,9 @@
 let ca = {
+  "Instant confirmation": "Confirmació instantània",
+  "Access to all performances": "Accés a totes les actuacions",
+  "Total Amount": "Import total",
+  "No tickets selected": "No s'han seleccionat bitllets",
+  "Order Summary": "Resum de la comanda",
   "Loading...": "S'està carregant...",
   "Guest Details": "Detalls del client",
   "To Event": "A l'esdeveniment",

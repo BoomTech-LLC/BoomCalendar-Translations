@@ -1,4 +1,9 @@
 let lt = {
+  "Instant confirmation": "Momentinis patvirtinimas",
+  "Access to all performances": "Prieiga prie visų pasirodymų",
+  "Total Amount": "Bendra suma",
+  "No tickets selected": "Nepasirinkta jokių bilietų",
+  "Order Summary": "Užsakymo suvestinė",
   "Loading...": "Kraunama...",
   "Guest Details": "Svečio duomenys",
   "To Event": "Į renginį",

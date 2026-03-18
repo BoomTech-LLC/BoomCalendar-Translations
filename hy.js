@@ -1,4 +1,9 @@
 let hy = {
+  "Instant confirmation": "Անհապաղ հաստատում",
+  "Access to all performances": "Բոլոր ներկայացումներին մուտք գործելը",
+  "Total Amount": "Ընդհանուր գումարը",
+  "No tickets selected": "Տոմսեր չեն ընտրվել",
+  "Order Summary": "Պատվերի ամփոփում",
   "Loading...": "Բեռնվում է...",
   "Guest Details": "Հյուրի մանրամասներ",
   "To Event": "Դեպի միջոցառում",

@@ -1,4 +1,9 @@
 let sq = {
+  "Instant confirmation": "Konfirmim i menjëhershëm",
+  "Access to all performances": "Qasje në të gjitha shfaqjet",
+  "Total Amount": "Shuma Totale",
+  "No tickets selected": "Nuk janë zgjedhur bileta",
+  "Order Summary": "Përmbledhje e Porosisë",
   "Loading...": "Duke u ngarkuar...",
   "Guest Details": "Detajet e Vizitorit",
   "To Event": "Për në Ngjarje",

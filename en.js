@@ -1,4 +1,9 @@
 let en = {
+  "Instant confirmation": "Instant confirmation",
+  "Access to all performances": "Access to all performances",
+  "Total Amount": "Total Amount",
+  "No tickets selected": "No tickets selected",
+  "Order Summary": "Order Summary",
   "Loading...": "Loading...",
   "Guest Details": "Guest Details",
   "To Event": "To Event",

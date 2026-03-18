@@ -1,4 +1,9 @@
 let sk = {
+  "Instant confirmation": "Okamžité potvrdenie",
+  "Access to all performances": "Prístup na všetky predstavenia",
+  "Total Amount": "Celková suma",
+  "No tickets selected": "Žiadne vybrané lístky",
+  "Order Summary": "Súhrn objednávky",
   "Loading...": "Načítava sa...",
   "Guest Details": "Detaily hosťa",
   "To Event": "Na udalosť",

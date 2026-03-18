@@ -1,4 +1,9 @@
 let ko = {
+  "Instant confirmation": "즉시 확인",
+  "Access to all performances": "모든 공연 관람 가능",
+  "Total Amount": "총액",
+  "No tickets selected": "선택한 티켓이 없습니다",
+  "Order Summary": "주문 요약",
   "Loading...": "로딩 중...",
   "Guest Details": "투숙객 정보",
   "To Event": "이벤트로",

@@ -1,4 +1,9 @@
 let fa = {
+  "Instant confirmation": "تأیید فوری",
+  "Access to all performances": "دسترسی به تمام اجراها",
+  "Total Amount": "مبلغ کل",
+  "No tickets selected": "هیچ بلیطی انتخاب نشده است",
+  "Order Summary": "خلاصه سفارش",
   "Loading...": "در حال بارگذاری...",
   "Guest Details": "جزئیات مهمان",
   "To Event": "به رویداد",

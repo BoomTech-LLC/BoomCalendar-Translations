@@ -1,4 +1,9 @@
 let uk = {
+  "Instant confirmation": "Миттєве підтвердження",
+  "Access to all performances": "Доступ до всіх вистав",
+  "Total Amount": "Загальна сума",
+  "No tickets selected": "Квитки не вибрано",
+  "Order Summary": "Зведення замовлення",
   "Loading...": "Завантаження...",
   "Guest Details": "Відомості про гостя",
   "To Event": "До події",

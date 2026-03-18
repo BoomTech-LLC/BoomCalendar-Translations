@@ -1,4 +1,9 @@
 let tl = {
+  "Instant confirmation": "Agarang kumpirmasyon",
+  "Access to all performances": "Pag-access sa lahat ng pagtatanghal",
+  "Total Amount": "Kabuuang Halaga",
+  "No tickets selected": "Walang napiling tiket",
+  "Order Summary": "Buod ng Order",
   "Loading...": "Naglo-load...",
   "Guest Details": "Mga Detalye ng Bisita",
   "To Event": "Sa Kaganapan",

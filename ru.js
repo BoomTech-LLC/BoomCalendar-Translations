@@ -1,4 +1,9 @@
 let ru = {
+  "Instant confirmation": "Мгновенное подтверждение",
+  "Access to all performances": "Доступ ко всем представлениям",
+  "Total Amount": "Общая сумма",
+  "No tickets selected": "Билеты не выбраны",
+  "Order Summary": "Сводка заказа",
   "Loading...": "Загрузка...",
   "Guest Details": "Информация о госте",
   "To Event": "К мероприятию",

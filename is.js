@@ -1,4 +1,9 @@
 let is = {
+  "Instant confirmation": "Staðfesting strax",
+  "Access to all performances": "Aðgangur að öllum sýningum",
+  "Total Amount": "Heildarupphæð",
+  "No tickets selected": "Engir miðar valdir",
+  "Order Summary": "Yfirlit yfir pöntun",
   "Loading...": "Hleður...",
   "Guest Details": "Upplýsingar um gesti",
   "To Event": "Til viðburðar",

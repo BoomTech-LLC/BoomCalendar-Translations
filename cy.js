@@ -1,4 +1,9 @@
 let cy = {
+  "Instant confirmation": "Cadarnhad ar unwaith",
+  "Access to all performances": "Mynediad i bob perfformiad",
+  "Total Amount": "Cyfanswm y Swm",
+  "No tickets selected": "Dim tocynnau wedi'u dewis",
+  "Order Summary": "Crynodeb o'r Gorchymyn",
   "Loading...": "Yn llwytho...",
   "Guest Details": "Manylion Gwestai",
   "To Event": "I'r Digwyddiad",

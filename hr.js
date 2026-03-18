@@ -1,4 +1,9 @@
 let hr = {
+  "Instant confirmation": "Trenutna potvrda",
+  "Access to all performances": "Pristup svim predstavama",
+  "Total Amount": "Ukupan iznos",
+  "No tickets selected": "Nema odabranih ulaznica",
+  "Order Summary": "Sažetak narudžbe",
   "Loading...": "Učitavanje...",
   "Guest Details": "Podaci o gostu",
   "To Event": "Do događaja",

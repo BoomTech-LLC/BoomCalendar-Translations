@@ -1,4 +1,9 @@
 let ar = {
+  "Instant confirmation": "تأكيد فوري",
+  "Access to all performances": "إمكانية الوصول إلى جميع العروض",
+  "Total Amount": "المبلغ الإجمالي",
+  "No tickets selected": "لم يتم اختيار أي تذاكر",
+  "Order Summary": "ملخص الطلب",
   "Loading...": "تحميل...",
   "Guest Details": "تفاصيل الضيف",
   "To Event": "توهين",

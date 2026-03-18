@@ -1,4 +1,9 @@
 let ja = {
+  "Instant confirmation": "即時確認",
+  "Access to all performances": "全公演へのアクセス",
+  "Total Amount": "合計金額",
+  "No tickets selected": "チケットが選択されていません",
+  "Order Summary": "注文概要",
   "Loading...": "読み込み中…",
   "Guest Details": "ゲストの詳細",
   "To Event": "イベントへ",

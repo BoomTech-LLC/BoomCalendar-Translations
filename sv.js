@@ -1,4 +1,9 @@
 let sv = {
+  "Instant confirmation": "Omedelbar bekräftelse",
+  "Access to all performances": "Tillgång till alla föreställningar",
+  "Total Amount": "Totalbelopp",
+  "No tickets selected": "Inga biljetter valda",
+  "Order Summary": "Ordersammanfattning",
   "Loading...": "Belastning...",
   "Guest Details": "Gästuppgifter",
   "To Event": "Till händelse",

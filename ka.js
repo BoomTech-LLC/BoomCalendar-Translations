@@ -1,4 +1,9 @@
 let ka = {
+  "Instant confirmation": "მყისიერი დადასტურება",
+  "Access to all performances": "ყველა წარმოდგენაზე წვდომა",
+  "Total Amount": "საერთო თანხა",
+  "No tickets selected": "ბილეთები არ არის არჩეული",
+  "Order Summary": "შეკვეთის შეჯამება",
   "Loading...": "იტვირთება...",
   "Guest Details": "სტუმრის დეტალები",
   "To Event": "ღონისძიებამდე",

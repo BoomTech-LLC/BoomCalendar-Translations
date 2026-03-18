@@ -1,4 +1,9 @@
 let da = {
+  "Instant confirmation": "Øjeblikkelig bekræftelse",
+  "Access to all performances": "Adgang til alle forestillinger",
+  "Total Amount": "Samlet beløb",
+  "No tickets selected": "Ingen billetter valgt",
+  "Order Summary": "Ordreoversigt",
   "Loading...": "Indlæser...",
   "Guest Details": "Gæsteoplysninger",
   "To Event": "Til begivenhed",

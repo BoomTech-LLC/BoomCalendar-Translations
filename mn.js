@@ -1,4 +1,9 @@
 let mn = {
+  "Instant confirmation": "Шуурхай баталгаажуулалт",
+  "Access to all performances": "Бүх тоглолтыг үзэх боломжтой",
+  "Total Amount": "Нийт дүн",
+  "No tickets selected": "Тасалбар сонгоогүй байна",
+  "Order Summary": "Захиалгын хураангуй",
   "Loading...": "Ачааллаж байна...",
   "Guest Details": "Зочны мэдээлэл",
   "To Event": "Арга хэмжээнд",

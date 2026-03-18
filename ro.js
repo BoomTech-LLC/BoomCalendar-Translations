@@ -1,4 +1,9 @@
 let ro = {
+  "Instant confirmation": "Confirmare instantanee",
+  "Access to all performances": "Acces la toate spectacolele",
+  "Total Amount": "Valoare totală",
+  "No tickets selected": "Niciun bilet selectat",
+  "Order Summary": "Rezumatul comenzii",
   "Loading...": "Încărcare...",
   "Guest Details": "Detalii oaspete",
   "To Event": "Către eveniment",

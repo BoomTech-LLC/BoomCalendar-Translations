@@ -1,4 +1,9 @@
 let zh = {
+  "Instant confirmation": "即时确认",
+  "Access to all performances": "观看所有演出",
+  "Total Amount": "总金额",
+  "No tickets selected": "未选择任何门票",
+  "Order Summary": "订单摘要",
   "Loading...": "加载中...",
   "Guest Details": "宾客详情",
   "To Event": "活动",

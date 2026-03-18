@@ -1,4 +1,9 @@
 let it = {
+  "Instant confirmation": "Conferma immediata",
+  "Access to all performances": "Accesso a tutti gli spettacoli",
+  "Total Amount": "Importo totale",
+  "No tickets selected": "Nessun biglietto selezionato",
+  "Order Summary": "Riepilogo dell'ordine",
   "Loading...": "Caricamento...",
   "Guest Details": "Dettagli dell'ospite",
   "To Event": "All'evento",

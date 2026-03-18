@@ -1,4 +1,9 @@
 let fi = {
+  "Instant confirmation": "Välitön vahvistus",
+  "Access to all performances": "Pääsy kaikkiin esityksiin",
+  "Total Amount": "Kokonaissumma",
+  "No tickets selected": "Ei valittuja lippuja",
+  "Order Summary": "Tilauksen yhteenveto",
   "Loading...": "Ladataan...",
   "Guest Details": "Vieraan tiedot",
   "To Event": "Tapahtumaan",

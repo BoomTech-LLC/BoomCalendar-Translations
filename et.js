@@ -1,4 +1,9 @@
 let et = {
+  "Instant confirmation": "Kohene kinnitus",
+  "Access to all performances": "Ligipääs kõigile etendustele",
+  "Total Amount": "Kogusumma",
+  "No tickets selected": "Pileteid pole valitud",
+  "Order Summary": "Tellimuse kokkuvõte",
   "Loading...": "Laadimine...",
   "Guest Details": "Külalise andmed",
   "To Event": "Üritusele",

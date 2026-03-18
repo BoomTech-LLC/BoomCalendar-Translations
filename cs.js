@@ -1,4 +1,9 @@
 let cs = {
+  "Instant confirmation": "Okamžité potvrzení",
+  "Access to all performances": "Přístup ke všem představením",
+  "Total Amount": "Celková částka",
+  "No tickets selected": "Žádné vstupenky nebyly vybrány",
+  "Order Summary": "Souhrn objednávky",
   "Loading...": "Načítání...",
   "Guest Details": "Podrobnosti o hostovi",
   "To Event": "K události",

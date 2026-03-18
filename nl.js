@@ -1,4 +1,9 @@
 let nl = {
+  "Instant confirmation": "Directe bevestiging",
+  "Access to all performances": "Toegang tot alle voorstellingen",
+  "Total Amount": "Totaalbedrag",
+  "No tickets selected": "Geen tickets geselecteerd",
+  "Order Summary": "Besteloverzicht",
   "Loading...": "Laden...",
   "Guest Details": "Gastgegevens",
   "To Event": "Naar het evenement",

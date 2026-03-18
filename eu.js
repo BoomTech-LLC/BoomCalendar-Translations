@@ -1,4 +1,9 @@
 let eu = {
+  "Instant confirmation": "Berehalako baieztapena",
+  "Access to all performances": "Emanaldi guztietarako sarbidea",
+  "Total Amount": "Zenbateko osoa",
+  "No tickets selected": "Ez da sarrerarik hautatu",
+  "Order Summary": "Eskaeraren laburpena",
   "Loading...": "Kargatzen...",
   "Guest Details": "Gonbidatuen xehetasunak",
   "To Event": "Gertaerara",

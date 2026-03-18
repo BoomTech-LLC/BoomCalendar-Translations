@@ -1,4 +1,9 @@
 let th = {
+  "Instant confirmation": "ยืนยันทันที",
+  "Access to all performances": "สิทธิ์ในการเข้าชมการแสดงทั้งหมด",
+  "Total Amount": "จำนวนเงินทั้งหมด",
+  "No tickets selected": "ไม่ได้เลือกตั๋ว",
+  "Order Summary": "สรุปคำสั่งซื้อ",
   "Loading...": "กำลังโหลด...",
   "Guest Details": "รายละเอียดผู้เข้าพัก",
   "To Event": "ไปยังกิจกรรม",

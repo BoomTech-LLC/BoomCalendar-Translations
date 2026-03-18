@@ -1,4 +1,9 @@
 let lv = {
+  "Instant confirmation": "Tūlītējs apstiprinājums",
+  "Access to all performances": "Piekļuve visiem priekšnesumiem",
+  "Total Amount": "Kopējā summa",
+  "No tickets selected": "Nav izvēlētu biļešu",
+  "Order Summary": "Pasūtījuma kopsavilkums",
   "Loading...": "Notiek ielāde...",
   "Guest Details": "Viesu informācija",
   "To Event": "Uz pasākumu",

@@ -1,4 +1,9 @@
 let el = {
+  "Instant confirmation": "Άμεση επιβεβαίωση",
+  "Access to all performances": "Πρόσβαση σε όλες τις παραστάσεις",
+  "Total Amount": "Συνολικό Ποσό",
+  "No tickets selected": "Δεν έχουν επιλεγεί εισιτήρια",
+  "Order Summary": "Σύνοψη Παραγγελίας",
   "Loading...": "Φόρτωση...",
   "Guest Details": "Στοιχεία επισκέπτη",
   "To Event": "Προς συμβάν",

@@ -1,4 +1,9 @@
 let no = {
+  "Instant confirmation": "Øyeblikkelig bekreftelse",
+  "Access to all performances": "Tilgang til alle forestillinger",
+  "Total Amount": "Totalbeløp",
+  "No tickets selected": "Ingen billetter valgt",
+  "Order Summary": "Ordresammendrag",
   "Loading...": "Laster inn...",
   "Guest Details": "Gjestedetaljer",
   "To Event": "Til arrangement",

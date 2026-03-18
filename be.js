@@ -1,4 +1,9 @@
 let be = {
+  "Instant confirmation": "Імгненнае пацверджанне",
+  "Access to all performances": "Доступ да ўсіх выступаў",
+  "Total Amount": "Агульная сума",
+  "No tickets selected": "Квіткі не выбраны",
+  "Order Summary": "Кароткі змест замовы",
   "Loading...": "Загрузка...",
   "Guest Details": "Інфармацыя пра госця",
   "To Event": "Да падзеі",

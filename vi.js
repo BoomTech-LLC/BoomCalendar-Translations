@@ -1,4 +1,9 @@
 let vi = {
+  "Instant confirmation": "Xác nhận ngay lập tức",
+  "Access to all performances": "Quyền truy cập vào tất cả các buổi biểu diễn",
+  "Total Amount": "Tổng số tiền",
+  "No tickets selected": "Chưa chọn vé nào",
+  "Order Summary": "Tóm tắt đơn hàng",
   "Loading...": "Đang tải...",
   "Guest Details": "Thông tin khách mời",
   "To Event": "Đến sự kiện",

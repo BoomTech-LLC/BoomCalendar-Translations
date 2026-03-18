@@ -1,4 +1,9 @@
 let es = {
+  "Instant confirmation": "Confirmación instantánea",
+  "Access to all performances": "Acceso a todas las funciones",
+  "Total Amount": "Cantidad total",
+  "No tickets selected": "No se han seleccionado entradas",
+  "Order Summary": "Resumen del pedido",
   "Loading...": "Cargando...",
   "Guest Details": "Detalles del huésped",
   "To Event": "Para el evento",

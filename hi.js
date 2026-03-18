@@ -1,4 +1,9 @@
 let hi = {
+  "Instant confirmation": "त्वरित पुष्टि",
+  "Access to all performances": "सभी प्रदर्शनों तक पहुंच",
+  "Total Amount": "कुल राशि",
+  "No tickets selected": "कोई टिकट चयनित नहीं",
+  "Order Summary": "आदेश सारांश",
   "Loading...": "लोड हो रहा है...",
   "Guest Details": "अतिथि विवरण",
   "To Event": "कार्यक्रम के लिए",

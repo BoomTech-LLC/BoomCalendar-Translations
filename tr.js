@@ -1,4 +1,9 @@
 let tr = {
+  "Instant confirmation": "Anında onay",
+  "Access to all performances": "Tüm gösterilere erişim",
+  "Total Amount": "Toplam Tutar",
+  "No tickets selected": "Hiçbir bilet seçilmedi.",
+  "Order Summary": "Sipariş Özeti",
   "Loading...": "Yükleniyor...",
   "Guest Details": "Konuk Bilgileri",
   "To Event": "Etkinliğe",

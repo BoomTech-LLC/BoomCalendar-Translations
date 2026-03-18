@@ -1,4 +1,9 @@
 let hu = {
+  "Instant confirmation": "Azonnali visszaigazolás",
+  "Access to all performances": "Hozzáférés az összes előadáshoz",
+  "Total Amount": "Teljes összeg",
+  "No tickets selected": "Nincsenek kiválasztott jegyek",
+  "Order Summary": "Rendelési összefoglaló",
   "Loading...": "Terhelés...",
   "Guest Details": "Vendég adatai",
   "To Event": "Eseményre",
