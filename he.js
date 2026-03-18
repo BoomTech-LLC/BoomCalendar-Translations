@@ -1,6 +1,6 @@
 let he = {
-  "Email Address": "כתובת דוא"ל",
-  "Find your printable e-tickets attached to the confirmation email": "מצאו את הכרטיסים האלקטרוניים להדפסה המצורפים לאישור הודעת הדוא"ל",
+  "Email Address": 'כתובת דוא"ל',
+  "Find your printable e-tickets attached to the confirmation email": 'מצאו את הכרטיסים האלקטרוניים להדפסה המצורפים לאישור הודעת הדוא"ל',
   "Thank you for your purchase!": "תודה על הרכישה!",
   "You can move your mouse outside the seatmap while dragging - the selection will still apply when you release.": "ניתן להזיז את העכבר מחוץ למפת המושבים תוך כדי גרירה - הבחירה עדיין תחול גם כשתשחררו.",
   "Tip:": "עֵצָה:",
