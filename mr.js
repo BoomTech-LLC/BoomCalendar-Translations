@@ -1,4 +1,9 @@
 let mr = {
+  "Ticket Details": "तिकिटाचा तपशील",
+  "Per-Ticket QR Codes": "प्रत्येक तिकिटाचे क्यूआर कोड",
+  "each": "प्रत्येक",
+  "Service Fee": "सेवा शुल्क",
+  "Subtotal": "एकूण",
   "Email Address": "ईमेल पत्ता",
   "Find your printable e-tickets attached to the confirmation email": "तुमची प्रिंट करण्यायोग्य ई-तिकिटे कन्फर्मेशन ईमेलसोबत जोडलेली आहेत.",
   "Thank you for your purchase!": "आपल्या खरेदीबद्दल धन्यवाद!",

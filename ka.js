@@ -1,4 +1,9 @@
 let ka = {
+  "Ticket Details": "ბილეთის დეტალები",
+  "Per-Ticket QR Codes": "თითო ბილეთზე QR კოდები",
+  "each": "თითოეული",
+  "Service Fee": "მომსახურების საფასური",
+  "Subtotal": "ქვეჯამი",
   "Email Address": "ელექტრონული ფოსტის მისამართი",
   "Find your printable e-tickets attached to the confirmation email": "დადასტურების ელფოსტას თან ერთვის თქვენი დასაბეჭდი ელექტრონული ბილეთები",
   "Thank you for your purchase!": "გმადლობთ შენაძენისთვის!",

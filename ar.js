@@ -1,4 +1,9 @@
 let ar = {
+  "Ticket Details": "تفاصيل التذكرة",
+  "Per-Ticket QR Codes": "رموز الاستجابة السريعة لكل تذكرة",
+  "each": "كل",
+  "Service Fee": "رسوم الخدمة",
+  "Subtotal": "المجموع الفرعي",
   "Email Address": "عنوان البريد الإلكتروني",
   "Find your printable e-tickets attached to the confirmation email": "ستجد تذاكرك الإلكترونية القابلة للطباعة مرفقة برسالة التأكيد الإلكترونية.",
   "Thank you for your purchase!": "شكراً لشرائك!",

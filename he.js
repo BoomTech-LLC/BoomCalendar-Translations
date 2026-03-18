@@ -1,4 +1,9 @@
 let he = {
+  "Ticket Details": "פרטי כרטיס",
+  "Per-Ticket QR Codes": "קודי QR לכל כרטיס",
+  "each": "כֹּל",
+  "Service Fee": "דמי שירות",
+  "Subtotal": "סכום ביניים",
   "Email Address": 'כתובת דוא"ל',
   "Find your printable e-tickets attached to the confirmation email": 'מצאו את הכרטיסים האלקטרוניים להדפסה המצורפים לאישור הודעת הדוא"ל',
   "Thank you for your purchase!": "תודה על הרכישה!",

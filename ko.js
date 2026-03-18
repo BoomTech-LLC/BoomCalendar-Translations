@@ -1,4 +1,9 @@
 let ko = {
+  "Ticket Details": "티켓 상세 정보",
+  "Per-Ticket QR Codes": "티켓별 QR 코드",
+  "each": "각",
+  "Service Fee": "서비스 수수료",
+  "Subtotal": "소계",
   "Email Address": "이메일 주소",
   "Find your printable e-tickets attached to the confirmation email": "예약 확인 이메일에 첨부된 인쇄 가능한 전자 티켓을 확인하세요.",
   "Thank you for your purchase!": "구매해주셔서 감사합니다!",

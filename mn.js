@@ -1,4 +1,9 @@
 let mn = {
+  "Ticket Details": "Тасалбарын дэлгэрэнгүй мэдээлэл",
+  "Per-Ticket QR Codes": "Тасалбар бүрийн QR кодууд",
+  "each": "тус бүр",
+  "Service Fee": "Үйлчилгээний хураамж",
+  "Subtotal": "Дүн",
   "Email Address": "И-мэйл хаяг",
   "Find your printable e-tickets attached to the confirmation email": "Баталгаажуулах имэйлд хавсаргасан хэвлэх боломжтой цахим тасалбараа олоорой",
   "Thank you for your purchase!": "Худалдан авалт хийсэнд баярлалаа!",

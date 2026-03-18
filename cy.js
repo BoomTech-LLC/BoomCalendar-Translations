@@ -1,4 +1,9 @@
 let cy = {
+  "Ticket Details": "Manylion y Tocyn",
+  "Per-Ticket QR Codes": "Codau QR Fesul Tocyn",
+  "each": "pob un",
+  "Service Fee": "Ffi Gwasanaeth",
+  "Subtotal": "Is-gyfanswm",
   "Email Address": "Cyfeiriad E-bost",
   "Find your printable e-tickets attached to the confirmation email": "Dewch o hyd i'ch e-docynnau y gellir eu hargraffu sydd ynghlwm wrth yr e-bost cadarnhau",
   "Thank you for your purchase!": "Diolch am eich pryniant!",

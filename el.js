@@ -1,4 +1,9 @@
 let el = {
+  "Ticket Details": "Λεπτομέρειες εισιτηρίου",
+  "Per-Ticket QR Codes": "Κωδικοί QR ανά εισιτήριο",
+  "each": "κάθε",
+  "Service Fee": "Τέλος υπηρεσίας",
+  "Subtotal": "Μερικό σύνολο",
   "Email Address": "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
   "Find your printable e-tickets attached to the confirmation email": "Βρείτε τα εκτυπώσιμα ηλεκτρονικά σας εισιτήρια συνημμένα στο email επιβεβαίωσης",
   "Thank you for your purchase!": "Σας ευχαριστούμε για την αγορά σας!",

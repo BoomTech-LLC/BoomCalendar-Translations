@@ -1,4 +1,9 @@
 let hr = {
+  "Ticket Details": "Detalji ulaznice",
+  "Per-Ticket QR Codes": "QR kodovi po ulaznici",
+  "each": "svaki",
+  "Service Fee": "Naknada za uslugu",
+  "Subtotal": "Međuzbroj",
   "Email Address": "E-mail adresa",
   "Find your printable e-tickets attached to the confirmation email": "Ispisive e-karte pronađite priložene e-poruci s potvrdom",
   "Thank you for your purchase!": "Hvala vam na kupnji!",

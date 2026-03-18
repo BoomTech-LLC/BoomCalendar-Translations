@@ -1,4 +1,9 @@
 let sr = {
+  "Ticket Details": "Детаљи о улазници",
+  "Per-Ticket QR Codes": "QR кодови по карти",
+  "each": "сваки",
+  "Service Fee": "Накнада за услугу",
+  "Subtotal": "Међуизнос",
   "Email Address": "Адреса е-поште",
   "Find your printable e-tickets attached to the confirmation email": "Штампане е-карте можете пронаћи прикачене уз потврдни имејл",
   "Thank you for your purchase!": "Хвала вам на куповини!",

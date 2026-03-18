@@ -1,4 +1,9 @@
 let th = {
+  "Ticket Details": "รายละเอียดตั๋ว",
+  "Per-Ticket QR Codes": "รหัส QR ต่อตั๋วแต่ละใบ",
+  "each": "แต่ละ",
+  "Service Fee": "ค่าบริการ",
+  "Subtotal": "ยอดรวมย่อย",
   "Email Address": "ที่อยู่อีเมล",
   "Find your printable e-tickets attached to the confirmation email": "ค้นหาตั๋วอิเล็กทรอนิกส์ที่สามารถพิมพ์ได้ซึ่งแนบมากับอีเมลยืนยัน",
   "Thank you for your purchase!": "ขอบคุณสำหรับการสั่งซื้อของคุณ!",

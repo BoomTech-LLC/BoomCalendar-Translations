@@ -1,4 +1,9 @@
 let tl = {
+  "Ticket Details": "Mga Detalye ng Tiket",
+  "Per-Ticket QR Codes": "Mga QR Code Bawat Tiket",
+  "each": "bawat isa",
+  "Service Fee": "Bayad sa Serbisyo",
+  "Subtotal": "Subtotal",
   "Email Address": "Email Address",
   "Find your printable e-tickets attached to the confirmation email": "Hanapin ang iyong mga printable na e-ticket na nakalakip sa email ng kumpirmasyon",
   "Thank you for your purchase!": "Salamat sa iyong pagbili!",

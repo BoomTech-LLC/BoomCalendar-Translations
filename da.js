@@ -1,4 +1,9 @@
 let da = {
+  "Ticket Details": "Billetoplysninger",
+  "Per-Ticket QR Codes": "QR-koder pr. billet",
+  "each": "hver",
+  "Service Fee": "Servicegebyr",
+  "Subtotal": "Subtotal",
   "Email Address": "E-mailadresse",
   "Find your printable e-tickets attached to the confirmation email": "Find dine printbare e-billetter vedhæftet bekræftelsesmailen",
   "Thank you for your purchase!": "Tak for dit køb!",

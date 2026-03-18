@@ -1,4 +1,9 @@
 let fa = {
+  "Ticket Details": "جزئیات بلیط",
+  "Per-Ticket QR Codes": "کدهای QR برای هر بلیط",
+  "each": "هر کدام",
+  "Service Fee": "هزینه خدمات",
+  "Subtotal": "جمع جزئی",
   "Email Address": "آدرس ایمیل",
   "Find your printable e-tickets attached to the confirmation email": "بلیط‌های الکترونیکی قابل چاپ خود را که به ایمیل تأیید پیوست شده‌اند، پیدا کنید",
   "Thank you for your purchase!": "از خرید شما متشکریم!",

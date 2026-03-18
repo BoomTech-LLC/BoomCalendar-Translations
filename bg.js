@@ -1,4 +1,9 @@
 let bg = {
+  "Ticket Details": "Детайли за билета",
+  "Per-Ticket QR Codes": "QR кодове за билет",
+  "each": "всеки",
+  "Service Fee": "Такса за обслужване",
+  "Subtotal": "Междинна сума",
   "Email Address": "Имейл адрес",
   "Find your printable e-tickets attached to the confirmation email": "Намерете вашите електронни билети за печат, прикачени към имейла за потвърждение",
   "Thank you for your purchase!": "Благодарим ви за покупката!",

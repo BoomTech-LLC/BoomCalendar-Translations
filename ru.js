@@ -1,4 +1,9 @@
 let ru = {
+  "Ticket Details": "Информация о билетах",
+  "Per-Ticket QR Codes": "QR-коды для каждого билета",
+  "each": "каждый",
+  "Service Fee": "Плата за обслуживание",
+  "Subtotal": "Итого",
   "Email Address": "Адрес электронной почты",
   "Find your printable e-tickets attached to the confirmation email": "В подтверждающем электронном письме вы найдете электронные билеты для печати.",
   "Thank you for your purchase!": "Спасибо за покупку!",

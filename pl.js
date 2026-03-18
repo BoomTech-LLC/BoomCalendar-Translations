@@ -1,4 +1,9 @@
 let pl = {
+  "Ticket Details": "Szczegóły biletu",
+  "Per-Ticket QR Codes": "Kody QR na bilet",
+  "each": "każdy",
+  "Service Fee": "Opłata za usługę",
+  "Subtotal": "Suma częściowa",
   "Email Address": "Adres e-mail",
   "Find your printable e-tickets attached to the confirmation email": "Znajdź swoje wydrukowane bilety elektroniczne dołączone do wiadomości e-mail z potwierdzeniem",
   "Thank you for your purchase!": "Dziękujemy za zakup!",

@@ -1,4 +1,9 @@
 let ro = {
+  "Ticket Details": "Detalii bilet",
+  "Per-Ticket QR Codes": "Coduri QR per bilet",
+  "each": "fiecare",
+  "Service Fee": "Taxă de serviciu",
+  "Subtotal": "Subtotal",
   "Email Address": "Adresa de e-mail",
   "Find your printable e-tickets attached to the confirmation email": "Găsiți biletele electronice imprimabile atașate la e-mailul de confirmare",
   "Thank you for your purchase!": "Vă mulțumim pentru achiziție!",

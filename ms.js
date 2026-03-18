@@ -1,4 +1,9 @@
 let ms = {
+  "Ticket Details": "Butiran Tiket",
+  "Per-Ticket QR Codes": "Kod QR Setiap Tiket",
+  "each": "setiap",
+  "Service Fee": "Yuran Perkhidmatan",
+  "Subtotal": "Subjumlah",
   "Email Address": "Alamat E-mel",
   "Find your printable e-tickets attached to the confirmation email": "Cari e-tiket boleh cetak anda yang dilampirkan pada e-mel pengesahan",
   "Thank you for your purchase!": "Terima kasih atas pembelian anda!",

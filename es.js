@@ -1,4 +1,9 @@
 let es = {
+  "Ticket Details": "Detalles de la entrada",
+  "Per-Ticket QR Codes": "Códigos QR por boleto",
+  "each": "cada",
+  "Service Fee": "Tarifa de servicio",
+  "Subtotal": "Total parcial",
   "Email Address": "Dirección de correo electrónico",
   "Find your printable e-tickets attached to the confirmation email": "Encontrará sus entradas electrónicas imprimibles adjuntas al correo electrónico de confirmación.",
   "Thank you for your purchase!": "¡Gracias por su compra!",

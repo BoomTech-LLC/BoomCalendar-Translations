@@ -1,4 +1,9 @@
 let sv = {
+  "Ticket Details": "Biljettinformation",
+  "Per-Ticket QR Codes": "QR-koder per biljett",
+  "each": "varje",
+  "Service Fee": "Serviceavgift",
+  "Subtotal": "Delsumma",
   "Email Address": "E-postadress",
   "Find your printable e-tickets attached to the confirmation email": "Hitta dina utskrivbara e-biljetter bifogade till bekräftelsemejlet",
   "Thank you for your purchase!": "Tack för ditt köp!",

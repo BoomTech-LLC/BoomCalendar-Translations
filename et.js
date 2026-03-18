@@ -1,4 +1,9 @@
 let et = {
+  "Ticket Details": "Pileti üksikasjad",
+  "Per-Ticket QR Codes": "Piletipõhised QR-koodid",
+  "each": "iga",
+  "Service Fee": "Teenustasu",
+  "Subtotal": "Vahesumma",
   "Email Address": "E-posti aadress",
   "Find your printable e-tickets attached to the confirmation email": "Leidke oma prinditavad e-piletid kinnitusmeilile lisatud kujul.",
   "Thank you for your purchase!": "Täname ostu eest!",

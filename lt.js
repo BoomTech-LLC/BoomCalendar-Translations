@@ -1,4 +1,9 @@
 let lt = {
+  "Ticket Details": "Bilieto informacija",
+  "Per-Ticket QR Codes": "Bilietui skirti QR kodai",
+  "each": "kiekvienas",
+  "Service Fee": "Paslaugos mokestis",
+  "Subtotal": "Tarpinė suma",
   "Email Address": "El. pašto adresas",
   "Find your printable e-tickets attached to the confirmation email": "Raskite spausdinamus el. bilietus, pridėtus prie patvirtinimo el. laiško",
   "Thank you for your purchase!": "Dėkojame už pirkinį!",

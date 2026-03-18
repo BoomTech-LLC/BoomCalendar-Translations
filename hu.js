@@ -1,4 +1,9 @@
 let hu = {
+  "Ticket Details": "Jegy részletei",
+  "Per-Ticket QR Codes": "Jegyenkénti QR-kódok",
+  "each": "minden",
+  "Service Fee": "Szolgáltatási díj",
+  "Subtotal": "Részösszeg",
   "Email Address": "E-mail cím",
   "Find your printable e-tickets attached to the confirmation email": "A visszaigazoló e-mailhez csatolva találja a nyomtatható e-jegyeket.",
   "Thank you for your purchase!": "Köszönjük a vásárlást!",

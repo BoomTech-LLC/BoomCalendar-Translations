@@ -1,4 +1,9 @@
 let nb = {
+  "Ticket Details": "Billettdetaljer",
+  "Per-Ticket QR Codes": "QR-koder per billett",
+  "each": "hver",
+  "Service Fee": "Servicegebyr",
+  "Subtotal": "Delsum",
   "Email Address": "E-postadresse",
   "Find your printable e-tickets attached to the confirmation email": "Finn dine utskrivbare e-billetter vedlagt bekreftelses-e-posten",
   "Thank you for your purchase!": "Takk for kjøpet!",

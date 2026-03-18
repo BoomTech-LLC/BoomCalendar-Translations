@@ -1,4 +1,9 @@
 let zh = {
+  "Ticket Details": "票务详情",
+  "Per-Ticket QR Codes": "每张票上的二维码",
+  "each": "每个",
+  "Service Fee": "服务费",
+  "Subtotal": "小计",
   "Email Address": "电子邮件",
   "Find your printable e-tickets attached to the confirmation email": "请在确认邮件中查找可打印的电子客票。",
   "Thank you for your purchase!": "感谢您的购买！",

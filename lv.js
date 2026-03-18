@@ -1,4 +1,9 @@
 let lv = {
+  "Ticket Details": "Biļetes informācija",
+  "Per-Ticket QR Codes": "QR kodi katrai biļetei",
+  "each": "katrs",
+  "Service Fee": "Pakalpojuma maksa",
+  "Subtotal": "Starpsumma",
   "Email Address": "E-pasta adrese",
   "Find your printable e-tickets attached to the confirmation email": "Atrodiet savas drukājamās e-biļetes, kas pievienotas apstiprinājuma e-pastam.",
   "Thank you for your purchase!": "Paldies par pirkumu!",

@@ -1,4 +1,9 @@
 let eu = {
+  "Ticket Details": "Txartelaren xehetasunak",
+  "Per-Ticket QR Codes": "Txartel bakoitzeko QR kodeak",
+  "each": "bakoitza",
+  "Service Fee": "Zerbitzu-kuota",
+  "Subtotal": "Azpitotala",
   "Email Address": "Helbide elektronikoa",
   "Find your printable e-tickets attached to the confirmation email": "Bilatu zure inprima daitezkeen e-txartelak baieztapen-mezu elektronikoari erantsita",
   "Thank you for your purchase!": "Eskerrik asko erosketagatik!",

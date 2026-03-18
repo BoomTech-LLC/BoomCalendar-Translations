@@ -1,4 +1,9 @@
 let be = {
+  "Ticket Details": "Падрабязнасці білета",
+  "Per-Ticket QR Codes": "QR-коды для кожнага білета",
+  "each": "кожны",
+  "Service Fee": "Плата за абслугоўванне",
+  "Subtotal": "Прамежкавы вынік",
   "Email Address": "Адрас электроннай пошты",
   "Find your printable e-tickets attached to the confirmation email": "Знайдзіце свае электронныя квіткі для друку, прымацаваныя да электроннага ліста з пацвярджэннем",
   "Thank you for your purchase!": "Дзякуй за пакупку!",

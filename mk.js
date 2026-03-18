@@ -1,4 +1,9 @@
 let mk = {
+  "Ticket Details": "Детали за билетот",
+  "Per-Ticket QR Codes": "QR кодови по билет",
+  "each": "секој",
+  "Service Fee": "Надомест за услуга",
+  "Subtotal": "Меѓузбир",
   "Email Address": "Е-адреса",
   "Find your printable e-tickets attached to the confirmation email": "Пронајдете ги вашите е-билети за печатење прикачени на е-поштата за потврда",
   "Thank you for your purchase!": "Ви благодариме за вашата нарачка!",

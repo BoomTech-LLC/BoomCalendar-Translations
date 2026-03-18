@@ -1,4 +1,9 @@
 let cs = {
+  "Ticket Details": "Podrobnosti o vstupenkách",
+  "Per-Ticket QR Codes": "QR kódy pro jednotlivé jízdenky",
+  "each": "každý",
+  "Service Fee": "Servisní poplatek",
+  "Subtotal": "Mezisoučet",
   "Email Address": "E-mailová adresa",
   "Find your printable e-tickets attached to the confirmation email": "Tisknutelné elektronické vstupenky najdete v příloze potvrzovacího e-mailu.",
   "Thank you for your purchase!": "Děkujeme za váš nákup!",

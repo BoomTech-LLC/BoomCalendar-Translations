@@ -1,4 +1,9 @@
 let nl = {
+  "Ticket Details": "Ticketgegevens",
+  "Per-Ticket QR Codes": "QR-codes per ticket",
+  "each": "elk",
+  "Service Fee": "Servicekosten",
+  "Subtotal": "Subtotaal",
   "Email Address": "E-mailadres",
   "Find your printable e-tickets attached to the confirmation email": "Je vindt je printbare e-tickets in de bijlage bij de bevestigingsmail.",
   "Thank you for your purchase!": "Bedankt voor uw aankoop!",

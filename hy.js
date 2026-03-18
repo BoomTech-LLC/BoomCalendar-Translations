@@ -1,4 +1,9 @@
 let hy = {
+  "Ticket Details": "Տոմսի մանրամասները",
+  "Per-Ticket QR Codes": "Յուրաքանչյուր տոմսի QR կոդեր",
+  "each": "յուրաքանչյուրը",
+  "Service Fee": "Ծառայության վճար",
+  "Subtotal": "Ենթամجموع",
   "Email Address": "Էլ․ հասցե",
   "Find your printable e-tickets attached to the confirmation email": "Գտեք ձեր տպելի էլեկտրոնային տոմսերը կցված հաստատման էլ. նամակին",
   "Thank you for your purchase!": "Շնորհակալություն ենք հայտնում ձեր գնման համար։",

@@ -1,4 +1,9 @@
 let sq = {
+  "Ticket Details": "Detajet e biletave",
+  "Per-Ticket QR Codes": "Kodet QR për çdo biletë",
+  "each": "secili",
+  "Service Fee": "Tarifa e Shërbimit",
+  "Subtotal": "Nëntotali",
   "Email Address": "Adresa e email-it",
   "Find your printable e-tickets attached to the confirmation email": "Gjeni biletat tuaja elektronike të printueshme të bashkangjitura në emailin e konfirmimit",
   "Thank you for your purchase!": "Faleminderit për blerjen tuaj!",

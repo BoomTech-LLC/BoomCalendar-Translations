@@ -1,4 +1,9 @@
 let id = {
+  "Ticket Details": "Rincian Tiket",
+  "Per-Ticket QR Codes": "Kode QR Per Tiket",
+  "each": "setiap",
+  "Service Fee": "Biaya Layanan",
+  "Subtotal": "Subtotal",
   "Email Address": "Alamat Email",
   "Find your printable e-tickets attached to the confirmation email": "Temukan tiket elektronik Anda yang dapat dicetak yang terlampir pada email konfirmasi.",
   "Thank you for your purchase!": "Terima kasih atas pembelian Anda!",

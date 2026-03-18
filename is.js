@@ -1,4 +1,9 @@
 let is = {
+  "Ticket Details": "Upplýsingar um miða",
+  "Per-Ticket QR Codes": "QR kóðar fyrir hvern miða",
+  "each": "hver",
+  "Service Fee": "Þjónustugjald",
+  "Subtotal": "Millisamtala",
   "Email Address": "Netfang",
   "Find your printable e-tickets attached to the confirmation email": "Finndu prentanlega rafræna miða sem fylgja staðfestingartölvupóstinum",
   "Thank you for your purchase!": "Þakka þér fyrir kaupin!",

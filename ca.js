@@ -1,4 +1,9 @@
 let ca = {
+  "Ticket Details": "Detalls del bitllet",
+  "Per-Ticket QR Codes": "Codis QR per bitllet",
+  "each": "cadascun",
+  "Service Fee": "Tarifa de servei",
+  "Subtotal": "Subtotal",
   "Email Address": "Adreça electrònica",
   "Find your printable e-tickets attached to the confirmation email": "Troba els teus bitllets electrònics imprimibles adjunts al correu electrònic de confirmació",
   "Thank you for your purchase!": "Gràcies per la teva compra!",

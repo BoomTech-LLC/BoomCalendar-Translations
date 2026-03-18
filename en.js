@@ -1,4 +1,9 @@
 let en = {
+  "Ticket Details": "Ticket Details",
+  "Per-Ticket QR Codes": "Per-Ticket QR Codes",
+  "each": "each",
+  "Service Fee": "Service Fee",
+  "Subtotal": "Subtotal",
   "Email Address": "Email Address",
   "Find your printable e-tickets attached to the confirmation email": "Find your printable e-tickets attached to the confirmation email",
   "Thank you for your purchase!": "Thank you for your purchase!",

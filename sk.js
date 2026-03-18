@@ -1,4 +1,9 @@
 let sk = {
+  "Ticket Details": "Podrobnosti o lístku",
+  "Per-Ticket QR Codes": "QR kódy pre jednotlivé lístky",
+  "each": "každý",
+  "Service Fee": "Servisný poplatok",
+  "Subtotal": "Medzisúčet",
   "Email Address": "E-mailová adresa",
   "Find your printable e-tickets attached to the confirmation email": "V potvrdzovacom e-maile nájdete priložené tlačiteľné elektronické lístky.",
   "Thank you for your purchase!": "Ďakujeme za váš nákup!",

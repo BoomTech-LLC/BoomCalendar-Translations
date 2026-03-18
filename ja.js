@@ -1,4 +1,9 @@
 let ja = {
+  "Ticket Details": "チケットの詳細",
+  "Per-Ticket QR Codes": "チケットごとのQRコード",
+  "each": "それぞれ",
+  "Service Fee": "サービス料",
+  "Subtotal": "小計",
   "Email Address": "電子メールアドレス",
   "Find your printable e-tickets attached to the confirmation email": "印刷可能な電子チケットは、確認メールに添付されています。",
   "Thank you for your purchase!": "ご購入いただきありがとうございます！",

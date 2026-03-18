@@ -1,4 +1,9 @@
 let tr = {
+  "Ticket Details": "Bilet Detayları",
+  "Per-Ticket QR Codes": "Bilet Başına QR Kodları",
+  "each": "her biri",
+  "Service Fee": "Hizmet Ücreti",
+  "Subtotal": "Ara toplam",
   "Email Address": "E-posta Adresi",
   "Find your printable e-tickets attached to the confirmation email": "Yazdırılabilir e-biletlerinizi onay e-postasına eklenmiş olarak bulabilirsiniz.",
   "Thank you for your purchase!": "Satın alımınız için teşekkür ederiz!",

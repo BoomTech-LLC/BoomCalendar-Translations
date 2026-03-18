@@ -1,4 +1,9 @@
 let uk = {
+  "Ticket Details": "Деталі квитка",
+  "Per-Ticket QR Codes": "QR-коди для кожного квитка",
+  "each": "кожен",
+  "Service Fee": "Плата за обслуговування",
+  "Subtotal": "Проміжний підсумок",
   "Email Address": "Адреса електронної пошти",
   "Find your printable e-tickets attached to the confirmation email": "Знайдіть свої електронні квитки для друку, додані до електронного листа з підтвердженням",
   "Thank you for your purchase!": "Дякуємо за вашу покупку!",

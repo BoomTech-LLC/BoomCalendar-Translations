@@ -1,4 +1,9 @@
 let fi = {
+  "Ticket Details": "Lipun tiedot",
+  "Per-Ticket QR Codes": "Lippukohtaiset QR-koodit",
+  "each": "jokainen",
+  "Service Fee": "Palvelumaksu",
+  "Subtotal": "Välisumma",
   "Email Address": "Sähköpostiosoite",
   "Find your printable e-tickets attached to the confirmation email": "Löydät tulostettavat e-liput vahvistussähköpostin liitteenä",
   "Thank you for your purchase!": "Kiitos ostoksestasi!",

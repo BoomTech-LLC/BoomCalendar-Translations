@@ -1,4 +1,9 @@
 let vi = {
+  "Ticket Details": "Thông tin vé",
+  "Per-Ticket QR Codes": "Mã QR cho mỗi vé",
+  "each": "mỗi",
+  "Service Fee": "Phí dịch vụ",
+  "Subtotal": "Tổng phụ",
   "Email Address": "Địa chỉ email",
   "Find your printable e-tickets attached to the confirmation email": "Bạn có thể tìm thấy vé điện tử có thể in được của mình trong email xác nhận.",
   "Thank you for your purchase!": "Cảm ơn bạn đã mua hàng!",

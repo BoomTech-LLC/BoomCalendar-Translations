@@ -1,4 +1,9 @@
 let hi = {
+  "Ticket Details": "टिकट विवरण",
+  "Per-Ticket QR Codes": "प्रति टिकट क्यूआर कोड",
+  "each": "प्रत्येक",
+  "Service Fee": "सेवा शुल्क",
+  "Subtotal": "उप-योग",
   "Email Address": "मेल पता",
   "Find your printable e-tickets attached to the confirmation email": "आपको पुष्टिकरण ईमेल के साथ अपना प्रिंट करने योग्य ई-टिकट मिल जाएगा।",
   "Thank you for your purchase!": "आपकी खरीद के लिए आपको धन्यवाद!",
